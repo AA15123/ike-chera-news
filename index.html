@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Ike's Morning Digest</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,600&family=Source+Sans+3:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Bump ?v= after edits to app.js or styles.css so Safari picks up changes. -->
+    <link rel="stylesheet" href="styles.css?v=27" />
+  </head>
+  <body data-digest-mode="read">
+    <div
+      id="splash"
+      class="splash"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="splash-greeting"
+      aria-describedby="splash-sub"
+    >
+      <div class="splash-inner">
+        <p class="splash-kicker" id="splash-sub">Your morning brief</p>
+        <h1 class="splash-title" id="splash-greeting">Good morning, Ike</h1>
+        <p class="splash-meta" id="splash-meta" hidden></p>
+        <button type="button" class="splash-dismiss" id="splash-dismiss">Continue</button>
+      </div>
+    </div>
+
+    <a class="skip-link" href="#digest-main">Skip to stories</a>
+
+    <nav class="site-nav" aria-label="Site">
+      <div class="site-nav-inner">
+        <div class="site-nav-middle site-nav-middle--sources">
+          <ul
+            class="site-nav-sections site-nav-sources"
+            id="site-nav-sources"
+            aria-label="Filter by source"
+          ></ul>
+        </div>
+
+        <div class="site-nav-filters" role="toolbar" aria-label="Digest format">
+          <div class="site-nav-filter-block">
+            <span class="site-nav-filters-label" id="digest-mode-label">Digest as</span>
+            <div
+              class="filter-group filter-group--nav filter-group--modes"
+              id="digest-mode-group"
+              role="group"
+              aria-labelledby="digest-mode-label"
+            >
+              <button type="button" data-digest-mode="read" aria-pressed="true">Read</button>
+              <button type="button" data-digest-mode="audio" aria-pressed="false">Audio</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <div class="wrap">
+      <header id="masthead" class="masthead">
+        <h1 id="digest-title">Ike's Morning Digest</h1>
+        <p class="date" id="digest-date"></p>
+      </header>
+
+      <main id="digest-main" aria-live="polite"></main>
+
+    </div>
+
+    <div class="story-modal-backdrop" id="story-modal-backdrop" aria-hidden="true"></div>
+    <aside
+      class="story-modal"
+      id="story-modal"
+      aria-hidden="true"
+      aria-labelledby="story-modal-title"
+      aria-modal="true"
+      role="dialog"
+    >
+      <header class="story-modal-header">
+        <div class="story-modal-headline">
+          <h2 class="story-modal-title" id="story-modal-title"></h2>
+          <p class="story-modal-source" id="story-modal-source"></p>
+        </div>
+        <button
+          type="button"
+          class="story-modal-close"
+          id="story-modal-close"
+          aria-label="Close story preview"
+        >
+          ×
+        </button>
+      </header>
+      <div class="story-modal-body">
+        <p class="story-modal-summary" id="story-modal-summary"></p>
+        <a class="story-modal-link" id="story-modal-link" href="#" target="_blank" rel="noopener noreferrer"
+          >Read full article ↗</a
+        >
+      </div>
+    </aside>
+
+    <div class="ask-backdrop" id="ask-backdrop" aria-hidden="true"></div>
+
+    <aside
+      class="ask-panel"
+      id="ask-panel"
+      aria-hidden="true"
+      aria-labelledby="ask-panel-title"
+      aria-modal="true"
+      role="dialog"
+    >
+      <header class="ask-panel-header">
+        <div class="ask-panel-headline">
+          <h2 class="ask-panel-title" id="ask-panel-title">Ike's Agent</h2>
+          <p class="ask-panel-sub">Ask questions about today's brief. Connect your LLM API to power answers.</p>
+        </div>
+        <button
+          type="button"
+          class="ask-panel-close"
+          id="ask-close"
+          aria-label="Close Ike's Agent"
+        >
+          ×
+        </button>
+      </header>
+      <div
+        class="ask-messages"
+        id="ask-messages"
+        role="log"
+        aria-live="polite"
+        aria-relevant="additions"
+      ></div>
+      <form class="ask-form" id="ask-form">
+        <label class="visually-hidden" for="ask-input">Your question</label>
+        <textarea
+          id="ask-input"
+          class="ask-input"
+          name="message"
+          rows="2"
+          placeholder="e.g. What are today's biggest development moves?"
+          autocomplete="off"
+        ></textarea>
+        <button type="submit" class="ask-send" id="ask-send">Send</button>
+      </form>
+    </aside>
+
+    <button
+      type="button"
+      class="ask-fab"
+      id="ask-fab"
+      aria-label="Open Ike's Agent"
+      aria-expanded="false"
+      aria-controls="ask-panel"
+    >
+      <svg class="ask-fab-icon" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true">
+        <path
+          fill="currentColor"
+          d="M20 2H4a2 2 0 0 0-2 2v18l4-4h14a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2zm0 14H5.17L4 17.17V4h16v12zM7 9h10v2H7V9zm0-3h10v2H7V6zm0 6h7v2H7v-2z"
+        />
+      </svg>
+    </button>
+
+    <script src="app.js?v=41" type="module"></script>
+  </body>
+</html>

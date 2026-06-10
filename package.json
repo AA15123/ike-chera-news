@@ -1,0 +1,13 @@
+{
+  "name": "ike-chera-news",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:digest": "node scripts/build-digest.mjs",
+    "refresh:overviews": "node scripts/refresh-overviews.mjs",
+    "tts:proxy": "node scripts/elevenlabs-tts-proxy.mjs"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.3"
+  }
+}

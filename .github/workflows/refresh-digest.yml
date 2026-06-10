@@ -1,0 +1,61 @@
+name: Refresh morning digest
+
+on:
+  schedule:
+    # GitHub cron is UTC; one of these is 6:00 AM America/New_York year-round.
+    - cron: "0 10 * * *"
+    - cron: "0 11 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check Eastern time (scheduled runs only)
+        id: time
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            echo "Manual run — building digest."
+            exit 0
+          fi
+          HOUR=$(TZ=America/New_York date +%H)
+          echo "Eastern hour: $HOUR"
+          if [ "$HOUR" = "06" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"
+            echo "Not 6 AM Eastern — skipping."
+          fi
+
+      - name: Set up Node
+        if: steps.time.outputs.run == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      - name: Build digest from RSS
+        if: steps.time.outputs.run == 'true'
+        run: |
+          npm ci
+          npm run build:digest
+
+      - name: Commit and push if digest changed
+        if: steps.time.outputs.run == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet data/digest.json; then
+            echo "No changes to digest.json — nothing to deploy."
+            exit 0
+          fi
+          git add data/digest.json
+          git commit -m "chore: refresh morning digest"
+          git push

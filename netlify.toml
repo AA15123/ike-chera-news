@@ -1,0 +1,3 @@
+[build]
+  publish = "."
+  # Digest is rebuilt by GitHub Actions at 6 AM Eastern; Netlify just publishes static files.

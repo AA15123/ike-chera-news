@@ -1,0 +1,286 @@
+{
+  "title": "Ike's Morning Digest",
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T10:39:17.393Z",
+  "coverage_window_hours": 40,
+  "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
+  "section_overviews": {
+    "commercial_observer": "Danny Meyer to Launch New Restaurant Concept at Brooklyn’s Former Hotel Bossert: Danny Meyer ’s Union Square Hospitality Group is bringing a new restaurant concept to an historic hotel in Brooklyn Heights. Meyer has leased the 3,200-square-foot, ground-floor retail space in the former Hotel Bossert at 98 Montague Street , according to the landlord.\n\nBarnes & Noble Inks 11K-SF Retail Lease for New East Village Store: Bookstore chain Barnes & Noble is opening a new chapter in Manhattan’s East Village. Barnes & Noble signed an 11,300-square-foot retail lease at Steiner NYC ‘s 181 Avenue A , which is also known as the Steiner East Village , an 82-unit condominium building on the corner of Avenue A and East 11th Street.\n\nUlta Beauty Inks 26K-SF Deal at Jeff Sutton’s 1551 Broadway in Times Square: Skin care and cosmetics retailer Ulta Beauty has signed a deal to take over the entirety of Jeff Sutton ’s Times Square retail building at 1551 Broadway . Ulta inked a 26,000-square-foot lease for all four floors of the property located in Midtown’s bright and bustling Times Square, according to The Real Deal , which.\n\nBritish Fragrance Brand Jo Malone to Open at 200 East 75th Street: Something smells sweet on East 75th Street. Iconic British fragrance and lifestyle brand Jo Malone London has signed a lease to open a new Upper East Side store at 200 East 75th Street , Commercial Observer has learned.",
+    "cre_daily": "Retail Demand Surges as Developers Stay Sidelined: Retail demand continues to outpace new supply, driving rapid lease-ups and historically low vacancy rates. Grocery-anchored centers and service-oriented retail remain the most sought-after assets among investors and tenants.\n\nUS Retail Space Tightens as New Development Stalls: Retail landlords nationwide are at or near full occupancy, but new retail construction is stalled by high costs and uncertain economics. The tightest markets, like Texas, are driven by population growth and major grocery-anchored developments, while many regions see few new projects breaking ground.\n\nTPG, Norges, Canadian Pensions Make $2B Grocery Retail Play: TPG and major Canadian and Norwegian investors acquired Echo Realty, a 230-property grocery-anchored retail platform, in a $2B transaction. The joint venture aims to scale Echo’s operations across the Midwest and Southeast, targeting stable, needs-based assets with leading grocers as anchors.\n\nRestaurant Franchisees Face Mounting Closures and Takeovers: Major restaurant brands including Dine Brands and Jack in the Box are helping struggling franchisees through takeovers, lease exits, and lower-cost remodel programs. Smaller regional operators have been hit hardest by rising labor, food, and fuel costs, leading to bankruptcies and accelerated store closures across.",
+    "new_york_post": "Midwestern hub home to Target and Best Buy ranks as the most in-demand city for renters: study: The home of the iconic Mall of America leads the nation when it comes to desirability among renters.",
+    "pincusco": "Kings Capital files plans for 108 apartments in vacant FiDi tower: Kings Capital submitted a major alteration application for the conversion of the 17-story, 72,269-square-foot residential.\n\nRotem Cohen files plans for 12 units in Greenpoint: Rotem Cohen submitted a new building construction project for a 12-unit, 22,272-square-foot residential (R-2) building.\n\nBreaking Ground pays $12M for LIC dev site, owned for 76 years: Breaking Ground through the entity Breaking Ground II Housing Development Fund Corp paid $12 million.",
+    "the_real_deal": "Law firms continue to dominate May’s top office leases: Law firms continued to lead New York City’s biggest office leases last month, securing three of the top 10 spots on this roster. One was the very top spot, so large that it comes in at more than triple the size of the next largest lease.\n\nSavanna dumps more office properties: Savanna is one of the most active players in the New York City office space these days, a narrative furthered by yet another investment sale. Chris Schlank and Nick Bienstock’s firm is in contract to sell a pair of properties around Madison Square Park to Kaufman Investments for a combined $125 million, the Commercial.\n\nArtimus Construction trades NoMad hotel for $203M: As New York City’s hotel scene searches for its World Cup bump, one owner is getting out of the game. Meliá Hotels International last week closed on the acquisition of the 21-story, 313-key property at 132-142 West 27th Street for $203 million, the Commercial Observer reported.\n\nDavid Werner closes One Dag purchase with $250M JPMorgan loan: David Werner tapped JPMorgan to finance his deal for One Dag Hammarskjöld Plaza. The bank provided David Werner Real Estate Investments with a $250 million loan to close his purchase of the 50-story office tower, The Real Deal has learned."
+  },
+  "items": [
+    {
+      "headline": "Danny Meyer to Launch New Restaurant Concept at Brooklyn’s Former Hotel Bossert",
+      "summary": "Danny Meyer ’s Union Square Hospitality Group is bringing a new restaurant concept to an historic hotel in Brooklyn Heights. Meyer has leased the 3,200-square-foot, ground-floor retail space in the former Hotel Bossert at 98 Montague Street , according to the landlord. The deal comes a year after the property was acquired by developer SomeraRoad for $100 million from previous lender Beach Point Capital . Beach Point had taken control of the site from Joseph Chetrit ’s Chetrit Group in February 2025 .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/05/danny-meyer-restaurant-lease-hotel-bossert-brooklyn/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-05-27T14:59:02.000Z"
+    },
+    {
+      "headline": "Retail Demand Surges as Developers Stay Sidelined",
+      "summary": "Retail demand continues to outpace new supply, driving rapid lease-ups and historically low vacancy rates. Grocery-anchored centers and service-oriented retail remain the most sought-after assets among investors and tenants. Institutional capital is increasing allocations to retail as pricing strengthens and financing conditions improve. Key Takeaways The US retail real estate market is experiencing a rare convergence , per GlobeSt. Tenant demand is surging while developers continue to sit on the sidelines.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/retail-demand-surges-as-developers-stay-sidelined/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-06-07T14:06:00.000Z"
+    },
+    {
+      "headline": "US Retail Space Tightens as New Development Stalls",
+      "summary": "Retail landlords nationwide are at or near full occupancy, but new retail construction is stalled by high costs and uncertain economics. The tightest markets, like Texas, are driven by population growth and major grocery-anchored developments, while many regions see few new projects breaking ground. Landlords are buying leases out of bankruptcy to regain control of quality space as tenant churn and limited new supply influence retail real estate strategy nationwide.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/u-s-retail-space-tightens-as-new-development-stalls/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-06-05T08:45:33.000Z"
+    },
+    {
+      "headline": "Barnes & Noble Inks 11K-SF Retail Lease for New East Village Store",
+      "summary": "Bookstore chain Barnes & Noble is opening a new chapter in Manhattan’s East Village. Barnes & Noble signed an 11,300-square-foot retail lease at Steiner NYC ‘s 181 Avenue A , which is also known as the Steiner East Village , an 82-unit condominium building on the corner of Avenue A and East 11th Street. The store is expected to open in November, according to Crain’s New York Business , and is just a 20-minute walk from the Barnes & Noble flagship store at 33 East 17th Street near Union Square .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/05/barnes-noble-lease-east-village-store/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-05-27T20:45:24.000Z"
+    },
+    {
+      "headline": "Ulta Beauty Inks 26K-SF Deal at Jeff Sutton’s 1551 Broadway in Times Square",
+      "summary": "Skin care and cosmetics retailer Ulta Beauty has signed a deal to take over the entirety of Jeff Sutton ’s Times Square retail building at 1551 Broadway . Ulta inked a 26,000-square-foot lease for all four floors of the property located in Midtown’s bright and bustling Times Square, according to The Real Deal , which first reported the news. Ulta will replace clothing and accessories retailer American Eagle , which currently has a flagship store in the property at the corner of Broadway and West 46th Street.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/ulta-beauty-lease-jeff-sutton-1551-broadway-times-square/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-06-04T14:41:46.000Z"
+    },
+    {
+      "headline": "British Fragrance Brand Jo Malone to Open at 200 East 75th Street",
+      "summary": "Something smells sweet on East 75th Street. Iconic British fragrance and lifestyle brand Jo Malone London has signed a lease to open a new Upper East Side store at 200 East 75th Street , Commercial Observer has learned. The retail component of the 18-story luxury condominium building was recently purchased by Pivot Real Estate Partners . Jo Malone will take over the 1,300-square-foot ground-floor retail space at the property, which was previously owned by private equity firm EJS Group .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/jo-malone-london-lease-pivot-200-east-75th-street/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-06-04T13:11:22.000Z"
+    },
+    {
+      "headline": "Jack Resnick & Sons Signs 58K SF of New Leases at 250 Hudson Street",
+      "summary": "Jack Resnick & Sons has signed three new office and retail tenants totaling 57,874 square feet at 250 Hudson Street in Manhattan’s Hudson Square neighborhood, Commercial Observer has learned. In the largest two deals, production company ProMedia and investment firm Galareana Holding each took 27,780 square feet, according to the landlord.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/jack-resnick-sons-leases-250-hudson-street/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-06-04T18:07:59.000Z"
+    },
+    {
+      "headline": "Virtual Reality Simulator SkiPod to Open Store at 572 11th Avenue",
+      "summary": "SkiPod , an indoor virtual reality skiing and snowboarding simulator, has selected Eenhoorn ’s 572 11th Avenue for its newest home. The company’s digital slopes will occupy a 3,790-square-foot corner storefront in Manhattan’s Hell’s Kitchen neighborhood, according to broker KSR . Traded first reported the lease. The deal represents one of the mixed reality company’s first retail locations, according to SkiPod’s website. The second is under development in Dubai.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/05/skipod-572-11th-avenue-lease/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-05-28T21:06:44.000Z"
+    },
+    {
+      "headline": "One of NYC’s Largest Residential Co-Ops Repositions Its 50K-SF Retail Portfolio",
+      "summary": "Seward Park Cooperative’s board is looking to button up its extensive retail portfolio, Commercial Observer has learned. The 65-year-old Lower East Side co-op has tapped Lee & Associates NYC to take over leasing strategy and retail representation for 25 of its retail properties. The Seward Park community is among the largest market-rate residential co-ops in New York City, encompassing four buildings across roughly 12 acres bounded by Grand, East Broadway, Essex and Pitt streets.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/05/seward-park-cooperative-repositions-retail-portfolio/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-05-27T12:00:47.000Z"
+    },
+    {
+      "headline": "NewMark Merrill’s Future San Bernardino County Shopping Hub Signs 11 Tenants",
+      "summary": "A Southern California-based shopping center owner and development company said it has secured 11 more leases for a new project in Victorville, Calif., before shovels are even in the ground. 7-Eleven will open a 1-acre fuel station and convenience store, while Ross Dress For Less signed the other large new deal for 25,000 square feet at the development called Desert Sky Plaza II .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/calif-newmark-merrill-victorville/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-06-04T22:55:28.000Z"
+    },
+    {
+      "headline": "Prominent Landlord Sandy Sigal On the Lasting Premium in Retail",
+      "summary": "Sandy Sigal has been betting on the staying power of neighborhood retail for more than four decades, and now he wants to up the wager. Sigal’s firm, NewMark Merrill Companies, owns or manages more than 110 shopping centers valued at more than $3 billion and with over 2,000 tenants. The portfolio spans 13 million square feet across California, Colorado and Illinois. And, at ICSC Las Vegas last week, Sigal’s conviction met a retail market back in favor.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/05/prominent-landlord-sandy-sigal-on-the-lasting-premium-in-retail/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-05-29T16:35:51.000Z"
+    },
+    {
+      "headline": "A Big Retail Tenant Kept Saying No. Then AI Closed the Deal.",
+      "summary": "It’s not a theory anymore: Artificial intelligence is getting commercial real estate deals across the finish line. AI and data were predictably omnipresent at the major ICSC retail conference in Las Vegas last week, and a prominent West Coast-based landlord explained that his firm is using AI for leasing and investment decisions, and that large language model platforms have helped secure lease deals with tenants who previously declined.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/05/ai-lease-retail-newmark-merrill-sigal/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-05-28T17:55:30.000Z"
+    },
+    {
+      "headline": "TPG, Norges, Canadian Pensions Make $2B Grocery Retail Play",
+      "summary": "TPG and major Canadian and Norwegian investors acquired Echo Realty, a 230-property grocery-anchored retail platform, in a $2B transaction. The joint venture aims to scale Echo’s operations across the Midwest and Southeast, targeting stable, needs-based assets with leading grocers as anchors. Despite overall slumping cross-border Canadian investment, institutional capital continues to pursue grocery-anchored retail amid sector resilience.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/tpg-norges-canadian-pensions-make-2b-grocery-retail-play/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-06-09T03:48:59.000Z"
+    },
+    {
+      "headline": "Whole Foods Signs 10K-SF Lease for Bodega-Like Grocery Store in Bushwick",
+      "summary": "Whole Foods has selected Brooklyn’s bustling Bushwick neighborhood as the next location for its bodega-like market concept. The grocery chain owned by Amazon signed a 15-year, 10,000-square-foot lease at 1224 Flushing Avenue , a property owned by David Moore that is near the Jefferson Avenue L train stop, according to a memorandum of lease filing made public last week.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/whole-foods-lease-1224-flushing-avenue-bushwick/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-06-08T19:34:47.000Z"
+    },
+    {
+      "headline": "Sandbox VR Leases 11K-SF NYC Flagship at Delshah’s 761-777 Seventh Avenue",
+      "summary": "Virtual reality experience Sandbox VR has selected Delshah Capital ‘s 761-777 Seventh Avenue in Midtown for its first New York City location, Commercial Observer has learned. The company signed a 10-year lease at the building just north of Times Square between West 50th and West 51st streets. Sandbox VR’s new space spans a total of 10,600 square feet, including 600 square feet on the ground floor and 10,000 square feet on the lower level.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/sandbox-vr-lease-delshah-761-777-seventh-avenue/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-06-01T17:48:54.000Z"
+    },
+    {
+      "headline": "Restaurant Franchisees Face Mounting Closures and Takeovers",
+      "summary": "Major restaurant brands including Dine Brands and Jack in the Box are helping struggling franchisees through takeovers, lease exits, and lower-cost remodel programs. Smaller regional operators have been hit hardest by rising labor, food, and fuel costs, leading to bankruptcies and accelerated store closures across multiple chains. The growing financial strain on franchisees could reshape restaurant real estate strategies, with chains consolidating locations and expanding dual-brand concepts.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/restaurant-franchisees-face-mounting-closures-and-takeovers/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-05-28T05:01:35.000Z"
+    },
+    {
+      "headline": "Law firms continue to dominate May’s top office leases",
+      "summary": "Law firms continued to lead New York City’s biggest office leases last month, securing three of the top 10 spots on this roster. One was the very top spot, so large that it comes in at more than triple the size of the next largest lease. But which law firms are leasing so much of the city? Read on to find out.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/09/nycs-top-office-leases-may-2026/",
+      "section": "the_real_deal",
+      "retail": true,
+      "published_at": "2026-06-09T18:00:00.000Z"
+    },
+    {
+      "headline": "AI Firm Altana Relocates and Expands to 62K SF at Vornado’s Penn 2",
+      "summary": "The New York Knicks and the San Antonio Spurs weren’t the only ones making moves in Manhattan’s Penn District this week, as an artificial intelligence data firm tripled the size of its headquarters in a relocation to the neighborhood from one of Brooklyn’s premiere office buildings. Altana , which connects businesses with government agencies, signed a 10-year, 62,309-square-foot lease at Vornado Realty Trust ’s Penn 2 , also known as 2 Pennsylvania Plaza , according to the landlord.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/altana-lease-vornado-penn-2/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-06-09T16:08:09.000Z"
+    },
+    {
+      "headline": "Coffee Drive-Thrus Fuel Surging Suburban Retail Development",
+      "summary": "Drive-thru coffee locations are seeing rapid expansion from fast-growing chains like Dutch Bros and 7 Brew. Smaller footprints allow these operators to add hundreds of suburban sites, outpacing larger brands on unit count and speed to market. This expansion is reshaping site selection strategy for retail landlords and underscoring new consumer preferences for convenience and customization.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/coffee-drive-thrus-fuel-surging-suburban-retail-development/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-06-04T08:15:34.000Z"
+    },
+    {
+      "headline": "Midwestern hub home to Target and Best Buy ranks as the most in-demand city for renters: study",
+      "summary": "The home of the iconic Mall of America leads the nation when it comes to desirability among renters.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/06/08/real-estate/minneapolis-is-no-1-most-sought-after-city-by-renters/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-06-08T17:00:00.000Z"
+    },
+    {
+      "headline": "Target Unveils Denver’s Largest Food Distribution Center",
+      "summary": "Target opened its largest food distribution center nationwide in Thornton, Denver, as part of its expanding supply chain investment. The 529K SF facility, valued at $367M, adds consolidation capabilities and will support 130 stores across 11 states. The move reflects broader trends in the US cold storage market, which faced a 20-year high in vacancy at the end of 2025.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/target-unveils-denver-s-largest-food-distribution-center/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-06-03T09:03:56.000Z"
+    },
+    {
+      "headline": "Savanna dumps more office properties",
+      "summary": "Savanna is one of the most active players in the New York City office space these days, a narrative furthered by yet another investment sale. Chris Schlank and Nick Bienstock’s firm is in contract to sell a pair of properties around Madison Square Park to Kaufman Investments for a combined $125 million, the Commercial Observer reported. The properties include 24-28 West 25th Street (which is technically two buildings) and 48 West 25th Street.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/09/savanna-dumps-office-properties-for-second-time-in-a-week/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-06-09T20:30:00.000Z"
+    },
+    {
+      "headline": "Artimus Construction trades NoMad hotel for $203M",
+      "summary": "As New York City’s hotel scene searches for its World Cup bump, one owner is getting out of the game. Meliá Hotels International last week closed on the acquisition of the 21-story, 313-key property at 132-142 West 27th Street for $203 million, the Commercial Observer reported. The sale by Artimus Construction, which was first reported in TRD Data, breaks down to $649,000 per key. The four-star hotel already operated under the Meliá umbrella, operating as the Innside by Meliá New York NoMad.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/09/artimus-construction-trades-nomad-hotel-for-203m/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-06-09T18:35:39.000Z"
+    },
+    {
+      "headline": "David Werner closes One Dag purchase with $250M JPMorgan loan",
+      "summary": "David Werner tapped JPMorgan to finance his deal for One Dag Hammarskjöld Plaza. The bank provided David Werner Real Estate Investments with a $250 million loan to close his purchase of the 50-story office tower, The Real Deal has learned. Werner, one of the biggest buyers of discounted office buildings in recent years, bought the 870,000-square-foot office tower for $270 million from Rockpoint Group — about half the price the seller paid for the building in 2019.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/09/david-werner-taps-jpmorgan-for-one-dag-hammarskjold-plaza/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-06-09T20:16:28.000Z"
+    },
+    {
+      "headline": "OceanFirst dumps $1.4B rent-stabilized loan book days after Flushing merger",
+      "summary": "One week after closing its biggest acquisition to date, OceanFirst Financial is moving quickly to shed one of the deal’s biggest risks: New York City rent-stabilized multifamily. The New Jersey-based bank plans to sell roughly $1.4 billion of multifamily loans inherited through its acquisition of Flushing Financial Corp., a portfolio that represents the bulk of Flushing’s rent-regulated apartment exposure, Bisnow reported.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/09/oceanfirst-dumps-1-4b-rent-stabilized-loan-book-post-merger/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-06-09T17:21:57.000Z"
+    },
+    {
+      "headline": "NYC’s top deals: Greenpoint dev site sells for $26M",
+      "summary": "There were 213 transactions totaling $289 million filed in New York City records in the 24 hours before 4 p.m. on Thursday, May 28. Commercial: In Greenpoint, the sale of a vacant plot of land at the corner of West and Milton Street traded for $25.6 million, representing the largest commercial deal to hit records in New York. The seller was an LLC tied to Jack Guttman of Pearl Realty Management, and the buyer was Seventy West Realty LLC.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/05/29/new-york-top-real-estate-deals-thursday-may-28-2026/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-05-29T11:00:00.000Z"
+    },
+    {
+      "headline": "Gary Barnett’s Park Avenue puzzle",
+      "summary": "Gary Barnett’s latest Midtown buying spree fits a familiar Extell playbook: quietly assemble strategic parcels, secure development rights and leave everyone guessing about the endgame. But as deals begin to close, Barnett’s vision for a Park Avenue assemblage is beginning to come into focus. Recent acquisitions, air-rights deals and even a foreclosure filing suggest Extell is methodically expanding its footprint around the development site.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/09/gary-barnetts-park-avenue-expansion/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-06-09T16:41:51.000Z"
+    },
+    {
+      "headline": "Kings Capital files plans for 108 apartments in vacant FiDi tower",
+      "summary": "Kings Capital submitted a major alteration application for the conversion of the 17-story, 72,269-square-foot residential The post Kings Capital files plans for 108 apartments in vacant FiDi tower appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/kings-capital-files-plans-for-108-apartments-in-vacant-fidi-tower/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-06-09T13:51:00.000Z"
+    },
+    {
+      "headline": "Rotem Cohen files plans for 12 units in Greenpoint",
+      "summary": "Rotem Cohen submitted a new building construction project for a 12-unit, 22,272-square-foot residential (R-2) building The post Rotem Cohen files plans for 12 units in Greenpoint appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/rotem-cohen-files-plans-for-12-units-in-greenpoint/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-06-09T12:56:00.000Z"
+    },
+    {
+      "headline": "Breaking Ground pays $12M for LIC dev site, owned for 76 years",
+      "summary": "Breaking Ground through the entity Breaking Ground II Housing Development Fund Corp paid $12 million The post Breaking Ground pays $12M for LIC dev site, owned for 76 years appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/breaking-ground-pays-12m-for-lic-dev-site-owned-for-76-years/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-06-09T12:00:00.000Z"
+    }
+  ]
+}
