@@ -1,26 +1,17 @@
 {
   "title": "Ike's Morning Digest",
   "date": "2026-06-10",
-  "generated_at": "2026-06-10T10:39:17.393Z",
+  "generated_at": "2026-06-10T17:02:58.893Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Danny Meyer to Launch New Restaurant Concept at Brooklyn’s Former Hotel Bossert: Danny Meyer ’s Union Square Hospitality Group is bringing a new restaurant concept to an historic hotel in Brooklyn Heights. Meyer has leased the 3,200-square-foot, ground-floor retail space in the former Hotel Bossert at 98 Montague Street , according to the landlord.\n\nBarnes & Noble Inks 11K-SF Retail Lease for New East Village Store: Bookstore chain Barnes & Noble is opening a new chapter in Manhattan’s East Village. Barnes & Noble signed an 11,300-square-foot retail lease at Steiner NYC ‘s 181 Avenue A , which is also known as the Steiner East Village , an 82-unit condominium building on the corner of Avenue A and East 11th Street.\n\nUlta Beauty Inks 26K-SF Deal at Jeff Sutton’s 1551 Broadway in Times Square: Skin care and cosmetics retailer Ulta Beauty has signed a deal to take over the entirety of Jeff Sutton ’s Times Square retail building at 1551 Broadway . Ulta inked a 26,000-square-foot lease for all four floors of the property located in Midtown’s bright and bustling Times Square, according to The Real Deal , which.\n\nBritish Fragrance Brand Jo Malone to Open at 200 East 75th Street: Something smells sweet on East 75th Street. Iconic British fragrance and lifestyle brand Jo Malone London has signed a lease to open a new Upper East Side store at 200 East 75th Street , Commercial Observer has learned.",
+    "commercial_observer": "Barnes & Noble Inks 11K-SF Retail Lease for New East Village Store: Bookstore chain Barnes & Noble is opening a new chapter in Manhattan’s East Village. Barnes & Noble signed an 11,300-square-foot retail lease at Steiner NYC ‘s 181 Avenue A , which is also known as the Steiner East Village , an 82-unit condominium building on the corner of Avenue A and East 11th Street.\n\nUlta Beauty Inks 26K-SF Deal at Jeff Sutton’s 1551 Broadway in Times Square: Skin care and cosmetics retailer Ulta Beauty has signed a deal to take over the entirety of Jeff Sutton ’s Times Square retail building at 1551 Broadway . Ulta inked a 26,000-square-foot lease for all four floors of the property located in Midtown’s bright and bustling Times Square, according to The Real Deal , which.\n\nBritish Fragrance Brand Jo Malone to Open at 200 East 75th Street: Something smells sweet on East 75th Street. Iconic British fragrance and lifestyle brand Jo Malone London has signed a lease to open a new Upper East Side store at 200 East 75th Street , Commercial Observer has learned.\n\nJack Resnick & Sons Signs 58K SF of New Leases at 250 Hudson Street: Jack Resnick & Sons has signed three new office and retail tenants totaling 57,874 square feet at 250 Hudson Street in Manhattan’s Hudson Square neighborhood, Commercial Observer has learned.",
     "cre_daily": "Retail Demand Surges as Developers Stay Sidelined: Retail demand continues to outpace new supply, driving rapid lease-ups and historically low vacancy rates. Grocery-anchored centers and service-oriented retail remain the most sought-after assets among investors and tenants.\n\nUS Retail Space Tightens as New Development Stalls: Retail landlords nationwide are at or near full occupancy, but new retail construction is stalled by high costs and uncertain economics. The tightest markets, like Texas, are driven by population growth and major grocery-anchored developments, while many regions see few new projects breaking ground.\n\nTPG, Norges, Canadian Pensions Make $2B Grocery Retail Play: TPG and major Canadian and Norwegian investors acquired Echo Realty, a 230-property grocery-anchored retail platform, in a $2B transaction. The joint venture aims to scale Echo’s operations across the Midwest and Southeast, targeting stable, needs-based assets with leading grocers as anchors.\n\nRestaurant Franchisees Face Mounting Closures and Takeovers: Major restaurant brands including Dine Brands and Jack in the Box are helping struggling franchisees through takeovers, lease exits, and lower-cost remodel programs. Smaller regional operators have been hit hardest by rising labor, food, and fuel costs, leading to bankruptcies and accelerated store closures across.",
-    "new_york_post": "Midwestern hub home to Target and Best Buy ranks as the most in-demand city for renters: study: The home of the iconic Mall of America leads the nation when it comes to desirability among renters.",
-    "pincusco": "Kings Capital files plans for 108 apartments in vacant FiDi tower: Kings Capital submitted a major alteration application for the conversion of the 17-story, 72,269-square-foot residential.\n\nRotem Cohen files plans for 12 units in Greenpoint: Rotem Cohen submitted a new building construction project for a 12-unit, 22,272-square-foot residential (R-2) building.\n\nBreaking Ground pays $12M for LIC dev site, owned for 76 years: Breaking Ground through the entity Breaking Ground II Housing Development Fund Corp paid $12 million.",
-    "the_real_deal": "Law firms continue to dominate May’s top office leases: Law firms continued to lead New York City’s biggest office leases last month, securing three of the top 10 spots on this roster. One was the very top spot, so large that it comes in at more than triple the size of the next largest lease.\n\nSavanna dumps more office properties: Savanna is one of the most active players in the New York City office space these days, a narrative furthered by yet another investment sale. Chris Schlank and Nick Bienstock’s firm is in contract to sell a pair of properties around Madison Square Park to Kaufman Investments for a combined $125 million, the Commercial.\n\nArtimus Construction trades NoMad hotel for $203M: As New York City’s hotel scene searches for its World Cup bump, one owner is getting out of the game. Meliá Hotels International last week closed on the acquisition of the 21-story, 313-key property at 132-142 West 27th Street for $203 million, the Commercial Observer reported.\n\nDavid Werner closes One Dag purchase with $250M JPMorgan loan: David Werner tapped JPMorgan to finance his deal for One Dag Hammarskjöld Plaza. The bank provided David Werner Real Estate Investments with a $250 million loan to close his purchase of the 50-story office tower, The Real Deal has learned."
+    "new_york_post": "Famed NYC office building seeks a $670M sale — after last trading hands for $1.2B in 2015: RXR is looking to sell this Park Avenue property more than two years after defaulting on a loan tied to it.",
+    "pincusco": "Restaurateurs pay $5.9M to Stephen L. Green for retail in Greenwich Village, 4th buy: The restaurateur-owned Hammock Development through the entity 12 East 12th LLC paid $5.9 million to.\n\nRaimondo Zaytoune pays $3.6M to Jemal family for retail in Sheepshead Bay: Raimondo Zaytoune through the entity Niceland Realty LLC paid $3.6 million to Jemal family members.\n\nDavid Tabak, Borough Developers sign $23.5M loan for 99-unit Williamsburg project: David Tabak and Borough Developers through the entity One Fifty Nine B LLC as borrower.",
+    "the_real_deal": "NYC’s top deals: Two UES co-ops sell for $24M: Commercial: The biggest commercial sale to hit records was a Columbus Circle office building at 250 West 57th Street for $275 million. An LLC of Empire State Realty Trust sold the property to Igal Namdar’s Namdar Realty Group.\n\nApex Investment plots 224 units for Prospect Lefferts Gardens: A gas station in Prospect Lefferts Gardens could soon give way to a sizable apartment project. Apex Investments Real Estate filed plans for a 224-unit housing project at 530 Utica Avenue, the Commercial Observer reported.\n\nVornado can’t stop signing Penn 2 leases: Like OG Anunoby, Steven Roth can’t stop scoring in the Penn District. For the second time in weeks, Vornado Realty Trust landed a tenant for more than 60,000 square feet at Penn 2.\n\nSavanna dumps more office properties: Savanna is one of the most active players in the New York City office space these days, a narrative furthered by yet another investment sale. Chris Schlank and Nick Bienstock’s firm is in contract to sell a pair of properties around Madison Square Park to Kaufman Investments for a combined $125 million, the Commercial."
   },
   "items": [
-    {
-      "headline": "Danny Meyer to Launch New Restaurant Concept at Brooklyn’s Former Hotel Bossert",
-      "summary": "Danny Meyer ’s Union Square Hospitality Group is bringing a new restaurant concept to an historic hotel in Brooklyn Heights. Meyer has leased the 3,200-square-foot, ground-floor retail space in the former Hotel Bossert at 98 Montague Street , according to the landlord. The deal comes a year after the property was acquired by developer SomeraRoad for $100 million from previous lender Beach Point Capital . Beach Point had taken control of the site from Joseph Chetrit ’s Chetrit Group in February 2025 .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/05/danny-meyer-restaurant-lease-hotel-bossert-brooklyn/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-05-27T14:59:02.000Z"
-    },
     {
       "headline": "Retail Demand Surges as Developers Stay Sidelined",
       "summary": "Retail demand continues to outpace new supply, driving rapid lease-ups and historically low vacancy rates. Grocery-anchored centers and service-oriented retail remain the most sought-after assets among investors and tenants. Institutional capital is increasing allocations to retail as pricing strengthens and financing conditions improve. Key Takeaways The US retail real estate market is experiencing a rare convergence , per GlobeSt. Tenant demand is surging while developers continue to sit on the sidelines.…",
@@ -67,6 +58,15 @@
       "published_at": "2026-06-04T13:11:22.000Z"
     },
     {
+      "headline": "NYC’s top deals: Two UES co-ops sell for $24M",
+      "summary": "Commercial: The biggest commercial sale to hit records was a Columbus Circle office building at 250 West 57th Street for $275 million. An LLC of Empire State Realty Trust sold the property to Igal Namdar’s Namdar Realty Group. This 26-story building measures around 540,000 square feet. The mixed-use, retail-and-office building is about 85 percent leased, with T.J.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/10/new-york-top-real-estate-deals-tuesday-june-9-2026/",
+      "section": "the_real_deal",
+      "retail": true,
+      "published_at": "2026-06-10T11:00:00.000Z"
+    },
+    {
       "headline": "Jack Resnick & Sons Signs 58K SF of New Leases at 250 Hudson Street",
       "summary": "Jack Resnick & Sons has signed three new office and retail tenants totaling 57,874 square feet at 250 Hudson Street in Manhattan’s Hudson Square neighborhood, Commercial Observer has learned. In the largest two deals, production company ProMedia and investment firm Galareana Holding each took 27,780 square feet, according to the landlord.…",
       "source": "Commercial Observer",
@@ -83,15 +83,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-05-28T21:06:44.000Z"
-    },
-    {
-      "headline": "One of NYC’s Largest Residential Co-Ops Repositions Its 50K-SF Retail Portfolio",
-      "summary": "Seward Park Cooperative’s board is looking to button up its extensive retail portfolio, Commercial Observer has learned. The 65-year-old Lower East Side co-op has tapped Lee & Associates NYC to take over leasing strategy and retail representation for 25 of its retail properties. The Seward Park community is among the largest market-rate residential co-ops in New York City, encompassing four buildings across roughly 12 acres bounded by Grand, East Broadway, Essex and Pitt streets.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/05/seward-park-cooperative-repositions-retail-portfolio/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-05-27T12:00:47.000Z"
     },
     {
       "headline": "NewMark Merrill’s Future San Bernardino County Shopping Hub Signs 11 Tenants",
@@ -130,6 +121,15 @@
       "published_at": "2026-06-09T03:48:59.000Z"
     },
     {
+      "headline": "New Thai Restaurant to Open in 11K SF at 321 West 51st Street",
+      "summary": "One thing New York City doesn’t lack is a place to eat, and now there’s a new Thai restaurant from the restaurateurs behind Greenwich Village favorite Pranakhon coming to Manhattan’s Hell’s Kitchen neighborhood. SG Thai , the hospitality group behind Pranakhon, located at 88 University Place near Union Square , will open a new eatery at Nicole Franques ’s 321 West 51st Street .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/thai-restaurant-lease-321-west-51st-street/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-06-10T16:27:55.000Z"
+    },
+    {
       "headline": "Whole Foods Signs 10K-SF Lease for Bodega-Like Grocery Store in Bushwick",
       "summary": "Whole Foods has selected Brooklyn’s bustling Bushwick neighborhood as the next location for its bodega-like market concept. The grocery chain owned by Amazon signed a 15-year, 10,000-square-foot lease at 1224 Flushing Avenue , a property owned by David Moore that is near the Jefferson Avenue L train stop, according to a memorandum of lease filing made public last week.…",
       "source": "Commercial Observer",
@@ -157,13 +157,13 @@
       "published_at": "2026-05-28T05:01:35.000Z"
     },
     {
-      "headline": "Law firms continue to dominate May’s top office leases",
-      "summary": "Law firms continued to lead New York City’s biggest office leases last month, securing three of the top 10 spots on this roster. One was the very top spot, so large that it comes in at more than triple the size of the next largest lease. But which law firms are leasing so much of the city? Read on to find out.…",
+      "headline": "Apex Investment plots 224 units for Prospect Lefferts Gardens",
+      "summary": "A gas station in Prospect Lefferts Gardens could soon give way to a sizable apartment project. Apex Investments Real Estate filed plans for a 224-unit housing project at 530 Utica Avenue, the Commercial Observer reported. The 200,000-square-foot plan, filed with the Department of Buildings, is at the site of a Speedway fuel station in the Brooklyn neighborhood. The 15-story building will have 16 units on each floor above the ground level, which will include retail and business space.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/09/nycs-top-office-leases-may-2026/",
+      "url": "https://therealdeal.com/new-york/2026/06/10/apex-investments-plans-condos-in-prospect-lefferts-gardens/",
       "section": "the_real_deal",
       "retail": true,
-      "published_at": "2026-06-09T18:00:00.000Z"
+      "published_at": "2026-06-10T14:45:00.000Z"
     },
     {
       "headline": "AI Firm Altana Relocates and Expands to 62K SF at Vornado’s Penn 2",
@@ -175,6 +175,24 @@
       "published_at": "2026-06-09T16:08:09.000Z"
     },
     {
+      "headline": "Pink Salon to Open 5K-SF Beauty Parlor at 72-01 Queens Boulevard",
+      "summary": "Beauty parlor Pink Salon is establishing a footprint along Queens Boulevard in Woodside, Queens, Commercial Observer has learned. The tenant signed a 10-year lease for 4,500 square feet at 72-01 Queens Boulevard , according to Aaron Aziz , founder and principal of ARA , which brokered the deal. The building is owned by the LLC QB Properties . Asking rent for the space was $50 per square foot, or $20,000 per month, according to Aziz, who represented both the landlord and the tenant in the transaction.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/pink-salon-lease-72-01-queens-boulevard/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-06-03T16:46:14.000Z"
+    },
+    {
+      "headline": "Restaurateurs pay $5.9M to Stephen L. Green for retail in Greenwich Village, 4th buy",
+      "summary": "The restaurateur-owned Hammock Development through the entity 12 East 12th LLC paid $5.9 million to The post Restaurateurs pay $5.9M to Stephen L. Green for retail in Greenwich Village, 4th buy appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/restaurateurs-pay-5-9m-to-stephen-l-green-for-retail-in-greenwich-village-2nd-buy/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-06-10T11:38:00.000Z"
+    },
+    {
       "headline": "Coffee Drive-Thrus Fuel Surging Suburban Retail Development",
       "summary": "Drive-thru coffee locations are seeing rapid expansion from fast-growing chains like Dutch Bros and 7 Brew. Smaller footprints allow these operators to add hundreds of suburban sites, outpacing larger brands on unit count and speed to market. This expansion is reshaping site selection strategy for retail landlords and underscoring new consumer preferences for convenience and customization.…",
       "source": "CRE Daily",
@@ -184,13 +202,31 @@
       "published_at": "2026-06-04T08:15:34.000Z"
     },
     {
-      "headline": "Midwestern hub home to Target and Best Buy ranks as the most in-demand city for renters: study",
-      "summary": "The home of the iconic Mall of America leads the nation when it comes to desirability among renters.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/06/08/real-estate/minneapolis-is-no-1-most-sought-after-city-by-renters/",
-      "section": "new_york_post",
+      "headline": "Coworking Firm the Malin Signs 19K-SF Lease at 10 Astor Place",
+      "summary": "A hospitality-focused coworking firm is setting up shop in Manhattan’s NoHo neighborhood, Commercial Observer has learned. The Malin signed a 15-year lease for 19,400 square feet on the entire fifth floor of GFP Real Estate ’s 10 Astor Place . The new site three blocks east of Washington Square Park will be the firm’s fifth location in Manhattan following its 2021 launch at 32 Mercer Street in SoHo, according to the landlord.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/the-malin-lease-gfp-10-astor-place/",
+      "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-06-08T17:00:00.000Z"
+      "published_at": "2026-06-10T13:47:07.000Z"
+    },
+    {
+      "headline": "Vornado can’t stop signing Penn 2 leases",
+      "summary": "Like OG Anunoby, Steven Roth can’t stop scoring in the Penn District. For the second time in weeks, Vornado Realty Trust landed a tenant for more than 60,000 square feet at Penn 2. This time, the tenant is artificial intelligence data firm Altana, which signed a 10-year lease for 62,000 square feet on the 21st floor, the Commercial Observer reported. The company is relocating from Global Holdings’ 25 Kent Avenue in Williamsburg, where it has occupied more than 20,000 square feet since 2022.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/10/vornado-cant-stop-signing-penn-2-leases/",
+      "section": "the_real_deal",
+      "retail": true,
+      "published_at": "2026-06-10T16:30:00.000Z"
+    },
+    {
+      "headline": "Raimondo Zaytoune pays $3.6M to Jemal family for retail in Sheepshead Bay",
+      "summary": "Raimondo Zaytoune through the entity Niceland Realty LLC paid $3.6 million to Jemal family members The post Raimondo Zaytoune pays $3.6M to Jemal family for retail in Sheepshead Bay appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/raimondo-zaytoune-pays-3-6m-to-jemal-family-for-retail-in-sheepshead-bay/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-06-10T12:00:00.000Z"
     },
     {
       "headline": "Target Unveils Denver’s Largest Food Distribution Center",
@@ -202,6 +238,15 @@
       "published_at": "2026-06-03T09:03:56.000Z"
     },
     {
+      "headline": "Famed NYC office building seeks a $670M sale — after last trading hands for $1.2B in 2015",
+      "summary": "RXR is looking to sell this Park Avenue property more than two years after defaulting on a loan tied to it.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/06/10/real-estate/nycs-helmsley-building-seeks-a-670m-sale/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-06-10T16:46:09.000Z"
+    },
+    {
       "headline": "Savanna dumps more office properties",
       "summary": "Savanna is one of the most active players in the New York City office space these days, a narrative furthered by yet another investment sale. Chris Schlank and Nick Bienstock’s firm is in contract to sell a pair of properties around Madison Square Park to Kaufman Investments for a combined $125 million, the Commercial Observer reported. The properties include 24-28 West 25th Street (which is technically two buildings) and 48 West 25th Street.…",
       "source": "The Real Deal",
@@ -211,13 +256,13 @@
       "published_at": "2026-06-09T20:30:00.000Z"
     },
     {
-      "headline": "Artimus Construction trades NoMad hotel for $203M",
-      "summary": "As New York City’s hotel scene searches for its World Cup bump, one owner is getting out of the game. Meliá Hotels International last week closed on the acquisition of the 21-story, 313-key property at 132-142 West 27th Street for $203 million, the Commercial Observer reported. The sale by Artimus Construction, which was first reported in TRD Data, breaks down to $649,000 per key. The four-star hotel already operated under the Meliá umbrella, operating as the Innside by Meliá New York NoMad.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/09/artimus-construction-trades-nomad-hotel-for-203m/",
-      "section": "the_real_deal",
+      "headline": "David Tabak, Borough Developers sign $23.5M loan for 99-unit Williamsburg project",
+      "summary": "David Tabak and Borough Developers through the entity One Fifty Nine B LLC as borrower The post David Tabak, Borough Developers sign $23.5M loan for 99-unit Williamsburg project appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/david-tabak-borough-developers-sign-23-5m-loan-for-99-unit-williamsburg-project/",
+      "section": "pincusco",
       "retail": false,
-      "published_at": "2026-06-09T18:35:39.000Z"
+      "published_at": "2026-06-10T14:30:00.000Z"
     },
     {
       "headline": "David Werner closes One Dag purchase with $250M JPMorgan loan",
@@ -229,58 +274,13 @@
       "published_at": "2026-06-09T20:16:28.000Z"
     },
     {
-      "headline": "OceanFirst dumps $1.4B rent-stabilized loan book days after Flushing merger",
-      "summary": "One week after closing its biggest acquisition to date, OceanFirst Financial is moving quickly to shed one of the deal’s biggest risks: New York City rent-stabilized multifamily. The New Jersey-based bank plans to sell roughly $1.4 billion of multifamily loans inherited through its acquisition of Flushing Financial Corp., a portfolio that represents the bulk of Flushing’s rent-regulated apartment exposure, Bisnow reported.…",
+      "headline": "NYC’s top construction permits: Week ending June 5, 2026",
+      "summary": "New Building: The largest new building application filed last week was in Flatbush, where an application was filed to build a 198,437-square-foot, 224-unit building at 530 Utica Avenue. The developer is Apex Investments, and the architect is Shay Alster. The mixed-use project will stand 15 stories tall. Job Filing Number: B01400199-I1 New Building: In East New York, Rose Shepherd Management plans to build a 57,415-square-foot, 10-story residential building at 138 New Jersey Avenue. It will house 71 apartments.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/09/oceanfirst-dumps-1-4b-rent-stabilized-loan-book-post-merger/",
+      "url": "https://therealdeal.com/new-york/2026/06/10/new-york-citys-top-construction-permits-june-5-2026/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-06-09T17:21:57.000Z"
-    },
-    {
-      "headline": "NYC’s top deals: Greenpoint dev site sells for $26M",
-      "summary": "There were 213 transactions totaling $289 million filed in New York City records in the 24 hours before 4 p.m. on Thursday, May 28. Commercial: In Greenpoint, the sale of a vacant plot of land at the corner of West and Milton Street traded for $25.6 million, representing the largest commercial deal to hit records in New York. The seller was an LLC tied to Jack Guttman of Pearl Realty Management, and the buyer was Seventy West Realty LLC.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/05/29/new-york-top-real-estate-deals-thursday-may-28-2026/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-05-29T11:00:00.000Z"
-    },
-    {
-      "headline": "Gary Barnett’s Park Avenue puzzle",
-      "summary": "Gary Barnett’s latest Midtown buying spree fits a familiar Extell playbook: quietly assemble strategic parcels, secure development rights and leave everyone guessing about the endgame. But as deals begin to close, Barnett’s vision for a Park Avenue assemblage is beginning to come into focus. Recent acquisitions, air-rights deals and even a foreclosure filing suggest Extell is methodically expanding its footprint around the development site.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/09/gary-barnetts-park-avenue-expansion/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-06-09T16:41:51.000Z"
-    },
-    {
-      "headline": "Kings Capital files plans for 108 apartments in vacant FiDi tower",
-      "summary": "Kings Capital submitted a major alteration application for the conversion of the 17-story, 72,269-square-foot residential The post Kings Capital files plans for 108 apartments in vacant FiDi tower appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/kings-capital-files-plans-for-108-apartments-in-vacant-fidi-tower/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-06-09T13:51:00.000Z"
-    },
-    {
-      "headline": "Rotem Cohen files plans for 12 units in Greenpoint",
-      "summary": "Rotem Cohen submitted a new building construction project for a 12-unit, 22,272-square-foot residential (R-2) building The post Rotem Cohen files plans for 12 units in Greenpoint appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/rotem-cohen-files-plans-for-12-units-in-greenpoint/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-06-09T12:56:00.000Z"
-    },
-    {
-      "headline": "Breaking Ground pays $12M for LIC dev site, owned for 76 years",
-      "summary": "Breaking Ground through the entity Breaking Ground II Housing Development Fund Corp paid $12 million The post Breaking Ground pays $12M for LIC dev site, owned for 76 years appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/breaking-ground-pays-12m-for-lic-dev-site-owned-for-76-years/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-06-09T12:00:00.000Z"
+      "published_at": "2026-06-10T13:00:00.000Z"
     }
   ]
 }
