@@ -2,9 +2,11 @@ name: Refresh morning digest
 
 on:
   schedule:
-    # GitHub cron is UTC; one of these is 6:00 AM America/New_York year-round.
-    - cron: "0 10 * * *"
-    - cron: "0 11 * * *"
+    # ~6 AM Eastern (EDT = 10 UTC, EST = 11 UTC). Offset 5 min to avoid GitHub queue delays.
+    - cron: "5 10 * * *"
+    - cron: "5 11 * * *"
+    # Fallback ~9 AM Eastern if the morning slot was delayed or skipped.
+    - cron: "0 13 * * *"
   workflow_dispatch:
 
 permissions:
@@ -17,38 +19,40 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Check Eastern time (scheduled runs only)
-        id: time
+      - name: Skip if digest already shows today (scheduled only)
+        id: skip
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             echo "run=true" >> "$GITHUB_OUTPUT"
-            echo "Manual run — building digest."
+            echo "Manual run — always building."
             exit 0
           fi
-          HOUR=$(TZ=America/New_York date +%H)
-          echo "Eastern hour: $HOUR"
-          if [ "$HOUR" = "06" ]; then
-            echo "run=true" >> "$GITHUB_OUTPUT"
-          else
+          TODAY=$(TZ=America/New_York date +%Y-%m-%d)
+          DIGEST_DATE=$(node -p "JSON.parse(require('fs').readFileSync('data/digest.json','utf8')).date")
+          echo "Eastern today: $TODAY | digest date: $DIGEST_DATE"
+          if [ "$DIGEST_DATE" = "$TODAY" ]; then
             echo "run=false" >> "$GITHUB_OUTPUT"
-            echo "Not 6 AM Eastern — skipping."
+            echo "Digest already dated $TODAY — nothing to do."
+          else
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            echo "Digest is stale — building."
           fi
 
       - name: Set up Node
-        if: steps.time.outputs.run == 'true'
+        if: steps.skip.outputs.run == 'true'
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "22"
           cache: npm
 
       - name: Build digest from RSS
-        if: steps.time.outputs.run == 'true'
+        if: steps.skip.outputs.run == 'true'
         run: |
           npm ci
           npm run build:digest
 
       - name: Commit and push if digest changed
-        if: steps.time.outputs.run == 'true'
+        if: steps.skip.outputs.run == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
