@@ -1,15 +1,15 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-06-11",
-  "generated_at": "2026-06-11T13:41:12.353Z",
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T13:35:18.737Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Ulta Beauty Inks 26K-SF Deal at Jeff Sutton’s 1551 Broadway in Times Square: Skin care and cosmetics retailer Ulta Beauty has signed a deal to take over the entirety of Jeff Sutton ’s Times Square retail building at 1551 Broadway . Ulta inked a 26,000-square-foot lease for all four floors of the property located in Midtown’s bright and bustling Times Square, according to The Real Deal , which.\n\nBritish Fragrance Brand Jo Malone to Open at 200 East 75th Street: Something smells sweet on East 75th Street. Iconic British fragrance and lifestyle brand Jo Malone London has signed a lease to open a new Upper East Side store at 200 East 75th Street , Commercial Observer has learned.\n\nJack Resnick & Sons Signs 58K SF of New Leases at 250 Hudson Street: Jack Resnick & Sons has signed three new office and retail tenants totaling 57,874 square feet at 250 Hudson Street in Manhattan’s Hudson Square neighborhood, Commercial Observer has learned.\n\nVirtual Reality Simulator SkiPod to Open Store at 572 11th Avenue: SkiPod , an indoor virtual reality skiing and snowboarding simulator, has selected Eenhoorn ’s 572 11th Avenue for its newest home. The company’s digital slopes will occupy a 3,790-square-foot corner storefront in Manhattan’s Hell’s Kitchen neighborhood, according to broker KSR .",
-    "cre_daily": "Retail Demand Surges as Developers Stay Sidelined: Retail demand continues to outpace new supply, driving rapid lease-ups and historically low vacancy rates. Grocery-anchored centers and service-oriented retail remain the most sought-after assets among investors and tenants.\n\nUS Retail Space Tightens as New Development Stalls: Retail landlords nationwide are at or near full occupancy, but new retail construction is stalled by high costs and uncertain economics. The tightest markets, like Texas, are driven by population growth and major grocery-anchored developments, while many regions see few new projects breaking ground.\n\nChelsea Piers Fitness Leads May NYC Retail Lease Ranking: Chelsea Piers Fitness preleased 76,000 SF at Seaport’s 250 Water Street, marking the largest retail lease in NYC for May. New York City’s top 10 retail leases in May spanned fitness, fashion, dining, and collectibles, with notable deals from Marshalls, House of Spells, and Coach.\n\nTPG, Norges, Canadian Pensions Make $2B Grocery Retail Play: TPG and major Canadian and Norwegian investors acquired Echo Realty, a 230-property grocery-anchored retail platform, in a $2B transaction. The joint venture aims to scale Echo’s operations across the Midwest and Southeast, targeting stable, needs-based assets with leading grocers as anchors.",
-    "new_york_post": "Famed NYC building seeks a $670M sale — 2 years after owner defaulted on its debt: RXR is looking to sell this Park Avenue property more than two years after defaulting on a loan tied to it.",
-    "pincusco": "Alma Realty signs $94.5M refi with Zions for 770 units in Rockaway Beach: Alma Realty through the entity 106-20 Shorefront Realty, LLC as borrower signed a refi loan.\n\nGrun Group signs $9.8M construction loan with IceCap for 99 units in Fordham Manor: Grun Group and Yaakov Lefkowitz through the entity 2800 Webster BSD LLC as borrower signed.\n\nDavid Tabak, Borough Developers sign $23.5M loan for 99-unit Williamsburg project: David Tabak and Borough Developers through the entity One Fifty Nine B LLC as borrower.",
-    "the_real_deal": "NYC’s top deals: NJ firm sells Bronx office for $16M: There were 223 transactions totaling $333 million filed in New York City records in the 24 hours before 4 p.m. on Wednesday, June 10.\n\nApex Investment plots 224 units for Prospect Lefferts Gardens: A gas station in Prospect Lefferts Gardens could soon give way to a sizable apartment project. Apex Investments Real Estate filed plans for a 224-unit housing project at 530 Utica Avenue, the Commercial Observer reported.\n\nFARE Act generates thousands of complaints, tenant refunds in first year: A year after New York City’s broker fee overhaul took effect, the law has generated a steady stream of complaints, enforcement actions and tenant reimbursements, offering a glimpse into how the rental market is adapting to one of the city’s most consequential housing reforms in decades.\n\nVornado can’t stop signing Penn 2 leases: Like OG Anunoby, Steven Roth can’t stop scoring in the Penn District. For the second time in weeks, Vornado Realty Trust landed a tenant for more than 60,000 square feet at Penn 2."
+    "commercial_observer": "Ulta Beauty Inks 26K-SF Deal at Jeff Sutton’s 1551 Broadway in Times Square: Skin care and cosmetics retailer Ulta Beauty has signed a deal to take over the entirety of Jeff Sutton ’s Times Square retail building at 1551 Broadway . Ulta inked a 26,000-square-foot lease for all four floors of the property located in Midtown’s bright and bustling Times Square, according to The Real Deal , which.\n\nBritish Fragrance Brand Jo Malone to Open at 200 East 75th Street: Something smells sweet on East 75th Street. Iconic British fragrance and lifestyle brand Jo Malone London has signed a lease to open a new Upper East Side store at 200 East 75th Street , Commercial Observer has learned.\n\nJack Resnick & Sons Signs 58K SF of New Leases at 250 Hudson Street: Jack Resnick & Sons has signed three new office and retail tenants totaling 57,874 square feet at 250 Hudson Street in Manhattan’s Hudson Square neighborhood, Commercial Observer has learned.\n\nNewMark Merrill’s Future San Bernardino County Shopping Hub Signs 11 Tenants: A Southern California-based shopping center owner and development company said it has secured 11 more leases for a new project in Victorville, Calif., before shovels are even in the ground.",
+    "cre_daily": "Retail Demand Surges as Developers Stay Sidelined: Retail demand continues to outpace new supply, driving rapid lease-ups and historically low vacancy rates. Grocery-anchored centers and service-oriented retail remain the most sought-after assets among investors and tenants.\n\nUS Retail Space Tightens as New Development Stalls: Retail landlords nationwide are at or near full occupancy, but new retail construction is stalled by high costs and uncertain economics. The tightest markets, like Texas, are driven by population growth and major grocery-anchored developments, while many regions see few new projects breaking ground.\n\nChelsea Piers Fitness Leads May NYC Retail Lease Ranking: Chelsea Piers Fitness preleased 76,000 SF at Seaport’s 250 Water Street, marking the largest retail lease in NYC for May. New York City’s top 10 retail leases in May spanned fitness, fashion, dining, and collectibles, with notable deals from Marshalls, House of Spells, and Coach.\n\nURW Acquires Full Control Of San Diego’s Westfield UTC Mall: Unibail-Rodamco-Westfield is acquiring the remaining half of Westfield UTC for $705M. The 1M SF San Diego mall is set for further luxury expansion, with new brands arriving in 2026.",
+    "new_york_post": "Government gets $80M for Trump’s former DC hotel — new owners now exploring $400M sale: BDT & MSD is already entertaining a handful of suitors reportedly circling the Pennsylvania Avenue property at around $400 million.\n\nNYC residents fume over potential $30M sale of 110-spot parking lot — which co-op board kept secret: Tempers have been flaring at an East Village cooperative over the board potentially selling one of its parking lots without keeping shareholders in the loop.",
+    "pincusco": "Susan Ting, Austin Ting, pay $16.2M to ARCTRUST for retail in Unionport: Susan Ting and Austin Ting through the entity Jackson Ht. Roosevelt Development Corp.\n\nMoses Karpen files two plans with 198 units in Bedford Stuyvesant: Moses Karpen filed two nearly identical new building projects in Bedford Stuyvesant, Brooklyn, one at.",
+    "the_real_deal": "NYC’s top deals: SL Green sheds portions of FiDi building for $223M: There were 191 transactions totaling $513 million filed in New York City records in the 24 hours before 4 p.m. on Thursday, June 11.\n\nNYC’s top deals: NJ firm sells Bronx office for $16M: There were 223 transactions totaling $333 million filed in New York City records in the 24 hours before 4 p.m. on Wednesday, June 10.\n\nThe Daily Dirt: Data center drama: The first time I came across Youngwoo & Associates, it was trying to win the RFP to redevelop the Kingsbridge Armory in the Bronx as a market. (Mayor Michael Bloomberg instead tapped the Related Companies to make it a mall, which never happened.) These days Youngwoo is only doing data centers, which is about the.\n\nMenin debuts 100% affordable housing initiative for city libraries: City Council Speaker Julie Menin unveiled an initiative Tuesday to build affordable housing on existing public library locations, with three initial sites targeted for redevelopment in the Bronx, Queens and Brooklyn."
   },
   "items": [
     {
@@ -49,6 +49,15 @@
       "published_at": "2026-06-04T13:11:22.000Z"
     },
     {
+      "headline": "NYC’s top deals: SL Green sheds portions of FiDi building for $223M",
+      "summary": "There were 191 transactions totaling $513 million filed in New York City records in the 24 hours before 4 p.m. on Thursday, June 11. Commercial: The biggest commercial sale to hit records was for the residential and retail units at 7 Dey Street in the Financial District for $222.6 million. The building stands 34 stories tall with about 260,000 square feet. The buyer was GO Residential. The seller was SL Green Realty, who will retain the office space in the building.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/12/new-york-top-real-estate-deals-thursday-june-11-2026/",
+      "section": "the_real_deal",
+      "retail": true,
+      "published_at": "2026-06-12T11:00:00.000Z"
+    },
+    {
       "headline": "Jack Resnick & Sons Signs 58K SF of New Leases at 250 Hudson Street",
       "summary": "Jack Resnick & Sons has signed three new office and retail tenants totaling 57,874 square feet at 250 Hudson Street in Manhattan’s Hudson Square neighborhood, Commercial Observer has learned. In the largest two deals, production company ProMedia and investment firm Galareana Holding each took 27,780 square feet, according to the landlord.…",
       "source": "Commercial Observer",
@@ -56,15 +65,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-06-04T18:07:59.000Z"
-    },
-    {
-      "headline": "Virtual Reality Simulator SkiPod to Open Store at 572 11th Avenue",
-      "summary": "SkiPod , an indoor virtual reality skiing and snowboarding simulator, has selected Eenhoorn ’s 572 11th Avenue for its newest home. The company’s digital slopes will occupy a 3,790-square-foot corner storefront in Manhattan’s Hell’s Kitchen neighborhood, according to broker KSR . Traded first reported the lease. The deal represents one of the mixed reality company’s first retail locations, according to SkiPod’s website. The second is under development in Dubai.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/05/skipod-572-11th-avenue-lease/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-05-28T21:06:44.000Z"
     },
     {
       "headline": "NewMark Merrill’s Future San Bernardino County Shopping Hub Signs 11 Tenants",
@@ -94,13 +94,13 @@
       "published_at": "2026-06-11T04:07:19.000Z"
     },
     {
-      "headline": "A Big Retail Tenant Kept Saying No. Then AI Closed the Deal.",
-      "summary": "It’s not a theory anymore: Artificial intelligence is getting commercial real estate deals across the finish line. AI and data were predictably omnipresent at the major ICSC retail conference in Las Vegas last week, and a prominent West Coast-based landlord explained that his firm is using AI for leasing and investment decisions, and that large language model platforms have helped secure lease deals with tenants who previously declined.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/05/ai-lease-retail-newmark-merrill-sigal/",
-      "section": "commercial_observer",
+      "headline": "URW Acquires Full Control Of San Diego’s Westfield UTC Mall",
+      "summary": "Unibail-Rodamco-Westfield is acquiring the remaining half of Westfield UTC for $705M. The 1M SF San Diego mall is set for further luxury expansion, with new brands arriving in 2026. The deal reinforces URW’s pivot to hold top-performing US retail assets, defying the trend of mall selloffs. Key Takeaways Luxury Retail’s Resilience In San Diego Unibail-Rodamco-Westfield (URW) has agreed to buy out its joint venture partner’s 50% stake in San Diego’s Westfield UTC for $705M in cash and shares, according to Bisnow.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/urw-acquires-full-control-of-san-diego-s-westfield-utc-mall/",
+      "section": "cre_daily",
       "retail": true,
-      "published_at": "2026-05-28T17:55:30.000Z"
+      "published_at": "2026-06-12T03:36:13.000Z"
     },
     {
       "headline": "TPG, Norges, Canadian Pensions Make $2B Grocery Retail Play",
@@ -148,22 +148,13 @@
       "published_at": "2026-06-11T11:00:00.000Z"
     },
     {
-      "headline": "Sports Investment Firm Dynasty Equity Takes 10K SF at Rudin’s 560 Lexington Avenue",
-      "summary": "Dynasty Equity , an international investment firm focused on the sports world, is kicking its New York City headquarters over to Rudin ’s 560 Lexington Avenue , Commercial Observer has learned. Dynasty, which primarily invests in sports franchises, leagues and media businesses, inked a 9,910-square-foot lease on part of the sixth floor of the 22-story Midtown office tower at the corner of East 50th Street and Lexington, just two blocks east of St. Patrick’s Cathedral , according to the landlord.…",
+      "headline": "Recruiting Firm Zeal Talent Ventures Takes 9K SF at 419 Lafayette Street",
+      "summary": "A recruiting firm has expanded to a new office in Manhattan’s NoHo neighborhood. Zeal Talent Ventures , which specializes in connecting new companies with talent and strategic investments, has signed a five-year lease for 9,250 square feet on the fourth floor of 419 Lafayette Street , according to tenant broker Newmark . Asking rent was $66 per square foot.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/06/dynasty-equity-lease-rudin-560-lexington-avenue/",
+      "url": "https://commercialobserver.com/2026/06/zeal-talent-ventures-lease-419-lafayette-street/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-06-10T18:27:42.000Z"
-    },
-    {
-      "headline": "Apex Investment plots 224 units for Prospect Lefferts Gardens",
-      "summary": "A gas station in Prospect Lefferts Gardens could soon give way to a sizable apartment project. Apex Investments Real Estate filed plans for a 224-unit housing project at 530 Utica Avenue, the Commercial Observer reported. The 200,000-square-foot plan, filed with the Department of Buildings, is at the site of a Speedway fuel station in the Brooklyn neighborhood. The 15-story building will have 16 units on each floor above the ground level, which will include retail and business space.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/10/apex-investments-plans-condos-in-prospect-lefferts-gardens/",
-      "section": "the_real_deal",
-      "retail": true,
-      "published_at": "2026-06-10T14:45:00.000Z"
+      "published_at": "2026-06-11T18:27:15.000Z"
     },
     {
       "headline": "Pink Salon to Open 5K-SF Beauty Parlor at 72-01 Queens Boulevard",
@@ -175,6 +166,24 @@
       "published_at": "2026-06-03T16:46:14.000Z"
     },
     {
+      "headline": "Related, ADIA, Mack Shopping Columbus Circle Retail for $450M",
+      "summary": "Fancy some retail therapy? You’ll need a pretty penny for this particular purchase. Related Companies , Abu Dhabi Investment Authority and Mack Real Estate are marketing the Shops at Columbus Circle and considering both an outright sale of the trophy property or a new equity investment into it, sources said. Newmark ’s Adam Spies , Doug Harmon , Josh King , Marcella Fasulo , Avery Silverstein and Ben Lushing are marketing the shopping center on behalf of the owners.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/related-adia-mack-shopping-columbus-circle/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-06-11T14:45:26.000Z"
+    },
+    {
+      "headline": "Susan Ting, Austin Ting, pay $16.2M to ARCTRUST for retail in Unionport",
+      "summary": "Susan Ting and Austin Ting through the entity Jackson Ht. Roosevelt Development Corp. paid $16.2 The post Susan Ting, Austin Ting, pay $16.2M to ARCTRUST for retail in Unionport appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/susan-ting-austin-ting-pays-16-2m-to-arctrust-for-three-properties-in-unionport/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-06-11T13:31:00.000Z"
+    },
+    {
       "headline": "Coffee Drive-Thrus Fuel Surging Suburban Retail Development",
       "summary": "Drive-thru coffee locations are seeing rapid expansion from fast-growing chains like Dutch Bros and 7 Brew. Smaller footprints allow these operators to add hundreds of suburban sites, outpacing larger brands on unit count and speed to market. This expansion is reshaping site selection strategy for retail landlords and underscoring new consumer preferences for convenience and customization.…",
       "source": "CRE Daily",
@@ -184,22 +193,22 @@
       "published_at": "2026-06-04T08:15:34.000Z"
     },
     {
-      "headline": "FARE Act generates thousands of complaints, tenant refunds in first year",
-      "summary": "A year after New York City’s broker fee overhaul took effect, the law has generated a steady stream of complaints, enforcement actions and tenant reimbursements, offering a glimpse into how the rental market is adapting to one of the city’s most consequential housing reforms in decades. The Department of Consumer and Worker Protection received more than 2,000 complaints and inquiries tied to the Fairness in Apartment Rental Expenses Act since the law went into effect last June, according to the City Reporter.…",
+      "headline": "The Daily Dirt: Data center drama",
+      "summary": "The first time I came across Youngwoo & Associates, it was trying to win the RFP to redevelop the Kingsbridge Armory in the Bronx as a market. (Mayor Michael Bloomberg instead tapped the Related Companies to make it a mall, which never happened.) These days Youngwoo is only doing data centers, which is about the furthest thing from a food market I can imagine. Why the change? Because, thanks to the AI boom, that’s where the money is.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/10/fare-act-sparks-thousands-of-complaints-refunds-in-year-1/",
+      "url": "https://therealdeal.com/new-york/2026/06/12/the-daily-dirt-data-center-drama/",
       "section": "the_real_deal",
       "retail": true,
-      "published_at": "2026-06-10T18:30:00.000Z"
+      "published_at": "2026-06-12T11:30:00.000Z"
     },
     {
-      "headline": "Coworking Firm the Malin Signs 19K-SF Lease at 10 Astor Place",
-      "summary": "A hospitality-focused coworking firm is setting up shop in Manhattan’s NoHo neighborhood, Commercial Observer has learned. The Malin signed a 15-year lease for 19,400 square feet on the entire fifth floor of GFP Real Estate ’s 10 Astor Place . The new site three blocks east of Washington Square Park will be the firm’s fifth location in Manhattan following its 2021 launch at 32 Mercer Street in SoHo, according to the landlord.…",
+      "headline": "Tech Firm Bluebook Cities Signs 6K-SF Lease at 412 Broadway",
+      "summary": "A real estate-focused technology firm is leasing space in Manhattan’s Tribeca neighborhood. Bluebook Cities , which was co-founded in 2021 by Dryden Brown and Charlie Callinan and helps cities build self-governed communities, signed a 6,300-square-foot lease at Joe Betesh ’s 412 Broadway , according to landlord broker Okada & Company . Asking rent for Bluebook’s new space on the entire top floor of the five-story building was $50 per square foot, according to Okada & Company’s Christopher Okada .…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/06/the-malin-lease-gfp-10-astor-place/",
+      "url": "https://commercialobserver.com/2026/06/bluebook-cities-lease-412-broadway/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-06-10T13:47:07.000Z"
+      "published_at": "2026-06-11T21:00:03.000Z"
     },
     {
       "headline": "France’s Junk Smash Burgers Enters U.S. With New Store in SoHo",
@@ -211,76 +220,67 @@
       "published_at": "2026-06-09T22:33:26.000Z"
     },
     {
-      "headline": "Vornado can’t stop signing Penn 2 leases",
-      "summary": "Like OG Anunoby, Steven Roth can’t stop scoring in the Penn District. For the second time in weeks, Vornado Realty Trust landed a tenant for more than 60,000 square feet at Penn 2. This time, the tenant is artificial intelligence data firm Altana, which signed a 10-year lease for 62,000 square feet on the 21st floor, the Commercial Observer reported. The company is relocating from Global Holdings’ 25 Kent Avenue in Williamsburg, where it has occupied more than 20,000 square feet since 2022.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/10/vornado-cant-stop-signing-penn-2-leases/",
-      "section": "the_real_deal",
+      "headline": "Sant Ambroeus Restaurant Coming to the Miami Design District",
+      "summary": "Popular Milanese restaurant Sant Ambroeus is set to open near the Miami Design District , Commercial Observer has learned. The New York-based hospitality company, Gherardo Guarducci ’s SA Hospitality Group , has signed a deal at Mirai Design District , the first mixed-use development in the U.S. designed by famed Japanese architect Kengo Kuma , according to sources familiar with the transaction.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/sant-ambroeus-mirai-miami-design-district-kengo-kuma/",
+      "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-06-10T16:30:00.000Z"
+      "published_at": "2026-06-05T15:57:41.000Z"
     },
     {
-      "headline": "Target Unveils Denver’s Largest Food Distribution Center",
-      "summary": "Target opened its largest food distribution center nationwide in Thornton, Denver, as part of its expanding supply chain investment. The 529K SF facility, valued at $367M, adds consolidation capabilities and will support 130 stores across 11 states. The move reflects broader trends in the US cold storage market, which faced a 20-year high in vacancy at the end of 2025.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/target-unveils-denver-s-largest-food-distribution-center/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-06-03T09:03:56.000Z"
-    },
-    {
-      "headline": "Alma Realty signs $94.5M refi with Zions for 770 units in Rockaway Beach",
-      "summary": "Alma Realty through the entity 106-20 Shorefront Realty, LLC as borrower signed a refi loan The post Alma Realty signs $94.5M refi with Zions for 770 units in Rockaway Beach appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/alma-realty-signs-94-5m-refi-with-zions-for-770-units-in-rockaway-beach/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-06-11T12:54:00.000Z"
-    },
-    {
-      "headline": "Grun Group signs $9.8M construction loan with IceCap for 99 units in Fordham Manor",
-      "summary": "Grun Group and Yaakov Lefkowitz through the entity 2800 Webster BSD LLC as borrower signed The post Grun Group signs $9.8M construction loan with IceCap for 99 units in Fordham Manor appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/grun-group-signs-9-8m-construction-loan-with-icecap-for-99-unit-project-in-fordham-manor/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-06-11T12:39:00.000Z"
-    },
-    {
-      "headline": "David Tabak, Borough Developers sign $23.5M loan for 99-unit Williamsburg project",
-      "summary": "David Tabak and Borough Developers through the entity One Fifty Nine B LLC as borrower The post David Tabak, Borough Developers sign $23.5M loan for 99-unit Williamsburg project appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/david-tabak-borough-developers-sign-23-5m-loan-for-99-unit-williamsburg-project/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-06-10T14:30:00.000Z"
-    },
-    {
-      "headline": "Judge tosses Koreins’ name-dropping 1 Penn Plaza lawsuit against Vornado",
-      "summary": "It looks like the Koreins will have to regroup in their rent dispute with Vornado over the 1 Penn Plaza office tower. A Manhattan judge tossed out the lawsuit the Korein family filed in February, which asked the court to determine a fair value for the 2.5 million-square-foot skyscraper. The Koreins said they couldn’t find a neutral appraiser to value the property because no one dared to cross Vornado for fear of losing favor with the powerful landlord.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/10/judge-dismisses-korein-familys-vornado-lawsuit/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-06-10T20:38:25.000Z"
-    },
-    {
-      "headline": "Famed NYC building seeks a $670M sale — 2 years after owner defaulted on its debt",
-      "summary": "RXR is looking to sell this Park Avenue property more than two years after defaulting on a loan tied to it.",
+      "headline": "Government gets $80M for Trump’s former DC hotel — new owners now exploring $400M sale",
+      "summary": "BDT & MSD is already entertaining a handful of suitors reportedly circling the Pennsylvania Avenue property at around $400 million.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/06/10/real-estate/nycs-helmsley-building-seeks-a-670m-sale/",
+      "url": "https://nypost.com/2026/06/11/real-estate/government-sells-trumps-former-dc-hotel-for-80-million/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-06-10T16:46:09.000Z"
+      "published_at": "2026-06-11T16:15:16.000Z"
     },
     {
-      "headline": "NYC’s top deals: Greenpoint dev site sells for $26M",
-      "summary": "There were 213 transactions totaling $289 million filed in New York City records in the 24 hours before 4 p.m. on Thursday, May 28. Commercial: In Greenpoint, the sale of a vacant plot of land at the corner of West and Milton Street traded for $25.6 million, representing the largest commercial deal to hit records in New York. The seller was an LLC tied to Jack Guttman of Pearl Realty Management, and the buyer was Seventy West Realty LLC.…",
+      "headline": "Moses Karpen files two plans with 198 units in Bedford Stuyvesant",
+      "summary": "Moses Karpen filed two nearly identical new building projects in Bedford Stuyvesant, Brooklyn, one at The post Moses Karpen files two plans with 198 units in Bedford Stuyvesant appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/moses-karpen-files-two-plans-with-198-units-in-bedford-stuyvesant/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-06-12T12:45:00.000Z"
+    },
+    {
+      "headline": "NYC residents fume over potential $30M sale of 110-spot parking lot — which co-op board kept secret",
+      "summary": "Tempers have been flaring at an East Village cooperative over the board potentially selling one of its parking lots without keeping shareholders in the loop.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/06/11/real-estate/east-village-residents-fume-over-co-ops-potential-lot-sale/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-06-11T19:49:14.000Z"
+    },
+    {
+      "headline": "Menin debuts 100% affordable housing initiative for city libraries",
+      "summary": "City Council Speaker Julie Menin unveiled an initiative Tuesday to build affordable housing on existing public library locations, with three initial sites targeted for redevelopment in the Bronx, Queens and Brooklyn. The Council’s proposed model, which tapped library sites in Sunnyside, Parkchester, and Bedford-Stuyvesant, has been utilized before. An Inwood library branch dubbed “The Eliza” was redeveloped to include 174 affordable housing units and additional community spaces in 2024.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/05/29/new-york-top-real-estate-deals-thursday-may-28-2026/",
+      "url": "https://therealdeal.com/new-york/2026/06/11/menin-debuts-library-based-affordable-housing-initiative/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-05-29T11:00:00.000Z"
+      "published_at": "2026-06-11T18:19:08.000Z"
+    },
+    {
+      "headline": "Claudio Soifer’s endless Park Slope saga faces another setback",
+      "summary": "An investor with ties to Josh Schuster is dealing with his own set of problems, where pre-pandemic plans for a Park Slope rental project still haven’t come to fruition. Hanover Capital filed a lawsuit against Claudio Soifer in state Supreme Court, alleging the investor backed out of a $21.7 million mortgage for 167 Fourth Avenue in the Brooklyn neighborhood, Crain’s reported. Hanover is suing for $218,000, as well as interest and legal fees.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/11/claudio-soifers-endless-park-slope-saga-faces-latest-snag/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-06-11T16:20:22.000Z"
+    },
+    {
+      "headline": "Two Trees snags contract for $7.8M One Domino penthouse",
+      "summary": "Two Trees’ One Domino Square is looking to sweep North Brooklyn’s records books. In February, Penthouse 3A sold for $7 million, or $3,313 per square foot, setting a North Brooklyn price record on a per square foot basis. That sale surpassed the previous record set six months prior by penthouse 1A in the building, which sold for $7.5 million, or $3,046 per square foot. Now another condo in the building — Penthouse 1B — is on pace to set the record for priciest sponsor sale in the neighborhood after…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/11/one-domino-snags-contract-for-condo-asking-7-8m/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-06-11T15:00:00.000Z"
     }
   ]
 }
