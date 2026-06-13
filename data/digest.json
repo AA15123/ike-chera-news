@@ -1,15 +1,15 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-06-12",
-  "generated_at": "2026-06-12T13:35:18.737Z",
+  "date": "2026-06-13",
+  "generated_at": "2026-06-13T11:58:49.573Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Ulta Beauty Inks 26K-SF Deal at Jeff Sutton’s 1551 Broadway in Times Square: Skin care and cosmetics retailer Ulta Beauty has signed a deal to take over the entirety of Jeff Sutton ’s Times Square retail building at 1551 Broadway . Ulta inked a 26,000-square-foot lease for all four floors of the property located in Midtown’s bright and bustling Times Square, according to The Real Deal , which.\n\nBritish Fragrance Brand Jo Malone to Open at 200 East 75th Street: Something smells sweet on East 75th Street. Iconic British fragrance and lifestyle brand Jo Malone London has signed a lease to open a new Upper East Side store at 200 East 75th Street , Commercial Observer has learned.\n\nJack Resnick & Sons Signs 58K SF of New Leases at 250 Hudson Street: Jack Resnick & Sons has signed three new office and retail tenants totaling 57,874 square feet at 250 Hudson Street in Manhattan’s Hudson Square neighborhood, Commercial Observer has learned.\n\nNewMark Merrill’s Future San Bernardino County Shopping Hub Signs 11 Tenants: A Southern California-based shopping center owner and development company said it has secured 11 more leases for a new project in Victorville, Calif., before shovels are even in the ground.",
     "cre_daily": "Retail Demand Surges as Developers Stay Sidelined: Retail demand continues to outpace new supply, driving rapid lease-ups and historically low vacancy rates. Grocery-anchored centers and service-oriented retail remain the most sought-after assets among investors and tenants.\n\nUS Retail Space Tightens as New Development Stalls: Retail landlords nationwide are at or near full occupancy, but new retail construction is stalled by high costs and uncertain economics. The tightest markets, like Texas, are driven by population growth and major grocery-anchored developments, while many regions see few new projects breaking ground.\n\nChelsea Piers Fitness Leads May NYC Retail Lease Ranking: Chelsea Piers Fitness preleased 76,000 SF at Seaport’s 250 Water Street, marking the largest retail lease in NYC for May. New York City’s top 10 retail leases in May spanned fitness, fashion, dining, and collectibles, with notable deals from Marshalls, House of Spells, and Coach.\n\nURW Acquires Full Control Of San Diego’s Westfield UTC Mall: Unibail-Rodamco-Westfield is acquiring the remaining half of Westfield UTC for $705M. The 1M SF San Diego mall is set for further luxury expansion, with new brands arriving in 2026.",
-    "new_york_post": "Government gets $80M for Trump’s former DC hotel — new owners now exploring $400M sale: BDT & MSD is already entertaining a handful of suitors reportedly circling the Pennsylvania Avenue property at around $400 million.\n\nNYC residents fume over potential $30M sale of 110-spot parking lot — which co-op board kept secret: Tempers have been flaring at an East Village cooperative over the board potentially selling one of its parking lots without keeping shareholders in the loop.",
-    "pincusco": "Susan Ting, Austin Ting, pay $16.2M to ARCTRUST for retail in Unionport: Susan Ting and Austin Ting through the entity Jackson Ht. Roosevelt Development Corp.\n\nMoses Karpen files two plans with 198 units in Bedford Stuyvesant: Moses Karpen filed two nearly identical new building projects in Bedford Stuyvesant, Brooklyn, one at.",
-    "the_real_deal": "NYC’s top deals: SL Green sheds portions of FiDi building for $223M: There were 191 transactions totaling $513 million filed in New York City records in the 24 hours before 4 p.m. on Thursday, June 11.\n\nNYC’s top deals: NJ firm sells Bronx office for $16M: There were 223 transactions totaling $333 million filed in New York City records in the 24 hours before 4 p.m. on Wednesday, June 10.\n\nThe Daily Dirt: Data center drama: The first time I came across Youngwoo & Associates, it was trying to win the RFP to redevelop the Kingsbridge Armory in the Bronx as a market. (Mayor Michael Bloomberg instead tapped the Related Companies to make it a mall, which never happened.) These days Youngwoo is only doing data centers, which is about the.\n\nMenin debuts 100% affordable housing initiative for city libraries: City Council Speaker Julie Menin unveiled an initiative Tuesday to build affordable housing on existing public library locations, with three initial sites targeted for redevelopment in the Bronx, Queens and Brooklyn."
+    "new_york_post": "Government gets $80M for Trump’s former DC hotel — new owners now exploring $400M sale: BDT & MSD is already entertaining a handful of suitors reportedly circling the Pennsylvania Avenue property at around $400 million.\n\nNYC condo sues former ‘SNL’ band member who tore through building in a violent rampage — seeking a forced sale of his home: An explosive new lawsuit details a frightening late-night outburst at the Admaston -- one allegedly so severe that board members are seeking to force him out.",
+    "pincusco": "CRE8 Equities signs $5.5M refi with Citibank for retail in SoHo: CRE8 Equities through the entity New Way Holdings IV LLC as borrower signed a refi.\n\nL+M, HCCI sign $86.9M construction loan for 105-unit project in Harlem: L+M Development Partners and Harlem Congregations For Community Improvement through the entity Seneca 110 Developer.\n\nCentury Development Group signs $43.4M construction loan for 116-unit project in Flushing: Century Development Group through the entity 35 Ave Xu Holdings, LLC as borrower signed a.",
+    "the_real_deal": "NYC’s top deals: SL Green sheds portions of FiDi building for $223M: There were 191 transactions totaling $513 million filed in New York City records in the 24 hours before 4 p.m. on Thursday, June 11.\n\nBrandon Miller’s East Village project lands first office tenants: Brandon Miller’s East Village project is finally landing office tenants. Two firms have signed 10-year leases totaling more than 16,000 square feet at 1 St.\n\nThe Daily Dirt: Data center drama: The first time I came across Youngwoo & Associates, it was trying to win the RFP to redevelop the Kingsbridge Armory in the Bronx as a market. (Mayor Michael Bloomberg instead tapped the Related Companies to make it a mall, which never happened.) These days Youngwoo is only doing data centers, which is about the.\n\nDevelopers secure $220M for next Jersey City tower: Another massive project is in the works in Jersey City, prodded along by $220 million in construction financing. Stephen Palmese’s Integritas Capital and Jody Kriss’ Kriss Capital provided the debt to developers Kuldeep Kumar and Mohan Myneni for their project at 2966 John F."
   },
   "items": [
     {
@@ -76,15 +76,6 @@
       "published_at": "2026-06-04T22:55:28.000Z"
     },
     {
-      "headline": "Prominent Landlord Sandy Sigal On the Lasting Premium in Retail",
-      "summary": "Sandy Sigal has been betting on the staying power of neighborhood retail for more than four decades, and now he wants to up the wager. Sigal’s firm, NewMark Merrill Companies, owns or manages more than 110 shopping centers valued at more than $3 billion and with over 2,000 tenants. The portfolio spans 13 million square feet across California, Colorado and Illinois. And, at ICSC Las Vegas last week, Sigal’s conviction met a retail market back in favor.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/05/prominent-landlord-sandy-sigal-on-the-lasting-premium-in-retail/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-05-29T16:35:51.000Z"
-    },
-    {
       "headline": "Chelsea Piers Fitness Leads May NYC Retail Lease Ranking",
       "summary": "Chelsea Piers Fitness preleased 76,000 SF at Seaport’s 250 Water Street, marking the largest retail lease in NYC for May. New York City’s top 10 retail leases in May spanned fitness, fashion, dining, and collectibles, with notable deals from Marshalls, House of Spells, and Coach. The mix of tenants signals sustained demand across retail segments despite ongoing market headwinds and increased selectivity among landlords.…",
       "source": "CRE Daily",
@@ -139,13 +130,22 @@
       "published_at": "2026-06-01T17:48:54.000Z"
     },
     {
-      "headline": "NYC’s top deals: NJ firm sells Bronx office for $16M",
-      "summary": "There were 223 transactions totaling $333 million filed in New York City records in the 24 hours before 4 p.m. on Wednesday, June 10. Commercial: The biggest commercial sale to hit records was for a commercial building and two parking facilities in the Bronx at 2244-2248 Westchester Avenue for $16.3 million. Companies tied to Clifton, New Jersey-based Arctrust sold the property to Jackson HT. Roosevelt Development. The building spans about 30,000 square feet and stands two stories tall.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/11/new-york-top-real-estate-deals-wednesday-june-10-2026/",
-      "section": "the_real_deal",
+      "headline": "Midwood Pays $41M for West Village Retail Swath at 403 Avenue of the Americas",
+      "summary": "A large commercial parcel in the heart of Manhattan’s West Village has changed hands for $41 million. The retail property at 403 Avenue of the Americas was acquired in cash by John Usdan ’s Midwood Investment & Development , according to city records made public Friday. The one-story retail buildings sit at the corner of Greenwich Avenue, running toward Christopher Street. The property also includes adjacent 405 Avenue of the Americas and 1 Greenwich Avenue .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/midwood-403-avenue-of-the-americas-sale/",
+      "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-06-11T11:00:00.000Z"
+      "published_at": "2026-06-12T16:58:52.000Z"
+    },
+    {
+      "headline": "NYC Public Schools to Build New 54K-SF STEAM Center in the Bronx",
+      "summary": "New York City Public Schools will open its new Bronx STEAM Center in the borough’s Pelham Bay neighborhood. The New York City School Construction Authority (SCA), the construction arm of the city’s public school system, signed a long-term lease agreement with Simone Development to build a 54,200-square-foot educational facility at the Hutchinson Metro Center Atrium at 1776 Eastchester Road , an SCA spokesperson confirmed. Crain’s New York Business first reported the news .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/nyc-school-construction-authority-lease-bronx-science-center/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-06-12T13:48:16.000Z"
     },
     {
       "headline": "Recruiting Firm Zeal Talent Ventures Takes 9K SF at 419 Lafayette Street",
@@ -166,22 +166,13 @@
       "published_at": "2026-06-03T16:46:14.000Z"
     },
     {
-      "headline": "Related, ADIA, Mack Shopping Columbus Circle Retail for $450M",
-      "summary": "Fancy some retail therapy? You’ll need a pretty penny for this particular purchase. Related Companies , Abu Dhabi Investment Authority and Mack Real Estate are marketing the Shops at Columbus Circle and considering both an outright sale of the trophy property or a new equity investment into it, sources said. Newmark ’s Adam Spies , Doug Harmon , Josh King , Marcella Fasulo , Avery Silverstein and Ben Lushing are marketing the shopping center on behalf of the owners.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/06/related-adia-mack-shopping-columbus-circle/",
-      "section": "commercial_observer",
+      "headline": "Brandon Miller’s East Village project lands first office tenants",
+      "summary": "Brandon Miller’s East Village project is finally landing office tenants. Two firms have signed 10-year leases totaling more than 16,000 square feet at 1 St. Mark’s Place, the nine-story boutique office project built by the late developer’s company, Real Estate Equities Corporation, or REEC. An investment firm leased 9,500 square feet spanning the building’s sixth and seventh floors, while a technology-focused investment firm took 6,800 square feet across the eighth and ninth floors, according to leasing and…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/12/brandon-millers-east-village-project-lands-first-office-tenants/",
+      "section": "the_real_deal",
       "retail": true,
-      "published_at": "2026-06-11T14:45:26.000Z"
-    },
-    {
-      "headline": "Susan Ting, Austin Ting, pay $16.2M to ARCTRUST for retail in Unionport",
-      "summary": "Susan Ting and Austin Ting through the entity Jackson Ht. Roosevelt Development Corp. paid $16.2 The post Susan Ting, Austin Ting, pay $16.2M to ARCTRUST for retail in Unionport appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/susan-ting-austin-ting-pays-16-2m-to-arctrust-for-three-properties-in-unionport/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-06-11T13:31:00.000Z"
+      "published_at": "2026-06-12T20:34:19.000Z"
     },
     {
       "headline": "Coffee Drive-Thrus Fuel Surging Suburban Retail Development",
@@ -220,6 +211,24 @@
       "published_at": "2026-06-09T22:33:26.000Z"
     },
     {
+      "headline": "Tempo Signs HQ Lease in San Diego to Expand Industrial Electrification",
+      "summary": "A thermochemical energy company that provides power on demand for heavy industrial users and operators has moved its corporate base to San Diego as it transitions to commercial scale. Tempo signed a lease to take over a 35,000-square-foot facility at 6680 Cobra Way in San Diego’s Sorrento Mesa neighborhood. Montana Avenue Capital Partners owns the asset, records show.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/tempo-signs-hq-lease-in-san-diego-to-expand-industrial-electrification/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-06-12T19:30:54.000Z"
+    },
+    {
+      "headline": "CRE8 Equities signs $5.5M refi with Citibank for retail in SoHo",
+      "summary": "CRE8 Equities through the entity New Way Holdings IV LLC as borrower signed a refi The post CRE8 Equities signs $5.5M refi with Citibank for retail in SoHo appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/cre8-equities-signs-5-5m-refi-with-citibank-for-retail-in-soho/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-06-12T16:35:00.000Z"
+    },
+    {
       "headline": "Sant Ambroeus Restaurant Coming to the Miami Design District",
       "summary": "Popular Milanese restaurant Sant Ambroeus is set to open near the Miami Design District , Commercial Observer has learned. The New York-based hospitality company, Gherardo Guarducci ’s SA Hospitality Group , has signed a deal at Mirai Design District , the first mixed-use development in the U.S. designed by famed Japanese architect Kengo Kuma , according to sources familiar with the transaction.…",
       "source": "Commercial Observer",
@@ -227,6 +236,33 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-06-05T15:57:41.000Z"
+    },
+    {
+      "headline": "L+M, HCCI sign $86.9M construction loan for 105-unit project in Harlem",
+      "summary": "L+M Development Partners and Harlem Congregations For Community Improvement through the entity Seneca 110 Developer The post L+M, HCCI sign $86.9M construction loan for 105-unit project in Harlem appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/lm-hcci-sign-86-9m-construction-loan-with-mt-bank-for-specialty-in-harlem/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-06-12T16:27:00.000Z"
+    },
+    {
+      "headline": "Century Development Group signs $43.4M construction loan for 116-unit project in Flushing",
+      "summary": "Century Development Group through the entity 35 Ave Xu Holdings, LLC as borrower signed a The post Century Development Group signs $43.4M construction loan for 116-unit project in Flushing appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/century-development-group-signs-43-4m-construction-loan-for-116-unit-project-in-flushing/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-06-12T15:08:00.000Z"
+    },
+    {
+      "headline": "Developers secure $220M for next Jersey City tower",
+      "summary": "Another massive project is in the works in Jersey City, prodded along by $220 million in construction financing. Stephen Palmese’s Integritas Capital and Jody Kriss’ Kriss Capital provided the debt to developers Kuldeep Kumar and Mohan Myneni for their project at 2966 John F. Kennedy Boulevard, the Commercial Observer reported. Construction is already underway at the development in the Journal Square neighborhood.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/tristate/2026/06/12/developers-secure-220m-for-next-jersey-city-tower/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-06-12T14:15:28.000Z"
     },
     {
       "headline": "Government gets $80M for Trump’s former DC hotel — new owners now exploring $400M sale",
@@ -238,49 +274,13 @@
       "published_at": "2026-06-11T16:15:16.000Z"
     },
     {
-      "headline": "Moses Karpen files two plans with 198 units in Bedford Stuyvesant",
-      "summary": "Moses Karpen filed two nearly identical new building projects in Bedford Stuyvesant, Brooklyn, one at The post Moses Karpen files two plans with 198 units in Bedford Stuyvesant appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/moses-karpen-files-two-plans-with-198-units-in-bedford-stuyvesant/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-06-12T12:45:00.000Z"
-    },
-    {
-      "headline": "NYC residents fume over potential $30M sale of 110-spot parking lot — which co-op board kept secret",
-      "summary": "Tempers have been flaring at an East Village cooperative over the board potentially selling one of its parking lots without keeping shareholders in the loop.",
+      "headline": "NYC condo sues former ‘SNL’ band member who tore through building in a violent rampage — seeking a forced sale of his home",
+      "summary": "An explosive new lawsuit details a frightening late-night outburst at the Admaston -- one allegedly so severe that board members are seeking to force him out.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/06/11/real-estate/east-village-residents-fume-over-co-ops-potential-lot-sale/",
+      "url": "https://nypost.com/2026/06/12/real-estate/nyc-condo-sues-resident-who-tore-through-building-in-violent-rampage/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-06-11T19:49:14.000Z"
-    },
-    {
-      "headline": "Menin debuts 100% affordable housing initiative for city libraries",
-      "summary": "City Council Speaker Julie Menin unveiled an initiative Tuesday to build affordable housing on existing public library locations, with three initial sites targeted for redevelopment in the Bronx, Queens and Brooklyn. The Council’s proposed model, which tapped library sites in Sunnyside, Parkchester, and Bedford-Stuyvesant, has been utilized before. An Inwood library branch dubbed “The Eliza” was redeveloped to include 174 affordable housing units and additional community spaces in 2024.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/11/menin-debuts-library-based-affordable-housing-initiative/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-06-11T18:19:08.000Z"
-    },
-    {
-      "headline": "Claudio Soifer’s endless Park Slope saga faces another setback",
-      "summary": "An investor with ties to Josh Schuster is dealing with his own set of problems, where pre-pandemic plans for a Park Slope rental project still haven’t come to fruition. Hanover Capital filed a lawsuit against Claudio Soifer in state Supreme Court, alleging the investor backed out of a $21.7 million mortgage for 167 Fourth Avenue in the Brooklyn neighborhood, Crain’s reported. Hanover is suing for $218,000, as well as interest and legal fees.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/11/claudio-soifers-endless-park-slope-saga-faces-latest-snag/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-06-11T16:20:22.000Z"
-    },
-    {
-      "headline": "Two Trees snags contract for $7.8M One Domino penthouse",
-      "summary": "Two Trees’ One Domino Square is looking to sweep North Brooklyn’s records books. In February, Penthouse 3A sold for $7 million, or $3,313 per square foot, setting a North Brooklyn price record on a per square foot basis. That sale surpassed the previous record set six months prior by penthouse 1A in the building, which sold for $7.5 million, or $3,046 per square foot. Now another condo in the building — Penthouse 1B — is on pace to set the record for priciest sponsor sale in the neighborhood after…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/11/one-domino-snags-contract-for-condo-asking-7-8m/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-06-11T15:00:00.000Z"
+      "published_at": "2026-06-12T21:00:45.000Z"
     }
   ]
 }
