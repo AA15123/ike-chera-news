@@ -58,14 +58,29 @@ jobs:
 
       - name: Commit and push if digest changed
         if: steps.skip.outputs.run == 'true'
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           if git diff --quiet data/digest.json; then
-            echo "No changes to digest.json — nothing to deploy."
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
+            echo "No changes to digest.json — nothing to commit."
             exit 0
           fi
           git add data/digest.json
           git commit -m "chore: refresh morning digest"
           git pull --rebase origin main
           git push origin main
+          echo "pushed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Trigger Netlify deploy
+        if: steps.skip.outputs.run == 'true'
+        env:
+          NETLIFY_BUILD_HOOK: ${{ secrets.NETLIFY_BUILD_HOOK_URL }}
+        run: |
+          if [ -z "$NETLIFY_BUILD_HOOK" ]; then
+            echo "::warning::NETLIFY_BUILD_HOOK_URL secret is not set. Add a Netlify build hook URL in repo secrets so deploys run after each refresh."
+            exit 0
+          fi
+          curl -fsS -X POST -d {} "$NETLIFY_BUILD_HOOK"
+          echo "Netlify deploy triggered."
