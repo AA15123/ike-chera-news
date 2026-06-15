@@ -1,15 +1,15 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-06-14",
-  "generated_at": "2026-06-14T12:05:58.702Z",
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T15:29:53.705Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Ulta Beauty Inks 26K-SF Deal at Jeff Sutton’s 1551 Broadway in Times Square: Skin care and cosmetics retailer Ulta Beauty has signed a deal to take over the entirety of Jeff Sutton ’s Times Square retail building at 1551 Broadway . Ulta inked a 26,000-square-foot lease for all four floors of the property located in Midtown’s bright and bustling Times Square, according to The Real Deal , which.\n\nBritish Fragrance Brand Jo Malone to Open at 200 East 75th Street: Something smells sweet on East 75th Street. Iconic British fragrance and lifestyle brand Jo Malone London has signed a lease to open a new Upper East Side store at 200 East 75th Street , Commercial Observer has learned.\n\nJack Resnick & Sons Signs 58K SF of New Leases at 250 Hudson Street: Jack Resnick & Sons has signed three new office and retail tenants totaling 57,874 square feet at 250 Hudson Street in Manhattan’s Hudson Square neighborhood, Commercial Observer has learned.\n\nNewMark Merrill’s Future San Bernardino County Shopping Hub Signs 11 Tenants: A Southern California-based shopping center owner and development company said it has secured 11 more leases for a new project in Victorville, Calif., before shovels are even in the ground.",
     "cre_daily": "Retail Demand Surges as Developers Stay Sidelined: Retail demand continues to outpace new supply, driving rapid lease-ups and historically low vacancy rates. Grocery-anchored centers and service-oriented retail remain the most sought-after assets among investors and tenants.\n\nUS Retail Space Tightens as New Development Stalls: Retail landlords nationwide are at or near full occupancy, but new retail construction is stalled by high costs and uncertain economics. The tightest markets, like Texas, are driven by population growth and major grocery-anchored developments, while many regions see few new projects breaking ground.\n\nChelsea Piers Fitness Leads May NYC Retail Lease Ranking: Chelsea Piers Fitness preleased 76,000 SF at Seaport’s 250 Water Street, marking the largest retail lease in NYC for May. New York City’s top 10 retail leases in May spanned fitness, fashion, dining, and collectibles, with notable deals from Marshalls, House of Spells, and Coach.\n\nURW Acquires Full Control Of San Diego’s Westfield UTC Mall: Unibail-Rodamco-Westfield is acquiring the remaining half of Westfield UTC for $705M. The 1M SF San Diego mall is set for further luxury expansion, with new brands arriving in 2026.",
-    "new_york_post": "Government gets $80M for Trump’s former DC hotel — new owners now exploring $400M sale: BDT & MSD is already entertaining a handful of suitors reportedly circling the Pennsylvania Avenue property at around $400 million.\n\nNYC condo sues former ‘SNL’ band member who tore through building in a violent rampage — seeking a forced sale of his home: An explosive new lawsuit details a frightening late-night outburst at the Admaston -- one allegedly so severe that board members are seeking to force him out.\n\nNYC residents fume over potential $30M sale of 110-spot parking lot — which co-op board kept secret: Tempers have been flaring at an East Village cooperative over the board potentially selling one of its parking lots without keeping shareholders in the loop.",
-    "pincusco": "CRE8 Equities signs $5.5M refi with Citibank for retail in SoHo: CRE8 Equities through the entity New Way Holdings IV LLC as borrower signed a refi.\n\nL+M, HCCI sign $86.9M construction loan for 105-unit project in Harlem: L+M Development Partners and Harlem Congregations For Community Improvement through the entity Seneca 110 Developer.\n\nCentury Development Group signs $43.4M construction loan for 116-unit project in Flushing: Century Development Group through the entity 35 Ave Xu Holdings, LLC as borrower signed a.",
-    "the_real_deal": "Brandon Miller’s East Village project lands first office tenants: Brandon Miller’s East Village project is finally landing office tenants. Two firms have signed 10-year leases totaling more than 16,000 square feet at 1 St.\n\nNYC’s top deals: CSC Real Estate buys Yorkville office for $64M: There were 205 transactions totaling $470 million filed in New York City records in the 24 hours before 4 p.m. on Friday, June 12.\n\nDevelopers secure $220M for next Jersey City tower: Another massive project is in the works in Jersey City, prodded along by $220 million in construction financing. Stephen Palmese’s Integritas Capital and Jody Kriss’ Kriss Capital provided the debt to developers Kuldeep Kumar and Mohan Myneni for their project at 2966 John F."
+    "new_york_post": "NYC condo sues former ‘SNL’ band member who tore through building in a violent rampage — seeking a forced sale of his home: An explosive new lawsuit details a frightening late-night outburst at the Admaston -- one allegedly so severe that board members are seeking to force him out.\n\nNYC residents fume over potential $30M sale of 110-spot parking lot — which co-op board kept secret: Tempers have been flaring at an East Village cooperative over the board potentially selling one of its parking lots without keeping shareholders in the loop.",
+    "pincusco": "Midwood Investment, Niarchos family pay $41M to Samco for retail in Greenwich Village: Midwood Investment & Development and Stavros Niarchos family through the entity One Greenwich Retail Ecu.\n\nHawkins Way pays $80M in sale-leaseback with college for dorm in Lincoln Square: Hawkins Way Capital through the entity 117 W 70th Owner, LLC paid $80 million to.\n\nMedical spa owner pays $5M to Collins Ogbolu for mixed-use in Harlem: Richina Lukes, CEO of L’Elite MediSpa, through the entity Lenox 335, LLC paid $5 million.\n\nVesper Holdings pays $2.8M to Cayuga Capital for mixed-use in Bushwick: Vesper Holdings through the entity 287 Wyckoff Assc. LLC paid $2.8 million to Cayuga Capital.",
+    "the_real_deal": "Brandon Miller’s East Village project lands first office tenants: Brandon Miller’s East Village project is finally landing office tenants. Two firms have signed 10-year leases totaling more than 16,000 square feet at 1 St.\n\nNYC’s top deals: CSC Real Estate buys Yorkville office for $64M: There were 205 transactions totaling $470 million filed in New York City records in the 24 hours before 4 p.m. on Friday, June 12.\n\nChetrits face more distress in the Financial District: The hits keep coming for the Chetrits. The $290 million CMBS loan backed by the office building at 26 Broadway was transferred to special servicing, Bisnow reported, citing Morningstar Credit.\n\nKneejerk opponents wonder why they don’t get early notice: This week’s NIMBY award goes to activists in Albany fighting a $7 million bus terminal project in line for funding from the Hochul administration. At a public meeting this week to solicit input on the plan, Paul Collins-Hackett, whom the Albany Times Union described as “a well-known Albany community leader who is."
   },
   "items": [
     {
@@ -139,24 +139,6 @@
       "published_at": "2026-06-12T16:58:52.000Z"
     },
     {
-      "headline": "NYC Public Schools to Build New 54K-SF STEAM Center in the Bronx",
-      "summary": "New York City Public Schools will open its new Bronx STEAM Center in the borough’s Pelham Bay neighborhood. The New York City School Construction Authority (SCA), the construction arm of the city’s public school system, signed a long-term lease agreement with Simone Development to build a 54,200-square-foot educational facility at the Hutchinson Metro Center Atrium at 1776 Eastchester Road , an SCA spokesperson confirmed. Crain’s New York Business first reported the news .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/06/nyc-school-construction-authority-lease-bronx-science-center/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-06-12T13:48:16.000Z"
-    },
-    {
-      "headline": "Recruiting Firm Zeal Talent Ventures Takes 9K SF at 419 Lafayette Street",
-      "summary": "A recruiting firm has expanded to a new office in Manhattan’s NoHo neighborhood. Zeal Talent Ventures , which specializes in connecting new companies with talent and strategic investments, has signed a five-year lease for 9,250 square feet on the fourth floor of 419 Lafayette Street , according to tenant broker Newmark . Asking rent was $66 per square foot.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/06/zeal-talent-ventures-lease-419-lafayette-street/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-06-11T18:27:15.000Z"
-    },
-    {
       "headline": "Pink Salon to Open 5K-SF Beauty Parlor at 72-01 Queens Boulevard",
       "summary": "Beauty parlor Pink Salon is establishing a footprint along Queens Boulevard in Woodside, Queens, Commercial Observer has learned. The tenant signed a 10-year lease for 4,500 square feet at 72-01 Queens Boulevard , according to Aaron Aziz , founder and principal of ARA , which brokered the deal. The building is owned by the LLC QB Properties . Asking rent for the space was $50 per square foot, or $20,000 per month, according to Aziz, who represented both the landlord and the tenant in the transaction.…",
       "source": "Commercial Observer",
@@ -166,6 +148,24 @@
       "published_at": "2026-06-03T16:46:14.000Z"
     },
     {
+      "headline": "Midwood Investment, Niarchos family pay $41M to Samco for retail in Greenwich Village",
+      "summary": "Midwood Investment & Development and Stavros Niarchos family through the entity One Greenwich Retail Ecu The post Midwood Investment, Niarchos family pay $41M to Samco for retail in Greenwich Village appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/midwood-investment-niarchos-family-pay-41m-to-samco-for-retail-in-greenwich-village/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-06-15T11:55:00.000Z"
+    },
+    {
+      "headline": "How Safehold’s Ground Lease is Unlocking Multifamily Development",
+      "summary": "Multifamily development has been difficult to capitalize in recent years, with equity scarce and targeting elevated yields in the face of rising construction costs and interest rates. Against this backdrop, Safehold ’s modern ground lease offers a structural advantage, serving as an innovative new capital structure tool in a market environment that requires creativity .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/how-safeholds-ground-lease-is-unlocking-multifamily-development/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-06-15T04:00:30.000Z"
+    },
+    {
       "headline": "Brandon Miller’s East Village project lands first office tenants",
       "summary": "Brandon Miller’s East Village project is finally landing office tenants. Two firms have signed 10-year leases totaling more than 16,000 square feet at 1 St. Mark’s Place, the nine-story boutique office project built by the late developer’s company, Real Estate Equities Corporation, or REEC. An investment firm leased 9,500 square feet spanning the building’s sixth and seventh floors, while a technology-focused investment firm took 6,800 square feet across the eighth and ninth floors, according to leasing and…",
       "source": "The Real Deal",
@@ -173,15 +173,6 @@
       "section": "the_real_deal",
       "retail": true,
       "published_at": "2026-06-12T20:34:19.000Z"
-    },
-    {
-      "headline": "Tech Firm Bluebook Cities Signs 6K-SF Lease at 412 Broadway",
-      "summary": "A real estate-focused technology firm is leasing space in Manhattan’s Tribeca neighborhood. Bluebook Cities , which was co-founded in 2021 by Dryden Brown and Charlie Callinan and helps cities build self-governed communities, signed a 6,300-square-foot lease at Joe Betesh ’s 412 Broadway , according to landlord broker Okada & Company . Asking rent for Bluebook’s new space on the entire top floor of the five-story building was $50 per square foot, according to Okada & Company’s Christopher Okada .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/06/bluebook-cities-lease-412-broadway/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-06-11T21:00:03.000Z"
     },
     {
       "headline": "France’s Junk Smash Burgers Enters U.S. With New Store in SoHo",
@@ -202,15 +193,6 @@
       "published_at": "2026-06-12T19:30:54.000Z"
     },
     {
-      "headline": "CRE8 Equities signs $5.5M refi with Citibank for retail in SoHo",
-      "summary": "CRE8 Equities through the entity New Way Holdings IV LLC as borrower signed a refi The post CRE8 Equities signs $5.5M refi with Citibank for retail in SoHo appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/cre8-equities-signs-5-5m-refi-with-citibank-for-retail-in-soho/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-06-12T16:35:00.000Z"
-    },
-    {
       "headline": "Sant Ambroeus Restaurant Coming to the Miami Design District",
       "summary": "Popular Milanese restaurant Sant Ambroeus is set to open near the Miami Design District , Commercial Observer has learned. The New York-based hospitality company, Gherardo Guarducci ’s SA Hospitality Group , has signed a deal at Mirai Design District , the first mixed-use development in the U.S. designed by famed Japanese architect Kengo Kuma , according to sources familiar with the transaction.…",
       "source": "Commercial Observer",
@@ -229,40 +211,13 @@
       "published_at": "2026-06-13T11:00:00.000Z"
     },
     {
-      "headline": "L+M, HCCI sign $86.9M construction loan for 105-unit project in Harlem",
-      "summary": "L+M Development Partners and Harlem Congregations For Community Improvement through the entity Seneca 110 Developer The post L+M, HCCI sign $86.9M construction loan for 105-unit project in Harlem appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/lm-hcci-sign-86-9m-construction-loan-with-mt-bank-for-specialty-in-harlem/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-06-12T16:27:00.000Z"
-    },
-    {
-      "headline": "Century Development Group signs $43.4M construction loan for 116-unit project in Flushing",
-      "summary": "Century Development Group through the entity 35 Ave Xu Holdings, LLC as borrower signed a The post Century Development Group signs $43.4M construction loan for 116-unit project in Flushing appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/century-development-group-signs-43-4m-construction-loan-for-116-unit-project-in-flushing/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-06-12T15:08:00.000Z"
-    },
-    {
-      "headline": "Developers secure $220M for next Jersey City tower",
-      "summary": "Another massive project is in the works in Jersey City, prodded along by $220 million in construction financing. Stephen Palmese’s Integritas Capital and Jody Kriss’ Kriss Capital provided the debt to developers Kuldeep Kumar and Mohan Myneni for their project at 2966 John F. Kennedy Boulevard, the Commercial Observer reported. Construction is already underway at the development in the Journal Square neighborhood.…",
+      "headline": "Chetrits face more distress in the Financial District",
+      "summary": "The hits keep coming for the Chetrits. The $290 million CMBS loan backed by the office building at 26 Broadway was transferred to special servicing, Bisnow reported, citing Morningstar Credit. The transfer came after the Chetrits acknowledged they would have to discontinue loan payments. Starwood Mortgage Capital and the Bank of Montreal originated the $290 million debt in 2022. A $40 million unsecuritized mezzanine loan was also acquired by Meyer and Joseph Chetrit.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/tristate/2026/06/12/developers-secure-220m-for-next-jersey-city-tower/",
+      "url": "https://therealdeal.com/new-york/2026/06/15/chetrits-facing-more-distress-in-the-financial-district/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-06-12T14:15:28.000Z"
-    },
-    {
-      "headline": "Government gets $80M for Trump’s former DC hotel — new owners now exploring $400M sale",
-      "summary": "BDT & MSD is already entertaining a handful of suitors reportedly circling the Pennsylvania Avenue property at around $400 million.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/06/11/real-estate/government-sells-trumps-former-dc-hotel-for-80-million/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-06-11T16:15:16.000Z"
+      "published_at": "2026-06-15T14:45:00.000Z"
     },
     {
       "headline": "NYC condo sues former ‘SNL’ band member who tore through building in a violent rampage — seeking a forced sale of his home",
@@ -281,6 +236,51 @@
       "section": "new_york_post",
       "retail": false,
       "published_at": "2026-06-11T19:49:14.000Z"
+    },
+    {
+      "headline": "Hawkins Way pays $80M in sale-leaseback with college for dorm in Lincoln Square",
+      "summary": "Hawkins Way Capital through the entity 117 W 70th Owner, LLC paid $80 million to The post Hawkins Way pays $80M in sale-leaseback with college for dorm in Lincoln Square appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/hawkins-way-pays-80m-in-sale-leaseback-with-college-for-dorm-in-lincoln-square/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-06-15T11:25:00.000Z"
+    },
+    {
+      "headline": "Medical spa owner pays $5M to Collins Ogbolu for mixed-use in Harlem",
+      "summary": "Richina Lukes, CEO of L’Elite MediSpa, through the entity Lenox 335, LLC paid $5 million The post Medical spa owner pays $5M to Collins Ogbolu for mixed-use in Harlem appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/medical-spa-owner-pays-5m-to-collins-ogbolu-for-mixed-use-in-harlem/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-06-15T11:13:00.000Z"
+    },
+    {
+      "headline": "Vesper Holdings pays $2.8M to Cayuga Capital for mixed-use in Bushwick",
+      "summary": "Vesper Holdings through the entity 287 Wyckoff Assc. LLC paid $2.8 million to Cayuga Capital The post Vesper Holdings pays $2.8M to Cayuga Capital for mixed-use in Bushwick appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/vesper-holdings-pays-2-8m-to-cayuga-capital-for-mixed-use-in-bushwick/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-06-15T10:53:00.000Z"
+    },
+    {
+      "headline": "Two Kings Real Estate signs $76.5M refi with Deutsche Bank for hotel in Chelsea",
+      "summary": "Two Kings Real Estate through the entity Tulip Hotels LLC as borrower signed a refi The post Two Kings Real Estate signs $76.5M refi with Deutsche Bank for hotel in Chelsea appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/two-kings-real-estate-signs-76-5m-refi-with-deutsche-bank-for-hotel-in-chelsea/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-06-15T10:50:00.000Z"
+    },
+    {
+      "headline": "Kneejerk opponents wonder why they don’t get early notice",
+      "summary": "This week’s NIMBY award goes to activists in Albany fighting a $7 million bus terminal project in line for funding from the Hochul administration. At a public meeting this week to solicit input on the plan, Paul Collins-Hackett, whom the Albany Times Union described as “a well-known Albany community leader who is known to many as Batman,” said, “We’re being asked what toppings we want on our pizza, but we didn’t order a pizza.” No you didn’t, Paul, but the pizza is not for you.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/13/nimbys-wanted-head-start-to-block-albany-bus-terminal-project/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-06-13T13:00:00.000Z"
     }
   ]
 }
