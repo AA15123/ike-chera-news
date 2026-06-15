@@ -7,6 +7,11 @@ on:
     - cron: "5 11 * * *"
     # Fallback ~9 AM Eastern if the morning slot was delayed or skipped.
     - cron: "0 13 * * *"
+    # Extra fallbacks ~10 AM and ~12 PM Eastern (GitHub schedule is best-effort).
+    - cron: "0 14 * * *"
+    - cron: "0 15 * * *"
+    - cron: "0 16 * * *"
+    - cron: "0 17 * * *"
   workflow_dispatch:
 
 permissions:
@@ -62,4 +67,5 @@ jobs:
           fi
           git add data/digest.json
           git commit -m "chore: refresh morning digest"
-          git push
+          git pull --rebase origin main
+          git push origin main
