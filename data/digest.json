@@ -1,15 +1,15 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-06-16",
-  "generated_at": "2026-06-16T15:17:41.855Z",
+  "date": "2026-06-17",
+  "generated_at": "2026-06-17T13:50:25.944Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Publix Buys Second Retail Center Near Boynton Beach: Publix ’s South Florida shopping spree continues. The Lakeland, Fla.-based grocery store chain paid $24 million for one of the shopping centers it anchors near Boynton Beach, Fla.\n\nUlta Beauty Inks 26K-SF Deal at Jeff Sutton’s 1551 Broadway in Times Square: Skin care and cosmetics retailer Ulta Beauty has signed a deal to take over the entirety of Jeff Sutton ’s Times Square retail building at 1551 Broadway . Ulta inked a 26,000-square-foot lease for all four floors of the property located in Midtown’s bright and bustling Times Square, according to The Real Deal , which.\n\nBritish Fragrance Brand Jo Malone to Open at 200 East 75th Street: Something smells sweet on East 75th Street. Iconic British fragrance and lifestyle brand Jo Malone London has signed a lease to open a new Upper East Side store at 200 East 75th Street , Commercial Observer has learned.\n\nJack Resnick & Sons Signs 58K SF of New Leases at 250 Hudson Street: Jack Resnick & Sons has signed three new office and retail tenants totaling 57,874 square feet at 250 Hudson Street in Manhattan’s Hudson Square neighborhood, Commercial Observer has learned.",
+    "commercial_observer": "Bistro Pardon My French Sets Up Shop at Jeff Sutton’s 373 Broome Street: Ooh la la. French-inspired bistro Pardon My French is coming to Manhattan’s SoHo neighborhood after signing a 1,000-square-foot lease at 373 Broome Street , a property owned in a joint venture between Jeff Sutton ’s Wharton Properties and Gorjian Real Estate Group, according to broker Meridian Capital Group .\n\nUlta Beauty Inks 26K-SF Deal at Jeff Sutton’s 1551 Broadway in Times Square: Skin care and cosmetics retailer Ulta Beauty has signed a deal to take over the entirety of Jeff Sutton ’s Times Square retail building at 1551 Broadway . Ulta inked a 26,000-square-foot lease for all four floors of the property located in Midtown’s bright and bustling Times Square, according to The Real Deal , which.\n\nBritish Fragrance Brand Jo Malone to Open at 200 East 75th Street: Something smells sweet on East 75th Street. Iconic British fragrance and lifestyle brand Jo Malone London has signed a lease to open a new Upper East Side store at 200 East 75th Street , Commercial Observer has learned.\n\nJack Resnick & Sons Signs 58K SF of New Leases at 250 Hudson Street: Jack Resnick & Sons has signed three new office and retail tenants totaling 57,874 square feet at 250 Hudson Street in Manhattan’s Hudson Square neighborhood, Commercial Observer has learned.",
     "cre_daily": "Retail Demand Surges as Developers Stay Sidelined: Retail demand continues to outpace new supply, driving rapid lease-ups and historically low vacancy rates. Grocery-anchored centers and service-oriented retail remain the most sought-after assets among investors and tenants.\n\nUS Retail Space Tightens as New Development Stalls: Retail landlords nationwide are at or near full occupancy, but new retail construction is stalled by high costs and uncertain economics. The tightest markets, like Texas, are driven by population growth and major grocery-anchored developments, while many regions see few new projects breaking ground.\n\nChelsea Piers Fitness Leads May NYC Retail Lease Ranking: Chelsea Piers Fitness preleased 76,000 SF at Seaport’s 250 Water Street, marking the largest retail lease in NYC for May. New York City’s top 10 retail leases in May spanned fitness, fashion, dining, and collectibles, with notable deals from Marshalls, House of Spells, and Coach.\n\nURW Acquires Full Control Of San Diego’s Westfield UTC Mall: Unibail-Rodamco-Westfield is acquiring the remaining half of Westfield UTC for $705M. The 1M SF San Diego mall is set for further luxury expansion, with new brands arriving in 2026.",
-    "new_york_post": "NYC condo sues former ‘SNL’ band member who tore through building in a violent rampage — seeking a forced sale of his home: An explosive new lawsuit details a frightening late-night outburst at the Admaston -- one allegedly so severe that board members are seeking to force him out.",
-    "pincusco": "$16.5M rehab construction loan from Be Aviv for 166-unit conversion in Garment District: Mendel Fleischman through the entity 35 Garden LLC as borrower signed a rehab construction loan.\n\nGotham Organization files 2 plans totaling 375 units in East New York: Gotham Organization filed two plans totaling 375 units in East New York, Brooklyn. In the.\n\nAmi Weinstock files plans for 97 units in Ridgewood: Ami Weinstock submitted a new building construction pr0ject for a 97-unit, 90,339-square-foot residential (R-2) building.\n\nSandhu Group files plans for 76 units in Cypress Hills: Tejpal Sandhu of the Sandhu Group submitted a new building construction project for a 76-unit,.",
-    "the_real_deal": "NYC’s top deals: Stalled Brookland Capital site trades for $8M: There were 204 transactions totaling $288 million filed in New York City records from 4 p.m. on Friday, June 12, through 4 p.m.\n\nZeckendorf, Atlas Capital’s 80 Clarkson inks $80M contract: Zeckendorf Development and Atlas Capital Group’s downtown condo project has scored another big deal. The project snagged a contract for a duplex penthouse asking $80 million in its west tower, the Wall Street Journal reported.\n\nChetrits face more distress in the Financial District: The hits keep coming for the Chetrits. The $290 million CMBS loan backed by the office building at 26 Broadway was transferred to special servicing, Bisnow reported, citing Morningstar Credit.\n\nHawkins Way expands student housing bet with UWS buy: A West Coast real estate investor is increasingly paving the way for student housing deals on the other side of the country. Hawkins Way Capital acquired the student housing property at 117 West 70th Street on the Upper West Side of Manhattan for $80 million, the Commercial Observer reported."
+    "new_york_post": "Moscow Airport billionaire seeks $45M for NYC penthouse amid a massive global selling spree: The billionaire and his wife are rapidly trying to rid themselves of hundreds of millions of dollars of properties in their portfolio.",
+    "pincusco": "Maxwelle Real Estate sells retail in Chelsea for $7.7M: The entity A1001 Limited registered with the law firm Belkin Burden Goldman paid $7.7 million.\n\nRabsky Group signs $32M refi loan with Cross River Bank for office in Williamsburg: Rabsky Group through the entity 103 North 13th Street LLC as borrower signed a refi.\n\nGlenwood Management signs $38M refi with Wells Fargo for 272-unit rental in Yorkville: Glenwood Management through the entity 92nd Realty LLC as borrower signed a refi loan with.",
+    "the_real_deal": "How big a trophy? Waldorf Astoria’s post-reno sale could set bar for NYC hotel values: News broke in February that the Chinese government-controlled company that owns the Waldorf Astoria was preparing to market the hotel portion less than a year after the building reopened.\n\nDelshah drops $85M on Williamsburg resi properties: Delshah Capital is expanding its Williamsburg footprint with the purchase of two mixed-use residential buildings on Grand Street for $85.3 million. Michael Shah’s firm snapped up 456 Grand Street for $39.5 million, the firm announced.\n\nNYC’s top construction permits: Week ending June 12, 2026: New Building: The largest new building application filed last week was in Brooklyn. The Gotham Organization plans to construct a 533,487-square-foot, three-building mixed-use development at 12040 Flatlands Avenue, 395 Louisiana Avenue and 12030 Flatlands Avenue in East New York.\n\nNYC’s top deals: Ghislaine Maxwell’s former Lenox Hill townhouse sells for $17M: There were 187 transactions totaling $253 million filed in New York City records in the 24 hours before 4 p.m. on Tuesday, June 16."
   },
   "items": [
     {
@@ -31,13 +31,13 @@
       "published_at": "2026-06-05T08:45:33.000Z"
     },
     {
-      "headline": "Publix Buys Second Retail Center Near Boynton Beach",
-      "summary": "Publix ’s South Florida shopping spree continues. The Lakeland, Fla.-based grocery store chain paid $24 million for one of the shopping centers it anchors near Boynton Beach, Fla. — nearly doubling the property’s value in just two years, records show. Called Aberdeen Square , the 71,191-square-foot, open-air retail center sits adjacent to the South Military Trail at 4966 Le Chalet Boulevard . Publix’s grocery store spans 46,031 square feet.…",
+      "headline": "Bistro Pardon My French Sets Up Shop at Jeff Sutton’s 373 Broome Street",
+      "summary": "Ooh la la. French-inspired bistro Pardon My French is coming to Manhattan’s SoHo neighborhood after signing a 1,000-square-foot lease at 373 Broome Street , a property owned in a joint venture between Jeff Sutton ’s Wharton Properties and Gorjian Real Estate Group, according to broker Meridian Capital Group . The asking rent for the ground-floor retail space was $225 per square foot. The length of the lease, which was signed at the end of April, was not disclosed.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/06/publix-aberdeen-longpoint-grocery-retail-florida/",
+      "url": "https://commercialobserver.com/2026/06/pardon-my-french-lease-jeff-sutton-373-broome-street/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-06-15T16:50:47.000Z"
+      "published_at": "2026-06-16T15:48:07.000Z"
     },
     {
       "headline": "Ulta Beauty Inks 26K-SF Deal at Jeff Sutton’s 1551 Broadway in Times Square",
@@ -121,6 +121,15 @@
       "published_at": "2026-06-08T19:34:47.000Z"
     },
     {
+      "headline": "French Cafe L’Ami Pierre to Open at Midtown’s 400 Madison Avenue",
+      "summary": "A French cafe by acclaimed restaurateur Pierre-Antoine Raberin is opening a second location in Midtown, Commercial Observer has learned. Raberin and his partner, Michelin -starred chef Eric Ripert , have signed a 2,400-square-foot lease at 400 Madison Avenue for the second outpost of L’Ami Pierre , according to tenant broker Judson CRE . The deal seems to represent a homecoming for Ripert, who exited the restaurant partnership in May 2023 .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/lami-pierre-lease-daishin-400-madison-avenue/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-06-16T16:17:51.000Z"
+    },
+    {
       "headline": "Toys and Collectibles Fuel Booming US Retail Foot Traffic",
       "summary": "Toys and collectibles are rapidly boosting foot traffic and sales for US retailers, drawing demand from Gen Z, Millennials, and older buyers alike. Brands employ scarcity tactics and viral social trends, while global companies like Pop Mart and Miniso expand their US retail footprints to capitalize on the craze. The collectibles surge is reshaping retail leasing dynamics—offering landlords, developers, and brokers new opportunities for high-frequency, intent-driven tenants.…",
       "source": "CRE Daily",
@@ -128,6 +137,15 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-06-13T10:36:12.000Z"
+    },
+    {
+      "headline": "How big a trophy? Waldorf Astoria’s post-reno sale could set bar for NYC hotel values",
+      "summary": "News broke in February that the Chinese government-controlled company that owns the Waldorf Astoria was preparing to market the hotel portion less than a year after the building reopened. The prize property, originally built in 1931 and considered one of the fanciest hotels in the world, was closed for eight years for a renovation that transformed 1.6 million square feet of the landmarked hotel into 375 luxury rooms and 372 condominium units with public spaces as lavish as in the original.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/17/waldorf-astoria-sale-could-set-bar-for-nyc-hotel-values/",
+      "section": "the_real_deal",
+      "retail": true,
+      "published_at": "2026-06-17T13:00:00.000Z"
     },
     {
       "headline": "Pink Salon to Open 5K-SF Beauty Parlor at 72-01 Queens Boulevard",
@@ -139,31 +157,22 @@
       "published_at": "2026-06-03T16:46:14.000Z"
     },
     {
-      "headline": "ARCO Design/Build Takes 10K SF at Williams Equities’ 470 Park Avenue South",
-      "summary": "National commercial construction firm ARCO Design/Build has signed a 9,771 -square-foot lease at Williams Equities ’ 470 Park Avenue South , Commercial Observer has learned. The 15th-floor lease was signed in late March, according to a spokesperson for the landlord. A Colliers team of Andrew Roos , Michael Cohen , Mac Roos , Jessica Verdi and Rachel Kirkham represented Williams Equities, while C ushman & Wakefield ’s Jason Kroeger and Pierce Hance negotiated on behalf of ARCO.…",
+      "headline": "Law Firm Fenwick & West Expands to 73K SF at Rosen’s 902 Broadway",
+      "summary": "Law firm Fenwick & West has recommitted to the Rosen family’s 902 Broadway with 18,200 square feet of additional space, Commercial Observer has learned. The new expansion and lease extension adds the entire 13th floor to Fenwick’s office at the 20-story Flatiron District building, located between East 20th and East 21st streets. Asking rent for the 11-year lease extension was $84 per square foot, according to sources familiar with the deal.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/06/arco-design-build-williams-equities-470-park-avenue-south-lease/",
+      "url": "https://commercialobserver.com/2026/06/fenwick-west-lease-expansion-rosen-902-broadway/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-06-15T19:35:37.000Z"
+      "published_at": "2026-06-16T17:18:30.000Z"
     },
     {
-      "headline": "Tech Firm Via Transportation Inks 55K SF at Haddad Brands’ 2 Park Avenue",
-      "summary": "Transit technology company Via Transportation has parked itself across two full floors of 2 Park Avenue , Commercial Observer has learned. The lease with landlord Hadson Realty , the real estate arm of fashion company Haddad Brands , spans 55,066 square feet across the Midtown South office tower’s 25th and 26th floors. Via Transportation, which provides software and operations for public transportation networks globally, was represented by Savills brokers Erik Schmall and Allyson Bowen .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/06/via-transportation-lease-haddad-brands-2-park-avenue/",
-      "section": "commercial_observer",
+      "headline": "Delshah drops $85M on Williamsburg resi properties",
+      "summary": "Delshah Capital is expanding its Williamsburg footprint with the purchase of two mixed-use residential buildings on Grand Street for $85.3 million. Michael Shah’s firm snapped up 456 Grand Street for $39.5 million, the firm announced. The six-story 75,000-square-foot property includes 52 apartments, two retail spaces and a 50-space parking garage. The seller, Bronstein Properties, bought the building in 2018 for $43 million, according to property records. It has a 421-a tax abatement through 2030.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/16/delshah-drops-85m-on-two-williamsburg-rental-buildings/",
+      "section": "the_real_deal",
       "retail": true,
-      "published_at": "2026-06-15T17:00:45.000Z"
-    },
-    {
-      "headline": "Private Equity Firm Kohlberg Relocating to 19K SF at SL Green’s 500 Park Avenue",
-      "summary": "Private equity firm Kohlberg is relocating its New York City offices within Midtown East. The company with $17 billion in assets under management, mainly in the form of stakes in health care companies, signed a deal for 18,820 square feet on the entire ninth floor of SL Green Realty ’s 500 Park Avenue , according to the landlord.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/06/kohlberg-lease-sl-green-500-park-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-06-15T15:59:46.000Z"
+      "published_at": "2026-06-16T15:45:32.000Z"
     },
     {
       "headline": "France’s Junk Smash Burgers Enters U.S. With New Store in SoHo",
@@ -175,6 +184,24 @@
       "published_at": "2026-06-09T22:33:26.000Z"
     },
     {
+      "headline": "Maxwelle Real Estate sells retail in Chelsea for $7.7M",
+      "summary": "The entity A1001 Limited registered with the law firm Belkin Burden Goldman paid $7.7 million The post Maxwelle Real Estate sells retail in Chelsea for $7.7M appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/maxwelle-real-estate-sells-retail-in-chelsea-for-7-7m/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-06-17T12:28:00.000Z"
+    },
+    {
+      "headline": "Aerospace Company Ontic Signs 100K-SF Industrial Lease in South Florida",
+      "summary": "Aerospace company Ontic has signed a major industrial lease in Weston, Fla., Commercial Observer has learned. The original equipment manufacturer (OEM) for companies like Boeing agreed to a long-term, 100,000-square-foot lease at EastGroup Properties ’ 134,400-square-foot industrial complex at 1951 North Commerce Parkway , known as Weston Commerce Park , according to a source familiar with the deal.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/ontic-lease-eastgroup-1951-north-commerce-parkway/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-06-16T19:42:35.000Z"
+    },
+    {
       "headline": "Sant Ambroeus Restaurant Coming to the Miami Design District",
       "summary": "Popular Milanese restaurant Sant Ambroeus is set to open near the Miami Design District , Commercial Observer has learned. The New York-based hospitality company, Gherardo Guarducci ’s SA Hospitality Group , has signed a deal at Mirai Design District , the first mixed-use development in the U.S. designed by famed Japanese architect Kengo Kuma , according to sources familiar with the transaction.…",
       "source": "Commercial Observer",
@@ -184,103 +211,76 @@
       "published_at": "2026-06-05T15:57:41.000Z"
     },
     {
-      "headline": "NYC’s top deals: Stalled Brookland Capital site trades for $8M",
-      "summary": "There were 204 transactions totaling $288 million filed in New York City records from 4 p.m. on Friday, June 12, through 4 p.m. on Monday, June 15. Commercial: The priciest commercial transaction to hit records was in Clinton Hill, where a stalled residential development at 929 Atlantic Avenue sold for $7.7 million. The property was once owned by Brookland Capital, but Amos Financial took it over amid a foreclosure case in 2022.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/16/new-york-top-real-estate-deals-monday-june-15-2026/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-06-16T11:00:00.000Z"
-    },
-    {
-      "headline": "Zeckendorf, Atlas Capital’s 80 Clarkson inks $80M contract",
-      "summary": "Zeckendorf Development and Atlas Capital Group’s downtown condo project has scored another big deal. The project snagged a contract for a duplex penthouse asking $80 million in its west tower, the Wall Street Journal reported. If the deal closes at the price, it would set a record price per square foot mark for a home sold Downtown at $11,236. It is also the second priciest contract signed in New York City this year, after a condo asking $89 million at Legion Investment Group and Nahla Capital’s project at…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/15/zeckendorfs-80-clarkson-snags-80m-penthouse-contract/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-06-15T17:00:00.000Z"
-    },
-    {
-      "headline": "$16.5M rehab construction loan from Be Aviv for 166-unit conversion in Garment District",
-      "summary": "Mendel Fleischman through the entity 35 Garden LLC as borrower signed a rehab construction loan The post $16.5M rehab construction loan from Be Aviv for 166-unit conversion in Garment District appeared first on PincusCo .",
+      "headline": "Rabsky Group signs $32M refi loan with Cross River Bank for office in Williamsburg",
+      "summary": "Rabsky Group through the entity 103 North 13th Street LLC as borrower signed a refi The post Rabsky Group signs $32M refi loan with Cross River Bank for office in Williamsburg appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/16-5m-rehab-construction-loan-from-be-aviv-for-166-unit-conversion-in-garment-district/",
+      "url": "https://www.pincusco.com/rabsky-group-signs-32m-refi-loan-with-cross-river-bank-for-office-in-williamsburg/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-06-15T22:33:00.000Z"
+      "published_at": "2026-06-17T12:45:00.000Z"
     },
     {
-      "headline": "Chetrits face more distress in the Financial District",
-      "summary": "The hits keep coming for the Chetrits. The $290 million CMBS loan backed by the office building at 26 Broadway was transferred to special servicing, Bisnow reported, citing Morningstar Credit. The transfer came after the Chetrits acknowledged they would have to discontinue loan payments. Starwood Mortgage Capital and the Bank of Montreal originated the $290 million debt in 2022. A $40 million unsecuritized mezzanine loan was also acquired by Meyer and Joseph Chetrit.…",
+      "headline": "NYC’s top construction permits: Week ending June 12, 2026",
+      "summary": "New Building: The largest new building application filed last week was in Brooklyn. The Gotham Organization plans to construct a 533,487-square-foot, three-building mixed-use development at 12040 Flatlands Avenue, 395 Louisiana Avenue and 12030 Flatlands Avenue in East New York. The buildings will stand between 12 and 14 stories tall and have a combined 599 housing units. Gloria Glas is the architect behind the project.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/15/chetrits-facing-more-distress-in-the-financial-district/",
+      "url": "https://therealdeal.com/new-york/2026/06/17/new-york-citys-top-construction-permits-june-12-2026/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-06-15T14:45:00.000Z"
+      "published_at": "2026-06-17T12:00:00.000Z"
     },
     {
-      "headline": "Gotham Organization files 2 plans totaling 375 units in East New York",
-      "summary": "Gotham Organization filed two plans totaling 375 units in East New York, Brooklyn. In the The post Gotham Organization files 2 plans totaling 375 units in East New York appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/gotham-organization-files-2-plans-totaling-375-units-in-east-new-york/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-06-16T00:07:00.000Z"
-    },
-    {
-      "headline": "Hawkins Way expands student housing bet with UWS buy",
-      "summary": "A West Coast real estate investor is increasingly paving the way for student housing deals on the other side of the country. Hawkins Way Capital acquired the student housing property at 117 West 70th Street on the Upper West Side of Manhattan for $80 million, the Commercial Observer reported. The seller of the Stratford Residence Hall was the AMDA College of the Performing Arts. Public databases put the property’s unit count at 382. That would mean a breakdown price of more than $209,000 per unit.…",
+      "headline": "NYC’s top deals: Ghislaine Maxwell’s former Lenox Hill townhouse sells for $17M",
+      "summary": "There were 187 transactions totaling $253 million filed in New York City records in the 24 hours before 4 p.m. on Tuesday, June 16. Commercial: The priciest commercial transaction to hit records was on Staten Island, where a vacant lot at 191 Canal Street traded for $10.5 million. The parcel measures 0.9 acres. The seller was a company managed by Nazim Bashirov of United Land Realty, and the buyer was a company tied to Sheldon Perl. Residential: Lenox Hill recorded the top home sale in the city.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/15/hawkins-way-spend-80m-on-uws-student-housing/",
+      "url": "https://therealdeal.com/new-york/2026/06/17/new-york-top-real-estate-deals-tuesday-june-16-2026/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-06-15T19:34:44.000Z"
+      "published_at": "2026-06-17T11:00:00.000Z"
     },
     {
-      "headline": "NYC condo sues former ‘SNL’ band member who tore through building in a violent rampage — seeking a forced sale of his home",
-      "summary": "An explosive new lawsuit details a frightening late-night outburst at the Admaston -- one allegedly so severe that board members are seeking to force him out.",
+      "headline": "Moscow Airport billionaire seeks $45M for NYC penthouse amid a massive global selling spree",
+      "summary": "The billionaire and his wife are rapidly trying to rid themselves of hundreds of millions of dollars of properties in their portfolio.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/06/12/real-estate/nyc-condo-sues-resident-who-tore-through-building-in-violent-rampage/",
+      "url": "https://nypost.com/2026/06/17/real-estate/valery-kogan-wants-45m-for-his-combo-nyc-penthouse/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-06-12T21:00:45.000Z"
+      "published_at": "2026-06-17T10:02:00.000Z"
     },
     {
-      "headline": "Ami Weinstock files plans for 97 units in Ridgewood",
-      "summary": "Ami Weinstock submitted a new building construction pr0ject for a 97-unit, 90,339-square-foot residential (R-2) building The post Ami Weinstock files plans for 97 units in Ridgewood appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/ami-weinstock-files-plans-for-97-units-in-ridgewood/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-06-16T15:10:00.000Z"
-    },
-    {
-      "headline": "Sandhu Group files plans for 76 units in Cypress Hills",
-      "summary": "Tejpal Sandhu of the Sandhu Group submitted a new building construction project for a 76-unit, The post Sandhu Group files plans for 76 units in Cypress Hills appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/tejpal-sandhu-files-plans-for-76-units-in-cypress-hills/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-06-16T14:45:00.000Z"
-    },
-    {
-      "headline": "99 units planned for Yossel Lichtman dev site in Greenpoint",
-      "summary": "A new building construction project for a 99-unit, 105,210-square-foot residential (R-2) development at 70 West The post 99 units planned for Yossel Lichtman dev site in Greenpoint appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/99-units-planned-for-yossel-lichtman-dev-site-in-greenpoint/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-06-16T14:20:00.000Z"
-    },
-    {
-      "headline": "How Mamdani cut $78B from housing plan, yet added units",
-      "summary": "The first thing I noticed about Mayor Zohran Mamdani’s housing plan, which he cleverly released while I was on vacation, was its $22 billion price tag. That was down from $100 billion during his mayoral campaign. Yet its goal remained 200,000 new affordable housing units, and he’d added the preservation of 200,000. Even $100 billion was an unrealistically low cost for 200,000 union-built, affordable homes — only $500,000 apiece. Obviously the city can’t build or preserve twice as many for $78 billion less.…",
+      "headline": "AG James sues landlords over rent-stabilized building violations",
+      "summary": "Two Brooklyn landlords are the first to face litigation under a rent stabilization compliance crackdown by Attorney General Letitia James, after New York State filed lawsuits alleging they failed to properly register regulated units, attempted illegal evictions and harassed tenants. The attorney general’s office brought the suits as part of a de facto rent stabilization compliance program, which seeks to enforce a 1974 law that categorizes buildings with five or fewer units built before that year to become…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/16/mamdani-shifts-from-social-housing-to-private-investment/",
+      "url": "https://therealdeal.com/new-york/2026/06/16/ny-ag-sues-owners-in-rent-stabilization-compliance-crackdown/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-06-16T13:00:00.000Z"
+      "published_at": "2026-06-17T00:04:07.000Z"
+    },
+    {
+      "headline": "HPD unveils fund for supportive housing preservation",
+      "summary": "Supportive housing across New York’s five boroughs will get a $1 billion infusion from the Department of Housing Preservation and Development, with a portion allocated to preserving the city’s stock of more than 30,000 affordable rental units that provide services to tenants at risk of homelessness and other challenges. The Supportive Preservation Program launched Tuesday will target only existing supportive housing stock for assistance to address financial needs and grant residential real estate tax…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/16/hpd-launches-1b-supportive-housing-preservation-fund/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-06-16T20:45:00.000Z"
+    },
+    {
+      "headline": "RGB member proposes “rent freeze for slumlords”",
+      "summary": "One member of New York’s Rent Guidelines Board is trying to get creative. The board, which controls the rents in rent-stabilized apartments, typically doesn’t differentiate between types of units. It’s a diverse housing stock, including both older buildings and new construction, but allowable increases are the same across the city. Last month, member Arpit Gupta submitted a proposal to set two numbers: a 2 percent increase for most landlords, and freeze in buildings with a high concentration of housing…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/16/rental-board-member-proposes-rent-freeze-for-slumlords/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-06-16T17:45:00.000Z"
+    },
+    {
+      "headline": "Glenwood Management signs $38M refi with Wells Fargo for 272-unit rental in Yorkville",
+      "summary": "Glenwood Management through the entity 92nd Realty LLC as borrower signed a refi loan with The post Glenwood Management signs $38M refi with Wells Fargo for 272-unit rental in Yorkville appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/glenwood-management-signs-38m-refi-with-wells-fargo-for-272-unit-rental-in-yorkville/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-06-17T12:38:00.000Z"
     }
   ]
 }
