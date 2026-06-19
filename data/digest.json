@@ -1,15 +1,15 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-06-18",
-  "generated_at": "2026-06-18T13:35:12.119Z",
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T13:40:52.584Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Cashmere Brand Kujten Picks Acadia’s 92 Greene Street for Second U.S. Location: French cashmere brand Kujten has leased a second Manhattan location less than a year after opening its first U.S. flagship along Madison Avenue.\n\nBistro Pardon My French Sets Up Shop at Jeff Sutton’s 373 Broome Street: Ooh la la. French-inspired bistro Pardon My French is coming to Manhattan’s SoHo neighborhood after signing a 1,000-square-foot lease at 373 Broome Street , a property owned in a joint venture between Jeff Sutton ’s Wharton Properties and Gorjian Real Estate Group, according to broker Meridian Capital Group .\n\nUlta Beauty Inks 26K-SF Deal at Jeff Sutton’s 1551 Broadway in Times Square: Skin care and cosmetics retailer Ulta Beauty has signed a deal to take over the entirety of Jeff Sutton ’s Times Square retail building at 1551 Broadway . Ulta inked a 26,000-square-foot lease for all four floors of the property located in Midtown’s bright and bustling Times Square, according to The Real Deal , which.\n\nJack Resnick & Sons Signs 58K SF of New Leases at 250 Hudson Street: Jack Resnick & Sons has signed three new office and retail tenants totaling 57,874 square feet at 250 Hudson Street in Manhattan’s Hudson Square neighborhood, Commercial Observer has learned.",
-    "cre_daily": "Retail Demand Surges as Developers Stay Sidelined: Retail demand continues to outpace new supply, driving rapid lease-ups and historically low vacancy rates. Grocery-anchored centers and service-oriented retail remain the most sought-after assets among investors and tenants.\n\nUS Retail Space Tightens as New Development Stalls: Retail landlords nationwide are at or near full occupancy, but new retail construction is stalled by high costs and uncertain economics. The tightest markets, like Texas, are driven by population growth and major grocery-anchored developments, while many regions see few new projects breaking ground.\n\nChelsea Piers Fitness Leads May NYC Retail Lease Ranking: Chelsea Piers Fitness preleased 76,000 SF at Seaport’s 250 Water Street, marking the largest retail lease in NYC for May. New York City’s top 10 retail leases in May spanned fitness, fashion, dining, and collectibles, with notable deals from Marshalls, House of Spells, and Coach.\n\nDrive-Thru Traffic Slides, Challenging Net Lease Retail: Short-duration, drive-thru visits to quick-service restaurants fell 6.8% year-over-year in May per Placer.ai. Full-service restaurants and experiential dining gained momentum even as drive-thru traffic declined.",
+    "commercial_observer": "Cashmere Brand Kujten Picks Acadia’s 92 Greene Street for Second U.S. Location: French cashmere brand Kujten has leased a second Manhattan location less than a year after opening its first U.S. flagship along Madison Avenue.\n\nBistro Pardon My French Sets Up Shop at Jeff Sutton’s 373 Broome Street: Ooh la la. French-inspired bistro Pardon My French is coming to Manhattan’s SoHo neighborhood after signing a 1,000-square-foot lease at 373 Broome Street , a property owned in a joint venture between Jeff Sutton ’s Wharton Properties and Gorjian Real Estate Group, according to broker Meridian Capital Group .\n\nNew Thai Restaurant to Open in 11K SF at 321 West 51st Street: One thing New York City doesn’t lack is a place to eat, and now there’s a new Thai restaurant from the restaurateurs behind Greenwich Village favorite Pranakhon coming to Manhattan’s Hell’s Kitchen neighborhood.\n\nWhole Foods Signs 10K-SF Lease for Bodega-Like Grocery Store in Bushwick: Whole Foods has selected Brooklyn’s bustling Bushwick neighborhood as the next location for its bodega-like market concept. The grocery chain owned by Amazon signed a 15-year, 10,000-square-foot lease at 1224 Flushing Avenue , a property owned by David Moore that is near the Jefferson Avenue L train stop, according to.",
+    "cre_daily": "Retail Demand Surges as Developers Stay Sidelined: Retail demand continues to outpace new supply, driving rapid lease-ups and historically low vacancy rates. Grocery-anchored centers and service-oriented retail remain the most sought-after assets among investors and tenants.\n\nChelsea Piers Fitness Leads May NYC Retail Lease Ranking: Chelsea Piers Fitness preleased 76,000 SF at Seaport’s 250 Water Street, marking the largest retail lease in NYC for May. New York City’s top 10 retail leases in May spanned fitness, fashion, dining, and collectibles, with notable deals from Marshalls, House of Spells, and Coach.\n\nDrive-Thru Traffic Slides, Challenging Net Lease Retail: Short-duration, drive-thru visits to quick-service restaurants fell 6.8% year-over-year in May per Placer.ai. Full-service restaurants and experiential dining gained momentum even as drive-thru traffic declined.\n\nURW Acquires Full Control Of San Diego’s Westfield UTC Mall: Unibail-Rodamco-Westfield is acquiring the remaining half of Westfield UTC for $705M. The 1M SF San Diego mall is set for further luxury expansion, with new brands arriving in 2026.",
     "new_york_post": "Penthouse asking $3.75M is the priciest-ever condo to list in this beachy corner of Queens: It's one of five penthouses at Lighthouse Beach Sixty-Seventh, a 12-story tower with 82 units at 141 Beach 67th St.\n\nMoscow Airport billionaire seeks $45M for NYC penthouse amid a massive global selling spree: The billionaire and his wife are rapidly trying to rid themselves of hundreds of millions of dollars of properties in their portfolio.",
-    "pincusco": "Edge Property signs $115M construction loan with S3 for 276-unit dev site in Washington Heights: Edge Property Group through the entity Edge Edgecombe Owner LLC as borrower signed a new.\n\nPalwinder Singh signs $10M construction loan for 32-unit project in LIC: Palwinder Singh through the entity 31st Street LIC Property LLC as borrower signed a new.\n\nJoseph Klein signs $8.2M construction loan for 6-unit walkup in Bedford Stuyvesant: Joseph Klein through the entity 735 Dekalb Realty LLC as borrower signed a new construction.\n\nJoel Schwartz signs $28.5M construction loan with S3 for 60-unit dev site in Bushwick: Joel Schwartz through the entity Grove Menahan BK LLC as borrower signed a new construction.",
-    "the_real_deal": "How big a trophy? Waldorf Astoria’s post-reno sale could set bar for NYC hotel market: News broke in February that the Chinese government-controlled company that owns the Waldorf Astoria was preparing to market the hotel portion less than a year after the building reopened.\n\nNYC’s top deals: Brooklyn school trades for $16M: There were 182 transactions totaling $277 million filed in New York City records in the 24 hours before 4 p.m. on Wednesday, June 17.\n\nChicago law firm signs 150K sf lease at 343 Madison: Law firms continue to drive some of New York City’s biggest commercial deals. McDermott Will & Schulte, a Chicago law firm, has signed a lease for roughly 150,000 square feet at BXP’s 343 Madison Avenue, the developer announced Tuesday.\n\nGotham Org files plans for next phase of East New York project: David Picket’s Gotham Organization is forging ahead with its multiphase affordable housing project in East New York. The firm filed applications for three buildings in the Brooklyn neighborhood that are part of its Urban Innovative Village complex, Crain’s reported."
+    "pincusco": "16 Handles owner pays $4.5M to Emigrant Bank for retail in East Village, plans froyo location: Neil Hershman, who owns 16 Handles franchise and additionally operates locations, through the entity Fillmore.\n\nBingo Wholesale grocer pays $50M for Bed-Stuy location, follows years of seller-family litigation: The Brooklyn-based grocer Bingo Wholesale paid $50 million for a Bedford Stuyvesant, Brooklyn, future grocery.\n\nRudin ups debt from $76M to $140M with PGIM for office in Flatiron District: Rudin Management through the entity 41 Madiosn L.P. as borrower signed a refi loan with.\n\nDavid Werner, 601W Companies’ $265.2M purchase of Rockpoint office in Midtown East gets recorded: David Werner Real Estate Investments and 601W Companies through the entity One Dag Owner Lp.",
+    "the_real_deal": "NYC’s top deals: Brooklyn school trades for $16M: There were 182 transactions totaling $277 million filed in New York City records in the 24 hours before 4 p.m. on Wednesday, June 17.\n\nThe Daily Dirt: A series of mysterious sales: Here’s a little mystery that I’ve uncovered but have yet to solve. Maybe you can shed some light on it.\n\nYellowstone nabs $480M construction loan for 1740 Broadway conversion: Two years after Isaac Hera’s Yellowstone Real Estate Investments bought the debt at 1740 Broadway, it’s advancing the project with a loan of its own. Yellowstone secured $480 million in construction financing for its office-to-residential conversion of the historic MONY building from Madison Realty Capital, Hera.\n\nNYC’s top deals: Williamsburg commercial properties sell for $50M: Commercial: The biggest commercial sale to hit records was in Brooklyn, where a nearly 38,000-square-foot commercial condo at 18 Warsoff Place sold along with a nearly 70,000-square-foot warehouse at 39 Walworth Street and vacant lot sold for $50 million. All properties take up most of a block in Williamsburg."
   },
   "items": [
     {
@@ -20,15 +20,6 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-06-07T14:06:00.000Z"
-    },
-    {
-      "headline": "US Retail Space Tightens as New Development Stalls",
-      "summary": "Retail landlords nationwide are at or near full occupancy, but new retail construction is stalled by high costs and uncertain economics. The tightest markets, like Texas, are driven by population growth and major grocery-anchored developments, while many regions see few new projects breaking ground. Landlords are buying leases out of bankruptcy to regain control of quality space as tenant churn and limited new supply influence retail real estate strategy nationwide.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/u-s-retail-space-tightens-as-new-development-stalls/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-06-05T08:45:33.000Z"
     },
     {
       "headline": "Cashmere Brand Kujten Picks Acadia’s 92 Greene Street for Second U.S. Location",
@@ -47,33 +38,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-06-16T15:48:07.000Z"
-    },
-    {
-      "headline": "Ulta Beauty Inks 26K-SF Deal at Jeff Sutton’s 1551 Broadway in Times Square",
-      "summary": "Skin care and cosmetics retailer Ulta Beauty has signed a deal to take over the entirety of Jeff Sutton ’s Times Square retail building at 1551 Broadway . Ulta inked a 26,000-square-foot lease for all four floors of the property located in Midtown’s bright and bustling Times Square, according to The Real Deal , which first reported the news. Ulta will replace clothing and accessories retailer American Eagle , which currently has a flagship store in the property at the corner of Broadway and West 46th Street.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/06/ulta-beauty-lease-jeff-sutton-1551-broadway-times-square/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-06-04T14:41:46.000Z"
-    },
-    {
-      "headline": "Jack Resnick & Sons Signs 58K SF of New Leases at 250 Hudson Street",
-      "summary": "Jack Resnick & Sons has signed three new office and retail tenants totaling 57,874 square feet at 250 Hudson Street in Manhattan’s Hudson Square neighborhood, Commercial Observer has learned. In the largest two deals, production company ProMedia and investment firm Galareana Holding each took 27,780 square feet, according to the landlord.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/06/jack-resnick-sons-leases-250-hudson-street/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-06-04T18:07:59.000Z"
-    },
-    {
-      "headline": "NewMark Merrill’s Future San Bernardino County Shopping Hub Signs 11 Tenants",
-      "summary": "A Southern California-based shopping center owner and development company said it has secured 11 more leases for a new project in Victorville, Calif., before shovels are even in the ground. 7-Eleven will open a 1-acre fuel station and convenience store, while Ross Dress For Less signed the other large new deal for 25,000 square feet at the development called Desert Sky Plaza II .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/06/calif-newmark-merrill-victorville/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-06-04T22:55:28.000Z"
     },
     {
       "headline": "Chelsea Piers Fitness Leads May NYC Retail Lease Ranking",
@@ -130,13 +94,13 @@
       "published_at": "2026-06-08T19:34:47.000Z"
     },
     {
-      "headline": "How big a trophy? Waldorf Astoria’s post-reno sale could set bar for NYC hotel market",
-      "summary": "News broke in February that the Chinese government-controlled company that owns the Waldorf Astoria was preparing to market the hotel portion less than a year after the building reopened. The prize property, originally built in 1931 and considered one of the fanciest hotels in the world, was closed for eight years for a renovation that transformed 1.6 million square feet of the landmarked hotel into 375 luxury rooms and 372 condominium units with public spaces as lavish as in the original.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/17/waldorf-astoria-sale-could-set-bar-for-nyc-hotel-values/",
-      "section": "the_real_deal",
+      "headline": "Toys and Collectibles Fuel Booming US Retail Foot Traffic",
+      "summary": "Toys and collectibles are rapidly boosting foot traffic and sales for US retailers, drawing demand from Gen Z, Millennials, and older buyers alike. Brands employ scarcity tactics and viral social trends, while global companies like Pop Mart and Miniso expand their US retail footprints to capitalize on the craze. The collectibles surge is reshaping retail leasing dynamics—offering landlords, developers, and brokers new opportunities for high-frequency, intent-driven tenants.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/toys-and-collectibles-fuel-booming-us-retail-foot-traffic/",
+      "section": "cre_daily",
       "retail": true,
-      "published_at": "2026-06-17T13:00:00.000Z"
+      "published_at": "2026-06-13T10:36:12.000Z"
     },
     {
       "headline": "NYC’s top deals: Brooklyn school trades for $16M",
@@ -148,13 +112,13 @@
       "published_at": "2026-06-18T11:00:00.000Z"
     },
     {
-      "headline": "Chicago law firm signs 150K sf lease at 343 Madison",
-      "summary": "Law firms continue to drive some of New York City’s biggest commercial deals. McDermott Will & Schulte, a Chicago law firm, has signed a lease for roughly 150,000 square feet at BXP’s 343 Madison Avenue, the developer announced Tuesday. The new tenant will occupy the 31st through 37th floors of the planned 46-story office tower, Crain’s New York Business reported. At 343 Madison, McDermott Will & Schulte will join global investment and insurance organization Starr.…",
+      "headline": "The Daily Dirt: A series of mysterious sales",
+      "summary": "Here’s a little mystery that I’ve uncovered but have yet to solve. Maybe you can shed some light on it. The Real Deal reported in February 2025 that 312 East 106th Street in East Harlem sold for just $285,110, a 97 percent discount from its 2016 sale. It seemed like an example of a rent-stabilized building being eviscerated by the 2019 Housing Stability and Tenant Protection Act. It had an air of plausibility because the previous buyer had been Isaac Kassirer’s train wreck known as Emerald Equity Group.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/17/chicago-law-firm-signs-a-lease-at-bxps-343-madison-avenue/",
+      "url": "https://therealdeal.com/new-york/2026/06/19/mysterious-sales-of-east-harlem-rent-stabilized-building/",
       "section": "the_real_deal",
       "retail": true,
-      "published_at": "2026-06-17T15:00:00.000Z"
+      "published_at": "2026-06-19T11:30:00.000Z"
     },
     {
       "headline": "France’s Junk Smash Burgers Enters U.S. With New Store in SoHo",
@@ -164,6 +128,24 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-06-09T22:33:26.000Z"
+    },
+    {
+      "headline": "16 Handles owner pays $4.5M to Emigrant Bank for retail in East Village, plans froyo location",
+      "summary": "Neil Hershman, who owns 16 Handles franchise and additionally operates locations, through the entity Fillmore The post 16 Handles owner pays $4.5M to Emigrant Bank for retail in East Village, plans froyo location appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/16-handles-owner-pays-4-5m-to-emigrant-bank-for-retail-in-east-village/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-06-19T12:57:00.000Z"
+    },
+    {
+      "headline": "Fintech Firm Digital Asset Returns to 4 WTC With 19K-SF Lease",
+      "summary": "It’s a full-circle moment for fintech firm Digital Asset . The company has signed a 19,000-square-foot lease at 4 World Trade Center , Commercial Observer has learned. Digital Asset will return to the same building it occupied from 2018 until it moved to 107 Greenwich Street in March 2025. The new lease length is for 10 years, with an asking rent of $115 per square foot, a source close to the deal told CO.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/digital-asset-lease-4-wtc/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-06-19T12:00:09.000Z"
     },
     {
       "headline": "French Cafe L’Ami Pierre to Open at Midtown’s 400 Madison Avenue",
@@ -184,40 +166,40 @@
       "published_at": "2026-06-05T15:57:41.000Z"
     },
     {
-      "headline": "Edge Property signs $115M construction loan with S3 for 276-unit dev site in Washington Heights",
-      "summary": "Edge Property Group through the entity Edge Edgecombe Owner LLC as borrower signed a new The post Edge Property signs $115M construction loan with S3 for 276-unit dev site in Washington Heights appeared first on PincusCo .",
+      "headline": "Bingo Wholesale grocer pays $50M for Bed-Stuy location, follows years of seller-family litigation",
+      "summary": "The Brooklyn-based grocer Bingo Wholesale paid $50 million for a Bedford Stuyvesant, Brooklyn, future grocery The post Bingo Wholesale grocer pays $50M for Bed-Stuy location, follows years of seller-family litigation appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/edge-property-group-signs-115m-construction-loan-with-s3-for-nine-properties-in-washington-heights/",
+      "url": "https://www.pincusco.com/bingo-wholesale-grocer-pays-50m-for-bed-stuy-location-follows-years-of-seller-family-litigation/",
       "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-06-18T13:11:00.000Z"
+      "retail": true,
+      "published_at": "2026-06-19T12:14:00.000Z"
     },
     {
-      "headline": "Palwinder Singh signs $10M construction loan for 32-unit project in LIC",
-      "summary": "Palwinder Singh through the entity 31st Street LIC Property LLC as borrower signed a new The post Palwinder Singh signs $10M construction loan for 32-unit project in LIC appeared first on PincusCo .",
+      "headline": "Rudin ups debt from $76M to $140M with PGIM for office in Flatiron District",
+      "summary": "Rudin Management through the entity 41 Madiosn L.P. as borrower signed a refi loan with The post Rudin ups debt from $76M to $140M with PGIM for office in Flatiron District appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/palwinder-singh-signs-10m-construction-loan-for-32-unit-project-in-lic/",
+      "url": "https://www.pincusco.com/rudin-ups-debt-from-76m-to-140m-with-pgim-for-office-in-flatiron-district/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-06-18T11:58:00.000Z"
+      "published_at": "2026-06-19T13:24:00.000Z"
     },
     {
-      "headline": "Joseph Klein signs $8.2M construction loan for 6-unit walkup in Bedford Stuyvesant",
-      "summary": "Joseph Klein through the entity 735 Dekalb Realty LLC as borrower signed a new construction The post Joseph Klein signs $8.2M construction loan for 6-unit walkup in Bedford Stuyvesant appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/joseph-klein-signs-8-2m-construction-loan-for-6-unit-walkup-in-bedford-stuyvesant/",
-      "section": "pincusco",
+      "headline": "Yellowstone nabs $480M construction loan for 1740 Broadway conversion",
+      "summary": "Two years after Isaac Hera’s Yellowstone Real Estate Investments bought the debt at 1740 Broadway, it’s advancing the project with a loan of its own. Yellowstone secured $480 million in construction financing for its office-to-residential conversion of the historic MONY building from Madison Realty Capital, Hera announced on LinkedIn. In April 2024, Hera’s firm paid nearly $200 million to acquire the roughly 600,000-square-foot building.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/18/yellowstone-snags-480m-construction-loan-for-1740-broadway/",
+      "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-06-18T11:52:00.000Z"
+      "published_at": "2026-06-18T14:48:52.000Z"
     },
     {
-      "headline": "Joel Schwartz signs $28.5M construction loan with S3 for 60-unit dev site in Bushwick",
-      "summary": "Joel Schwartz through the entity Grove Menahan BK LLC as borrower signed a new construction The post Joel Schwartz signs $28.5M construction loan with S3 for 60-unit dev site in Bushwick appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/joel-schwartz-signs-28-5m-construction-loan-with-s3-for-60-unit-dev-site-in-bushwick/",
-      "section": "pincusco",
+      "headline": "NYC’s top deals: Williamsburg commercial properties sell for $50M",
+      "summary": "Commercial: The biggest commercial sale to hit records was in Brooklyn, where a nearly 38,000-square-foot commercial condo at 18 Warsoff Place sold along with a nearly 70,000-square-foot warehouse at 39 Walworth Street and vacant lot sold for $50 million. All properties take up most of a block in Williamsburg. The sellers were companies managed by Abraham Follman, and the buyer was Norworth Holdings LLC.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/19/new-york-top-real-estate-deals-thursday-june-18-2026/",
+      "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-06-18T11:46:00.000Z"
+      "published_at": "2026-06-19T11:00:00.000Z"
     },
     {
       "headline": "Penthouse asking $3.75M is the priciest-ever condo to list in this beachy corner of Queens",
@@ -229,15 +211,6 @@
       "published_at": "2026-06-17T16:19:25.000Z"
     },
     {
-      "headline": "Gotham Org files plans for next phase of East New York project",
-      "summary": "David Picket’s Gotham Organization is forging ahead with its multiphase affordable housing project in East New York. The firm filed applications for three buildings in the Brooklyn neighborhood that are part of its Urban Innovative Village complex, Crain’s reported. The three buildings that make up the second phase of the project will combine for 599 permanently affordable housing units, according to the Commercial Observer, and one of the trio will be for senior housing.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/17/gotham-org-files-plans-for-next-phase-in-east-new-york/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-06-17T14:45:48.000Z"
-    },
-    {
       "headline": "Moscow Airport billionaire seeks $45M for NYC penthouse amid a massive global selling spree",
       "summary": "The billionaire and his wife are rapidly trying to rid themselves of hundreds of millions of dollars of properties in their portfolio.",
       "source": "New York Post",
@@ -247,13 +220,31 @@
       "published_at": "2026-06-17T10:02:00.000Z"
     },
     {
-      "headline": "Arkview Capital acquires Midtown West parking from Tribeach Holdings in $6M deed-in-lieu",
-      "summary": "Arkview Capital through the entity Ark FP Holdings Llc acquired from Tribeach Holdings through the The post Arkview Capital acquires Midtown West parking from Tribeach Holdings in $6M deed-in-lieu appeared first on PincusCo .",
+      "headline": "David Werner, 601W Companies’ $265.2M purchase of Rockpoint office in Midtown East gets recorded",
+      "summary": "David Werner Real Estate Investments and 601W Companies through the entity One Dag Owner Lp The post David Werner, 601W Companies’ $265.2M purchase of Rockpoint office in Midtown East gets recorded appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/arkview-capital-pays-6m-to-tribeach-holdings-for-parking-space-in-midtown-west/",
+      "url": "https://www.pincusco.com/david-werner-601w-companiess-265-2m-purchase-of-rockpoint-office-in-midtown-east-gets-recorded/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-06-18T13:04:00.000Z"
+      "published_at": "2026-06-19T12:33:00.000Z"
+    },
+    {
+      "headline": "The Data Drop: GSA’s rent bill vs. DOGE",
+      "summary": "You’re currently enjoying free access to this subscriber-only newsletter. If you find it valuable and want it delivered to your inbox every week, subscribe to TRD Data. Welcome to The Data Drop by TRD Data, a weekly look at the numbers shaping real estate. This week, we revisited a question we first explored last year: What happened to the federal office leases targeted by the Department of Government Efficiency, or DOGE? Cost-cutting has been a centerpiece of President Donald Trump’s second term.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/19/the-impact-of-doges-federal-rent-cuts/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-06-19T12:00:00.000Z"
+    },
+    {
+      "headline": "ZD Jasper files plans for 99 units in Astoria",
+      "summary": "ZD Jasper Realty submitted a new building construction project for a 99-unit, 120,490-square-foot residential (R-2) The post ZD Jasper files plans for 99 units in Astoria appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/zd-jasper-files-plans-for-99-units-in-astoria/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-06-19T11:41:00.000Z"
     },
     {
       "headline": "A most unlikely project",
@@ -265,22 +256,31 @@
       "published_at": "2026-06-18T13:00:00.000Z"
     },
     {
-      "headline": "“Podfather” drops $17M at Extell’s Lincoln Square tower",
-      "summary": "One of the leading engineers behind the iPod has hit pause on his search for his next property. Jon Rubinstein, known as the “Podfather” for his role in leading the engineering team behind Apple’s first iPod, spent $17.1 million on a condo at Extell Development’s new development project at 50 West 66th Street in Lincoln Square, according to public records. The closing price is over $500,000 more than the last asking price for Unit 40W.…",
+      "headline": "Free at last? Charles Cohen pays off $187M Fortress debt",
+      "summary": "After years of litigation, a weight has been lifted off billionaire Charles Cohen. Cohen has satisfied his debt of more than $187 million to Fortress Investment Group, according to a document filed in New York Supreme Court Thursday. “Charles Cohen has always honored his personal obligations,” said David López, general counsel of Cohen Brothers Realty. “The pay-off of the outstanding balance of the Fortress judgment is consistent with Mr.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/17/jon-rubinstein-drops-17m-at-extells-50-west-66th-street/",
+      "url": "https://therealdeal.com/new-york/2026/06/18/charles-cohen-pays-off-187-million-fortress-judgment/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-06-17T21:29:36.000Z"
+      "published_at": "2026-06-18T21:34:47.000Z"
     },
     {
-      "headline": "Educational Institute Oholei Torah of Brooklyn pays $16.1M for school in Crown Heights",
-      "summary": "Educational Institute Oholei Torah of Brooklyn through the entity Ot 402 Eastern LLC paid $16.1 The post Educational Institute Oholei Torah of Brooklyn pays $16.1M for school in Crown Heights appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/educational-institute-oholei-torah-of-brooklyn-pays-16-1m-to-taormina-holding-for-specialty-in-crown-heights/",
-      "section": "pincusco",
+      "headline": "Alleged rental scammer dodges accountability despite years of complaints",
+      "summary": "A Queens apartment broker stripped of his real estate license more than a decade ago allegedly continued collecting deposits from desperate renters for years, exposing gaps in the city’s consumer protection and housing enforcement systems. At least a dozen renters say David Michael took deposits ranging from a few hundred dollars to several thousand dollars for apartments they never ultimately rented, then refused to return the money when deals fell apart, according to Gothamist.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/18/alleged-queens-rental-scammer-dodges-accountability/",
+      "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-06-18T12:45:00.000Z"
+      "published_at": "2026-06-18T19:04:18.000Z"
+    },
+    {
+      "headline": "Real estate getting drama treatment at Hulu",
+      "summary": "Real estate’s dramatics know no bounds, which will be on full display with a forthcoming Hulu series. George Stephanopoulos and Ali Wentworth are executive producing “The Pinnacle” at the streaming series, Deadline reported. The drama is being written by Damon Cardasis, who has been nominated for multiple awards. The series — which licenses content from The Real Deal in its pilot — is set in New York City and follows the journey of a man who becomes exposed to the upper class while serving as a sobriety…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/18/real-estate-getting-drama-treatment-with-hulu-series/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-06-18T17:33:07.000Z"
     }
   ]
 }
