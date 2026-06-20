@@ -1,15 +1,15 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-06-19",
-  "generated_at": "2026-06-19T13:40:52.584Z",
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T12:03:59.104Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Cashmere Brand Kujten Picks Acadia’s 92 Greene Street for Second U.S. Location: French cashmere brand Kujten has leased a second Manhattan location less than a year after opening its first U.S. flagship along Madison Avenue.\n\nBistro Pardon My French Sets Up Shop at Jeff Sutton’s 373 Broome Street: Ooh la la. French-inspired bistro Pardon My French is coming to Manhattan’s SoHo neighborhood after signing a 1,000-square-foot lease at 373 Broome Street , a property owned in a joint venture between Jeff Sutton ’s Wharton Properties and Gorjian Real Estate Group, according to broker Meridian Capital Group .\n\nNew Thai Restaurant to Open in 11K SF at 321 West 51st Street: One thing New York City doesn’t lack is a place to eat, and now there’s a new Thai restaurant from the restaurateurs behind Greenwich Village favorite Pranakhon coming to Manhattan’s Hell’s Kitchen neighborhood.\n\nWhole Foods Signs 10K-SF Lease for Bodega-Like Grocery Store in Bushwick: Whole Foods has selected Brooklyn’s bustling Bushwick neighborhood as the next location for its bodega-like market concept. The grocery chain owned by Amazon signed a 15-year, 10,000-square-foot lease at 1224 Flushing Avenue , a property owned by David Moore that is near the Jefferson Avenue L train stop, according to.",
     "cre_daily": "Retail Demand Surges as Developers Stay Sidelined: Retail demand continues to outpace new supply, driving rapid lease-ups and historically low vacancy rates. Grocery-anchored centers and service-oriented retail remain the most sought-after assets among investors and tenants.\n\nChelsea Piers Fitness Leads May NYC Retail Lease Ranking: Chelsea Piers Fitness preleased 76,000 SF at Seaport’s 250 Water Street, marking the largest retail lease in NYC for May. New York City’s top 10 retail leases in May spanned fitness, fashion, dining, and collectibles, with notable deals from Marshalls, House of Spells, and Coach.\n\nDrive-Thru Traffic Slides, Challenging Net Lease Retail: Short-duration, drive-thru visits to quick-service restaurants fell 6.8% year-over-year in May per Placer.ai. Full-service restaurants and experiential dining gained momentum even as drive-thru traffic declined.\n\nURW Acquires Full Control Of San Diego’s Westfield UTC Mall: Unibail-Rodamco-Westfield is acquiring the remaining half of Westfield UTC for $705M. The 1M SF San Diego mall is set for further luxury expansion, with new brands arriving in 2026.",
-    "new_york_post": "Penthouse asking $3.75M is the priciest-ever condo to list in this beachy corner of Queens: It's one of five penthouses at Lighthouse Beach Sixty-Seventh, a 12-story tower with 82 units at 141 Beach 67th St.\n\nMoscow Airport billionaire seeks $45M for NYC penthouse amid a massive global selling spree: The billionaire and his wife are rapidly trying to rid themselves of hundreds of millions of dollars of properties in their portfolio.",
+    "new_york_post": "Penthouse asking $3.75M is the priciest-ever condo to list in this beachy corner of Queens: It's one of five penthouses at Lighthouse Beach Sixty-Seventh, a 12-story tower with 82 units at 141 Beach 67th St.\n\nDeep-pocketed buyers rush to buy ahead of the looming pied-a-terre tax as West Village tower hits $1 billion in contracts: Is the West Side Highway the new Billionaires’ Row?\n\nGhislaine Maxwell’s five-story UES townhome, once used for lavish parties, sells for $16.5M: The glam townhouse was where Maxwell once hosted champagne-soaked dinner parties and charity galas for New York’s elite.",
     "pincusco": "16 Handles owner pays $4.5M to Emigrant Bank for retail in East Village, plans froyo location: Neil Hershman, who owns 16 Handles franchise and additionally operates locations, through the entity Fillmore.\n\nBingo Wholesale grocer pays $50M for Bed-Stuy location, follows years of seller-family litigation: The Brooklyn-based grocer Bingo Wholesale paid $50 million for a Bedford Stuyvesant, Brooklyn, future grocery.\n\nRudin ups debt from $76M to $140M with PGIM for office in Flatiron District: Rudin Management through the entity 41 Madiosn L.P. as borrower signed a refi loan with.\n\nDavid Werner, 601W Companies’ $265.2M purchase of Rockpoint office in Midtown East gets recorded: David Werner Real Estate Investments and 601W Companies through the entity One Dag Owner Lp.",
-    "the_real_deal": "NYC’s top deals: Brooklyn school trades for $16M: There were 182 transactions totaling $277 million filed in New York City records in the 24 hours before 4 p.m. on Wednesday, June 17.\n\nThe Daily Dirt: A series of mysterious sales: Here’s a little mystery that I’ve uncovered but have yet to solve. Maybe you can shed some light on it.\n\nYellowstone nabs $480M construction loan for 1740 Broadway conversion: Two years after Isaac Hera’s Yellowstone Real Estate Investments bought the debt at 1740 Broadway, it’s advancing the project with a loan of its own. Yellowstone secured $480 million in construction financing for its office-to-residential conversion of the historic MONY building from Madison Realty Capital, Hera.\n\nNYC’s top deals: Williamsburg commercial properties sell for $50M: Commercial: The biggest commercial sale to hit records was in Brooklyn, where a nearly 38,000-square-foot commercial condo at 18 Warsoff Place sold along with a nearly 70,000-square-foot warehouse at 39 Walworth Street and vacant lot sold for $50 million. All properties take up most of a block in Williamsburg."
+    "the_real_deal": "The Daily Dirt: A series of mysterious sales: Here’s a little mystery that I’ve uncovered but have yet to solve. Maybe you can shed some light on it.\n\nAby Rosen selling “Anna Delvey” building for $80M+: Aby Rosen’s got one last bit of intrigue at 281 Park Avenue South. Rosen’s RFR is in contract to sell the building — made famous by the scammer who went by Anna Delvey — to a mystery buyer for $81.5 million, The Real Deal has learned.\n\nYellowstone nabs $480M construction loan for 1740 Broadway conversion: Two years after Isaac Hera’s Yellowstone Real Estate Investments bought the debt at 1740 Broadway, it’s advancing the project with a loan of its own. Yellowstone secured $480 million in construction financing for its office-to-residential conversion of the historic MONY building from Madison Realty Capital, Hera.\n\nNYC’s top deals: Williamsburg commercial properties sell for $50M: Commercial: The biggest commercial sale to hit records was in Brooklyn, where a nearly 38,000-square-foot commercial condo at 18 Warsoff Place sold along with a nearly 70,000-square-foot warehouse at 39 Walworth Street and vacant lot sold for $50 million. All properties take up most of a block in Williamsburg."
   },
   "items": [
     {
@@ -103,15 +103,6 @@
       "published_at": "2026-06-13T10:36:12.000Z"
     },
     {
-      "headline": "NYC’s top deals: Brooklyn school trades for $16M",
-      "summary": "There were 182 transactions totaling $277 million filed in New York City records in the 24 hours before 4 p.m. on Wednesday, June 17. Commercial: The priciest commercial transaction was in Crown Heights, where Eastern Union Properties sold a school at 402 Eastern Parkway for $16.1 million. The buyer was an affiliate of the Educational Institute Oholei Torah of Brooklyn. The building stands three stories tall and measures more than 57,800 square feet. The sale breaks down to about $280 per square foot.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/18/new-york-top-real-estate-deals-wednesday-june-17-2026/",
-      "section": "the_real_deal",
-      "retail": true,
-      "published_at": "2026-06-18T11:00:00.000Z"
-    },
-    {
       "headline": "The Daily Dirt: A series of mysterious sales",
       "summary": "Here’s a little mystery that I’ve uncovered but have yet to solve. Maybe you can shed some light on it. The Real Deal reported in February 2025 that 312 East 106th Street in East Harlem sold for just $285,110, a 97 percent discount from its 2016 sale. It seemed like an example of a rent-stabilized building being eviscerated by the 2019 Housing Stability and Tenant Protection Act. It had an air of plausibility because the previous buyer had been Isaac Kassirer’s train wreck known as Emerald Equity Group.…",
       "source": "The Real Deal",
@@ -128,6 +119,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-06-09T22:33:26.000Z"
+    },
+    {
+      "headline": "Aby Rosen selling “Anna Delvey” building for $80M+",
+      "summary": "Aby Rosen’s got one last bit of intrigue at 281 Park Avenue South. Rosen’s RFR is in contract to sell the building — made famous by the scammer who went by Anna Delvey — to a mystery buyer for $81.5 million, The Real Deal has learned. The ornate, Beaux Arts-style landmark is empty after the former tenant Fotografiska left last year.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/19/aby-rosen-selling-anna-delvey-building-for-80m/",
+      "section": "the_real_deal",
+      "retail": true,
+      "published_at": "2026-06-19T14:29:29.000Z"
     },
     {
       "headline": "16 Handles owner pays $4.5M to Emigrant Bank for retail in East Village, plans froyo location",
@@ -155,15 +155,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-06-16T16:17:51.000Z"
-    },
-    {
-      "headline": "Sant Ambroeus Restaurant Coming to the Miami Design District",
-      "summary": "Popular Milanese restaurant Sant Ambroeus is set to open near the Miami Design District , Commercial Observer has learned. The New York-based hospitality company, Gherardo Guarducci ’s SA Hospitality Group , has signed a deal at Mirai Design District , the first mixed-use development in the U.S. designed by famed Japanese architect Kengo Kuma , according to sources familiar with the transaction.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/06/sant-ambroeus-mirai-miami-design-district-kengo-kuma/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-06-05T15:57:41.000Z"
     },
     {
       "headline": "Bingo Wholesale grocer pays $50M for Bed-Stuy location, follows years of seller-family litigation",
@@ -211,13 +202,13 @@
       "published_at": "2026-06-17T16:19:25.000Z"
     },
     {
-      "headline": "Moscow Airport billionaire seeks $45M for NYC penthouse amid a massive global selling spree",
-      "summary": "The billionaire and his wife are rapidly trying to rid themselves of hundreds of millions of dollars of properties in their portfolio.",
+      "headline": "Deep-pocketed buyers rush to buy ahead of the looming pied-a-terre tax as West Village tower hits $1 billion in contracts",
+      "summary": "Is the West Side Highway the new Billionaires’ Row?",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/06/17/real-estate/valery-kogan-wants-45m-for-his-combo-nyc-penthouse/",
+      "url": "https://nypost.com/2026/06/19/real-estate/buyers-rush-to-beat-pied-a-terre-tax-as-nyc-downtown-tower-hits-1-billion-in-contracts/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-06-17T10:02:00.000Z"
+      "published_at": "2026-06-19T18:23:31.000Z"
     },
     {
       "headline": "David Werner, 601W Companies’ $265.2M purchase of Rockpoint office in Midtown East gets recorded",
@@ -254,6 +245,15 @@
       "section": "the_real_deal",
       "retail": false,
       "published_at": "2026-06-18T13:00:00.000Z"
+    },
+    {
+      "headline": "Ghislaine Maxwell’s five-story UES townhome, once used for lavish parties, sells for $16.5M",
+      "summary": "The glam townhouse was where Maxwell once hosted champagne-soaked dinner parties and charity galas for New York’s elite.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/06/19/real-estate/ghislaine-maxwells-upper-east-side-townhouse-sells-for-16-5-million/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-06-19T17:09:22.000Z"
     },
     {
       "headline": "Free at last? Charles Cohen pays off $187M Fortress debt",
