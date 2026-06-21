@@ -1,15 +1,15 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-06-20",
-  "generated_at": "2026-06-20T12:03:59.104Z",
+  "date": "2026-06-21",
+  "generated_at": "2026-06-21T12:15:07.746Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Cashmere Brand Kujten Picks Acadia’s 92 Greene Street for Second U.S. Location: French cashmere brand Kujten has leased a second Manhattan location less than a year after opening its first U.S. flagship along Madison Avenue.\n\nBistro Pardon My French Sets Up Shop at Jeff Sutton’s 373 Broome Street: Ooh la la. French-inspired bistro Pardon My French is coming to Manhattan’s SoHo neighborhood after signing a 1,000-square-foot lease at 373 Broome Street , a property owned in a joint venture between Jeff Sutton ’s Wharton Properties and Gorjian Real Estate Group, according to broker Meridian Capital Group .\n\nNew Thai Restaurant to Open in 11K SF at 321 West 51st Street: One thing New York City doesn’t lack is a place to eat, and now there’s a new Thai restaurant from the restaurateurs behind Greenwich Village favorite Pranakhon coming to Manhattan’s Hell’s Kitchen neighborhood.\n\nWhole Foods Signs 10K-SF Lease for Bodega-Like Grocery Store in Bushwick: Whole Foods has selected Brooklyn’s bustling Bushwick neighborhood as the next location for its bodega-like market concept. The grocery chain owned by Amazon signed a 15-year, 10,000-square-foot lease at 1224 Flushing Avenue , a property owned by David Moore that is near the Jefferson Avenue L train stop, according to.",
     "cre_daily": "Retail Demand Surges as Developers Stay Sidelined: Retail demand continues to outpace new supply, driving rapid lease-ups and historically low vacancy rates. Grocery-anchored centers and service-oriented retail remain the most sought-after assets among investors and tenants.\n\nChelsea Piers Fitness Leads May NYC Retail Lease Ranking: Chelsea Piers Fitness preleased 76,000 SF at Seaport’s 250 Water Street, marking the largest retail lease in NYC for May. New York City’s top 10 retail leases in May spanned fitness, fashion, dining, and collectibles, with notable deals from Marshalls, House of Spells, and Coach.\n\nDrive-Thru Traffic Slides, Challenging Net Lease Retail: Short-duration, drive-thru visits to quick-service restaurants fell 6.8% year-over-year in May per Placer.ai. Full-service restaurants and experiential dining gained momentum even as drive-thru traffic declined.\n\nURW Acquires Full Control Of San Diego’s Westfield UTC Mall: Unibail-Rodamco-Westfield is acquiring the remaining half of Westfield UTC for $705M. The 1M SF San Diego mall is set for further luxury expansion, with new brands arriving in 2026.",
-    "new_york_post": "Penthouse asking $3.75M is the priciest-ever condo to list in this beachy corner of Queens: It's one of five penthouses at Lighthouse Beach Sixty-Seventh, a 12-story tower with 82 units at 141 Beach 67th St.\n\nDeep-pocketed buyers rush to buy ahead of the looming pied-a-terre tax as West Village tower hits $1 billion in contracts: Is the West Side Highway the new Billionaires’ Row?\n\nGhislaine Maxwell’s five-story UES townhome, once used for lavish parties, sells for $16.5M: The glam townhouse was where Maxwell once hosted champagne-soaked dinner parties and charity galas for New York’s elite.",
+    "new_york_post": "LA Graffiti Tower developer has insidious plot to make insane cash before tackling eyesore: Insiders: A bankruptcy court decision on the sale has been pushed back again to July 20 as the prospective buyer scrambles to convince the city hall that they can clean up the infamous three, graffiti-tagged towers.\n\nDeep-pocketed buyers rush to buy ahead of the looming pied-a-terre tax as West Village tower hits $1 billion in contracts: Is the West Side Highway the new Billionaires’ Row?\n\nGhislaine Maxwell’s five-story UES townhome, once used for lavish parties, sells for $16.5M: The glam townhouse was where Maxwell once hosted champagne-soaked dinner parties and charity galas for New York’s elite.",
     "pincusco": "16 Handles owner pays $4.5M to Emigrant Bank for retail in East Village, plans froyo location: Neil Hershman, who owns 16 Handles franchise and additionally operates locations, through the entity Fillmore.\n\nBingo Wholesale grocer pays $50M for Bed-Stuy location, follows years of seller-family litigation: The Brooklyn-based grocer Bingo Wholesale paid $50 million for a Bedford Stuyvesant, Brooklyn, future grocery.\n\nRudin ups debt from $76M to $140M with PGIM for office in Flatiron District: Rudin Management through the entity 41 Madiosn L.P. as borrower signed a refi loan with.\n\nDavid Werner, 601W Companies’ $265.2M purchase of Rockpoint office in Midtown East gets recorded: David Werner Real Estate Investments and 601W Companies through the entity One Dag Owner Lp.",
-    "the_real_deal": "The Daily Dirt: A series of mysterious sales: Here’s a little mystery that I’ve uncovered but have yet to solve. Maybe you can shed some light on it.\n\nAby Rosen selling “Anna Delvey” building for $80M+: Aby Rosen’s got one last bit of intrigue at 281 Park Avenue South. Rosen’s RFR is in contract to sell the building — made famous by the scammer who went by Anna Delvey — to a mystery buyer for $81.5 million, The Real Deal has learned.\n\nYellowstone nabs $480M construction loan for 1740 Broadway conversion: Two years after Isaac Hera’s Yellowstone Real Estate Investments bought the debt at 1740 Broadway, it’s advancing the project with a loan of its own. Yellowstone secured $480 million in construction financing for its office-to-residential conversion of the historic MONY building from Madison Realty Capital, Hera.\n\nNYC’s top deals: Williamsburg commercial properties sell for $50M: Commercial: The biggest commercial sale to hit records was in Brooklyn, where a nearly 38,000-square-foot commercial condo at 18 Warsoff Place sold along with a nearly 70,000-square-foot warehouse at 39 Walworth Street and vacant lot sold for $50 million. All properties take up most of a block in Williamsburg."
+    "the_real_deal": "The Daily Dirt: A series of mysterious sales: Here’s a little mystery that I’ve uncovered but have yet to solve. Maybe you can shed some light on it.\n\nAby Rosen selling “Anna Delvey” building for $80M+: Aby Rosen’s got one last bit of intrigue at 281 Park Avenue South. Rosen’s RFR is in contract to sell the building — made famous by the scammer who went by Anna Delvey — to a mystery buyer for $81.5 million, The Real Deal has learned.\n\nThe challenge of cheap markets: Studios for $1,050 a month, one-bedrooms for $1,310 and two-bedrooms for $1,525. Those are actual asking rents for “high end,” downtown, market-rate units in the Erdace Apartments, “the epitome of a luxe residence.” As you might guess, they are not in New York City.\n\nAndrew Heiberger, Howard Lev jump on boutique condo boom with Flatiron townhouse: As luxury buyers swing toward boutique new developments and move-in-ready townhouses in New York City, developers Buttonwood’s Andrew Heiberger and Wheelhouse Property’s Howard Lev are looking to cash in on both. The duo is behind a planned three-unit project at 32 East 22nd Street, dubbed the London Clay Townhouse."
   },
   "items": [
     {
@@ -166,6 +166,15 @@
       "published_at": "2026-06-19T12:14:00.000Z"
     },
     {
+      "headline": "LA Graffiti Tower developer has insidious plot to make insane cash before tackling eyesore: Insiders",
+      "summary": "A bankruptcy court decision on the sale has been pushed back again to July 20 as the prospective buyer scrambles to convince the city hall that they can clean up the infamous three, graffiti-tagged towers.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/06/20/real-estate/las-graffiti-towers-face-another-delay-as-470m-oceanwide-plaza-sale-stalls/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-06-20T19:07:09.000Z"
+    },
+    {
       "headline": "Rudin ups debt from $76M to $140M with PGIM for office in Flatiron District",
       "summary": "Rudin Management through the entity 41 Madiosn L.P. as borrower signed a refi loan with The post Rudin ups debt from $76M to $140M with PGIM for office in Flatiron District appeared first on PincusCo .",
       "source": "PincusCo",
@@ -175,13 +184,22 @@
       "published_at": "2026-06-19T13:24:00.000Z"
     },
     {
-      "headline": "Yellowstone nabs $480M construction loan for 1740 Broadway conversion",
-      "summary": "Two years after Isaac Hera’s Yellowstone Real Estate Investments bought the debt at 1740 Broadway, it’s advancing the project with a loan of its own. Yellowstone secured $480 million in construction financing for its office-to-residential conversion of the historic MONY building from Madison Realty Capital, Hera announced on LinkedIn. In April 2024, Hera’s firm paid nearly $200 million to acquire the roughly 600,000-square-foot building.…",
+      "headline": "The challenge of cheap markets",
+      "summary": "Studios for $1,050 a month, one-bedrooms for $1,310 and two-bedrooms for $1,525. Those are actual asking rents for “high end,” downtown, market-rate units in the Erdace Apartments, “the epitome of a luxe residence.” As you might guess, they are not in New York City. They’re in downtown Lake Charles, Louisiana. These markets might as well be on different planets.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/18/yellowstone-snags-480m-construction-loan-for-1740-broadway/",
+      "url": "https://therealdeal.com/new-york/2026/06/20/can-luxury-rentals-pencil-out-in-lake-charles-louisiana/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-06-18T14:48:52.000Z"
+      "published_at": "2026-06-20T13:00:00.000Z"
+    },
+    {
+      "headline": "Andrew Heiberger, Howard Lev jump on boutique condo boom with Flatiron townhouse",
+      "summary": "As luxury buyers swing toward boutique new developments and move-in-ready townhouses in New York City, developers Buttonwood’s Andrew Heiberger and Wheelhouse Property’s Howard Lev are looking to cash in on both. The duo is behind a planned three-unit project at 32 East 22nd Street, dubbed the London Clay Townhouse. A spokesperson for the project said the developers plan to launch sales in the summer.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/20/andrew-heiberger-howard-lev-jump-on-boutique-condo-boom/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-06-20T13:00:00.000Z"
     },
     {
       "headline": "NYC’s top deals: Williamsburg commercial properties sell for $50M",
@@ -191,15 +209,6 @@
       "section": "the_real_deal",
       "retail": false,
       "published_at": "2026-06-19T11:00:00.000Z"
-    },
-    {
-      "headline": "Penthouse asking $3.75M is the priciest-ever condo to list in this beachy corner of Queens",
-      "summary": "It's one of five penthouses at Lighthouse Beach Sixty-Seventh, a 12-story tower with 82 units at 141 Beach 67th St.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/06/17/real-estate/3-75m-penthouse-is-the-priciest-condo-in-the-rockaways/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-06-17T16:19:25.000Z"
     },
     {
       "headline": "Deep-pocketed buyers rush to buy ahead of the looming pied-a-terre tax as West Village tower hits $1 billion in contracts",
@@ -238,13 +247,13 @@
       "published_at": "2026-06-19T11:41:00.000Z"
     },
     {
-      "headline": "A most unlikely project",
-      "summary": "Few people passing 2031 Eastern Parkway would have given it much thought. The parking lot for buses was obscured by graffiti-stewn fencing and zoned for one story of manufacturing. I’ve probably driven past it a hundred times after exiting the Jackie Robinson Parkway at Bushwick Avenue. But it was just what Adam Zeidel was looking for. The Coconut Properties principal saw its potential to provide hundreds of affordable homes and create value out of thin air.…",
+      "headline": "Lawsuit casts Riverside, Nussbaum Lowinger as architects of sprawling scheme",
+      "summary": "A federal lawsuit is pulling back the curtain on what may be one of the most extensive alleged real estate fraud operations to emerge from New York’s investment sales world in years. Lakewood-based Blueberry Funding and Florida lender EADMK sued Riverside Abstract, the defunct law firm Nussbaum Lowinger and a roster of executives tied to both companies, alleging they orchestrated a years-long scheme that relied on fraudulent property flips, misappropriated escrow funds and concealed kickbacks through charitable…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/18/developer-taps-cornell-doctrine-to-build-housing-on-bus-lot/",
+      "url": "https://therealdeal.com/new-york/2026/06/20/lawsuit-cast-riverside-nussbaum-lowinger-as-schemers/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-06-18T13:00:00.000Z"
+      "published_at": "2026-06-20T13:00:00.000Z"
     },
     {
       "headline": "Ghislaine Maxwell’s five-story UES townhome, once used for lavish parties, sells for $16.5M",
@@ -272,15 +281,6 @@
       "section": "the_real_deal",
       "retail": false,
       "published_at": "2026-06-18T19:04:18.000Z"
-    },
-    {
-      "headline": "Real estate getting drama treatment at Hulu",
-      "summary": "Real estate’s dramatics know no bounds, which will be on full display with a forthcoming Hulu series. George Stephanopoulos and Ali Wentworth are executive producing “The Pinnacle” at the streaming series, Deadline reported. The drama is being written by Damon Cardasis, who has been nominated for multiple awards. The series — which licenses content from The Real Deal in its pilot — is set in New York City and follows the journey of a man who becomes exposed to the upper class while serving as a sobriety…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/18/real-estate-getting-drama-treatment-with-hulu-series/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-06-18T17:33:07.000Z"
     }
   ]
 }
