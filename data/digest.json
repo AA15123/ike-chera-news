@@ -1,26 +1,17 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-06-21",
-  "generated_at": "2026-06-21T12:15:07.746Z",
+  "date": "2026-06-22",
+  "generated_at": "2026-06-22T15:28:47.825Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Cashmere Brand Kujten Picks Acadia’s 92 Greene Street for Second U.S. Location: French cashmere brand Kujten has leased a second Manhattan location less than a year after opening its first U.S. flagship along Madison Avenue.\n\nBistro Pardon My French Sets Up Shop at Jeff Sutton’s 373 Broome Street: Ooh la la. French-inspired bistro Pardon My French is coming to Manhattan’s SoHo neighborhood after signing a 1,000-square-foot lease at 373 Broome Street , a property owned in a joint venture between Jeff Sutton ’s Wharton Properties and Gorjian Real Estate Group, according to broker Meridian Capital Group .\n\nNew Thai Restaurant to Open in 11K SF at 321 West 51st Street: One thing New York City doesn’t lack is a place to eat, and now there’s a new Thai restaurant from the restaurateurs behind Greenwich Village favorite Pranakhon coming to Manhattan’s Hell’s Kitchen neighborhood.\n\nWhole Foods Signs 10K-SF Lease for Bodega-Like Grocery Store in Bushwick: Whole Foods has selected Brooklyn’s bustling Bushwick neighborhood as the next location for its bodega-like market concept. The grocery chain owned by Amazon signed a 15-year, 10,000-square-foot lease at 1224 Flushing Avenue , a property owned by David Moore that is near the Jefferson Avenue L train stop, according to.",
-    "cre_daily": "Retail Demand Surges as Developers Stay Sidelined: Retail demand continues to outpace new supply, driving rapid lease-ups and historically low vacancy rates. Grocery-anchored centers and service-oriented retail remain the most sought-after assets among investors and tenants.\n\nChelsea Piers Fitness Leads May NYC Retail Lease Ranking: Chelsea Piers Fitness preleased 76,000 SF at Seaport’s 250 Water Street, marking the largest retail lease in NYC for May. New York City’s top 10 retail leases in May spanned fitness, fashion, dining, and collectibles, with notable deals from Marshalls, House of Spells, and Coach.\n\nDrive-Thru Traffic Slides, Challenging Net Lease Retail: Short-duration, drive-thru visits to quick-service restaurants fell 6.8% year-over-year in May per Placer.ai. Full-service restaurants and experiential dining gained momentum even as drive-thru traffic declined.\n\nURW Acquires Full Control Of San Diego’s Westfield UTC Mall: Unibail-Rodamco-Westfield is acquiring the remaining half of Westfield UTC for $705M. The 1M SF San Diego mall is set for further luxury expansion, with new brands arriving in 2026.",
-    "new_york_post": "LA Graffiti Tower developer has insidious plot to make insane cash before tackling eyesore: Insiders: A bankruptcy court decision on the sale has been pushed back again to July 20 as the prospective buyer scrambles to convince the city hall that they can clean up the infamous three, graffiti-tagged towers.\n\nDeep-pocketed buyers rush to buy ahead of the looming pied-a-terre tax as West Village tower hits $1 billion in contracts: Is the West Side Highway the new Billionaires’ Row?\n\nGhislaine Maxwell’s five-story UES townhome, once used for lavish parties, sells for $16.5M: The glam townhouse was where Maxwell once hosted champagne-soaked dinner parties and charity galas for New York’s elite.",
-    "pincusco": "16 Handles owner pays $4.5M to Emigrant Bank for retail in East Village, plans froyo location: Neil Hershman, who owns 16 Handles franchise and additionally operates locations, through the entity Fillmore.\n\nBingo Wholesale grocer pays $50M for Bed-Stuy location, follows years of seller-family litigation: The Brooklyn-based grocer Bingo Wholesale paid $50 million for a Bedford Stuyvesant, Brooklyn, future grocery.\n\nRudin ups debt from $76M to $140M with PGIM for office in Flatiron District: Rudin Management through the entity 41 Madiosn L.P. as borrower signed a refi loan with.\n\nDavid Werner, 601W Companies’ $265.2M purchase of Rockpoint office in Midtown East gets recorded: David Werner Real Estate Investments and 601W Companies through the entity One Dag Owner Lp.",
-    "the_real_deal": "The Daily Dirt: A series of mysterious sales: Here’s a little mystery that I’ve uncovered but have yet to solve. Maybe you can shed some light on it.\n\nAby Rosen selling “Anna Delvey” building for $80M+: Aby Rosen’s got one last bit of intrigue at 281 Park Avenue South. Rosen’s RFR is in contract to sell the building — made famous by the scammer who went by Anna Delvey — to a mystery buyer for $81.5 million, The Real Deal has learned.\n\nThe challenge of cheap markets: Studios for $1,050 a month, one-bedrooms for $1,310 and two-bedrooms for $1,525. Those are actual asking rents for “high end,” downtown, market-rate units in the Erdace Apartments, “the epitome of a luxe residence.” As you might guess, they are not in New York City.\n\nAndrew Heiberger, Howard Lev jump on boutique condo boom with Flatiron townhouse: As luxury buyers swing toward boutique new developments and move-in-ready townhouses in New York City, developers Buttonwood’s Andrew Heiberger and Wheelhouse Property’s Howard Lev are looking to cash in on both. The duo is behind a planned three-unit project at 32 East 22nd Street, dubbed the London Clay Townhouse."
+    "cre_daily": "Chelsea Piers Fitness Leads May NYC Retail Lease Ranking: Chelsea Piers Fitness preleased 76,000 SF at Seaport’s 250 Water Street, marking the largest retail lease in NYC for May. New York City’s top 10 retail leases in May spanned fitness, fashion, dining, and collectibles, with notable deals from Marshalls, House of Spells, and Coach.\n\nDrive-Thru Traffic Slides, Challenging Net Lease Retail: Short-duration, drive-thru visits to quick-service restaurants fell 6.8% year-over-year in May per Placer.ai. Full-service restaurants and experiential dining gained momentum even as drive-thru traffic declined.\n\nURW Acquires Full Control Of San Diego’s Westfield UTC Mall: Unibail-Rodamco-Westfield is acquiring the remaining half of Westfield UTC for $705M. The 1M SF San Diego mall is set for further luxury expansion, with new brands arriving in 2026.\n\nTPG, Norges, Canadian Pensions Make $2B Grocery Retail Play: TPG and major Canadian and Norwegian investors acquired Echo Realty, a 230-property grocery-anchored retail platform, in a $2B transaction. The joint venture aims to scale Echo’s operations across the Midwest and Southeast, targeting stable, needs-based assets with leading grocers as anchors.",
+    "new_york_post": "K-Pop company DearU to open flagship store in Union Square: DearU, a global K-Pop company, will bring its US flagship and its first permanent brick-and-mortar store, to 24 Union Square East. Newmark’s Jeffrey Roseman and Drew Weiss are the exclusive leasing agents for the property’s owners, the S.\n\nLA Graffiti Tower developer has insidious plot to make insane cash before tackling eyesore: Insiders: A bankruptcy court decision on the sale has been pushed back again to July 20 as the prospective buyer scrambles to convince the city hall that they can clean up the infamous three, graffiti-tagged towers.\n\nFinal design for NYC Penn Station’s redevelopment one step closer — including how much it could cost: The pre-development phase will run through 2027, during which time Amtrak and the development partners said they will conduct “robust” community engagement before the final plan is completed.\n\nBooming town of Silverwood where homes are $400K and buyers have to sign ‘kindness’ waiver: The 9,000-acre project first grabbed headlines for its relatively affordable home prices — starting in the low $400,000s.",
+    "pincusco": "Jun Kil, Suk Chang pay $3M for retail in Queens Village: Jun Bum Kil and Suk Nyo Chang through the entity 216 Hillside LLC paid $3.\n\nJacob Schwimmer signs $55.3M refi with Goldman for new 100-unit rental in Crown Heights: Jacob Schwimmer through the entity 721 Lincoln Place Tenant LLC as borrower signed a refi.\n\nBastone family signs $5.8M loan with Galinn Fund for The Pine restaurant in Bronx: The Bastone family through the entity 1911-1913 Bronxdale Avenue Realty LLC as borrower signed a.\n\nMRR Development signs $200M refi with Bank Hapoalim for two properties in Midtown East: MRR Development through the entity Mrr 1326 LLC as borrower signed a refi loan with.",
+    "the_real_deal": "The Daily Dirt: A series of mysterious sales: Here’s a little mystery that I’ve uncovered but have yet to solve. Maybe you can shed some light on it.\n\nAby Rosen selling “Anna Delvey” building for $80M+: Aby Rosen’s got one last bit of intrigue at 281 Park Avenue South. Rosen’s RFR is in contract to sell the building — made famous by the scammer who went by Anna Delvey — to a mystery buyer for $81.5 million, The Real Deal has learned.\n\nSoloviev eyes record $400 rent at nearly full 9 West 57th Street: Manhattan office leasing is red-hot. But is it $400 a foot hot?\n\nThe challenge of cheap markets: Studios for $1,050 a month, one-bedrooms for $1,310 and two-bedrooms for $1,525. Those are actual asking rents for “high end,” downtown, market-rate units in the Erdace Apartments, “the epitome of a luxe residence.” As you might guess, they are not in New York City."
   },
   "items": [
-    {
-      "headline": "Retail Demand Surges as Developers Stay Sidelined",
-      "summary": "Retail demand continues to outpace new supply, driving rapid lease-ups and historically low vacancy rates. Grocery-anchored centers and service-oriented retail remain the most sought-after assets among investors and tenants. Institutional capital is increasing allocations to retail as pricing strengthens and financing conditions improve. Key Takeaways The US retail real estate market is experiencing a rare convergence , per GlobeSt. Tenant demand is surging while developers continue to sit on the sidelines.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/retail-demand-surges-as-developers-stay-sidelined/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-06-07T14:06:00.000Z"
-    },
     {
       "headline": "Cashmere Brand Kujten Picks Acadia’s 92 Greene Street for Second U.S. Location",
       "summary": "French cashmere brand Kujten has leased a second Manhattan location less than a year after opening its first U.S. flagship along Madison Avenue. The upcoming store at Acadia Realty Trust ’s 92 Greene Street , a midblock address bordered by Spring and Prince streets, sits in the heart of SoHo’s bustling shopping corridor. Kujten signed a long-term, 2,567-square-foot lease, with 1,531 square feet on the ground floor and 1,036 square feet on the lower level, according to landlord broker Newmark .…",
@@ -112,6 +103,24 @@
       "published_at": "2026-06-19T11:30:00.000Z"
     },
     {
+      "headline": "US Small Business Tenants Face Profit Pressures in 2026",
+      "summary": "Small business tenants are experiencing falling profitability, with a 1.3% year-over-year drop per Bank of America Institute’s May 2026 data. The war in Iran and surging energy costs have driven up construction and operating expenses, challenging lease renewal and expansion plans. CRE landlords could soon see higher vacancy and default rates from their largest tenant segment as financial stress accumulates.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/us-small-business-tenants-face-profit-pressures-in-2026/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-06-19T03:48:27.000Z"
+    },
+    {
+      "headline": "Jun Kil, Suk Chang pay $3M for retail in Queens Village",
+      "summary": "Jun Bum Kil and Suk Nyo Chang through the entity 216 Hillside LLC paid $3 The post Jun Kil, Suk Chang pay $3M for retail in Queens Village appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/jun-kil-suk-chang-pay-3m-for-retail-in-queens-village/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-06-22T10:38:00.000Z"
+    },
+    {
       "headline": "France’s Junk Smash Burgers Enters U.S. With New Store in SoHo",
       "summary": "A French burger concept is opening up its first U.S. location in New York City’s SoHo neighborhood. Junk Smash Burgers , which launched in 2021 and has already spread across Paris and elsewhere in Western Europe, has signed a 10-year lease for 2,150 square feet at Thor Equities ’ 452 West Broadway , according to the landlord.…",
       "source": "Commercial Observer",
@@ -119,6 +128,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-06-09T22:33:26.000Z"
+    },
+    {
+      "headline": "Jacob Schwimmer signs $55.3M refi with Goldman for new 100-unit rental in Crown Heights",
+      "summary": "Jacob Schwimmer through the entity 721 Lincoln Place Tenant LLC as borrower signed a refi The post Jacob Schwimmer signs $55.3M refi with Goldman for new 100-unit rental in Crown Heights appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/jacob-schwimmer-signs-55-3m-refi-with-goldman-for-new-100-unit-rental-in-crown-heights/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-06-22T10:11:00.000Z"
     },
     {
       "headline": "Aby Rosen selling “Anna Delvey” building for $80M+",
@@ -130,24 +148,6 @@
       "published_at": "2026-06-19T14:29:29.000Z"
     },
     {
-      "headline": "16 Handles owner pays $4.5M to Emigrant Bank for retail in East Village, plans froyo location",
-      "summary": "Neil Hershman, who owns 16 Handles franchise and additionally operates locations, through the entity Fillmore The post 16 Handles owner pays $4.5M to Emigrant Bank for retail in East Village, plans froyo location appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/16-handles-owner-pays-4-5m-to-emigrant-bank-for-retail-in-east-village/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-06-19T12:57:00.000Z"
-    },
-    {
-      "headline": "Fintech Firm Digital Asset Returns to 4 WTC With 19K-SF Lease",
-      "summary": "It’s a full-circle moment for fintech firm Digital Asset . The company has signed a 19,000-square-foot lease at 4 World Trade Center , Commercial Observer has learned. Digital Asset will return to the same building it occupied from 2018 until it moved to 107 Greenwich Street in March 2025. The new lease length is for 10 years, with an asking rent of $115 per square foot, a source close to the deal told CO.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/06/digital-asset-lease-4-wtc/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-06-19T12:00:09.000Z"
-    },
-    {
       "headline": "French Cafe L’Ami Pierre to Open at Midtown’s 400 Madison Avenue",
       "summary": "A French cafe by acclaimed restaurateur Pierre-Antoine Raberin is opening a second location in Midtown, Commercial Observer has learned. Raberin has signed a 2,400-square-foot lease at 400 Madison Avenue for the second outpost of L’Ami Pierre , according to tenant broker Judson CRE . The deal follows the exit of Raberin’s partner, Michelin -starred chef Eric Ripert , in May 2023 .…",
       "source": "Commercial Observer",
@@ -157,13 +157,40 @@
       "published_at": "2026-06-16T16:17:51.000Z"
     },
     {
-      "headline": "Bingo Wholesale grocer pays $50M for Bed-Stuy location, follows years of seller-family litigation",
-      "summary": "The Brooklyn-based grocer Bingo Wholesale paid $50 million for a Bedford Stuyvesant, Brooklyn, future grocery The post Bingo Wholesale grocer pays $50M for Bed-Stuy location, follows years of seller-family litigation appeared first on PincusCo .",
+      "headline": "Bastone family signs $5.8M loan with Galinn Fund for The Pine restaurant in Bronx",
+      "summary": "The Bastone family through the entity 1911-1913 Bronxdale Avenue Realty LLC as borrower signed a The post Bastone family signs $5.8M loan with Galinn Fund for The Pine restaurant in Bronx appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/bingo-wholesale-grocer-pays-50m-for-bed-stuy-location-follows-years-of-seller-family-litigation/",
+      "url": "https://www.pincusco.com/bastone-family-signs-5-8m-loan-with-galinn-fund-for-the-pine-restaurant-in-bronx/",
       "section": "pincusco",
       "retail": true,
-      "published_at": "2026-06-19T12:14:00.000Z"
+      "published_at": "2026-06-22T10:41:00.000Z"
+    },
+    {
+      "headline": "K-Pop company DearU to open flagship store in Union Square",
+      "summary": "DearU, a global K-Pop company, will bring its US flagship and its first permanent brick-and-mortar store, to 24 Union Square East. Newmark’s Jeffrey Roseman and Drew Weiss are the exclusive leasing agents for the property’s owners, the S. Klein Family LLC.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/06/21/real-estate/k-pop-company-dearu-to-open-flagship-store-in-union-square/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-06-21T20:06:30.000Z"
+    },
+    {
+      "headline": "MRR Development signs $200M refi with Bank Hapoalim for two properties in Midtown East",
+      "summary": "MRR Development through the entity Mrr 1326 LLC as borrower signed a refi loan with The post MRR Development signs $200M refi with Bank Hapoalim for two properties in Midtown East appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/mrr-development-signs-200m-refi-with-bank-hapoalim-for-two-properties-in-midtown-east/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-06-22T11:26:00.000Z"
+    },
+    {
+      "headline": "David Tabak, Borough Developers sign $21M construction loan with OakNorth for 53-unit project in Fort Greene",
+      "summary": "David Tabak and Borough Developers through the entity Four Ninety One F LLC as borrower The post David Tabak, Borough Developers sign $21M construction loan with OakNorth for 53-unit project in Fort Greene appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/david-tabak-borough-developers-sign-21m-construction-loan-with-oaknorth-for-53-unit-project-in-fort-greene/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-06-22T10:29:00.000Z"
     },
     {
       "headline": "LA Graffiti Tower developer has insidious plot to make insane cash before tackling eyesore: Insiders",
@@ -175,13 +202,22 @@
       "published_at": "2026-06-20T19:07:09.000Z"
     },
     {
-      "headline": "Rudin ups debt from $76M to $140M with PGIM for office in Flatiron District",
-      "summary": "Rudin Management through the entity 41 Madiosn L.P. as borrower signed a refi loan with The post Rudin ups debt from $76M to $140M with PGIM for office in Flatiron District appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/rudin-ups-debt-from-76m-to-140m-with-pgim-for-office-in-flatiron-district/",
-      "section": "pincusco",
+      "headline": "Soloviev eyes record $400 rent at nearly full 9 West 57th Street",
+      "summary": "Manhattan office leasing is red-hot. But is it $400 a foot hot? Stefan Soloviev is marketing an office space at 9 West 57th Street that, if achieved, would shatter the $327 record rent his building achieved earlier this year. His Soloviev Group is eyeing $400 per square foot for the 11,155-square-foot space on the 50th Floor, one of two remaining spaces in the 1.5 million-square-foot tower.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/22/stefan-soloviev-eyes-record-400-rent-at-9-west-57th-street/",
+      "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-06-19T13:24:00.000Z"
+      "published_at": "2026-06-22T14:57:04.000Z"
+    },
+    {
+      "headline": "Final design for NYC Penn Station’s redevelopment one step closer — including how much it could cost",
+      "summary": "The pre-development phase will run through 2027, during which time Amtrak and the development partners said they will conduct “robust” community engagement before the final plan is completed.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/06/21/real-estate/final-design-for-nyc-penn-stations-redevelopment-one-step-closer-including-how-much-it-could-cost/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-06-21T19:47:10.000Z"
     },
     {
       "headline": "The challenge of cheap markets",
@@ -211,76 +247,40 @@
       "published_at": "2026-06-19T11:00:00.000Z"
     },
     {
-      "headline": "Deep-pocketed buyers rush to buy ahead of the looming pied-a-terre tax as West Village tower hits $1 billion in contracts",
-      "summary": "Is the West Side Highway the new Billionaires’ Row?",
+      "headline": "Booming town of Silverwood where homes are $400K and buyers have to sign ‘kindness’ waiver",
+      "summary": "The 9,000-acre project first grabbed headlines for its relatively affordable home prices — starting in the low $400,000s.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/06/19/real-estate/buyers-rush-to-beat-pied-a-terre-tax-as-nyc-downtown-tower-hits-1-billion-in-contracts/",
+      "url": "https://nypost.com/2026/06/22/real-estate/hesperias-kindness-pledge-community-sells-225-homes-in-year-1/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-06-19T18:23:31.000Z"
+      "published_at": "2026-06-22T15:25:24.000Z"
     },
     {
-      "headline": "David Werner, 601W Companies’ $265.2M purchase of Rockpoint office in Midtown East gets recorded",
-      "summary": "David Werner Real Estate Investments and 601W Companies through the entity One Dag Owner Lp The post David Werner, 601W Companies’ $265.2M purchase of Rockpoint office in Midtown East gets recorded appeared first on PincusCo .",
+      "headline": "Grun Group files two plans totaling 108 units in Kew Gardens",
+      "summary": "The Grun Group filed two new development plans with the city’s Department of Buildings last The post Grun Group files two plans totaling 108 units in Kew Gardens appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/david-werner-601w-companiess-265-2m-purchase-of-rockpoint-office-in-midtown-east-gets-recorded/",
+      "url": "https://www.pincusco.com/grun-group-files-two-plans-totaling-108-units-in-kew-gardens/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-06-19T12:33:00.000Z"
+      "published_at": "2026-06-22T11:34:00.000Z"
     },
     {
-      "headline": "The Data Drop: GSA’s rent bill vs. DOGE",
-      "summary": "You’re currently enjoying free access to this subscriber-only newsletter. If you find it valuable and want it delivered to your inbox every week, subscribe to TRD Data. Welcome to The Data Drop by TRD Data, a weekly look at the numbers shaping real estate. This week, we revisited a question we first explored last year: What happened to the federal office leases targeted by the Department of Government Efficiency, or DOGE? Cost-cutting has been a centerpiece of President Donald Trump’s second term.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/19/the-impact-of-doges-federal-rent-cuts/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-06-19T12:00:00.000Z"
-    },
-    {
-      "headline": "ZD Jasper files plans for 99 units in Astoria",
-      "summary": "ZD Jasper Realty submitted a new building construction project for a 99-unit, 120,490-square-foot residential (R-2) The post ZD Jasper files plans for 99 units in Astoria appeared first on PincusCo .",
+      "headline": "Or Trabelsi signs $6M acquisition loan with S3 Capital for 22-unit walkup in Garment District",
+      "summary": "Or Trabelsi through the entity 510 AIC LLC as borrower signed an acquisition loan with The post Or Trabelsi signs $6M acquisition loan with S3 Capital for 22-unit walkup in Garment District appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/zd-jasper-files-plans-for-99-units-in-astoria/",
+      "url": "https://www.pincusco.com/or-trabelsi-signs-6m-acquisition-loan-with-s3-capital-for-22-unit-walkup-in-garment-district/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-06-19T11:41:00.000Z"
+      "published_at": "2026-06-22T11:16:00.000Z"
     },
     {
-      "headline": "Lawsuit casts Riverside, Nussbaum Lowinger as architects of sprawling scheme",
-      "summary": "A federal lawsuit is pulling back the curtain on what may be one of the most extensive alleged real estate fraud operations to emerge from New York’s investment sales world in years. Lakewood-based Blueberry Funding and Florida lender EADMK sued Riverside Abstract, the defunct law firm Nussbaum Lowinger and a roster of executives tied to both companies, alleging they orchestrated a years-long scheme that relied on fraudulent property flips, misappropriated escrow funds and concealed kickbacks through charitable…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/20/lawsuit-cast-riverside-nussbaum-lowinger-as-schemers/",
-      "section": "the_real_deal",
+      "headline": "Green Street Group pays $2.9M for office in Tribeca",
+      "summary": "Green Street Group through the entity 141 West Broadway LLC paid $2.9 million through an The post Green Street Group pays $2.9M for office in Tribeca appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/green-street-group-pays-2-9m-for-office-in-tribeca/",
+      "section": "pincusco",
       "retail": false,
-      "published_at": "2026-06-20T13:00:00.000Z"
-    },
-    {
-      "headline": "Ghislaine Maxwell’s five-story UES townhome, once used for lavish parties, sells for $16.5M",
-      "summary": "The glam townhouse was where Maxwell once hosted champagne-soaked dinner parties and charity galas for New York’s elite.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/06/19/real-estate/ghislaine-maxwells-upper-east-side-townhouse-sells-for-16-5-million/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-06-19T17:09:22.000Z"
-    },
-    {
-      "headline": "Free at last? Charles Cohen pays off $187M Fortress debt",
-      "summary": "After years of litigation, a weight has been lifted off billionaire Charles Cohen. Cohen has satisfied his debt of more than $187 million to Fortress Investment Group, according to a document filed in New York Supreme Court Thursday. “Charles Cohen has always honored his personal obligations,” said David López, general counsel of Cohen Brothers Realty. “The pay-off of the outstanding balance of the Fortress judgment is consistent with Mr.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/18/charles-cohen-pays-off-187-million-fortress-judgment/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-06-18T21:34:47.000Z"
-    },
-    {
-      "headline": "Alleged rental scammer dodges accountability despite years of complaints",
-      "summary": "A Queens apartment broker stripped of his real estate license more than a decade ago allegedly continued collecting deposits from desperate renters for years, exposing gaps in the city’s consumer protection and housing enforcement systems. At least a dozen renters say David Michael took deposits ranging from a few hundred dollars to several thousand dollars for apartments they never ultimately rented, then refused to return the money when deals fell apart, according to Gothamist.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/18/alleged-queens-rental-scammer-dodges-accountability/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-06-18T19:04:18.000Z"
+      "published_at": "2026-06-22T10:55:00.000Z"
     }
   ]
 }
