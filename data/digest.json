@@ -1,17 +1,25 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-06-23",
-  "generated_at": "2026-06-23T12:40:50.704Z",
+  "date": "2026-06-24",
+  "generated_at": "2026-06-24T12:24:35.874Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Cashmere Brand Kujten Picks Acadia’s 92 Greene Street for Second U.S. Location: French cashmere brand Kujten has leased a second Manhattan location less than a year after opening its first U.S. flagship along Madison Avenue.\n\nBistro Pardon My French Sets Up Shop at Jeff Sutton’s 373 Broome Street: Ooh la la. French-inspired bistro Pardon My French is coming to Manhattan’s SoHo neighborhood after signing a 1,000-square-foot lease at 373 Broome Street , a property owned in a joint venture between Jeff Sutton ’s Wharton Properties and Gorjian Real Estate Group, according to broker Meridian Capital Group .\n\nNew Thai Restaurant to Open in 11K SF at 321 West 51st Street: One thing New York City doesn’t lack is a place to eat, and now there’s a new Thai restaurant from the restaurateurs behind Greenwich Village favorite Pranakhon coming to Manhattan’s Hell’s Kitchen neighborhood.\n\nMedallion Financial Relocates to 9K SF at Hartz Group’s 667 Madison Avenue: Commercial finance company Medallion Financial has leased roughly 9,000 square feet at Hartz Group ’s 667 Madison Avenue . The lender, known for funding New York City’s yellow taxi cab fleet, signed an 11-year lease at the office building, located on the northeast corner of East 61st Street, Medallion confirmed.",
-    "cre_daily": "Chelsea Piers Fitness Leads May NYC Retail Lease Ranking: Chelsea Piers Fitness preleased 76,000 SF at Seaport’s 250 Water Street, marking the largest retail lease in NYC for May. New York City’s top 10 retail leases in May spanned fitness, fashion, dining, and collectibles, with notable deals from Marshalls, House of Spells, and Coach.\n\nDrive-Thru Traffic Slides, Challenging Net Lease Retail: Short-duration, drive-thru visits to quick-service restaurants fell 6.8% year-over-year in May per Placer.ai. Full-service restaurants and experiential dining gained momentum even as drive-thru traffic declined.\n\nURW Acquires Full Control Of San Diego’s Westfield UTC Mall: Unibail-Rodamco-Westfield is acquiring the remaining half of Westfield UTC for $705M. The 1M SF San Diego mall is set for further luxury expansion, with new brands arriving in 2026.\n\nToys and Collectibles Fuel Booming US Retail Foot Traffic: Toys and collectibles are rapidly boosting foot traffic and sales for US retailers, drawing demand from Gen Z, Millennials, and older buyers alike. Brands employ scarcity tactics and viral social trends, while global companies like Pop Mart and Miniso expand their US retail footprints to capitalize on the craze.",
+    "commercial_observer": "Fred Astaire Dance Studios Leases First Park Slope Location: The international dance franchise Fred Astaire Dance Studios is waltzing into Brooklyn’s Park Slope neighborhood. The school’s new lease at 508 Fifth Avenue spans 2,500 square feet of ground-floor retail space previously occupied by shoe store Bobby Sportswear .\n\nCashmere Brand Kujten Picks Acadia’s 92 Greene Street for Second U.S. Location: French cashmere brand Kujten has leased a second Manhattan location less than a year after opening its first U.S. flagship along Madison Avenue.\n\nBistro Pardon My French Sets Up Shop at Jeff Sutton’s 373 Broome Street: Ooh la la. French-inspired bistro Pardon My French is coming to Manhattan’s SoHo neighborhood after signing a 1,000-square-foot lease at 373 Broome Street , a property owned in a joint venture between Jeff Sutton ’s Wharton Properties and Gorjian Real Estate Group, according to broker Meridian Capital Group .\n\nNew Thai Restaurant to Open in 11K SF at 321 West 51st Street: One thing New York City doesn’t lack is a place to eat, and now there’s a new Thai restaurant from the restaurateurs behind Greenwich Village favorite Pranakhon coming to Manhattan’s Hell’s Kitchen neighborhood.",
     "new_york_post": "K-Pop company DearU to open flagship store in Union Square: DearU, a global K-Pop company, will bring its US flagship and its first permanent brick-and-mortar store, to 24 Union Square East. Newmark’s Jeffrey Roseman and Drew Weiss are the exclusive leasing agents for the property’s owners, the S.\n\nLA Graffiti Tower developer has insidious plot to make insane cash before tackling eyesore: Insiders: A bankruptcy court decision on the sale has been pushed back again to July 20 as the prospective buyer scrambles to convince the city hall that they can clean up the infamous three, graffiti-tagged towers.\n\nFinal design for NYC Penn Station’s redevelopment one step closer — including how much it could cost: The pre-development phase will run through 2027, during which time Amtrak and the development partners said they will conduct “robust” community engagement before the final plan is completed.\n\nBooming town of Silverwood where homes are $400K and buyers have to sign ‘kindness’ waiver: The 9,000-acre project first grabbed headlines for its relatively affordable home prices — starting in the low $400,000s.",
-    "pincusco": "Jun Kil, Suk Chang pay $3M for retail in Queens Village: Jun Bum Kil and Suk Nyo Chang through the entity 216 Hillside LLC paid $3.\n\nBastone family signs $5.8M loan with Galinn Fund for The Pine restaurant in Bronx: The Bastone family through the entity 1911-1913 Bronxdale Avenue Realty LLC as borrower signed a.\n\nMRR Development signs $200M refi with Bank Hapoalim for two properties in Midtown East: MRR Development through the entity Mrr 1326 LLC as borrower signed a refi loan with.\n\nDavid Tabak, Borough Developers sign $21M construction loan with Oak Funding for 53-unit project in Fort Greene: UPDATED 11:52 a.m., June 22, 2026: David Tabak and Borough Developers through the entity Four.",
-    "the_real_deal": "BERS inks 78K sf lease at 55 Water in FiDi: The New York City Board of Education Retirement System is making a long-term bet on Downtown Manhattan. The pension system, also known as BERS, signed a 78,000-square-foot lease at 55 Water Street, expanding its footprint at the sprawling Financial District office tower and committing to the building for the next.\n\nNYC’s top deals: UES townhouse trades for $22M: There were 172 transactions totaling $360 million filed in New York City records from 4 p.m. on Friday, June 19, through 4 p.m.\n\nNew development marketing guru Nancy Packes dies at 80: Nancy Packes, an early pioneer of new development marketing in New York City, died Thursday at the age of 80. A Bronx native, Packes graduated from New York University’s School of Law in 1970 and worked as a criminal trial lawyer for the next seven years.\n\nSoloviev eyes record $400 rent at nearly full 9 West 57th Street: Manhattan office leasing is red-hot. But is it $400 a foot hot?"
+    "pincusco": "Imperial Sterling pays $13M for retail in Carnegie Hill: Imperial Sterling through the entity Imperial Madison, LLC paid $13 million to Keith Kantrowitz and.\n\nGora Group pays $16.8M to Treeline Companies for office in Brooklyn Heights: Gora Group through the entity 188 Montague LLC paid $16.8 million to Treeline Companies through.\n\nRidwan Kabir pays $4.3M for office in Hollis: Ridwan Kabir through the entity 189 Hillside Plaza LLC paid $4.3 million to Shahid Ali.\n\nJacob Kohn pays $5M to Cycamore Capital for mixed-use in Bedford Stuyvesant: Jacob Kohn through the entity Myrtle Kent Development LLC paid $5 million to Cycamore Capital.",
+    "the_real_deal": "NYC’s top construction permits: Week ending June 19, 2026: New Building: The largest new building application filed last week was in Crotona Park East, where Luce Popaj plans to build two residential buildings at 1489 and 1495 Boston Road, spanning a combined 73,689 square feet. The buildings will house a total of 127 units and stand nine and 12 stories tall.\n\nKosher grocer expanding into Bedford-Stuyvesant: A kosher grocer is heading for Bedford-Stuyvesant. Bingo Wholesale acquired a three-parcel development site in the Brooklyn neighborhood for $50 million, the Commercial Observer reported.\n\nCracking the code: How to fix Long Island housing: Long Island is a poster child for New York’s housing problem. At its heart is a bad bargain: The state has bestowed it with an extensive commuter rail network, yet localities cling to single-family zoning.\n\nRosen roadblock? SL Green sues RFR over Madison Avenue building access: Is Aby Rosen holding up SL Green’s latest office project? Marc Holliday’s REIT is taking Rosen’s RFR Holding to court over access to an office building adjacent to its Madison Avenue development site."
   },
   "items": [
+    {
+      "headline": "Fred Astaire Dance Studios Leases First Park Slope Location",
+      "summary": "The international dance franchise Fred Astaire Dance Studios is waltzing into Brooklyn’s Park Slope neighborhood. The school’s new lease at 508 Fifth Avenue spans 2,500 square feet of ground-floor retail space previously occupied by shoe store Bobby Sportswear . The 10-year deal’s asking rent was $72 per square foot. The lease is the New York dance studio franchise’s sixth deal completed by Lee & Associates NYC ‘s Claude Kolb .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/fred-astaire-dance-studios-lease-508-fifth-avenue/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-06-23T17:02:01.000Z"
+    },
     {
       "headline": "Cashmere Brand Kujten Picks Acadia’s 92 Greene Street for Second U.S. Location",
       "summary": "French cashmere brand Kujten has leased a second Manhattan location less than a year after opening its first U.S. flagship along Madison Avenue. The upcoming store at Acadia Realty Trust ’s 92 Greene Street , a midblock address bordered by Spring and Prince streets, sits in the heart of SoHo’s bustling shopping corridor. Kujten signed a long-term, 2,567-square-foot lease, with 1,531 square feet on the ground floor and 1,036 square feet on the lower level, according to landlord broker Newmark .…",
@@ -31,33 +39,6 @@
       "published_at": "2026-06-16T15:48:07.000Z"
     },
     {
-      "headline": "Chelsea Piers Fitness Leads May NYC Retail Lease Ranking",
-      "summary": "Chelsea Piers Fitness preleased 76,000 SF at Seaport’s 250 Water Street, marking the largest retail lease in NYC for May. New York City’s top 10 retail leases in May spanned fitness, fashion, dining, and collectibles, with notable deals from Marshalls, House of Spells, and Coach. The mix of tenants signals sustained demand across retail segments despite ongoing market headwinds and increased selectivity among landlords.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/chelsea-piers-fitness-leads-may-nyc-retail-lease-ranking/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-06-11T04:07:19.000Z"
-    },
-    {
-      "headline": "Drive-Thru Traffic Slides, Challenging Net Lease Retail",
-      "summary": "Short-duration, drive-thru visits to quick-service restaurants fell 6.8% year-over-year in May per Placer.ai. Full-service restaurants and experiential dining gained momentum even as drive-thru traffic declined. CRE investors should reexamine assumptions about outparcel and net lease assets anchored by pure convenience demand.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/drive-thru-traffic-slides-challenging-net-lease-retail/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-06-18T03:49:57.000Z"
-    },
-    {
-      "headline": "URW Acquires Full Control Of San Diego’s Westfield UTC Mall",
-      "summary": "Unibail-Rodamco-Westfield is acquiring the remaining half of Westfield UTC for $705M. The 1M SF San Diego mall is set for further luxury expansion, with new brands arriving in 2026. The deal reinforces URW’s pivot to hold top-performing US retail assets, defying the trend of mall selloffs. Key Takeaways Luxury Retail’s Resilience In San Diego Unibail-Rodamco-Westfield (URW) has agreed to buy out its joint venture partner’s 50% stake in San Diego’s Westfield UTC for $705M in cash and shares, according to Bisnow.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/urw-acquires-full-control-of-san-diego-s-westfield-utc-mall/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-06-12T03:36:13.000Z"
-    },
-    {
       "headline": "New Thai Restaurant to Open in 11K SF at 321 West 51st Street",
       "summary": "One thing New York City doesn’t lack is a place to eat, and now there’s a new Thai restaurant from the restaurateurs behind Greenwich Village favorite Pranakhon coming to Manhattan’s Hell’s Kitchen neighborhood. SG Thai , the hospitality group behind Pranakhon, located at 88 University Place near Union Square , will open a new eatery at Nicole Franques ’s 321 West 51st Street .…",
       "source": "Commercial Observer",
@@ -67,22 +48,13 @@
       "published_at": "2026-06-10T16:27:55.000Z"
     },
     {
-      "headline": "Toys and Collectibles Fuel Booming US Retail Foot Traffic",
-      "summary": "Toys and collectibles are rapidly boosting foot traffic and sales for US retailers, drawing demand from Gen Z, Millennials, and older buyers alike. Brands employ scarcity tactics and viral social trends, while global companies like Pop Mart and Miniso expand their US retail footprints to capitalize on the craze. The collectibles surge is reshaping retail leasing dynamics—offering landlords, developers, and brokers new opportunities for high-frequency, intent-driven tenants.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/toys-and-collectibles-fuel-booming-us-retail-foot-traffic/",
-      "section": "cre_daily",
+      "headline": "NYC’s top construction permits: Week ending June 19, 2026",
+      "summary": "New Building: The largest new building application filed last week was in Crotona Park East, where Luce Popaj plans to build two residential buildings at 1489 and 1495 Boston Road, spanning a combined 73,689 square feet. The buildings will house a total of 127 units and stand nine and 12 stories tall. Nikolai Katz is the architect.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/24/new-york-citys-top-construction-permits-june-19-2026/",
+      "section": "the_real_deal",
       "retail": true,
-      "published_at": "2026-06-13T10:36:12.000Z"
-    },
-    {
-      "headline": "Medallion Financial Relocates to 9K SF at Hartz Group’s 667 Madison Avenue",
-      "summary": "Commercial finance company Medallion Financial has leased roughly 9,000 square feet at Hartz Group ’s 667 Madison Avenue . The lender, known for funding New York City’s yellow taxi cab fleet, signed an 11-year lease at the office building, located on the northeast corner of East 61st Street, Medallion confirmed. Asking rent in the 25-story tower runs from $120 to $190 per square foot, per the New York Post , which first reported on the transaction .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/06/medallion-financial-lease-relocation-hartz-group-667-madison-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-06-22T16:01:04.000Z"
+      "published_at": "2026-06-24T11:00:00.000Z"
     },
     {
       "headline": "Content Creation Platform Spotter Takes 17K SF at Thor’s 25 West 39th Street",
@@ -94,49 +66,31 @@
       "published_at": "2026-06-22T21:06:35.000Z"
     },
     {
-      "headline": "BERS inks 78K sf lease at 55 Water in FiDi",
-      "summary": "The New York City Board of Education Retirement System is making a long-term bet on Downtown Manhattan. The pension system, also known as BERS, signed a 78,000-square-foot lease at 55 Water Street, expanding its footprint at the sprawling Financial District office tower and committing to the building for the next three decades, according to CBRE. BERS already occupies 51,000 square feet on the building’s 50th floor as a subtenant.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/22/bers-inks-78k-sf-lease-at-55-water-in-fidi/",
-      "section": "the_real_deal",
-      "retail": true,
-      "published_at": "2026-06-22T20:12:00.000Z"
-    },
-    {
-      "headline": "NYC Education Retirement System Signs 78K-SF Lease at 55 Water Street",
-      "summary": "A teacher’s retirement benefits agency is putting down long-term roots in Manhattan’s Financial District, Commercial Observer has learned. The New York City Board of Education Retirement Systems (BERS) signed a 30-year, 78,079-square-foot direct lease to remain on the 50th floor of 55 Water Street , a 52-story office building owned by Retirement Systems of Alabama , according to landlord broker CBRE .…",
+      "headline": "TA Realty Buys Two Staten Island Retail Buildings for $79M",
+      "summary": "Boston-based real estate investment firm TA Realty has purchased two buildings within Staten Island’s Tysens Park Shopping Center , according to property records made public Monday. The James Raisides -led TA Realty purchased the properties at 2712 Hylan Boulevard and 2754 Hylan Boulevard in New Dorp Beach, Staten Island, for a total of $79.2 million from the Bregman Organization , a deed transfer in property records indicates .…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/06/nyc-education-retirement-system-lease-55-water-street/",
+      "url": "https://commercialobserver.com/2026/06/ta-realty-buys-tysens-park-shopping-center-staten-island/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-06-22T16:36:19.000Z"
+      "published_at": "2026-06-23T20:05:26.000Z"
     },
     {
-      "headline": "US Small Business Tenants Face Profit Pressures in 2026",
-      "summary": "Small business tenants are experiencing falling profitability, with a 1.3% year-over-year drop per Bank of America Institute’s May 2026 data. The war in Iran and surging energy costs have driven up construction and operating expenses, challenging lease renewal and expansion plans. CRE landlords could soon see higher vacancy and default rates from their largest tenant segment as financial stress accumulates.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/us-small-business-tenants-face-profit-pressures-in-2026/",
-      "section": "cre_daily",
+      "headline": "Design Firm Pink Sparrow Inks 62K-SF Deal in Long Island City",
+      "summary": "Pink Sparrow , an experiential design and fabrication company, has relocated its headquarters to 30-10 Review Avenue in Long Island City, Queens, from its previous space about 1.5 miles away at 24 Greenpoint Avenue in Greenpoint, Brooklyn, Commercial Observer has learned. The design firm’s new space at the industrial property near Newton Creek spans 62,000 square feet, according to tenant broker Newmark .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/pink-sparrow-lease-long-island-city/",
+      "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-06-19T03:48:27.000Z"
+      "published_at": "2026-06-23T17:38:53.000Z"
     },
     {
-      "headline": "Jun Kil, Suk Chang pay $3M for retail in Queens Village",
-      "summary": "Jun Bum Kil and Suk Nyo Chang through the entity 216 Hillside LLC paid $3 The post Jun Kil, Suk Chang pay $3M for retail in Queens Village appeared first on PincusCo .",
+      "headline": "Imperial Sterling pays $13M for retail in Carnegie Hill",
+      "summary": "Imperial Sterling through the entity Imperial Madison, LLC paid $13 million to Keith Kantrowitz and The post Imperial Sterling pays $13M for retail in Carnegie Hill appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/jun-kil-suk-chang-pay-3m-for-retail-in-queens-village/",
+      "url": "https://www.pincusco.com/imperial-sterling-pays-13m-for-retail-in-carnegie-hill/",
       "section": "pincusco",
       "retail": true,
-      "published_at": "2026-06-22T10:38:00.000Z"
-    },
-    {
-      "headline": "France’s Junk Smash Burgers Enters U.S. With New Store in SoHo",
-      "summary": "A French burger concept is opening up its first U.S. location in New York City’s SoHo neighborhood. Junk Smash Burgers , which launched in 2021 and has already spread across Paris and elsewhere in Western Europe, has signed a 10-year lease for 2,150 square feet at Thor Equities ’ 452 West Broadway , according to the landlord.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/06/junk-smash-burgers-lease-452-broadway/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-06-09T22:33:26.000Z"
+      "published_at": "2026-06-24T12:10:00.000Z"
     },
     {
       "headline": "French Cafe L’Ami Pierre to Open at Midtown’s 400 Madison Avenue",
@@ -148,13 +102,13 @@
       "published_at": "2026-06-16T16:17:51.000Z"
     },
     {
-      "headline": "Bastone family signs $5.8M loan with Galinn Fund for The Pine restaurant in Bronx",
-      "summary": "The Bastone family through the entity 1911-1913 Bronxdale Avenue Realty LLC as borrower signed a The post Bastone family signs $5.8M loan with Galinn Fund for The Pine restaurant in Bronx appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/bastone-family-signs-5-8m-loan-with-galinn-fund-for-the-pine-restaurant-in-bronx/",
-      "section": "pincusco",
+      "headline": "Kosher grocer expanding into Bedford-Stuyvesant",
+      "summary": "A kosher grocer is heading for Bedford-Stuyvesant. Bingo Wholesale acquired a three-parcel development site in the Brooklyn neighborhood for $50 million, the Commercial Observer reported. The acquisition was made through the grocery store’s holding company, Norworth Holdings. The sellers of the three sites were a pair of entities linked to the Follman family. Members of the Follman family had been feuding in the courts, according to PincusCo, which held up the sale before it closed this month.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/23/kosher-grocer-expanding-into-bedford-stuyvesant/",
+      "section": "the_real_deal",
       "retail": true,
-      "published_at": "2026-06-22T10:41:00.000Z"
+      "published_at": "2026-06-23T14:39:31.000Z"
     },
     {
       "headline": "K-Pop company DearU to open flagship store in Union Square",
@@ -175,24 +129,6 @@
       "published_at": "2026-06-23T11:44:57.000Z"
     },
     {
-      "headline": "MRR Development signs $200M refi with Bank Hapoalim for two properties in Midtown East",
-      "summary": "MRR Development through the entity Mrr 1326 LLC as borrower signed a refi loan with The post MRR Development signs $200M refi with Bank Hapoalim for two properties in Midtown East appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/mrr-development-signs-200m-refi-with-bank-hapoalim-for-two-properties-in-midtown-east/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-06-22T11:26:00.000Z"
-    },
-    {
-      "headline": "David Tabak, Borough Developers sign $21M construction loan with Oak Funding for 53-unit project in Fort Greene",
-      "summary": "UPDATED 11:52 a.m., June 22, 2026: David Tabak and Borough Developers through the entity Four The post David Tabak, Borough Developers sign $21M construction loan with Oak Funding for 53-unit project in Fort Greene appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/david-tabak-borough-developers-sign-21m-construction-loan-with-oak-funding-for-53-unit-project-in-fort-greene/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-06-22T10:29:00.000Z"
-    },
-    {
       "headline": "LA Graffiti Tower developer has insidious plot to make insane cash before tackling eyesore: Insiders",
       "summary": "A bankruptcy court decision on the sale has been pushed back again to July 20 as the prospective buyer scrambles to convince the city hall that they can clean up the infamous three, graffiti-tagged towers.",
       "source": "New York Post",
@@ -202,40 +138,22 @@
       "published_at": "2026-06-20T19:07:09.000Z"
     },
     {
-      "headline": "Gary Chen seeks zoning change to construct 296-unit project in Flushing",
-      "summary": "Gary Chen through the entity Vernon 298 LLC, submitted an application with New York City’s The post Gary Chen seeks zoning change to construct 296-unit project in Flushing appeared first on PincusCo .",
+      "headline": "Gora Group pays $16.8M to Treeline Companies for office in Brooklyn Heights",
+      "summary": "Gora Group through the entity 188 Montague LLC paid $16.8 million to Treeline Companies through The post Gora Group pays $16.8M to Treeline Companies for office in Brooklyn Heights appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/gary-chen-seeks-zoning-change-to-construct-296-unit-project-in-flushing/",
+      "url": "https://www.pincusco.com/gora-group-pays-16-8m-to-treeline-companies-for-office-in-brooklyn-heights/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-06-23T12:32:47.000Z"
+      "published_at": "2026-06-24T12:17:00.000Z"
     },
     {
-      "headline": "NYC’s top deals: UES townhouse trades for $22M",
-      "summary": "There were 172 transactions totaling $360 million filed in New York City records from 4 p.m. on Friday, June 19, through 4 p.m. on Monday, June 22. Commercial: Olmstead Properties and Vertex Properties had the priciest commercial deal to hit records, with the closing of its purchase of the office building at 19 West 44th Street in Midtown. The seller was Savanna, who purchased the Class B, 303,000-square-foot, 16-story property in 2017 for $195 million. The company also spent $20 million upgrading it.…",
+      "headline": "Cracking the code: How to fix Long Island housing",
+      "summary": "Long Island is a poster child for New York’s housing problem. At its heart is a bad bargain: The state has bestowed it with an extensive commuter rail network, yet localities cling to single-family zoning. A 2023 analysis found an astonishing 89 percent of the buildable, residential land in Nassau and Suffolk counties was zoned for single-family. Another 8.5 percent allowed two-family homes. Just 3.6 percent was zoned for multifamily, meaning three or more units.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/23/new-york-top-real-estate-deals-monday-june-22-2026/",
+      "url": "https://therealdeal.com/new-york/2026/06/23/will-long-island-ever-fix-its-single-family-housing/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-06-23T11:00:00.000Z"
-    },
-    {
-      "headline": "New development marketing guru Nancy Packes dies at 80",
-      "summary": "Nancy Packes, an early pioneer of new development marketing in New York City, died Thursday at the age of 80. A Bronx native, Packes graduated from New York University’s School of Law in 1970 and worked as a criminal trial lawyer for the next seven years. Packes left law and in 1977 founded her own brokerage, Feathered Nest, which launched a more than three-decade career in real estate.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/22/new-development-marketing-guru-nancy-packes-dies-at-80/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-06-22T22:00:00.000Z"
-    },
-    {
-      "headline": "Soloviev eyes record $400 rent at nearly full 9 West 57th Street",
-      "summary": "Manhattan office leasing is red-hot. But is it $400 a foot hot? Stefan Soloviev is marketing an office space at 9 West 57th Street that, if achieved, would shatter the $327 record rent his building achieved earlier this year. His Soloviev Group is eyeing $400 per square foot for the 11,155-square-foot space on the 50th Floor, one of two remaining spaces in the 1.5 million-square-foot tower.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/22/stefan-soloviev-eyes-record-400-rent-at-9-west-57th-street/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-06-22T14:57:04.000Z"
+      "published_at": "2026-06-23T13:00:00.000Z"
     },
     {
       "headline": "Final design for NYC Penn Station’s redevelopment one step closer — including how much it could cost",
@@ -247,22 +165,67 @@
       "published_at": "2026-06-21T19:47:10.000Z"
     },
     {
-      "headline": "The challenge of cheap markets",
-      "summary": "Studios for $1,050 a month, one-bedrooms for $1,310 and two-bedrooms for $1,525. Those are actual asking rents for “high end,” downtown, market-rate units in the Erdace Apartments, “the epitome of a luxe residence.” As you might guess, they are not in New York City. They’re in downtown Lake Charles, Louisiana. These markets might as well be on different planets.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/20/can-luxury-rentals-pencil-out-in-lake-charles-louisiana/",
-      "section": "the_real_deal",
+      "headline": "Ridwan Kabir pays $4.3M for office in Hollis",
+      "summary": "Ridwan Kabir through the entity 189 Hillside Plaza LLC paid $4.3 million to Shahid Ali The post Ridwan Kabir pays $4.3M for office in Hollis appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/ridwan-kabir-pays-4-3m-for-office-in-hollis/",
+      "section": "pincusco",
       "retail": false,
-      "published_at": "2026-06-20T13:00:00.000Z"
+      "published_at": "2026-06-24T12:22:00.000Z"
     },
     {
-      "headline": "Calvin Klein’s former East Hampton estate hits the market for $165M",
-      "summary": "Another headline listing has hit the Hamptons. An East Hampton estate that once belonged to designer Calvin Klein is coming on the market asking $165 million, the Wall Street Journal reported. The roughly 8-acre home at 121 West End Road last sold for $85 million in 2021. The property has a 9,000-square-foot main house with seven bedrooms, along with a boathouse on the Georgica Pond and a red clay tennis court added by the seller.…",
+      "headline": "Jacob Kohn pays $5M to Cycamore Capital for mixed-use in Bedford Stuyvesant",
+      "summary": "Jacob Kohn through the entity Myrtle Kent Development LLC paid $5 million to Cycamore Capital The post Jacob Kohn pays $5M to Cycamore Capital for mixed-use in Bedford Stuyvesant appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/jacob-kohn-pays-5m-to-cycamore-capital-for-mixed-use-in-bedford-stuyvesant/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-06-24T12:04:00.000Z"
+    },
+    {
+      "headline": "Andras Fenyves pays $2.9M for mixed-use in Bedford Stuyvesant",
+      "summary": "Andras Fenyves through the entity 1276 Broadway LLC paid $2.9 million to Joseph Felix through The post Andras Fenyves pays $2.9M for mixed-use in Bedford Stuyvesant appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/andras-fenyves-pays-2-9m-for-mixed-use-in-bedford-stuyvesant/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-06-24T12:00:00.000Z"
+    },
+    {
+      "headline": "Westbridge Realty Group files plans for 72 units in Washington Heights",
+      "summary": "Westbridge Realty Group submitted a new building construction project for a 72-unit, 56,615-square-foot residential (R-2) The post Westbridge Realty Group files plans for 72 units in Washington Heights appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/westbridge-realty-group-files-plans-for-72-units-in-washington-heights/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-06-24T11:57:00.000Z"
+    },
+    {
+      "headline": "Luce Popaj files plans for 28 units in East Morrisania",
+      "summary": "Luce Popaj submitted a new building construction project for a 28-unit, 16,976-square-foot residential (R-2) building The post Luce Popaj files plans for 28 units in East Morrisania appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/luce-popaj-files-plans-for-28-units-in-east-morrisania/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-06-24T11:42:00.000Z"
+    },
+    {
+      "headline": "Robert Novogratz files plans for 6 units in Lower East Side",
+      "summary": "Robert Novogratz submitted a new building construction project for a 6-unit, 9,914-square-foot residential (R-2) building The post Robert Novogratz files plans for 6 units in Lower East Side appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/robert-novogratz-files-plans-for-6-units-in-lower-east-side/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-06-24T11:10:00.000Z"
+    },
+    {
+      "headline": "Rosen roadblock? SL Green sues RFR over Madison Avenue building access",
+      "summary": "Is Aby Rosen holding up SL Green’s latest office project? Marc Holliday’s REIT is taking Rosen’s RFR Holding to court over access to an office building adjacent to its Madison Avenue development site. SL Green alleges RFR has ignored repeated requests for permission to enter its properties at 350 Madison Avenue and 10 East 45th Street, delaying progress on the developer’s planned office tower.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/tristate/2026/06/22/calvin-kleins-former-east-hampton-estate-lists-for-165m/",
+      "url": "https://therealdeal.com/new-york/2026/06/23/sl-green-sues-rfr-over-madison-avenue-building-access/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-06-22T19:45:00.000Z"
+      "published_at": "2026-06-23T19:30:00.000Z"
     },
     {
       "headline": "Booming town of Silverwood where homes are $400K and buyers have to sign ‘kindness’ waiver",
@@ -274,13 +237,49 @@
       "published_at": "2026-06-22T15:25:24.000Z"
     },
     {
-      "headline": "Grun Group files two plans totaling 108 units in Kew Gardens",
-      "summary": "The Grun Group filed two new development plans with the city’s Department of Buildings last The post Grun Group files two plans totaling 108 units in Kew Gardens appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/grun-group-files-two-plans-totaling-108-units-in-kew-gardens/",
-      "section": "pincusco",
+      "headline": "Medallion Financial Corp. moving to 667 Madison Ave.",
+      "summary": "Taxi industry mogul Andrew Murstein hailed a ride to Leonard Stern’s 667 Madison Ave., joining an array of elite tenants at the boutique office tower.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/06/21/real-estate/medallion-financial-corp-moving-to-667-madison-ave/",
+      "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-06-22T11:34:00.000Z"
+      "published_at": "2026-06-21T20:10:16.000Z"
+    },
+    {
+      "headline": "NY Dirt: Can’t pay, won’t pay",
+      "summary": "“Rent collections are down in New York — and no one’s sure why.” That was a tweet from Politico earlier this week, one that got a good amount of attention. It was related to a story they published about affordable housing operators and data showing they are collecting less in rent. I similarly wrote about this subject for our January magazine. This is a pertinent issue that affects how affordable housing operators are able to stay in the black.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/24/rent-collections-are-down-in-new-yorks-affordable-housing/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-06-24T11:30:00.000Z"
+    },
+    {
+      "headline": "REBNY legislative lead resigns after tearing down political signs",
+      "summary": "An act of campaign sabotage during primary voting Tuesday landed REBNY’s vice president of legislative affairs for New York in hot water. Dev Awasthi was filmed removing campaign signs for NY-12 Congressional candidate Jack Schlossberg from a streetlight post and throwing them in the trash earlier today. He no longer works for the real estate industry group.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/23/rebny-vp-caught-tearing-down-schlossberg-sign-resigns/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-06-23T22:22:17.000Z"
+    },
+    {
+      "headline": "NYC mom sues NYCHA claiming her 2 kids were bitten and ‘permanently injured’ by mice in her rodent-infested home",
+      "summary": "Doris Montalvo claims in the suit that NYCHA had been put on notice about a rodent infestation at 38 Rutgers St. but refused to act.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/06/23/real-estate/2-kids-bitten-injured-by-mice-in-nycha-apartment-lawsuit/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-06-23T19:14:24.000Z"
+    },
+    {
+      "headline": "REBNY taps Fried Frank partner Jonathan Mechanic as new chair",
+      "summary": "The Real Estate Board of New York has chosen attorney Jonathan Mechanic, a partner at Fried Frank who runs the firm’s real estate department, as its next chair. At the start of 2027 Mechanic will succeed current Chair Jed Walentas, CEO of Two Trees Management, REBNY announced Tuesday. “To be the first practicing attorney elected Chairman of REBNY in its storied history is one of the greatest honors of my career.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/23/rebny-taps-fried-franks-jonathan-mechanic-as-next-chair/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-06-23T18:15:00.000Z"
     }
   ]
 }
