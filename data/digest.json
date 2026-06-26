@@ -1,15 +1,15 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-06-25",
-  "generated_at": "2026-06-25T12:29:05.712Z",
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T12:19:42.783Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Luxury Jewelry Brand David Yurman Takes 685 Fifth’s Entire 23K-SF Retail Condo: Luxury jewelry retailer David Yurman has leased the entire retail condominium at 685 Fifth Avenue , just one month after a $160 million loan on the property was transferred to special servicing.\n\nFred Astaire Dance Studios Leases First Park Slope Location: The international dance franchise Fred Astaire Dance Studios is waltzing into Brooklyn’s Park Slope neighborhood. The school’s new lease at 508 Fifth Avenue spans 2,500 square feet of ground-floor retail space previously occupied by shoe store Bobby Sportswear .\n\nCashmere Brand Kujten Picks Acadia’s 92 Greene Street for Second U.S. Location: French cashmere brand Kujten has leased a second Manhattan location less than a year after opening its first U.S. flagship along Madison Avenue.\n\nBistro Pardon My French Sets Up Shop at Jeff Sutton’s 373 Broome Street: Ooh la la. French-inspired bistro Pardon My French is coming to Manhattan’s SoHo neighborhood after signing a 1,000-square-foot lease at 373 Broome Street , a property owned in a joint venture between Jeff Sutton ’s Wharton Properties and Gorjian Real Estate Group, according to broker Meridian Capital Group .",
-    "cre_daily": "Blackstone Lends $125M Refi to Dallas Mixed-Use Complex: Harbor Group International landed a $125M refinancing from Blackstone for the Alesio Urban Center in Irving, Texas. The 908-unit mixed-use property includes 55,500 SF of retail and recently underwent a $4.5M value-add program.\n\nDrive-Thru Traffic Slides, Challenging Net Lease Retail: Short-duration, drive-thru visits to quick-service restaurants fell 6.8% year-over-year in May per Placer.ai. Full-service restaurants and experiential dining gained momentum even as drive-thru traffic declined.\n\nURW Acquires Full Control Of San Diego’s Westfield UTC Mall: Unibail-Rodamco-Westfield is acquiring the remaining half of Westfield UTC for $705M. The 1M SF San Diego mall is set for further luxury expansion, with new brands arriving in 2026.\n\nUS Core Retail Sales Hit Record as Shoppers Shift Online: Core retail sales increased 0.5% month-over-month and 5.6% year-over-year in May, reflecting resilient consumer spending. Online and discount retailers saw record sales, while restaurant and electronics spending slowed as households cut back on discretionary purchases.",
-    "new_york_post": "Billionaire tech CEO latest to ditch California with $18M sale of sprawling ranch: Former eBay CEO Meg Whitman has unloaded her 1,530-acre Fall River Mills ranch for $17.9M. In 2025, she and her husband sold a penthouse atop a downtown Sacramento hotel for nearly $2.4 million.\n\nDallas OKs incentive package for $1.3B Morgan Stanley office tower — and far-left election wins in NYC could spark more businesses to leave: Officials rubber-stamped the deal that would grant the New York-based bank a special economic grant and up to a decade of business personal property tax abatements.\n\nThe nation’s most competitive housing market where 58% of homes sell above ask is a surprising New Jersey city: In this city, nearly three in five homes sold above ask in May -- the highest share of the nation's 50 most populous metros.\n\nBooming town of Silverwood where homes are $400K and buyers have to sign ‘kindness’ waiver: The 9,000-acre project first grabbed headlines for its relatively affordable home prices — starting in the low $400,000s.",
-    "pincusco": "Getzel Neustadt pays $3.5M for retail condo in Lower East Side: Getzel Neustadt through the entity 150 Rivington Retail LLC, paid $3.5 million to the entity.\n\nCW Realty Group signs 99-year lease valued at $9.7M with Kimco for LIC dev site: CW Realty Group through the entity 44 Drive GL LLC as tenant signed a ground.\n\nOleksandr Nad signs $13M construction loan with Colorado Federal for 18-unit project in Two Bridges: Oleksandr Nad through the entity 83 Madison Holdings LLC as borrower signed a new construction.\n\nGora Group pays $16.8M to Treeline Companies for office in Brooklyn Heights: Gora Group through the entity 188 Montague LLC paid $16.8 million to Treeline Companies through.",
-    "the_real_deal": "NYC’s top construction permits: Week ending June 19, 2026: New Building: The largest new building application filed last week was in Crotona Park East, where Luce Popaj plans to build two residential buildings at 1489 and 1495 Boston Road, spanning a combined 73,689 square feet. The buildings will house a total of 127 units and stand nine and 12 stories tall.\n\nBrooklyn developer scores financing on one-time David Werner conversion target: David Werner’s loss is Hershy Silberstein’s gain. The Blue Sky Builders honcho landed $102 million in construction financing for the office-to-residential conversion of 311 West 43rd Street in Hell’s Kitchen, the Commercial Observer reported.\n\nScott Rechler made it to the other side of the downturn. At what cost?: When the one-two punch of Covid and higher interest rates cratered the country’s office market, Scott Rechler was more candid about the seismic problems than most large New York City landlords.\n\nNYC’s top deals: Phil Donahue’s UES penthouse sells for $34M: There were 203 transactions totaling $412 million filed in New York City records in the 24 hours before 4 p.m. on Wednesday, June 24."
+    "cre_daily": "Blackstone Lends $125M Refi to Dallas Mixed-Use Complex: Harbor Group International landed a $125M refinancing from Blackstone for the Alesio Urban Center in Irving, Texas. The 908-unit mixed-use property includes 55,500 SF of retail and recently underwent a $4.5M value-add program.\n\nDrive-Thru Traffic Slides, Challenging Net Lease Retail: Short-duration, drive-thru visits to quick-service restaurants fell 6.8% year-over-year in May per Placer.ai. Full-service restaurants and experiential dining gained momentum even as drive-thru traffic declined.\n\nUS Core Retail Sales Hit Record as Shoppers Shift Online: Core retail sales increased 0.5% month-over-month and 5.6% year-over-year in May, reflecting resilient consumer spending. Online and discount retailers saw record sales, while restaurant and electronics spending slowed as households cut back on discretionary purchases.\n\nToys and Collectibles Fuel Booming US Retail Foot Traffic: Toys and collectibles are rapidly boosting foot traffic and sales for US retailers, drawing demand from Gen Z, Millennials, and older buyers alike. Brands employ scarcity tactics and viral social trends, while global companies like Pop Mart and Miniso expand their US retail footprints to capitalize on the craze.",
+    "new_york_post": "Billionaire tech CEO latest to ditch California with $18M sale of sprawling ranch: Former eBay CEO Meg Whitman has unloaded her 1,530-acre Fall River Mills ranch for $17.9M. In 2025, she and her husband sold a penthouse atop a downtown Sacramento hotel for nearly $2.4 million.\n\nRevealed: The worst place to sell a home in NYC — where homeowners lose a median $24K: New York City homeowners who sold in 2025 walked away with a median gain of $70,000, but that windfall masked a tale of two markets, per PropertyShark.\n\nDallas OKs incentive package for $1.3B Morgan Stanley office tower — and far-left election wins in NYC could spark more businesses to leave: Officials rubber-stamped the deal that would grant the New York-based bank a special economic grant and up to a decade of business personal property tax abatements.\n\nSan Francisco’s $750 apartment is nightmare fuel for our robot overlord future: It's like a tiny doctor's office waiting room — but the nurse never comes to save you.",
+    "pincusco": "Stockbridge Capital Group pays $46.1M to Nuveen for retail in Yorkville: San Francisco-based Stockbridge Capital Group through the entity SCG 1511 Third Avenue, LLC paid $46.1.\n\nLonicera Partners signs $150M loan with PNC for 314-unit rental in Downtown Brooklyn: Lonicera Partners through the entity Hanover Tower Owner LLC as borrower signed a loan with.\n\nPoise Property Group signs $16.2M construction loan for 20-unit dev site in Greenpoint: Poise Property Group through the entity 55 Eckford St LLC as borrower signed a initial.\n\nEMP Capital Group files plans for 79 units in Astoria: EMP Capital Group submitted a new building construction project for a 79-unit, 85,283-square-foot residential (R-2).",
+    "the_real_deal": "Nassau rent board approves modest increases for regulated apartments: As a rent freeze looms over New York City, rent-stabilized tenants in Nassau County dodged steep hikes this year but stopped short of a solid freeze. The Nassau County Rent Guidelines Board voted 5-2 on Wednesday to approve rent increases of up to 1.5 percent for one-year lease renewals and 2.5 percent for two-year.\n\nTA Realty takes rare retail dive on Staten Island: Boston-based TA Realty largely dabbles in the industrial sector, but is taking a chance on a pair of retail properties on Staten Island. James Raisides’ firm acquired two buildings in the borough’s New Dorp Beach neighborhood for a combined $79.2 million, the Commercial Observer reported.\n\nHGI fills famed Black Rock tower with 170K sf law firm lease: Harbor Group International’s multimillion-dollar bet on the Black Rock building has paid off. International law firm Alston & Bird signed a 170,000-square-foot lease at HGI’s 51 West 52nd Street, also known as 51W52 and Black Rock, bringing the Midtown trophy tower to full occupancy.\n\nIt’s official: New York City is getting a rent freeze: New York City is freezing the rents of rent-stabilized apartments. The city’s Rent Guidelines Board voted seven to one in favor of a freeze Thursday night, at El Museo del Barrio in Manhattan."
   },
   "items": [
     {
@@ -67,15 +67,6 @@
       "published_at": "2026-06-18T03:49:57.000Z"
     },
     {
-      "headline": "URW Acquires Full Control Of San Diego’s Westfield UTC Mall",
-      "summary": "Unibail-Rodamco-Westfield is acquiring the remaining half of Westfield UTC for $705M. The 1M SF San Diego mall is set for further luxury expansion, with new brands arriving in 2026. The deal reinforces URW’s pivot to hold top-performing US retail assets, defying the trend of mall selloffs. Key Takeaways Luxury Retail’s Resilience In San Diego Unibail-Rodamco-Westfield (URW) has agreed to buy out its joint venture partner’s 50% stake in San Diego’s Westfield UTC for $705M in cash and shares, according to Bisnow.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/urw-acquires-full-control-of-san-diego-s-westfield-utc-mall/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-06-12T03:36:13.000Z"
-    },
-    {
       "headline": "US Core Retail Sales Hit Record as Shoppers Shift Online",
       "summary": "Core retail sales increased 0.5% month-over-month and 5.6% year-over-year in May, reflecting resilient consumer spending. Online and discount retailers saw record sales, while restaurant and electronics spending slowed as households cut back on discretionary purchases. Absorption in retail real estate turned positive in Q2 2026, driven by demand for big-box and value-focused tenants.…",
       "source": "CRE Daily",
@@ -94,22 +85,58 @@
       "published_at": "2026-06-13T10:36:12.000Z"
     },
     {
-      "headline": "Workplace Safety Platform Intenseye Takes 9K SF at 220 West 19th Street",
-      "summary": "Intenseye , an artificial intelligence-powered workplace safety platform, has signed a full-floor, 9,485-square-foot lease at Red Circle NY ’s 220 West 19th Street in Manhattan’s Chelsea neighborhood, according to landlord broker Avison Young . The security firm’s deal on the entire fourth floor was one of two new leases totaling 13,264 square feet at the 12-story office building between Seventh and Eighth avenues.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/06/intenseye-lease-220-west-19th-street/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-06-24T15:49:33.000Z"
-    },
-    {
-      "headline": "NYC’s top construction permits: Week ending June 19, 2026",
-      "summary": "New Building: The largest new building application filed last week was in Crotona Park East, where Luce Popaj plans to build two residential buildings at 1489 and 1495 Boston Road, spanning a combined 73,689 square feet. The buildings will house a total of 127 units and stand nine and 12 stories tall. Nikolai Katz is the architect.…",
+      "headline": "Nassau rent board approves modest increases for regulated apartments",
+      "summary": "As a rent freeze looms over New York City, rent-stabilized tenants in Nassau County dodged steep hikes this year but stopped short of a solid freeze. The Nassau County Rent Guidelines Board voted 5-2 on Wednesday to approve rent increases of up to 1.5 percent for one-year lease renewals and 2.5 percent for two-year renewals at regulated apartments, according to Newsday. The rates take effect Oct. 1 and apply to the county’s roughly 8,100 rent-stabilized units.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/24/new-york-citys-top-construction-permits-june-19-2026/",
+      "url": "https://therealdeal.com/new-york/tristate/2026/06/25/nassau-rent-board-oks-modest-increases-for-regulated-units/",
       "section": "the_real_deal",
       "retail": true,
-      "published_at": "2026-06-24T11:00:00.000Z"
+      "published_at": "2026-06-25T20:00:00.000Z"
+    },
+    {
+      "headline": "TA Realty takes rare retail dive on Staten Island",
+      "summary": "Boston-based TA Realty largely dabbles in the industrial sector, but is taking a chance on a pair of retail properties on Staten Island. James Raisides’ firm acquired two buildings in the borough’s New Dorp Beach neighborhood for a combined $79.2 million, the Commercial Observer reported. The deal for two properties breaks down to roughly $430 per built square foot. An affiliate of the Bregman Organization, led by Paul Bregman, sold the buildings at 2712 Hylan Boulevard and 2754 Hylan Boulevard.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/25/ta-realty-takes-rare-retail-dive-on-staten-island/",
+      "section": "the_real_deal",
+      "retail": true,
+      "published_at": "2026-06-25T18:46:18.000Z"
+    },
+    {
+      "headline": "Design Firm Décor Global Inks 7K-SF Lease at 231 West 39th Street",
+      "summary": "Manhattan’s Garment District has sewn up yet another design tenant. Décor Global , an apparel, accessory design and manufacturing company, signed a lease spanning 6,973 square feet at 231 West 39th Street , Commercial Observer has learned. The 12-story office building is owned by the LLC 231/249 West 39 Street Associates . Décor Global will use its new space for offices as well as a showroom for wholesale apparel sales, according to landlord broker and building manager Adams & Company .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/design-firm-decor-global-inks-7k-sf-lease-at-231-west-39th-street/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-06-25T16:28:33.000Z"
+    },
+    {
+      "headline": "Union Investment, Nuveen Sell Retail Property at 1511 Third Avenue for $46M",
+      "summary": "Union Investment and Nuveen Real Estate have offloaded a retail property on Manhattan’s Upper East Side for $46.1 million, property records made public Wednesday show. The joint venture sold 1511 Third Avenue , a four-story retail building in the Upper East Side’s Yorkville neighborhood, to San Francisco-based real estate investment management firm Stockbridge , according to the sellers. The sale is Stockbridge’s second overall transaction and first retail deal in New York City, a source close to the deal said.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/union-investment-nuveen-sell-retail-1511-third-avenue/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-06-25T13:17:21.000Z"
+    },
+    {
+      "headline": "Wells Fargo Provides $46M Refi for SoCal Shopping Center",
+      "summary": "A Target -anchored shopping center in Southern California’s San Gabriel Valley has secured refinancing, Walker & Dunlop announced Thursday. Wells Fargo provided $46 million in fixed-rate, interest-only permanent financing for the 336,718-square-foot Rosemead Place in Rosemead, Calif., in Los Angeles County. PropertyShark lists MPM Partners , run by Herbert Yang , as the property’s owner. The shopping center is about 10 miles east of Downtown L.A.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/california-retail-wells-fargo-walker-dunlop-target-rosemead/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-06-25T21:55:12.000Z"
+    },
+    {
+      "headline": "HGI fills famed Black Rock tower with 170K sf law firm lease",
+      "summary": "Harbor Group International’s multimillion-dollar bet on the Black Rock building has paid off. International law firm Alston & Bird signed a 170,000-square-foot lease at HGI’s 51 West 52nd Street, also known as 51W52 and Black Rock, bringing the Midtown trophy tower to full occupancy. The firm inked a 15-year deal for floors nine through 15 at the roughly 900,000-square-foot Class A office tower, according to an announcement from Newmark.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/25/harbor-group-fills-famed-black-rock-tower-with-170k-sf-law-firm-lease/",
+      "section": "the_real_deal",
+      "retail": true,
+      "published_at": "2026-06-25T18:30:00.000Z"
     },
     {
       "headline": "US Small Business Tenants Face Profit Pressures in 2026",
@@ -121,31 +148,49 @@
       "published_at": "2026-06-19T03:48:27.000Z"
     },
     {
-      "headline": "TA Realty Buys Two Staten Island Retail Buildings for $79M",
-      "summary": "Boston-based real estate investment firm TA Realty has purchased two buildings within Staten Island’s Tysens Park Shopping Center , according to property records made public Monday. The James Raisides -led TA Realty purchased the properties at 2712 Hylan Boulevard and 2754 Hylan Boulevard in New Dorp Beach, Staten Island, for a total of $79.2 million from the Bregman Organization , a deed transfer in property records indicates .…",
+      "headline": "It’s official: New York City is getting a rent freeze",
+      "summary": "New York City is freezing the rents of rent-stabilized apartments. The city’s Rent Guidelines Board voted seven to one in favor of a freeze Thursday night, at El Museo del Barrio in Manhattan. The board approved rent increases of 0 percent on one-year leases and 0 percent on two-year leases The result delivers on Mayor Zohran Mamdani’s campaign promise and is a show of strength for the tenant advocates who helped elect him. For landlord groups the vote was a difficult, if expected, blow.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/25/nyc-rgb-approves-rent-freeze/",
+      "section": "the_real_deal",
+      "retail": true,
+      "published_at": "2026-06-25T23:51:53.000Z"
+    },
+    {
+      "headline": "Fitness Factory to Open 25K-SF Gym at 162-11 Jamaica Avenue in Queens",
+      "summary": "Don’t you know pump it up? You got to pump it up! And residents in Queens are about to get another option for pumping up their gym workout. Fitness Factory , a growing fitness and wellness chain in New York and New Jersey, has signed a 25,000-square-foot lease to open a new gym at 162-11 Jamaica Avenue in Jamaica, Queens, Commercial Observer has learned. The deal was signed June 18, according to a source close to the deal. Fitness Factory will open a four-floor gym at its new space.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/06/ta-realty-buys-tysens-park-shopping-center-staten-island/",
+      "url": "https://commercialobserver.com/2026/06/fitness-factory-lease-gym-162-11-jamaica-avenue-queens/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-06-23T20:05:26.000Z"
+      "published_at": "2026-06-25T13:40:10.000Z"
     },
     {
-      "headline": "Getzel Neustadt pays $3.5M for retail condo in Lower East Side",
-      "summary": "Getzel Neustadt through the entity 150 Rivington Retail LLC, paid $3.5 million to the entity The post Getzel Neustadt pays $3.5M for retail condo in Lower East Side appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/getzel-neustadt-pays-3-5m-for-retail-condo-in-lower-east-side/",
-      "section": "pincusco",
+      "headline": "Law Firm Alston & Bird Takes 170K SF at 51 West 52nd Street",
+      "summary": "International law firm Alston & Bird has signed a major deal to relocate its offices from Park Avenue. Alston & Bird, which provides legal counsel to Fortune 100 companies and private institutions, signed a 15-year, 169,664-square-foot lease at Harbor Group International ’s 51 West 52nd Street , with plans to move its operations from 90 Park Avenue , according to landlord broker Newmark .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/alston-bird-lease-51-west-52nd-street/",
+      "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-06-25T11:07:00.000Z"
+      "published_at": "2026-06-25T16:44:02.000Z"
     },
     {
-      "headline": "CW Realty Group signs 99-year lease valued at $9.7M with Kimco for LIC dev site",
-      "summary": "CW Realty Group through the entity 44 Drive GL LLC as tenant signed a ground The post CW Realty Group signs 99-year lease valued at $9.7M with Kimco for LIC dev site appeared first on PincusCo .",
+      "headline": "Stockbridge Capital Group pays $46.1M to Nuveen for retail in Yorkville",
+      "summary": "San Francisco-based Stockbridge Capital Group through the entity SCG 1511 Third Avenue, LLC paid $46.1 The post Stockbridge Capital Group pays $46.1M to Nuveen for retail in Yorkville appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/cw-realty-group-signs-99-year-lease-valued-at-9-7m-with-kimco-for-lic-dev-site/",
+      "url": "https://www.pincusco.com/stockbridge-capital-group-pays-46-1m-to-nuveen-for-retail-in-yorkville/",
       "section": "pincusco",
       "retail": true,
-      "published_at": "2026-06-24T12:26:00.000Z"
+      "published_at": "2026-06-25T12:42:00.000Z"
+    },
+    {
+      "headline": "Walmart Pilots Dark Store Depots For Faster Last-Mile Delivery",
+      "summary": "Walmart has launched Spark Delivery Depots—small, closed-to-public fulfillment hubs—starting in Fayetteville, Arkansas. Repurposing 20,000 SF former drugstores, these dark stores focus on stocking high-demand items for rapid local delivery at a premium fee. This model leverages Walmart’s store footprint to challenge Amazon’s last-mile advantage and accelerate e-commerce growth in the US.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/walmart-pilots-dark-store-depots-for-faster-last-mile-delivery/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-06-25T03:43:39.000Z"
     },
     {
       "headline": "French Cafe L’Ami Pierre to Open at Midtown’s 400 Madison Avenue",
@@ -157,22 +202,31 @@
       "published_at": "2026-06-16T16:17:51.000Z"
     },
     {
-      "headline": "Brooklyn developer scores financing on one-time David Werner conversion target",
-      "summary": "David Werner’s loss is Hershy Silberstein’s gain. The Blue Sky Builders honcho landed $102 million in construction financing for the office-to-residential conversion of 311 West 43rd Street in Hell’s Kitchen, the Commercial Observer reported. S3 Capital provided the debt for the redevelopment of the Press Building. Silberstein’s involvement in the project wasn’t previously disclosed. Instead, it appeared that one of New York City’s conversion kings, David Werner, would be spearheading the redevelopment.…",
+      "headline": "NYC’s top deals: GO Residential closes on Ivy Tower in Yorkville for $148M",
+      "summary": "There were 302 transactions totaling $641 million filed in New York City records in the 24 hours before 4 p.m. on Thursday, June 25. Commercial: Midtown had the top commercial real estate deal to hit records, with the sale of two apartment complexes known as the Ivy Tower at 349 West 42nd Street and 350 West 43rd Street for $148 million. The property on 42nd Street stands 41 stories tall and has 268 apartments; the 43rd Street building stands seven stories tall and houses 52 apartments.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/24/silberstein-scores-debt-on-david-werner-conversion-target/",
+      "url": "https://therealdeal.com/new-york/2026/06/26/new-york-top-real-estate-deals-thursday-june-25/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-06-24T16:17:06.000Z"
+      "published_at": "2026-06-26T12:00:00.000Z"
     },
     {
-      "headline": "Scott Rechler made it to the other side of the downturn. At what cost?",
-      "summary": "When the one-two punch of Covid and higher interest rates cratered the country’s office market, Scott Rechler was more candid about the seismic problems than most large New York City landlords. In 2023, the 58-year-old CEO publicized that RXR, his commercial property firm, had embarked on an initiative called “Project Kodak” that would separate the viable “digital” office buildings in its mega-portfolio from the film-like properties that were now suddenly obsolete. Three years later, that clean and…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/24/string-of-losses-at-scott-rechlers-older-investments/",
-      "section": "the_real_deal",
+      "headline": "Lonicera Partners signs $150M loan with PNC for 314-unit rental in Downtown Brooklyn",
+      "summary": "Lonicera Partners through the entity Hanover Tower Owner LLC as borrower signed a loan with The post Lonicera Partners signs $150M loan with PNC for 314-unit rental in Downtown Brooklyn appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/lonicera-partners-signs-150m-loan-with-pnc-for-314-unit-rental-in-downtown-brooklyn/",
+      "section": "pincusco",
       "retail": false,
-      "published_at": "2026-06-24T14:49:59.000Z"
+      "published_at": "2026-06-25T13:38:00.000Z"
+    },
+    {
+      "headline": "Poise Property Group signs $16.2M construction loan for 20-unit dev site in Greenpoint",
+      "summary": "Poise Property Group through the entity 55 Eckford St LLC as borrower signed a initial The post Poise Property Group signs $16.2M construction loan for 20-unit dev site in Greenpoint appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/poise-property-group-signs-16-2m-construction-loan-for-20-unit-dev-site-in-greenpoint/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-06-25T13:43:00.000Z"
     },
     {
       "headline": "Billionaire tech CEO latest to ditch California with $18M sale of sprawling ranch",
@@ -184,22 +238,22 @@
       "published_at": "2026-06-24T19:21:35.000Z"
     },
     {
-      "headline": "Oleksandr Nad signs $13M construction loan with Colorado Federal for 18-unit project in Two Bridges",
-      "summary": "Oleksandr Nad through the entity 83 Madison Holdings LLC as borrower signed a new construction The post Oleksandr Nad signs $13M construction loan with Colorado Federal for 18-unit project in Two Bridges appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/oleksandr-nad-signs-13m-construction-loan-with-colorado-federal-for-18-unit-project-in-two-bridges/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-06-24T12:37:00.000Z"
-    },
-    {
-      "headline": "NYC’s top deals: Phil Donahue’s UES penthouse sells for $34M",
-      "summary": "There were 203 transactions totaling $412 million filed in New York City records in the 24 hours before 4 p.m. on Wednesday, June 24. Commercial: The biggest commercial sale to hit records was in Whitestone at 157-15 19th Avenue for about $58.18 million. The sale included the 47,000 square foot building and the adjacent parking lot. The seller was Clearview Land LLC, linked to the Grand Healthcare System. The buyer was a group of companies tied to Mark Friedman.…",
+      "headline": "Developer looks to bring almost 300 units to Flushing",
+      "summary": "Flushing is poised to receive an influx of nearly 300 units — many affordable — should Gary Chen secure a zoning change. On Monday, Chen filed an application with the New York City Department of City Planning for a mixed-use project at 32-02 Linden Place in the Queens neighborhood, the Commercial Observer reported. The zoning change would be bound by 32nd Avenue, Linden Place and Farrington Street.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/25/new-york-top-real-estate-deals-wednesday-june-24/",
+      "url": "https://therealdeal.com/new-york/2026/06/25/developer-looks-to-bring-almost-300-units-to-flushing/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-06-25T11:00:00.000Z"
+      "published_at": "2026-06-25T20:11:38.000Z"
+    },
+    {
+      "headline": "Revealed: The worst place to sell a home in NYC — where homeowners lose a median $24K",
+      "summary": "New York City homeowners who sold in 2025 walked away with a median gain of $70,000, but that windfall masked a tale of two markets, per PropertyShark.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/06/25/real-estate/manhattan-homeowners-lose-a-median-24k-upon-resale-study/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-06-25T16:20:25.000Z"
     },
     {
       "headline": "Dallas OKs incentive package for $1.3B Morgan Stanley office tower — and far-left election wins in NYC could spark more businesses to leave",
@@ -211,76 +265,22 @@
       "published_at": "2026-06-24T16:33:14.000Z"
     },
     {
-      "headline": "Gora Group pays $16.8M to Treeline Companies for office in Brooklyn Heights",
-      "summary": "Gora Group through the entity 188 Montague LLC paid $16.8 million to Treeline Companies through The post Gora Group pays $16.8M to Treeline Companies for office in Brooklyn Heights appeared first on PincusCo .",
+      "headline": "EMP Capital Group files plans for 79 units in Astoria",
+      "summary": "EMP Capital Group submitted a new building construction project for a 79-unit, 85,283-square-foot residential (R-2) The post EMP Capital Group files plans for 79 units in Astoria appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/gora-group-pays-16-8m-to-treeline-companies-for-office-in-brooklyn-heights/",
+      "url": "https://www.pincusco.com/emp-capital-group-files-plans-for-79-units-in-astoria/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-06-24T12:17:00.000Z"
+      "published_at": "2026-06-26T12:18:00.000Z"
     },
     {
-      "headline": "GO Residential pays $148.2M to Friedman Management for rentals in Hell’s Kitchen",
-      "summary": "GO Residential Real Estate Investment Trust through the entity Go Ivy Tower LLC paid $148.2 The post GO Residential pays $148.2M to Friedman Management for rentals in Hell’s Kitchen appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/go-residential-pays-148-2m-to-friedman-management-for-rentals-in-hells-kitchen/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-06-25T12:17:00.000Z"
-    },
-    {
-      "headline": "Phil Donahue, Marlo Thomas’ longtime Upper East Side co-op sold for $34M",
-      "summary": "A trust tied to late TV host Phil Donahue and his wife Marlo Thomas found a buyer for their longtime Upper East Side co-op. The unit at 875 Fifth Avenue sold for $33.5 million, according to public records. The buyer’s identity was shielded by a trust, with attorneys Jonathan Moses and Kevin Schwartz of Wachtell, Lipton, Rosen & Katz listed as trustees. The duplex penthouse unit appears to have traded in an off-market deal.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/25/trust-tied-to-late-tv-host-phil-donahue-sells-ues-co-op-for-34m/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-06-25T12:00:00.000Z"
-    },
-    {
-      "headline": "The nation’s most competitive housing market where 58% of homes sell above ask is a surprising New Jersey city",
-      "summary": "In this city, nearly three in five homes sold above ask in May -- the highest share of the nation's 50 most populous metros.",
+      "headline": "San Francisco’s $750 apartment is nightmare fuel for our robot overlord future",
+      "summary": "It's like a tiny doctor's office waiting room — but the nurse never comes to save you.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/06/24/real-estate/newark-is-the-nations-most-competitive-housing-market/",
+      "url": "https://nypost.com/2026/06/25/real-estate/700-bay-area-micro-apartment-is-the-sf-housing-crisis-in-a-nutshell/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-06-24T16:39:40.000Z"
-    },
-    {
-      "headline": "Ridwan Kabir pays $4.3M for office in Hollis",
-      "summary": "Ridwan Kabir through the entity 189 Hillside Plaza LLC paid $4.3 million to Shahid Ali The post Ridwan Kabir pays $4.3M for office in Hollis appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/ridwan-kabir-pays-4-3m-for-office-in-hollis/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-06-24T12:22:00.000Z"
-    },
-    {
-      "headline": "Booming town of Silverwood where homes are $400K and buyers have to sign ‘kindness’ waiver",
-      "summary": "The 9,000-acre project first grabbed headlines for its relatively affordable home prices — starting in the low $400,000s.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/06/22/real-estate/hesperias-kindness-pledge-community-sells-225-homes-in-year-1/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-06-22T15:25:24.000Z"
-    },
-    {
-      "headline": "The primary winners poised to shake up real estate",
-      "summary": "A new wave of politicians is coming to Albany. The fight to represent New York in the state Senate and Assembly served as a fraught battleground of left-leaning candidates facing off against incumbents. Their wins — particularly those endorsed by Mayor Zohran Mamdani and the Democratic Socialists of America (as well as the Working Families Party) — stand to have an outsized impact on influencing city and state policy on the real estate industry and beyond. While many candidates won by touting progressive…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/24/albany-election-winners-poised-to-shake-up-real-estate/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-06-24T21:30:00.000Z"
-    },
-    {
-      "headline": "NYC landlords see red as anti-real estate DSA candidates move closer to Congress: ‘Sets us up for failure’",
-      "summary": "Claire Valdez and Darializa Avila Chevalier believe in seizure of property from alleged slumlords.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/06/24/real-estate/real-estate-down-on-dsa-ny-house-primary-winners/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-06-24T20:22:53.000Z"
+      "published_at": "2026-06-25T18:59:13.000Z"
     }
   ]
 }
