@@ -1,15 +1,15 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-06-26",
-  "generated_at": "2026-06-26T12:19:42.783Z",
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T11:42:09.643Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Luxury Jewelry Brand David Yurman Takes 685 Fifth’s Entire 23K-SF Retail Condo: Luxury jewelry retailer David Yurman has leased the entire retail condominium at 685 Fifth Avenue , just one month after a $160 million loan on the property was transferred to special servicing.\n\nFred Astaire Dance Studios Leases First Park Slope Location: The international dance franchise Fred Astaire Dance Studios is waltzing into Brooklyn’s Park Slope neighborhood. The school’s new lease at 508 Fifth Avenue spans 2,500 square feet of ground-floor retail space previously occupied by shoe store Bobby Sportswear .\n\nCashmere Brand Kujten Picks Acadia’s 92 Greene Street for Second U.S. Location: French cashmere brand Kujten has leased a second Manhattan location less than a year after opening its first U.S. flagship along Madison Avenue.\n\nBistro Pardon My French Sets Up Shop at Jeff Sutton’s 373 Broome Street: Ooh la la. French-inspired bistro Pardon My French is coming to Manhattan’s SoHo neighborhood after signing a 1,000-square-foot lease at 373 Broome Street , a property owned in a joint venture between Jeff Sutton ’s Wharton Properties and Gorjian Real Estate Group, according to broker Meridian Capital Group .",
-    "cre_daily": "Blackstone Lends $125M Refi to Dallas Mixed-Use Complex: Harbor Group International landed a $125M refinancing from Blackstone for the Alesio Urban Center in Irving, Texas. The 908-unit mixed-use property includes 55,500 SF of retail and recently underwent a $4.5M value-add program.\n\nDrive-Thru Traffic Slides, Challenging Net Lease Retail: Short-duration, drive-thru visits to quick-service restaurants fell 6.8% year-over-year in May per Placer.ai. Full-service restaurants and experiential dining gained momentum even as drive-thru traffic declined.\n\nUS Core Retail Sales Hit Record as Shoppers Shift Online: Core retail sales increased 0.5% month-over-month and 5.6% year-over-year in May, reflecting resilient consumer spending. Online and discount retailers saw record sales, while restaurant and electronics spending slowed as households cut back on discretionary purchases.\n\nToys and Collectibles Fuel Booming US Retail Foot Traffic: Toys and collectibles are rapidly boosting foot traffic and sales for US retailers, drawing demand from Gen Z, Millennials, and older buyers alike. Brands employ scarcity tactics and viral social trends, while global companies like Pop Mart and Miniso expand their US retail footprints to capitalize on the craze.",
-    "new_york_post": "Billionaire tech CEO latest to ditch California with $18M sale of sprawling ranch: Former eBay CEO Meg Whitman has unloaded her 1,530-acre Fall River Mills ranch for $17.9M. In 2025, she and her husband sold a penthouse atop a downtown Sacramento hotel for nearly $2.4 million.\n\nRevealed: The worst place to sell a home in NYC — where homeowners lose a median $24K: New York City homeowners who sold in 2025 walked away with a median gain of $70,000, but that windfall masked a tale of two markets, per PropertyShark.\n\nDallas OKs incentive package for $1.3B Morgan Stanley office tower — and far-left election wins in NYC could spark more businesses to leave: Officials rubber-stamped the deal that would grant the New York-based bank a special economic grant and up to a decade of business personal property tax abatements.\n\nSan Francisco’s $750 apartment is nightmare fuel for our robot overlord future: It's like a tiny doctor's office waiting room — but the nurse never comes to save you.",
-    "pincusco": "Stockbridge Capital Group pays $46.1M to Nuveen for retail in Yorkville: San Francisco-based Stockbridge Capital Group through the entity SCG 1511 Third Avenue, LLC paid $46.1.\n\nLonicera Partners signs $150M loan with PNC for 314-unit rental in Downtown Brooklyn: Lonicera Partners through the entity Hanover Tower Owner LLC as borrower signed a loan with.\n\nPoise Property Group signs $16.2M construction loan for 20-unit dev site in Greenpoint: Poise Property Group through the entity 55 Eckford St LLC as borrower signed a initial.\n\nEMP Capital Group files plans for 79 units in Astoria: EMP Capital Group submitted a new building construction project for a 79-unit, 85,283-square-foot residential (R-2).",
-    "the_real_deal": "Nassau rent board approves modest increases for regulated apartments: As a rent freeze looms over New York City, rent-stabilized tenants in Nassau County dodged steep hikes this year but stopped short of a solid freeze. The Nassau County Rent Guidelines Board voted 5-2 on Wednesday to approve rent increases of up to 1.5 percent for one-year lease renewals and 2.5 percent for two-year.\n\nTA Realty takes rare retail dive on Staten Island: Boston-based TA Realty largely dabbles in the industrial sector, but is taking a chance on a pair of retail properties on Staten Island. James Raisides’ firm acquired two buildings in the borough’s New Dorp Beach neighborhood for a combined $79.2 million, the Commercial Observer reported.\n\nHGI fills famed Black Rock tower with 170K sf law firm lease: Harbor Group International’s multimillion-dollar bet on the Black Rock building has paid off. International law firm Alston & Bird signed a 170,000-square-foot lease at HGI’s 51 West 52nd Street, also known as 51W52 and Black Rock, bringing the Midtown trophy tower to full occupancy.\n\nIt’s official: New York City is getting a rent freeze: New York City is freezing the rents of rent-stabilized apartments. The city’s Rent Guidelines Board voted seven to one in favor of a freeze Thursday night, at El Museo del Barrio in Manhattan."
+    "cre_daily": "Blackstone Lends $125M Refi to Dallas Mixed-Use Complex: Harbor Group International landed a $125M refinancing from Blackstone for the Alesio Urban Center in Irving, Texas. The 908-unit mixed-use property includes 55,500 SF of retail and recently underwent a $4.5M value-add program.\n\nDrive-Thru Traffic Slides, Challenging Net Lease Retail: Short-duration, drive-thru visits to quick-service restaurants fell 6.8% year-over-year in May per Placer.ai. Full-service restaurants and experiential dining gained momentum even as drive-thru traffic declined.\n\nUS Core Retail Sales Hit Record as Shoppers Shift Online: Core retail sales increased 0.5% month-over-month and 5.6% year-over-year in May, reflecting resilient consumer spending. Online and discount retailers saw record sales, while restaurant and electronics spending slowed as households cut back on discretionary purchases.\n\nUS Small Business Tenants Face Profit Pressures in 2026: Small business tenants are experiencing falling profitability, with a 1.3% year-over-year drop per Bank of America Institute’s May 2026 data. The war in Iran and surging energy costs have driven up construction and operating expenses, challenging lease renewal and expansion plans.",
+    "new_york_post": "Revealed: The worst place to sell a home in NYC — where homeowners lose a median $24K: New York City homeowners who sold in 2025 walked away with a median gain of $70,000, but that windfall masked a tale of two markets, per PropertyShark.",
+    "pincusco": "JPMorgan Chase takes title to retail in Chelsea, $38.2M transfer value: JPMorgan Chase through the entity MW Tolero Holding Corp. acquired through bankruptcy with a credit.\n\nBlue Light Capital pays $61.2M for three Greenwich Village retail condos in foreclosure: Blue Light Capital through the entity BL East 8th Street LLC paid $61.2 million through.\n\nLoketch Group signs $22.6M construction loan with iCross for 17-unit project in Fort Greene: Loketch Group through the entity 158 Oxford LLC as borrower signed a new construction loan.\n\nZalman Brody signs $11.3M construction loan with IceCap for 53-unit project in East Morrisania: Zalman Brody through the entity 916 Home Realty LLC as borrower signed a new construction.",
+    "the_real_deal": "NYC’s top deals: Witkoff, Access Industries snag $24M for One High Line penthouse: There were 295 transactions totaling $488 million filed in New York City records in the 24 hours before 4 p.m. on Friday, June 26.\n\nIt’s official: New York City is getting a rent freeze: New York City is freezing the rents of rent-stabilized apartments. The city’s Rent Guidelines Board voted seven to one in favor of a freeze Thursday night, at El Museo del Barrio in Manhattan.\n\nNYC’s top deals: GO Residential closes on Ivy Tower in Yorkville for $148M: There were 302 transactions totaling $641 million filed in New York City records in the 24 hours before 4 p.m. on Thursday, June 25.\n\nHabitat for Humanity shifts focus to outer boroughs: A renowned not-for-profit organization is expanding its output into New York City’s outer boroughs. Habitat for Humanity is constructing a total of 179 co-op units across Brooklyn and the Bronx, the Commercial Observer reported."
   },
   "items": [
     {
@@ -49,6 +49,15 @@
       "published_at": "2026-06-16T15:48:07.000Z"
     },
     {
+      "headline": "Thai Ramen Eatery to Open at Original Site of Danny Meyer’s Union Square Cafe",
+      "summary": "An Upper East Side Thai ramen joint is taking over a retail space near Union Square famous for being the location for Danny Meyer ’s first restaurant, Commercial Observer has learned. Bua Thai Ramen & Robata Grill has signed a 4,840-square-foot lease at David Ellis Real Estate ’s 21 East 16th Street in an expansion of its current presence at 1611 Second Avenue , according to landlord broker Retail by MONA . The lease is for 10 years and asking rent for the space was $250 per square foot, the brokerage said.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/bua-thai-ramen-robata-grill-lease-21-east-16th-street/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-06-26T13:40:31.000Z"
+    },
+    {
       "headline": "Blackstone Lends $125M Refi to Dallas Mixed-Use Complex",
       "summary": "Harbor Group International landed a $125M refinancing from Blackstone for the Alesio Urban Center in Irving, Texas. The 908-unit mixed-use property includes 55,500 SF of retail and recently underwent a $4.5M value-add program. The deal underscores lender appetite for stable, large-scale multifamily assets in the Dallas market despite national debt market volatility.…",
       "source": "CRE Daily",
@@ -67,6 +76,24 @@
       "published_at": "2026-06-18T03:49:57.000Z"
     },
     {
+      "headline": "NYC’s top deals: Witkoff, Access Industries snag $24M for One High Line penthouse",
+      "summary": "There were 295 transactions totaling $488 million filed in New York City records in the 24 hours before 4 p.m. on Friday, June 26. Commercial: The top commercial deal recorded in New York was on the Lower East Side. Shinko Co., which provides dry cleaning equipment, paid $24 million for a six-story, mixed-use building at 245 Eldridge Street. The seller, 245 Eldridge LLC, had owned the 10-apartment complex, which has ground-floor retail, since December, when the company purchased the building for $16.5 million.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/27/new-york-top-real-estate-deals-friday-june-26/",
+      "section": "the_real_deal",
+      "retail": true,
+      "published_at": "2026-06-27T11:00:00.000Z"
+    },
+    {
+      "headline": "Korean Chef Jiho Kim to Open Flagship Restaurant at 21 West 17th Street",
+      "summary": "Korean chef Jiho Kim has leased 3,120 square feet at 21 West 17th Street in Manhattan’s Flatiron District for his namesake flagship restaurant, Jiho . The New American eatery with a Korean-inspired menu will take up 1,868 square feet on the ground floor and 1,252 square feet of basement space at the Flatiron location between Fifth Avenue and Avenue of the Americas, Commercial Observer has learned. Asking rent was $120 per square foot.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/jiho-kim-restaurant-lease-21-west-17th-street/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-06-26T17:40:41.000Z"
+    },
+    {
       "headline": "US Core Retail Sales Hit Record as Shoppers Shift Online",
       "summary": "Core retail sales increased 0.5% month-over-month and 5.6% year-over-year in May, reflecting resilient consumer spending. Online and discount retailers saw record sales, while restaurant and electronics spending slowed as households cut back on discretionary purchases. Absorption in retail real estate turned positive in Q2 2026, driven by demand for big-box and value-focused tenants.…",
       "source": "CRE Daily",
@@ -74,33 +101,6 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-06-25T03:45:17.000Z"
-    },
-    {
-      "headline": "Toys and Collectibles Fuel Booming US Retail Foot Traffic",
-      "summary": "Toys and collectibles are rapidly boosting foot traffic and sales for US retailers, drawing demand from Gen Z, Millennials, and older buyers alike. Brands employ scarcity tactics and viral social trends, while global companies like Pop Mart and Miniso expand their US retail footprints to capitalize on the craze. The collectibles surge is reshaping retail leasing dynamics—offering landlords, developers, and brokers new opportunities for high-frequency, intent-driven tenants.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/toys-and-collectibles-fuel-booming-us-retail-foot-traffic/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-06-13T10:36:12.000Z"
-    },
-    {
-      "headline": "Nassau rent board approves modest increases for regulated apartments",
-      "summary": "As a rent freeze looms over New York City, rent-stabilized tenants in Nassau County dodged steep hikes this year but stopped short of a solid freeze. The Nassau County Rent Guidelines Board voted 5-2 on Wednesday to approve rent increases of up to 1.5 percent for one-year lease renewals and 2.5 percent for two-year renewals at regulated apartments, according to Newsday. The rates take effect Oct. 1 and apply to the county’s roughly 8,100 rent-stabilized units.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/tristate/2026/06/25/nassau-rent-board-oks-modest-increases-for-regulated-units/",
-      "section": "the_real_deal",
-      "retail": true,
-      "published_at": "2026-06-25T20:00:00.000Z"
-    },
-    {
-      "headline": "TA Realty takes rare retail dive on Staten Island",
-      "summary": "Boston-based TA Realty largely dabbles in the industrial sector, but is taking a chance on a pair of retail properties on Staten Island. James Raisides’ firm acquired two buildings in the borough’s New Dorp Beach neighborhood for a combined $79.2 million, the Commercial Observer reported. The deal for two properties breaks down to roughly $430 per built square foot. An affiliate of the Bregman Organization, led by Paul Bregman, sold the buildings at 2712 Hylan Boulevard and 2754 Hylan Boulevard.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/25/ta-realty-takes-rare-retail-dive-on-staten-island/",
-      "section": "the_real_deal",
-      "retail": true,
-      "published_at": "2026-06-25T18:46:18.000Z"
     },
     {
       "headline": "Design Firm Décor Global Inks 7K-SF Lease at 231 West 39th Street",
@@ -112,13 +112,13 @@
       "published_at": "2026-06-25T16:28:33.000Z"
     },
     {
-      "headline": "Union Investment, Nuveen Sell Retail Property at 1511 Third Avenue for $46M",
-      "summary": "Union Investment and Nuveen Real Estate have offloaded a retail property on Manhattan’s Upper East Side for $46.1 million, property records made public Wednesday show. The joint venture sold 1511 Third Avenue , a four-story retail building in the Upper East Side’s Yorkville neighborhood, to San Francisco-based real estate investment management firm Stockbridge , according to the sellers. The sale is Stockbridge’s second overall transaction and first retail deal in New York City, a source close to the deal said.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/06/union-investment-nuveen-sell-retail-1511-third-avenue/",
-      "section": "commercial_observer",
+      "headline": "JPMorgan Chase takes title to retail in Chelsea, $38.2M transfer value",
+      "summary": "JPMorgan Chase through the entity MW Tolero Holding Corp. acquired through bankruptcy with a credit The post JPMorgan Chase takes title to retail in Chelsea, $38.2M transfer value appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/jpmorgan-chase-takes-title-to-retail-in-chelsea-38-2m-transfer-value/",
+      "section": "pincusco",
       "retail": true,
-      "published_at": "2026-06-25T13:17:21.000Z"
+      "published_at": "2026-06-26T14:08:00.000Z"
     },
     {
       "headline": "Wells Fargo Provides $46M Refi for SoCal Shopping Center",
@@ -130,15 +130,6 @@
       "published_at": "2026-06-25T21:55:12.000Z"
     },
     {
-      "headline": "HGI fills famed Black Rock tower with 170K sf law firm lease",
-      "summary": "Harbor Group International’s multimillion-dollar bet on the Black Rock building has paid off. International law firm Alston & Bird signed a 170,000-square-foot lease at HGI’s 51 West 52nd Street, also known as 51W52 and Black Rock, bringing the Midtown trophy tower to full occupancy. The firm inked a 15-year deal for floors nine through 15 at the roughly 900,000-square-foot Class A office tower, according to an announcement from Newmark.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/25/harbor-group-fills-famed-black-rock-tower-with-170k-sf-law-firm-lease/",
-      "section": "the_real_deal",
-      "retail": true,
-      "published_at": "2026-06-25T18:30:00.000Z"
-    },
-    {
       "headline": "US Small Business Tenants Face Profit Pressures in 2026",
       "summary": "Small business tenants are experiencing falling profitability, with a 1.3% year-over-year drop per Bank of America Institute’s May 2026 data. The war in Iran and surging energy costs have driven up construction and operating expenses, challenging lease renewal and expansion plans. CRE landlords could soon see higher vacancy and default rates from their largest tenant segment as financial stress accumulates.…",
       "source": "CRE Daily",
@@ -146,6 +137,15 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-06-19T03:48:27.000Z"
+    },
+    {
+      "headline": "SoHo Leads U.S. Trophy Retail Property Sales in Q1: Report",
+      "summary": "Manhattan’s SoHo neighborhood emerged as the country’s most active trophy retail market in the first quarter of 2026. A new report by boutique capital markets advisory firm Adirondack Capital Partners (ACP) tracked 14 trophy retail property sales in premier U.S. shopping corridors, totaling more than $704 million nationwide between January and March. The findings top off a dramatic two-year reversal in fortune for luxury high street retail properties after years of post-2018 pessimism.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/soho-trophy-retail-property-sales-report/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-06-26T15:16:28.000Z"
     },
     {
       "headline": "It’s official: New York City is getting a rent freeze",
@@ -166,6 +166,15 @@
       "published_at": "2026-06-25T13:40:10.000Z"
     },
     {
+      "headline": "Blue Light Capital pays $61.2M for three Greenwich Village retail condos in foreclosure",
+      "summary": "Blue Light Capital through the entity BL East 8th Street LLC paid $61.2 million through The post Blue Light Capital pays $61.2M for three Greenwich Village retail condos in foreclosure appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/blue-light-capital-pays-61-2m-for-three-retail-properties-in-greenwich-village-in-foreclosure/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-06-26T13:25:00.000Z"
+    },
+    {
       "headline": "Law Firm Alston & Bird Takes 170K SF at 51 West 52nd Street",
       "summary": "International law firm Alston & Bird has signed a major deal to relocate its offices from Park Avenue. Alston & Bird, which provides legal counsel to Fortune 100 companies and private institutions, signed a 15-year, 169,664-square-foot lease at Harbor Group International ’s 51 West 52nd Street , with plans to move its operations from 90 Park Avenue , according to landlord broker Newmark .…",
       "source": "Commercial Observer",
@@ -173,15 +182,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-06-25T16:44:02.000Z"
-    },
-    {
-      "headline": "Stockbridge Capital Group pays $46.1M to Nuveen for retail in Yorkville",
-      "summary": "San Francisco-based Stockbridge Capital Group through the entity SCG 1511 Third Avenue, LLC paid $46.1 The post Stockbridge Capital Group pays $46.1M to Nuveen for retail in Yorkville appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/stockbridge-capital-group-pays-46-1m-to-nuveen-for-retail-in-yorkville/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-06-25T12:42:00.000Z"
     },
     {
       "headline": "Walmart Pilots Dark Store Depots For Faster Last-Mile Delivery",
@@ -211,40 +211,40 @@
       "published_at": "2026-06-26T12:00:00.000Z"
     },
     {
-      "headline": "Lonicera Partners signs $150M loan with PNC for 314-unit rental in Downtown Brooklyn",
-      "summary": "Lonicera Partners through the entity Hanover Tower Owner LLC as borrower signed a loan with The post Lonicera Partners signs $150M loan with PNC for 314-unit rental in Downtown Brooklyn appeared first on PincusCo .",
+      "headline": "Loketch Group signs $22.6M construction loan with iCross for 17-unit project in Fort Greene",
+      "summary": "Loketch Group through the entity 158 Oxford LLC as borrower signed a new construction loan The post Loketch Group signs $22.6M construction loan with iCross for 17-unit project in Fort Greene appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/lonicera-partners-signs-150m-loan-with-pnc-for-314-unit-rental-in-downtown-brooklyn/",
+      "url": "https://www.pincusco.com/loketch-group-signs-22-6m-construction-loan-with-icross-for-17-unit-project-in-fort-greene/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-06-25T13:38:00.000Z"
+      "published_at": "2026-06-26T14:29:00.000Z"
     },
     {
-      "headline": "Poise Property Group signs $16.2M construction loan for 20-unit dev site in Greenpoint",
-      "summary": "Poise Property Group through the entity 55 Eckford St LLC as borrower signed a initial The post Poise Property Group signs $16.2M construction loan for 20-unit dev site in Greenpoint appeared first on PincusCo .",
+      "headline": "Zalman Brody signs $11.3M construction loan with IceCap for 53-unit project in East Morrisania",
+      "summary": "Zalman Brody through the entity 916 Home Realty LLC as borrower signed a new construction The post Zalman Brody signs $11.3M construction loan with IceCap for 53-unit project in East Morrisania appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/poise-property-group-signs-16-2m-construction-loan-for-20-unit-dev-site-in-greenpoint/",
+      "url": "https://www.pincusco.com/zalman-brody-signs-11-3m-construction-loan-with-icecap-for-53-unit-project-in-east-morrisania/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-06-25T13:43:00.000Z"
+      "published_at": "2026-06-26T14:25:00.000Z"
     },
     {
-      "headline": "Billionaire tech CEO latest to ditch California with $18M sale of sprawling ranch",
-      "summary": "Former eBay CEO Meg Whitman has unloaded her 1,530-acre Fall River Mills ranch for $17.9M. In 2025, she and her husband sold a penthouse atop a downtown Sacramento hotel for nearly $2.4 million.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/06/24/real-estate/billionaire-tech-ceo-flees-california-with-sale-of-sprawling-18m-ranch/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-06-24T19:21:35.000Z"
-    },
-    {
-      "headline": "Developer looks to bring almost 300 units to Flushing",
-      "summary": "Flushing is poised to receive an influx of nearly 300 units — many affordable — should Gary Chen secure a zoning change. On Monday, Chen filed an application with the New York City Department of City Planning for a mixed-use project at 32-02 Linden Place in the Queens neighborhood, the Commercial Observer reported. The zoning change would be bound by 32nd Avenue, Linden Place and Farrington Street.…",
+      "headline": "Habitat for Humanity shifts focus to outer boroughs",
+      "summary": "A renowned not-for-profit organization is expanding its output into New York City’s outer boroughs. Habitat for Humanity is constructing a total of 179 co-op units across Brooklyn and the Bronx, the Commercial Observer reported. The separate developments represent the largest influx for the New York chapter’s pipeline. In Brooklyn, Habitat is building Constellation, a community that spans eight sites in East New York, Ocean Hill, Brownsville, Bedford-Stuyvesant and Rugby Remsen Village, Brooklyn Paper reported.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/25/developer-looks-to-bring-almost-300-units-to-flushing/",
+      "url": "https://therealdeal.com/new-york/2026/06/26/habitat-for-humanity-shifts-focus-to-outer-boroughs/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-06-25T20:11:38.000Z"
+      "published_at": "2026-06-26T14:28:13.000Z"
+    },
+    {
+      "headline": "KSL Capital Partners refinances two Manhattan hotels with $253.5M",
+      "summary": "KSL Capital Partners refinanced a Greenwich Village hotel and a Midtown East hotel with a The post KSL Capital Partners refinances two Manhattan hotels with $253.5M appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/ksl-capital-partners-refinances-two-manhattan-hotels-with-253-5m/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-06-26T13:50:00.000Z"
     },
     {
       "headline": "Revealed: The worst place to sell a home in NYC — where homeowners lose a median $24K",
@@ -256,31 +256,31 @@
       "published_at": "2026-06-25T16:20:25.000Z"
     },
     {
-      "headline": "Dallas OKs incentive package for $1.3B Morgan Stanley office tower — and far-left election wins in NYC could spark more businesses to leave",
-      "summary": "Officials rubber-stamped the deal that would grant the New York-based bank a special economic grant and up to a decade of business personal property tax abatements.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/06/24/business/dallas-oks-incentive-package-for-1-3b-morgan-stanley-office-tower/",
-      "section": "new_york_post",
+      "headline": "Lender can’t sidestep foreclosure at stalled Garment District condo project, judge rules",
+      "summary": "The long-running legal dispute over a failed Garment District condo conversion continues after a judge ruled that the lender will have to foreclose on the property the old-fashioned way. State Supreme Court Justice Andrea Masley reversed an earlier ruling that would have allowed Shanghai Commercial Bank to take over the title to 335 West 35th Street from the family of Taiwanese artist Dr. Tsing-Fang Chen, ruling that a deed-in-lieu of foreclosure agreement was legally a mortgage.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/26/lender-cant-sidestep-foreclosure-at-garment-district-condo/",
+      "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-06-24T16:33:14.000Z"
+      "published_at": "2026-06-26T19:30:00.000Z"
     },
     {
-      "headline": "EMP Capital Group files plans for 79 units in Astoria",
-      "summary": "EMP Capital Group submitted a new building construction project for a 79-unit, 85,283-square-foot residential (R-2) The post EMP Capital Group files plans for 79 units in Astoria appeared first on PincusCo .",
+      "headline": "Menacham Harfenes files plans for 80 units in Longwood",
+      "summary": "Menacham Harfenes submitted a new building construction project for an 80-unit, 69,543-square-foot residential (R-2) building The post Menacham Harfenes files plans for 80 units in Longwood appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/emp-capital-group-files-plans-for-79-units-in-astoria/",
+      "url": "https://www.pincusco.com/menacham-harfenes-files-plans-for-80-units-in-longwood/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-06-26T12:18:00.000Z"
+      "published_at": "2026-06-26T14:18:00.000Z"
     },
     {
-      "headline": "San Francisco’s $750 apartment is nightmare fuel for our robot overlord future",
-      "summary": "It's like a tiny doctor's office waiting room — but the nurse never comes to save you.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/06/25/real-estate/700-bay-area-micro-apartment-is-the-sf-housing-crisis-in-a-nutshell/",
-      "section": "new_york_post",
+      "headline": "Neel Dvivedi pays $9.85M to AMCC Corp. for dev site in Long Island City",
+      "summary": "Neel Dvivedi paid $9.85 million to AMCC Corp. for a two-parcel development site in Long The post Neel Dvivedi pays $9.85M to AMCC Corp. for dev site in Long Island City appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/neel-dvivedi-pays-9-85m-to-amcc-corp-for-industrial-in-long-island-city/",
+      "section": "pincusco",
       "retail": false,
-      "published_at": "2026-06-25T18:59:13.000Z"
+      "published_at": "2026-06-26T12:40:00.000Z"
     }
   ]
 }
