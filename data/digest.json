@@ -1,15 +1,15 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-06-27",
-  "generated_at": "2026-06-27T11:42:09.643Z",
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T11:53:26.392Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Luxury Jewelry Brand David Yurman Takes 685 Fifth’s Entire 23K-SF Retail Condo: Luxury jewelry retailer David Yurman has leased the entire retail condominium at 685 Fifth Avenue , just one month after a $160 million loan on the property was transferred to special servicing.\n\nFred Astaire Dance Studios Leases First Park Slope Location: The international dance franchise Fred Astaire Dance Studios is waltzing into Brooklyn’s Park Slope neighborhood. The school’s new lease at 508 Fifth Avenue spans 2,500 square feet of ground-floor retail space previously occupied by shoe store Bobby Sportswear .\n\nCashmere Brand Kujten Picks Acadia’s 92 Greene Street for Second U.S. Location: French cashmere brand Kujten has leased a second Manhattan location less than a year after opening its first U.S. flagship along Madison Avenue.\n\nBistro Pardon My French Sets Up Shop at Jeff Sutton’s 373 Broome Street: Ooh la la. French-inspired bistro Pardon My French is coming to Manhattan’s SoHo neighborhood after signing a 1,000-square-foot lease at 373 Broome Street , a property owned in a joint venture between Jeff Sutton ’s Wharton Properties and Gorjian Real Estate Group, according to broker Meridian Capital Group .",
-    "cre_daily": "Blackstone Lends $125M Refi to Dallas Mixed-Use Complex: Harbor Group International landed a $125M refinancing from Blackstone for the Alesio Urban Center in Irving, Texas. The 908-unit mixed-use property includes 55,500 SF of retail and recently underwent a $4.5M value-add program.\n\nDrive-Thru Traffic Slides, Challenging Net Lease Retail: Short-duration, drive-thru visits to quick-service restaurants fell 6.8% year-over-year in May per Placer.ai. Full-service restaurants and experiential dining gained momentum even as drive-thru traffic declined.\n\nUS Core Retail Sales Hit Record as Shoppers Shift Online: Core retail sales increased 0.5% month-over-month and 5.6% year-over-year in May, reflecting resilient consumer spending. Online and discount retailers saw record sales, while restaurant and electronics spending slowed as households cut back on discretionary purchases.\n\nUS Small Business Tenants Face Profit Pressures in 2026: Small business tenants are experiencing falling profitability, with a 1.3% year-over-year drop per Bank of America Institute’s May 2026 data. The war in Iran and surging energy costs have driven up construction and operating expenses, challenging lease renewal and expansion plans.",
+    "cre_daily": "Blackstone Lends $125M Refi to Dallas Mixed-Use Complex: Harbor Group International landed a $125M refinancing from Blackstone for the Alesio Urban Center in Irving, Texas. The 908-unit mixed-use property includes 55,500 SF of retail and recently underwent a $4.5M value-add program.\n\nDrive-Thru Traffic Slides, Challenging Net Lease Retail: Short-duration, drive-thru visits to quick-service restaurants fell 6.8% year-over-year in May per Placer.ai. Full-service restaurants and experiential dining gained momentum even as drive-thru traffic declined.\n\nRetail Sales Surge in May 2026 Masks Slower Volume Growth: US retail sales jumped 5.2% YoY in May 2026, marking the fastest annual rise in over a year, largely fueled by inflation in select categories. Foot traffic outperformed for value brands and experiences, while core retail volume growth slowed to near-stagnant levels at 0.2%.\n\nUS Core Retail Sales Hit Record as Shoppers Shift Online: Core retail sales increased 0.5% month-over-month and 5.6% year-over-year in May, reflecting resilient consumer spending. Online and discount retailers saw record sales, while restaurant and electronics spending slowed as households cut back on discretionary purchases.",
     "new_york_post": "Revealed: The worst place to sell a home in NYC — where homeowners lose a median $24K: New York City homeowners who sold in 2025 walked away with a median gain of $70,000, but that windfall masked a tale of two markets, per PropertyShark.",
     "pincusco": "JPMorgan Chase takes title to retail in Chelsea, $38.2M transfer value: JPMorgan Chase through the entity MW Tolero Holding Corp. acquired through bankruptcy with a credit.\n\nBlue Light Capital pays $61.2M for three Greenwich Village retail condos in foreclosure: Blue Light Capital through the entity BL East 8th Street LLC paid $61.2 million through.\n\nLoketch Group signs $22.6M construction loan with iCross for 17-unit project in Fort Greene: Loketch Group through the entity 158 Oxford LLC as borrower signed a new construction loan.\n\nZalman Brody signs $11.3M construction loan with IceCap for 53-unit project in East Morrisania: Zalman Brody through the entity 916 Home Realty LLC as borrower signed a new construction.",
-    "the_real_deal": "NYC’s top deals: Witkoff, Access Industries snag $24M for One High Line penthouse: There were 295 transactions totaling $488 million filed in New York City records in the 24 hours before 4 p.m. on Friday, June 26.\n\nIt’s official: New York City is getting a rent freeze: New York City is freezing the rents of rent-stabilized apartments. The city’s Rent Guidelines Board voted seven to one in favor of a freeze Thursday night, at El Museo del Barrio in Manhattan.\n\nNYC’s top deals: GO Residential closes on Ivy Tower in Yorkville for $148M: There were 302 transactions totaling $641 million filed in New York City records in the 24 hours before 4 p.m. on Thursday, June 25.\n\nHabitat for Humanity shifts focus to outer boroughs: A renowned not-for-profit organization is expanding its output into New York City’s outer boroughs. Habitat for Humanity is constructing a total of 179 co-op units across Brooklyn and the Bronx, the Commercial Observer reported."
+    "the_real_deal": "NYC’s top deals: Witkoff, Access Industries snag $24M for One High Line penthouse: There were 295 transactions totaling $488 million filed in New York City records in the 24 hours before 4 p.m. on Friday, June 26.\n\nRent freeze redraws math for New York landlords: New York City’s rent-stabilized landlords got the policy outcome they feared for months: no rent increase at all. The Rent Guidelines Board voted 7-1 Thursday night to freeze rents on both one- and two-year rent-stabilized leases, handing Mayor Zohran Mamdani a political victory and cementing one of the most.\n\nNYC’s top deals: GO Residential closes on Ivy Tower in Yorkville for $148M: There were 302 transactions totaling $641 million filed in New York City records in the 24 hours before 4 p.m. on Thursday, June 25.\n\nHabitat for Humanity shifts focus to outer boroughs: A renowned not-for-profit organization is expanding its output into New York City’s outer boroughs. Habitat for Humanity is constructing a total of 179 co-op units across Brooklyn and the Bronx, the Commercial Observer reported."
   },
   "items": [
     {
@@ -94,6 +94,15 @@
       "published_at": "2026-06-26T17:40:41.000Z"
     },
     {
+      "headline": "Retail Sales Surge in May 2026 Masks Slower Volume Growth",
+      "summary": "US retail sales jumped 5.2% YoY in May 2026, marking the fastest annual rise in over a year, largely fueled by inflation in select categories. Foot traffic outperformed for value brands and experiences, while core retail volume growth slowed to near-stagnant levels at 0.2%. Discretionary and experiential spending held up despite tighter budgets, but broad caution is evident in food, home, and furniture categories.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/retail-sales-surge-in-may-2026-masks-slower-volume-growth/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-06-28T10:08:23.000Z"
+    },
+    {
       "headline": "US Core Retail Sales Hit Record as Shoppers Shift Online",
       "summary": "Core retail sales increased 0.5% month-over-month and 5.6% year-over-year in May, reflecting resilient consumer spending. Online and discount retailers saw record sales, while restaurant and electronics spending slowed as households cut back on discretionary purchases. Absorption in retail real estate turned positive in Q2 2026, driven by demand for big-box and value-focused tenants.…",
       "source": "CRE Daily",
@@ -139,6 +148,15 @@
       "published_at": "2026-06-19T03:48:27.000Z"
     },
     {
+      "headline": "Rent freeze redraws math for New York landlords",
+      "summary": "New York City’s rent-stabilized landlords got the policy outcome they feared for months: no rent increase at all. The Rent Guidelines Board voted 7-1 Thursday night to freeze rents on both one- and two-year rent-stabilized leases, handing Mayor Zohran Mamdani a political victory and cementing one of the most aggressive tenant-friendly moves in the board’s history.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/27/rent-freeze-redraws-math-for-new-york-landlords/",
+      "section": "the_real_deal",
+      "retail": true,
+      "published_at": "2026-06-27T13:00:00.000Z"
+    },
+    {
       "headline": "SoHo Leads U.S. Trophy Retail Property Sales in Q1: Report",
       "summary": "Manhattan’s SoHo neighborhood emerged as the country’s most active trophy retail market in the first quarter of 2026. A new report by boutique capital markets advisory firm Adirondack Capital Partners (ACP) tracked 14 trophy retail property sales in premier U.S. shopping corridors, totaling more than $704 million nationwide between January and March. The findings top off a dramatic two-year reversal in fortune for luxury high street retail properties after years of post-2018 pessimism.…",
       "source": "Commercial Observer",
@@ -146,15 +164,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-06-26T15:16:28.000Z"
-    },
-    {
-      "headline": "It’s official: New York City is getting a rent freeze",
-      "summary": "New York City is freezing the rents of rent-stabilized apartments. The city’s Rent Guidelines Board voted seven to one in favor of a freeze Thursday night, at El Museo del Barrio in Manhattan. The board approved rent increases of 0 percent on one-year leases and 0 percent on two-year leases The result delivers on Mayor Zohran Mamdani’s campaign promise and is a show of strength for the tenant advocates who helped elect him. For landlord groups the vote was a difficult, if expected, blow.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/25/nyc-rgb-approves-rent-freeze/",
-      "section": "the_real_deal",
-      "retail": true,
-      "published_at": "2026-06-25T23:51:53.000Z"
     },
     {
       "headline": "Fitness Factory to Open 25K-SF Gym at 162-11 Jamaica Avenue in Queens",
@@ -272,15 +281,6 @@
       "section": "pincusco",
       "retail": false,
       "published_at": "2026-06-26T14:18:00.000Z"
-    },
-    {
-      "headline": "Neel Dvivedi pays $9.85M to AMCC Corp. for dev site in Long Island City",
-      "summary": "Neel Dvivedi paid $9.85 million to AMCC Corp. for a two-parcel development site in Long The post Neel Dvivedi pays $9.85M to AMCC Corp. for dev site in Long Island City appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/neel-dvivedi-pays-9-85m-to-amcc-corp-for-industrial-in-long-island-city/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-06-26T12:40:00.000Z"
     }
   ]
 }
