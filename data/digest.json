@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-06-28",
-  "generated_at": "2026-06-28T11:53:26.392Z",
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T14:14:06.434Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Luxury Jewelry Brand David Yurman Takes 685 Fifth’s Entire 23K-SF Retail Condo: Luxury jewelry retailer David Yurman has leased the entire retail condominium at 685 Fifth Avenue , just one month after a $160 million loan on the property was transferred to special servicing.\n\nFred Astaire Dance Studios Leases First Park Slope Location: The international dance franchise Fred Astaire Dance Studios is waltzing into Brooklyn’s Park Slope neighborhood. The school’s new lease at 508 Fifth Avenue spans 2,500 square feet of ground-floor retail space previously occupied by shoe store Bobby Sportswear .\n\nCashmere Brand Kujten Picks Acadia’s 92 Greene Street for Second U.S. Location: French cashmere brand Kujten has leased a second Manhattan location less than a year after opening its first U.S. flagship along Madison Avenue.\n\nBistro Pardon My French Sets Up Shop at Jeff Sutton’s 373 Broome Street: Ooh la la. French-inspired bistro Pardon My French is coming to Manhattan’s SoHo neighborhood after signing a 1,000-square-foot lease at 373 Broome Street , a property owned in a joint venture between Jeff Sutton ’s Wharton Properties and Gorjian Real Estate Group, according to broker Meridian Capital Group .",
     "cre_daily": "Blackstone Lends $125M Refi to Dallas Mixed-Use Complex: Harbor Group International landed a $125M refinancing from Blackstone for the Alesio Urban Center in Irving, Texas. The 908-unit mixed-use property includes 55,500 SF of retail and recently underwent a $4.5M value-add program.\n\nDrive-Thru Traffic Slides, Challenging Net Lease Retail: Short-duration, drive-thru visits to quick-service restaurants fell 6.8% year-over-year in May per Placer.ai. Full-service restaurants and experiential dining gained momentum even as drive-thru traffic declined.\n\nRetail Sales Surge in May 2026 Masks Slower Volume Growth: US retail sales jumped 5.2% YoY in May 2026, marking the fastest annual rise in over a year, largely fueled by inflation in select categories. Foot traffic outperformed for value brands and experiences, while core retail volume growth slowed to near-stagnant levels at 0.2%.\n\nUS Core Retail Sales Hit Record as Shoppers Shift Online: Core retail sales increased 0.5% month-over-month and 5.6% year-over-year in May, reflecting resilient consumer spending. Online and discount retailers saw record sales, while restaurant and electronics spending slowed as households cut back on discretionary purchases.",
-    "new_york_post": "Revealed: The worst place to sell a home in NYC — where homeowners lose a median $24K: New York City homeowners who sold in 2025 walked away with a median gain of $70,000, but that windfall masked a tale of two markets, per PropertyShark.",
-    "pincusco": "JPMorgan Chase takes title to retail in Chelsea, $38.2M transfer value: JPMorgan Chase through the entity MW Tolero Holding Corp. acquired through bankruptcy with a credit.\n\nBlue Light Capital pays $61.2M for three Greenwich Village retail condos in foreclosure: Blue Light Capital through the entity BL East 8th Street LLC paid $61.2 million through.\n\nLoketch Group signs $22.6M construction loan with iCross for 17-unit project in Fort Greene: Loketch Group through the entity 158 Oxford LLC as borrower signed a new construction loan.\n\nZalman Brody signs $11.3M construction loan with IceCap for 53-unit project in East Morrisania: Zalman Brody through the entity 916 Home Realty LLC as borrower signed a new construction.",
+    "new_york_post": "REBNY touts ‘strong’ Manhattan retail recovery — despite empty storefronts: Luxury jeweler David Yurman will launch a 22,000 square-foot flagship store at 685 Fifth Ave., as reported by WWD.\n\nManhattan sublease space disappearing thanks to AI firms: Landlords in some cases took back space from tenants they can re-lease at higher rents.\n\nSan Francisco’s $750 apartment is nightmare fuel for our robot overlord future: It's like a tiny doctor's office waiting room — but the nurse never comes to save you.",
+    "pincusco": "Yellowstone signs $384M senior construction loan with Madison for 422-unit conversion in Midtown West: Yellowstone Real Estate Investments through the entity YS 1740 Broadway Owner LLC as borrower signed.\n\nArben Mitaj signs $26M construction loan with Kearny Bank for 120-unit project in Bedford Park: Arben Mitaj through the entity 3073 Villa LLC as borrower signed a new construction loan.\n\nLoketch Group signs $22.6M construction loan with iCross for 17-unit project in Fort Greene: Loketch Group through the entity 158 Oxford LLC as borrower signed a new construction loan.\n\nZalman Brody signs $11.3M construction loan with IceCap for 53-unit project in East Morrisania: Zalman Brody through the entity 916 Home Realty LLC as borrower signed a new construction.",
     "the_real_deal": "NYC’s top deals: Witkoff, Access Industries snag $24M for One High Line penthouse: There were 295 transactions totaling $488 million filed in New York City records in the 24 hours before 4 p.m. on Friday, June 26.\n\nRent freeze redraws math for New York landlords: New York City’s rent-stabilized landlords got the policy outcome they feared for months: no rent increase at all. The Rent Guidelines Board voted 7-1 Thursday night to freeze rents on both one- and two-year rent-stabilized leases, handing Mayor Zohran Mamdani a political victory and cementing one of the most.\n\nNYC’s top deals: GO Residential closes on Ivy Tower in Yorkville for $148M: There were 302 transactions totaling $641 million filed in New York City records in the 24 hours before 4 p.m. on Thursday, June 25.\n\nHabitat for Humanity shifts focus to outer boroughs: A renowned not-for-profit organization is expanding its output into New York City’s outer boroughs. Habitat for Humanity is constructing a total of 179 co-op units across Brooklyn and the Bronx, the Commercial Observer reported."
   },
   "items": [
@@ -85,6 +85,15 @@
       "published_at": "2026-06-27T11:00:00.000Z"
     },
     {
+      "headline": "REBNY touts ‘strong’ Manhattan retail recovery — despite empty storefronts",
+      "summary": "Luxury jeweler David Yurman will launch a 22,000 square-foot flagship store at 685 Fifth Ave., as reported by WWD.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/06/28/business/rebny-touts-strong-manhattan-retail-recovery-despite-empty-storefronts/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-06-28T18:07:13.000Z"
+    },
+    {
       "headline": "Korean Chef Jiho Kim to Open Flagship Restaurant at 21 West 17th Street",
       "summary": "Korean chef Jiho Kim has leased 3,120 square feet at 21 West 17th Street in Manhattan’s Flatiron District for his namesake flagship restaurant, Jiho . The New American eatery with a Korean-inspired menu will take up 1,868 square feet on the ground floor and 1,252 square feet of basement space at the Flatiron location between Fifth Avenue and Avenue of the Americas, Commercial Observer has learned. Asking rent was $120 per square foot.…",
       "source": "Commercial Observer",
@@ -112,33 +121,6 @@
       "published_at": "2026-06-25T03:45:17.000Z"
     },
     {
-      "headline": "Design Firm Décor Global Inks 7K-SF Lease at 231 West 39th Street",
-      "summary": "Manhattan’s Garment District has sewn up yet another design tenant. Décor Global , an apparel, accessory design and manufacturing company, signed a lease spanning 6,973 square feet at 231 West 39th Street , Commercial Observer has learned. The 12-story office building is owned by the LLC 231/249 West 39 Street Associates . Décor Global will use its new space for offices as well as a showroom for wholesale apparel sales, according to landlord broker and building manager Adams & Company .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/06/design-firm-decor-global-inks-7k-sf-lease-at-231-west-39th-street/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-06-25T16:28:33.000Z"
-    },
-    {
-      "headline": "JPMorgan Chase takes title to retail in Chelsea, $38.2M transfer value",
-      "summary": "JPMorgan Chase through the entity MW Tolero Holding Corp. acquired through bankruptcy with a credit The post JPMorgan Chase takes title to retail in Chelsea, $38.2M transfer value appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/jpmorgan-chase-takes-title-to-retail-in-chelsea-38-2m-transfer-value/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-06-26T14:08:00.000Z"
-    },
-    {
-      "headline": "Wells Fargo Provides $46M Refi for SoCal Shopping Center",
-      "summary": "A Target -anchored shopping center in Southern California’s San Gabriel Valley has secured refinancing, Walker & Dunlop announced Thursday. Wells Fargo provided $46 million in fixed-rate, interest-only permanent financing for the 336,718-square-foot Rosemead Place in Rosemead, Calif., in Los Angeles County. PropertyShark lists MPM Partners , run by Herbert Yang , as the property’s owner. The shopping center is about 10 miles east of Downtown L.A.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/06/california-retail-wells-fargo-walker-dunlop-target-rosemead/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-06-25T21:55:12.000Z"
-    },
-    {
       "headline": "US Small Business Tenants Face Profit Pressures in 2026",
       "summary": "Small business tenants are experiencing falling profitability, with a 1.3% year-over-year drop per Bank of America Institute’s May 2026 data. The war in Iran and surging energy costs have driven up construction and operating expenses, challenging lease renewal and expansion plans. CRE landlords could soon see higher vacancy and default rates from their largest tenant segment as financial stress accumulates.…",
       "source": "CRE Daily",
@@ -146,6 +128,15 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-06-19T03:48:27.000Z"
+    },
+    {
+      "headline": "Manhattan sublease space disappearing thanks to AI firms",
+      "summary": "Landlords in some cases took back space from tenants they can re-lease at higher rents.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/06/28/business/manhattan-sublease-space-disappearing-thanks-to-ai-firms/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-06-28T16:50:36.000Z"
     },
     {
       "headline": "Rent freeze redraws math for New York landlords",
@@ -175,24 +166,6 @@
       "published_at": "2026-06-25T13:40:10.000Z"
     },
     {
-      "headline": "Blue Light Capital pays $61.2M for three Greenwich Village retail condos in foreclosure",
-      "summary": "Blue Light Capital through the entity BL East 8th Street LLC paid $61.2 million through The post Blue Light Capital pays $61.2M for three Greenwich Village retail condos in foreclosure appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/blue-light-capital-pays-61-2m-for-three-retail-properties-in-greenwich-village-in-foreclosure/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-06-26T13:25:00.000Z"
-    },
-    {
-      "headline": "Law Firm Alston & Bird Takes 170K SF at 51 West 52nd Street",
-      "summary": "International law firm Alston & Bird has signed a major deal to relocate its offices from Park Avenue. Alston & Bird, which provides legal counsel to Fortune 100 companies and private institutions, signed a 15-year, 169,664-square-foot lease at Harbor Group International ’s 51 West 52nd Street , with plans to move its operations from 90 Park Avenue , according to landlord broker Newmark .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/06/alston-bird-lease-51-west-52nd-street/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-06-25T16:44:02.000Z"
-    },
-    {
       "headline": "Walmart Pilots Dark Store Depots For Faster Last-Mile Delivery",
       "summary": "Walmart has launched Spark Delivery Depots—small, closed-to-public fulfillment hubs—starting in Fayetteville, Arkansas. Repurposing 20,000 SF former drugstores, these dark stores focus on stocking high-demand items for rapid local delivery at a premium fee. This model leverages Walmart’s store footprint to challenge Amazon’s last-mile advantage and accelerate e-commerce growth in the US.…",
       "source": "CRE Daily",
@@ -218,6 +191,24 @@
       "section": "the_real_deal",
       "retail": false,
       "published_at": "2026-06-26T12:00:00.000Z"
+    },
+    {
+      "headline": "Yellowstone signs $384M senior construction loan with Madison for 422-unit conversion in Midtown West",
+      "summary": "Yellowstone Real Estate Investments through the entity YS 1740 Broadway Owner LLC as borrower signed The post Yellowstone signs $384M senior construction loan with Madison for 422-unit conversion in Midtown West appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/yellowstone-signs-384m-senior-construction-loan-with-madison-for-422-unit-conversion-in-midtown-west/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-06-29T13:58:00.000Z"
+    },
+    {
+      "headline": "Arben Mitaj signs $26M construction loan with Kearny Bank for 120-unit project in Bedford Park",
+      "summary": "Arben Mitaj through the entity 3073 Villa LLC as borrower signed a new construction loan The post Arben Mitaj signs $26M construction loan with Kearny Bank for 120-unit project in Bedford Park appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/arben-mitaj-signs-26m-construction-loan-with-kearny-bank-for-120-unit-project-in-bedford-park/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-06-29T13:19:00.000Z"
     },
     {
       "headline": "Loketch Group signs $22.6M construction loan with iCross for 17-unit project in Fort Greene",
@@ -247,22 +238,31 @@
       "published_at": "2026-06-26T14:28:13.000Z"
     },
     {
-      "headline": "KSL Capital Partners refinances two Manhattan hotels with $253.5M",
-      "summary": "KSL Capital Partners refinanced a Greenwich Village hotel and a Midtown East hotel with a The post KSL Capital Partners refinances two Manhattan hotels with $253.5M appeared first on PincusCo .",
+      "headline": "Blackstone signs $122M refi with Chase for Kimpton hotel in NoMad",
+      "summary": "Blackstone Group through the entity 835 6 Fb Owner LLC as borrower signed a refi The post Blackstone signs $122M refi with Chase for Kimpton hotel in NoMad appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/ksl-capital-partners-refinances-two-manhattan-hotels-with-253-5m/",
+      "url": "https://www.pincusco.com/blackstone-signs-122m-refi-loan-with-chase-for-hotel-in-nomad/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-06-26T13:50:00.000Z"
+      "published_at": "2026-06-29T14:06:00.000Z"
     },
     {
-      "headline": "Revealed: The worst place to sell a home in NYC — where homeowners lose a median $24K",
-      "summary": "New York City homeowners who sold in 2025 walked away with a median gain of $70,000, but that windfall masked a tale of two markets, per PropertyShark.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/06/25/real-estate/manhattan-homeowners-lose-a-median-24k-upon-resale-study/",
-      "section": "new_york_post",
+      "headline": "Shmili Frenkel files plans for 33 units in Longwood",
+      "summary": "Shmili Frenkel submitted a new building construction project for a 33-unit, 17,016-square-foot residential (R-2) building The post Shmili Frenkel files plans for 33 units in Longwood appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/shmili-frenkel-files-plans-for-33-units-in-longwood/",
+      "section": "pincusco",
       "retail": false,
-      "published_at": "2026-06-25T16:20:25.000Z"
+      "published_at": "2026-06-29T12:01:00.000Z"
+    },
+    {
+      "headline": "Sutton Management signs $12.7M refi with Argentic for 41-unit rental in Harlem",
+      "summary": "Sutton Management through the entity 1801 Associates, LLC as borrower signed a refi loan with The post Sutton Management signs $12.7M refi with Argentic for 41-unit rental in Harlem appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/sutton-management-signs-12-7m-refi-loan-with-argentic-investment-management-for-residential-elevator-in-harlem/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-06-29T11:53:00.000Z"
     },
     {
       "headline": "Lender can’t sidestep foreclosure at stalled Garment District condo project, judge rules",
@@ -274,13 +274,13 @@
       "published_at": "2026-06-26T19:30:00.000Z"
     },
     {
-      "headline": "Menacham Harfenes files plans for 80 units in Longwood",
-      "summary": "Menacham Harfenes submitted a new building construction project for an 80-unit, 69,543-square-foot residential (R-2) building The post Menacham Harfenes files plans for 80 units in Longwood appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/menacham-harfenes-files-plans-for-80-units-in-longwood/",
-      "section": "pincusco",
+      "headline": "San Francisco’s $750 apartment is nightmare fuel for our robot overlord future",
+      "summary": "It's like a tiny doctor's office waiting room — but the nurse never comes to save you.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/06/25/real-estate/700-bay-area-micro-apartment-is-the-sf-housing-crisis-in-a-nutshell/",
+      "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-06-26T14:18:00.000Z"
+      "published_at": "2026-06-25T18:59:13.000Z"
     }
   ]
 }
