@@ -1,15 +1,15 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-06-30",
-  "generated_at": "2026-06-30T12:18:07.246Z",
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T12:39:50.611Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Luxury Jewelry Brand David Yurman Takes 685 Fifth’s Entire 23K-SF Retail Condo: Luxury jewelry retailer David Yurman has leased the entire retail condominium at 685 Fifth Avenue , just one month after a $160 million loan on the property was transferred to special servicing.\n\nFred Astaire Dance Studios Leases First Park Slope Location: The international dance franchise Fred Astaire Dance Studios is waltzing into Brooklyn’s Park Slope neighborhood. The school’s new lease at 508 Fifth Avenue spans 2,500 square feet of ground-floor retail space previously occupied by shoe store Bobby Sportswear .\n\nCashmere Brand Kujten Picks Acadia’s 92 Greene Street for Second U.S. Location: French cashmere brand Kujten has leased a second Manhattan location less than a year after opening its first U.S. flagship along Madison Avenue.\n\nBistro Pardon My French Sets Up Shop at Jeff Sutton’s 373 Broome Street: Ooh la la. French-inspired bistro Pardon My French is coming to Manhattan’s SoHo neighborhood after signing a 1,000-square-foot lease at 373 Broome Street , a property owned in a joint venture between Jeff Sutton ’s Wharton Properties and Gorjian Real Estate Group, according to broker Meridian Capital Group .",
-    "cre_daily": "Blackstone Lends $125M Refi to Dallas Mixed-Use Complex: Harbor Group International landed a $125M refinancing from Blackstone for the Alesio Urban Center in Irving, Texas. The 908-unit mixed-use property includes 55,500 SF of retail and recently underwent a $4.5M value-add program.\n\nDrive-Thru Traffic Slides, Challenging Net Lease Retail: Short-duration, drive-thru visits to quick-service restaurants fell 6.8% year-over-year in May per Placer.ai. Full-service restaurants and experiential dining gained momentum even as drive-thru traffic declined.\n\nSoHo Tops US Trophy Retail Sales With $195M in Q1 Deals: SoHo accounted for 43% of trophy retail trades tracked in Q1 2026, leading all US shopping corridors with $195M in sales volume, per ACP. Foreign buyers and brand owner-occupants drove activity, targeting boutique trophy assets in the $10M–$50M range as hedge against rising rents.\n\nWorld Cup Tourists Flock to Buc-ee’s, Walmart, and Waffle House: International World Cup fans are driving viral buzz around American retail and restaurant chains like Walmart, Buc-ee’s, and Waffle House. The 2026 FIFA World Cup is expected to inject $1.47B into US wholesale and retail sectors, per ICSC.",
-    "new_york_post": "REBNY touts ‘strong’ Manhattan retail recovery — despite empty storefronts: Luxury jeweler David Yurman will launch a 22,000 square-foot flagship store at 685 Fifth Ave., as reported by WWD.\n\nManhattan sublease space disappearing thanks to AI firms: Landlords in some cases took back space from tenants they can re-lease at higher rents.\n\nUnhinged tourists pay thousands to stay at ‘most dangerous’ hotel in the world — in the middle of the ocean.",
-    "pincusco": "Zev Mayer signs $29.7M construction loan with Popular for two projects in Far Rockaway: Zev Mayer through the entity 204b LLC as borrower signed a new construction loan with.\n\nNamdar, Klosed, partners, sign $26.6M additional debt loan for 20 properties in NYC: Namdar Realty Group, Klosed Properties, Aaron Etessami, and Ramin Abdolazadeh through the entity 117 W57.\n\nShmuel S. Schlaff pays $3.6M for mixed-use in Borough Park: Shmuel S. Schlaff through the entity 4922 16th Ave LLC paid $3.6 million for the.\n\nGreater Jamaica Development pays $4.3M for industrial in Jamaica: Greater Jamaica Development Corporation through the entity Gjdc Realty 2 LLC paid $4.3 million to.",
-    "the_real_deal": "Soho reminds retailers of sector dominance: Soho remains a king of the trophy retail sector, leading the nation in sales in the first quarter, according to one report. The Manhattan neighborhood accounted for six of the 14 trophy sales tracked by Adirondack Capital Partners from January to March, the Commercial Observer reported.\n\nRent freeze redraws math for New York landlords: New York City’s rent-stabilized landlords got the policy outcome they feared for months: no rent increase at all. The Rent Guidelines Board voted 7-1 Thursday night to freeze rents on both one- and two-year rent-stabilized leases, handing Mayor Zohran Mamdani a political victory and cementing one of the most.\n\nNYC’s top deals: Sioni Group buys Flatiron office for $31M: There were 243 transactions totaling $534 million filed in New York City records from 4 p.m. on Friday, June 26 through 4 p.m.\n\nNY Dirt: Rutland Plaza tenants take landlord, HPD to court: A landlord with more than 2000 open Housing Preservation & Development violations is in hot water. At a rally outside Brooklyn housing court Monday, tenants in the Brownsville residential complex Rutland Plaza decried conditions like black mold, broken elevators and raw sewage that they claim landlord Robyn Lucas-Cora."
+    "commercial_observer": "Luxury Jewelry Brand David Yurman Takes 685 Fifth’s Entire 23K-SF Retail Condo: Luxury jewelry retailer David Yurman has leased the entire retail condominium at 685 Fifth Avenue , just one month after a $160 million loan on the property was transferred to special servicing.\n\nFred Astaire Dance Studios Leases First Park Slope Location: The international dance franchise Fred Astaire Dance Studios is waltzing into Brooklyn’s Park Slope neighborhood. The school’s new lease at 508 Fifth Avenue spans 2,500 square feet of ground-floor retail space previously occupied by shoe store Bobby Sportswear .\n\nCashmere Brand Kujten Picks Acadia’s 92 Greene Street for Second U.S. Location: French cashmere brand Kujten has leased a second Manhattan location less than a year after opening its first U.S. flagship along Madison Avenue.\n\nThai Ramen Eatery to Open at Original Site of Danny Meyer’s Union Square Cafe: An Upper East Side Thai ramen joint is taking over a retail space near Union Square famous for being the location for Danny Meyer ’s first restaurant, Commercial Observer has learned.",
+    "cre_daily": "Blackstone Lends $125M Refi to Dallas Mixed-Use Complex: Harbor Group International landed a $125M refinancing from Blackstone for the Alesio Urban Center in Irving, Texas. The 908-unit mixed-use property includes 55,500 SF of retail and recently underwent a $4.5M value-add program.\n\nDrive-Thru Traffic Slides, Challenging Net Lease Retail: Short-duration, drive-thru visits to quick-service restaurants fell 6.8% year-over-year in May per Placer.ai. Full-service restaurants and experiential dining gained momentum even as drive-thru traffic declined.\n\nSoHo Tops US Trophy Retail Sales With $195M in Q1 Deals: SoHo accounted for 43% of trophy retail trades tracked in Q1 2026, leading all US shopping corridors with $195M in sales volume, per ACP. Foreign buyers and brand owner-occupants drove activity, targeting boutique trophy assets in the $10M–$50M range as hedge against rising rents.\n\nWorld Cup Tourists Flock to Buc-ee’s, Walmart, and Waffle House: International World Cup fans are driving viral buzz around American retail and restaurant chains like Walmart, Buc-ee’s, and Waffle House. The 2026 FIFA World Cup is expected to inject $1.47B into US wholesale and retail sectors, per ICSC’s Commerce + Communities Today.",
+    "new_york_post": "REBNY touts ‘strong’ Manhattan retail recovery — despite empty storefronts: Luxury jeweler David Yurman will launch a 22,000 square-foot flagship store at 685 Fifth Ave., as reported by WWD.\n\nManhattan sublease space disappearing thanks to AI firms: Landlords in some cases took back space from tenants they can re-lease at higher rents.\n\nWhy tiny NYC home is on sale for just $9M — after owner sunk $16M on it: A six-story Upper East Side townhouse that cost its owner over $16 million to buy and renovate is now on the market for just under $9 million — a staggering $7 million loss.\n\nEx-con investor puts $138M of enormous trophy penthouses up for sale in NYC and Miami: It’s not often a single investor owns one of the city’s top trophy penthouses in both New York and Miami — and puts them both on the market at the same time for a combined $138 million. William Duker, a former lawyer turned investor, has listed his Miami penthouse triplex at the Apogee, 800 South.",
+    "pincusco": "MetLife acquires retail, parking in Lenox Hill condo through $44M deed-in-lieu: MetLife through the entity ML HCM Royale Retail LLC acquired by a deed-in-lieu of foreclosure.\n\nRaphael Baruch Elkaim signs $7.5M loan for office, dev site in Crown Heights: Raphael Baruch Elkaim through the entity 980 Atlantic Building LLC as borrower signed a initial.\n\nAronov Development pays $36M for LES office in REO sale: Aronov Development through the entity 139 Bowery Holdings LLC paid $36 million through a real.\n\nKaufman Organization pays $125M to Savanna for 2 office buildings in Flatiron District: The Kaufman Organization’s affiliate Kaufman Investments paid $125 million to Savanna for two office buildings.",
+    "the_real_deal": "NYC’s top deals: George Soros’ daughter sells West Village property: There were 247 transactions totaling $951 million filed in New York City records in the 24 hours before 4 p.m. on Tuesday, June 30.\n\nSoloviev’s Billionaires’ Row refi tops May’s biggest loans: A blockbuster Billionaires’ Row office refinancing led May’s largest loans as lenders also placed big bets on office-to-residential conversions, logistics and other well-located Manhattan office properties.\n\nSteve Croman’s sons find path in real estate: The sons of landlord Steve Croman are all grown up. Jake and Adam Croman have gotten into the real estate business and are following in their father’s footsteps by buying Manhattan multifamily, often partnering with fashion scion Jeremey Tahari.\n\nWorld’s third-richest man can’t hack NYC rent stabilization market: Being one of the richest people in history does not insulate an investor from the pains of New York City’s rent-stabilized multifamily market. Sergey Brin of Google co-founding fame sold his stake in a real estate fund back to its manager, Douglas Eisenberg’s A&E Real Estate, Bloomberg reported."
   },
   "items": [
     {
@@ -40,15 +40,6 @@
       "published_at": "2026-06-17T17:20:00.000Z"
     },
     {
-      "headline": "Bistro Pardon My French Sets Up Shop at Jeff Sutton’s 373 Broome Street",
-      "summary": "Ooh la la. French-inspired bistro Pardon My French is coming to Manhattan’s SoHo neighborhood after signing a 1,000-square-foot lease at 373 Broome Street , a property owned in a joint venture between Jeff Sutton ’s Wharton Properties and Gorjian Real Estate Group, according to broker Meridian Capital Group . The asking rent for the ground-floor retail space was $225 per square foot. The length of the lease, which was signed at the end of April, was not disclosed.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/06/pardon-my-french-lease-jeff-sutton-373-broome-street/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-06-16T15:48:07.000Z"
-    },
-    {
       "headline": "Thai Ramen Eatery to Open at Original Site of Danny Meyer’s Union Square Cafe",
       "summary": "An Upper East Side Thai ramen joint is taking over a retail space near Union Square famous for being the location for Danny Meyer ’s first restaurant, Commercial Observer has learned. Bua Thai Ramen & Robata Grill has signed a 4,840-square-foot lease at David Ellis Real Estate ’s 21 East 16th Street in an expansion of its current presence at 1611 Second Avenue , according to landlord broker Retail by MONA . The lease is for 10 years and asking rent for the space was $250 per square foot, the brokerage said.…",
       "source": "Commercial Observer",
@@ -67,6 +58,15 @@
       "published_at": "2026-06-24T03:53:45.000Z"
     },
     {
+      "headline": "Target Inks 135K-SF Lease at Queens’ Rego Park Shopping Center",
+      "summary": "Attention, Queens shoppers, you’re about to get another Target . The retail giant with over 2,000 stores in the U.S. is about to add another location in the busy borough of Queens. Target inked a 15-year, 135,000-square-foot lease at the Rego Park Shopping Center at 61-35 Junction Boulevard in Rego Park, property owner Alexander’s announced Monday. The Rego Park Shopping Center is a multilevel, 600,000-square-foot open-air mall anchored by wholesale giant Costco .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/target-lease-queens-rego-park-shopping-center/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-06-30T20:46:21.000Z"
+    },
+    {
       "headline": "Drive-Thru Traffic Slides, Challenging Net Lease Retail",
       "summary": "Short-duration, drive-thru visits to quick-service restaurants fell 6.8% year-over-year in May per Placer.ai. Full-service restaurants and experiential dining gained momentum even as drive-thru traffic declined. CRE investors should reexamine assumptions about outparcel and net lease assets anchored by pure convenience demand.…",
       "source": "CRE Daily",
@@ -74,6 +74,15 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-06-18T03:49:57.000Z"
+    },
+    {
+      "headline": "MetLife Forecloses on Upper East Side Grocery Retail Condominium",
+      "summary": "MetLife has taken back the keys from one of its borrowers for a grocery retail property and parking garage on Manhattan’s Upper East Side in a transaction valued at $44.1 million. The firm, which provides insurance, annuities and employee benefits, executed a deed in lieu of foreclosure action against Harrison, N.Y.-based real estate investment and development firm Gateside Corporation , reclaiming the property at 188 East 64th Street , according to a filing in property records late Monday .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/metlife-foreclosure-gateside-188-east-64th-street/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-06-30T15:24:14.000Z"
     },
     {
       "headline": "REBNY touts ‘strong’ Manhattan retail recovery — despite empty storefronts",
@@ -104,7 +113,7 @@
     },
     {
       "headline": "World Cup Tourists Flock to Buc-ee’s, Walmart, and Waffle House",
-      "summary": "International World Cup fans are driving viral buzz around American retail and restaurant chains like Walmart, Buc-ee’s, and Waffle House. The 2026 FIFA World Cup is expected to inject $1.47B into US wholesale and retail sectors, per ICSC. Operators near host cities see a surge in foot traffic and spending as visitors post their ‘very American’ experiences on social media.…",
+      "summary": "International World Cup fans are driving viral buzz around American retail and restaurant chains like Walmart, Buc-ee’s, and Waffle House. The 2026 FIFA World Cup is expected to inject $1.47B into US wholesale and retail sectors, per ICSC’s Commerce + Communities Today. Operators near host cities see a surge in foot traffic and spending as visitors post their ‘very American’ experiences on social media.…",
       "source": "CRE Daily",
       "url": "https://www.credaily.com/briefs/world-cup-tourists-flock-to-buc-ee-s-walmart-and-waffle-house/",
       "section": "cre_daily",
@@ -130,22 +139,40 @@
       "published_at": "2026-06-25T03:45:17.000Z"
     },
     {
-      "headline": "Private Equity Firm Niobrara Capital Takes 11K SF at Marx Realty’s 545 Madison Avenue",
-      "summary": "Niobrara Capital , a private equity firm focused on tech companies across the U.S. and Europe, has signed an 11,000-square-foot lease on the entire ninth floor of Marx Realty ’s 545 Madison Avenue , also known as the Baccarat Building . The length of the lease was not disclosed. The asking rent was $145 per square foot, according to Marx Realty. It’s unclear whether the deal represents a new location or a relocation for Niobrara, which lists an office about four blocks away at 345 Park Avenue on its website.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/06/niobrara-capital-lease-marx-realty-545-madison-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-06-29T16:25:45.000Z"
-    },
-    {
-      "headline": "Soho reminds retailers of sector dominance",
-      "summary": "Soho remains a king of the trophy retail sector, leading the nation in sales in the first quarter, according to one report. The Manhattan neighborhood accounted for six of the 14 trophy sales tracked by Adirondack Capital Partners from January to March, the Commercial Observer reported. The dozen-plus transactions in top shopping corridors across the country totaled more than $700 million combined. Nearly half of those deals unfolded in the famed Manhattan retail corridor.…",
+      "headline": "NYC’s top deals: George Soros’ daughter sells West Village property",
+      "summary": "There were 247 transactions totaling $951 million filed in New York City records in the 24 hours before 4 p.m. on Tuesday, June 30. Commercial: The biggest commercial sale to hit records was in the Flatiron District for a pair of properties at 24-28 West 25th Street and 48 West 25th Street, totaling $125 million. Savanna was the seller and Kaufman Investments was the buyer. Both office buildings stand 12 stories high and combined span about 211,000 square feet.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/29/soho-reminds-retailers-of-sector-dominance/",
+      "url": "https://therealdeal.com/new-york/2026/07/01/new-york-top-real-estate-deals-tuesday-june-30/",
       "section": "the_real_deal",
       "retail": true,
-      "published_at": "2026-06-29T16:45:44.000Z"
+      "published_at": "2026-07-01T11:00:00.000Z"
+    },
+    {
+      "headline": "Simon Property Group Wants to Build Mixed-Use Dev at Boca Raton Mall",
+      "summary": "Simon Property Group wants to expand its 1.7 million-square-foot indoor mall in Boca Raton, Fla., by replacing a shuttered Sears department store with a mixed-use development featuring housing and a hotel. The proposal would span roughly 32 acres adjacent to Simon’s Town Center at Boca Raton shopping mall, replacing a parking lot and the former Sears at 5900 West Glades Road . The Indianapolis-based mall operator purchased the Sears property for $23 million in 2025.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/simon-property-group-town-center-at-boca-raton-sears/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-06-30T17:00:46.000Z"
+    },
+    {
+      "headline": "Shorenstein Relocates HQ to 6K SF at 45 East 53rd Street",
+      "summary": "Real estate owner and operator Shorenstein is departing its longtime home at 850 Third Avenue for a full-floor lease at 45 East 53rd Street , Commercial Observer has learned. The company, also known as Shorenstein Properties , has signed a 5,560-square-foot deal to relocate its regional headquarters to the 20-story tower, known as Park 53 . The seven-year lease with landlords ZG Capital Partners and Rialto Capital Management secures Shorenstein a prebuilt space across the entire 16th floor.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/06/shorenstein-relocates-lease-45-east-53rd-street/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-06-30T16:55:27.000Z"
+    },
+    {
+      "headline": "MetLife acquires retail, parking in Lenox Hill condo through $44M deed-in-lieu",
+      "summary": "MetLife through the entity ML HCM Royale Retail LLC acquired by a deed-in-lieu of foreclosure The post MetLife acquires retail, parking in Lenox Hill condo through $44M deed-in-lieu appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/metlife-acquires-retail-parking-in-lenox-hill-condo-through-deed-in-lieu/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-06-30T16:31:00.000Z"
     },
     {
       "headline": "Manhattan sublease space disappearing thanks to AI firms",
@@ -157,15 +184,6 @@
       "published_at": "2026-06-28T16:50:36.000Z"
     },
     {
-      "headline": "Rent freeze redraws math for New York landlords",
-      "summary": "New York City’s rent-stabilized landlords got the policy outcome they feared for months: no rent increase at all. The Rent Guidelines Board voted 7-1 Thursday night to freeze rents on both one- and two-year rent-stabilized leases, handing Mayor Zohran Mamdani a political victory and cementing one of the most aggressive tenant-friendly moves in the board’s history.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/27/rent-freeze-redraws-math-for-new-york-landlords/",
-      "section": "the_real_deal",
-      "retail": true,
-      "published_at": "2026-06-27T13:00:00.000Z"
-    },
-    {
       "headline": "Fitness Factory to Open 25K-SF Gym at 162-11 Jamaica Avenue in Queens",
       "summary": "Don’t you know pump it up? You got to pump it up! And residents in Queens are about to get another option for pumping up their gym workout. Fitness Factory , a growing fitness and wellness chain in New York and New Jersey, has signed a 25,000-square-foot lease to open a new gym at 162-11 Jamaica Avenue in Jamaica, Queens, Commercial Observer has learned. The deal was signed June 18, according to a source close to the deal. Fitness Factory will open a four-floor gym at its new space.…",
       "source": "Commercial Observer",
@@ -175,112 +193,94 @@
       "published_at": "2026-06-25T13:40:10.000Z"
     },
     {
-      "headline": "French Cafe L’Ami Pierre to Open at Midtown’s 400 Madison Avenue",
-      "summary": "A French cafe by acclaimed restaurateur Pierre-Antoine Raberin is opening a second location in Midtown, Commercial Observer has learned. Raberin has signed a 2,400-square-foot lease at 400 Madison Avenue for the second outpost of L’Ami Pierre , according to tenant broker Judson CRE . The deal follows the exit of Raberin’s partner, Michelin -starred chef Eric Ripert , in May 2023 .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/06/lami-pierre-lease-daishin-400-madison-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-06-16T16:17:51.000Z"
-    },
-    {
-      "headline": "NYC’s top deals: Sioni Group buys Flatiron office for $31M",
-      "summary": "There were 243 transactions totaling $534 million filed in New York City records from 4 p.m. on Friday, June 26 through 4 p.m. on Monday, June 29. Commercial: The top commercial deal recorded in New York was in the Flatiron District. Jack Vogel Associates offloaded a 12-story office building at 38 West 21st Street for $31 million. The buyer of the 68,800-square-property was an affiliate of the Sioni Group. The seller had owned the property for decades. The latest sale works out to about $450 per square foot.…",
+      "headline": "Soloviev’s Billionaires’ Row refi tops May’s biggest loans",
+      "summary": "A blockbuster Billionaires’ Row office refinancing led May’s largest loans as lenders also placed big bets on office-to-residential conversions, logistics and other well-located Manhattan office properties. The month’s five biggest deals totaled more than $3.1 billion as borrowers tapped lenders for everything from refinancings to construction and acquisition debt.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/30/new-york-top-real-estate-deals-monday-june-29/",
+      "url": "https://therealdeal.com/new-york/2026/06/30/nycs-top-commercial-real-estate-loans-in-may-2026/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-06-30T11:00:00.000Z"
+      "published_at": "2026-06-30T21:00:00.000Z"
     },
     {
-      "headline": "Zev Mayer signs $29.7M construction loan with Popular for two projects in Far Rockaway",
-      "summary": "Zev Mayer through the entity 204b LLC as borrower signed a new construction loan with The post Zev Mayer signs $29.7M construction loan with Popular for two projects in Far Rockaway appeared first on PincusCo .",
+      "headline": "Raphael Baruch Elkaim signs $7.5M loan for office, dev site in Crown Heights",
+      "summary": "Raphael Baruch Elkaim through the entity 980 Atlantic Building LLC as borrower signed a initial The post Raphael Baruch Elkaim signs $7.5M loan for office, dev site in Crown Heights appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/zev-mayer-signs-29-7m-construction-loan-with-popular-for-three-properties-in-far-rockaway/",
+      "url": "https://www.pincusco.com/raphael-baruch-elkaim-signs-7-5m-loan-for-office-dev-site-in-crown-heights/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-06-29T14:56:00.000Z"
+      "published_at": "2026-07-01T12:03:00.000Z"
     },
     {
-      "headline": "NY Dirt: Rutland Plaza tenants take landlord, HPD to court",
-      "summary": "A landlord with more than 2000 open Housing Preservation & Development violations is in hot water. At a rally outside Brooklyn housing court Monday, tenants in the Brownsville residential complex Rutland Plaza decried conditions like black mold, broken elevators and raw sewage that they claim landlord Robyn Lucas-Cora neglected to address despite receiving $96 million in state preservation funding in 2016.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/30/brooklyn-tenants-sue-landlord-hpd-to-demand-fixes/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-06-30T11:30:00.000Z"
-    },
-    {
-      "headline": "ESD pitches $5B plan to complete Pacific Park",
-      "summary": "Pacific Park, the long delayed plan to cover railyards in a busy patch of Brooklyn, may finally move forward after Empire State Development and the project’s community development corporation board pitched a $5 billion buildout that would build more than 5,600 residential units, more than 1,200 of which would be income-restricted.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/29/esd-makes-new-pitch-for-5-billion-pacific-park-buildout/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-06-29T23:15:00.000Z"
-    },
-    {
-      "headline": "Michael Stern misses payment deadline to Silverstein in Brooklyn Tower dispute",
-      "summary": "Michael Stern’s legal fight with Larry Silverstein over Brooklyn’s tallest tower isn’t over. Stern missed a court-ordered deadline to hand over a $2 million deposit to Silverstein’s Silverstein Capital Partners in an arbitration dispute tied to the supertall tower at 9 DeKalb Avenue, according to a petition filed Monday in state Supreme Court. The filing stems from a 2024 agreement tied to Silverstein’s takeover of the supertall residential tower in Downtown Brooklyn that required Stern to reimburse…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/29/michael-stern-misses-payment-in-brooklyn-tower-dispute/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-06-29T21:07:21.000Z"
-    },
-    {
-      "headline": "NYC developer in hot pursuit of Albany data center",
-      "summary": "Even as a data center moratorium sits on Gov. Kathy Hochul’s desk, awaiting a signature, a zoning change could push forward a development right in the state capital. EKG Group’s Michael-Henry Elghanian-Krayem is pushing to rezone into the “light industrial” classification at the Kenwood Commons site, the Times Union reported. The 76-acre site is zoned for a mixed-use campus today and needs numerous approvals to go forward, including at least two revisions to the city’s zoning regulations.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/tristate/2026/06/29/nyc-developer-in-hot-pursuit-of-albany-data-center/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-06-29T21:06:33.000Z"
-    },
-    {
-      "headline": "Namdar, Klosed, partners, sign $26.6M additional debt loan for 20 properties in NYC",
-      "summary": "Namdar Realty Group, Klosed Properties, Aaron Etessami, and Ramin Abdolazadeh through the entity 117 W57 The post Namdar, Klosed, partners, sign $26.6M additional debt loan for 20 properties in NYC appeared first on PincusCo .",
+      "headline": "Aronov Development pays $36M for LES office in REO sale",
+      "summary": "Aronov Development through the entity 139 Bowery Holdings LLC paid $36 million through a real The post Aronov Development pays $36M for LES office in REO sale appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/namdar-klosed-partners-sign-26-6m-additional-debt-loan-for-20-properties-in-nyc/",
+      "url": "https://www.pincusco.com/aronov-development-pays-36m-for-les-office-in-reo-sale/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-06-29T15:28:00.000Z"
+      "published_at": "2026-06-30T15:24:00.000Z"
     },
     {
-      "headline": "Unhinged tourists pay thousands to stay at ‘most dangerous’ hotel in the world — in the middle of the ocean",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "headline": "Steve Croman’s sons find path in real estate",
+      "summary": "The sons of landlord Steve Croman are all grown up. Jake and Adam Croman have gotten into the real estate business and are following in their father’s footsteps by buying Manhattan multifamily, often partnering with fashion scion Jeremey Tahari. The Croman brothers’ most recent buy was a Chinatown five-story, 118 Mulberry Street, for $2.28 million. About half of units in the building are rent-stabilized, making it a curious bet when the city has capped rents in those units.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/30/steve-cromans-sons-jake-and-adam-continue-in-real-estate/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-06-30T18:15:22.000Z"
+    },
+    {
+      "headline": "Why tiny NYC home is on sale for just $9M — after owner sunk $16M on it",
+      "summary": "A six-story Upper East Side townhouse that cost its owner over $16 million to buy and renovate is now on the market for just under $9 million — a staggering $7 million loss.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/06/29/real-estate/tourists-pay-thousands-to-stay-at-the-most-dangerous-hotel-in-the-world-out-at-sea/",
+      "url": "https://nypost.com/2026/06/30/real-estate/tiny-nyc-home-is-on-sale-for-9m-after-owner-lost-16m-on-it/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-06-29T21:53:51.000Z"
+      "published_at": "2026-06-30T17:58:53.000Z"
     },
     {
-      "headline": "Gary Barnett presses on in $15M legal battle with ex-partners",
-      "summary": "A years-long legal battle between real estate mogul Gary Barnett and two of his former business partners could be headed for its next chapter. The Extell Development founder and chairman is taking his case with Yoel Weber and Yoel Leonorovitz to an appeals court. The conflict goes back to 2022, when Weber and Leonorovitz sued Barnett, HP Stock LLC — an entity solely owned by him — and Extell Development for over $15 million in allegedly unpaid “fees for electrical contracting” performed at four of Barnett’s…",
+      "headline": "Ex-con investor puts $138M of enormous trophy penthouses up for sale in NYC and Miami",
+      "summary": "It’s not often a single investor owns one of the city’s top trophy penthouses in both New York and Miami — and puts them both on the market at the same time for a combined $138 million. William Duker, a former lawyer turned investor, has listed his Miami penthouse triplex at the Apogee, 800 South...",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/06/30/real-estate/ex-con-investor-puts-138-million-of-penthouses-up-for-sale-across-new-york-city-and-miami/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-06-30T17:49:35.000Z"
+    },
+    {
+      "headline": "World’s third-richest man can’t hack NYC rent stabilization market",
+      "summary": "Being one of the richest people in history does not insulate an investor from the pains of New York City’s rent-stabilized multifamily market. Sergey Brin of Google co-founding fame sold his stake in a real estate fund back to its manager, Douglas Eisenberg’s A&E Real Estate, Bloomberg reported. The sale of the shares unfolded in December through a limited liability company, but is only being revealed now. Specifics of the sale back to A&E remain unclear.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/06/29/gary-barnett-fights-on-in-legal-battle-with-ex-partners/",
+      "url": "https://therealdeal.com/new-york/2026/06/30/worlds-third-richest-man-cant-hack-nyc-rent-stabilization/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-06-29T16:00:00.000Z"
+      "published_at": "2026-06-30T17:35:00.000Z"
     },
     {
-      "headline": "Shmuel S. Schlaff pays $3.6M for mixed-use in Borough Park",
-      "summary": "Shmuel S. Schlaff through the entity 4922 16th Ave LLC paid $3.6 million for the The post Shmuel S. Schlaff pays $3.6M for mixed-use in Borough Park appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/shmuel-s-schlaff-pays-3-6m-for-mixed-use-in-borough-park/",
-      "section": "pincusco",
+      "headline": "Bait and switch? No, a win for housing",
+      "summary": "A hound-dog journalist just reported that developer Eli Pariente pulled a fast one. After getting new zoning from the City Council for two major Brooklyn projects, Pariente and a local Council member’s emissaries quietly renegotiated their affordability, Norman Oder wrote in City Limits. Instead of a promised 35 percent of units set aside for lower-income tenants, the new buildings at 870-888 and 1034-1042 Atlantic Avenue have the standard 25 percent affordability.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/06/30/bad-optics-good-result-renegotiated-project-pencils-out/",
+      "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-06-29T15:56:00.000Z"
+      "published_at": "2026-06-30T16:00:00.000Z"
     },
     {
-      "headline": "Greater Jamaica Development pays $4.3M for industrial in Jamaica",
-      "summary": "Greater Jamaica Development Corporation through the entity Gjdc Realty 2 LLC paid $4.3 million to The post Greater Jamaica Development pays $4.3M for industrial in Jamaica appeared first on PincusCo .",
+      "headline": "Downtown LA’s aging World Trade Center to become affordable apartments starting at $937 per month",
+      "summary": "One of downtown Los Angeles' biggest office towers is about to get a dramatic makeover, and some tenants could pay less than $1,000 a month to live there.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/06/30/real-estate/dtlas-world-trade-center-to-transform-into-affordable-apartments/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-07-01T00:21:20.000Z"
+    },
+    {
+      "headline": "Kaufman Organization pays $125M to Savanna for 2 office buildings in Flatiron District",
+      "summary": "The Kaufman Organization’s affiliate Kaufman Investments paid $125 million to Savanna for two office buildings The post Kaufman Organization pays $125M to Savanna for 2 office buildings in Flatiron District appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/greater-jamaica-development-pays-4-3m-for-industrial-in-jamaica/",
+      "url": "https://www.pincusco.com/kaufman-organization-pays-125m-to-savanna-for-2-office-buildings-in-flatiron-district/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-06-29T15:37:00.000Z"
+      "published_at": "2026-06-30T16:22:00.000Z"
     }
   ]
 }
