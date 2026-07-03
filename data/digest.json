@@ -1,15 +1,15 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-07-02",
-  "generated_at": "2026-07-02T12:15:18.484Z",
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T12:14:41.287Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Luxury Jewelry Brand David Yurman Takes 685 Fifth’s Entire 23K-SF Retail Condo: Luxury jewelry retailer David Yurman has leased the entire retail condominium at 685 Fifth Avenue , just one month after a $160 million loan on the property was transferred to special servicing.\n\nFred Astaire Dance Studios Leases First Park Slope Location: The international dance franchise Fred Astaire Dance Studios is waltzing into Brooklyn’s Park Slope neighborhood. The school’s new lease at 508 Fifth Avenue spans 2,500 square feet of ground-floor retail space previously occupied by shoe store Bobby Sportswear .\n\nThai Ramen Eatery to Open at Original Site of Danny Meyer’s Union Square Cafe: An Upper East Side Thai ramen joint is taking over a retail space near Union Square famous for being the location for Danny Meyer ’s first restaurant, Commercial Observer has learned.\n\nTarget Inks 135K-SF Lease at Queens’ Rego Park Shopping Center: Attention, Queens shoppers, you’re about to get another Target . The retail giant with over 2,000 stores in the U.S.",
     "cre_daily": "Blackstone Lends $125M Refi to Dallas Mixed-Use Complex: Harbor Group International landed a $125M refinancing from Blackstone for the Alesio Urban Center in Irving, Texas. The 908-unit mixed-use property includes 55,500 SF of retail and recently underwent a $4.5M value-add program.\n\nSoHo Tops US Trophy Retail Sales With $195M in Q1 Deals: SoHo accounted for 43% of trophy retail trades tracked in Q1 2026, leading all US shopping corridors with $195M in sales volume, per ACP. Foreign buyers and brand owner-occupants drove activity, targeting boutique trophy assets in the $10M–$50M range as hedge against rising rents.\n\nWorld Cup Tourists Flock to Buc-ee’s, Walmart, and Waffle House: International World Cup fans are driving viral buzz around American retail and restaurant chains like Walmart, Buc-ee’s, and Waffle House. The 2026 FIFA World Cup is expected to inject $1.47B into US wholesale and retail sectors, per ICSC’s Commerce + Communities Today.\n\nRetail Sales Surge in May 2026 Masks Slower Volume Growth: US retail sales jumped 5.2% YoY in May 2026, marking the fastest annual rise in over a year, largely fueled by inflation in select categories. Foot traffic outperformed for value brands and experiences, while core retail volume growth slowed to near-stagnant levels at 0.2%.",
-    "new_york_post": "Amazon’s Shaver Hall is proof that the food hall trend desperately needs to die: New Yorkers — including Steve Cuozzo — have lost their taste for fancy food courts.\n\nWhy tiny NYC home is on sale for just $9M — after owner sunk $16M on it: A six-story Upper East Side townhouse that cost its owner over $16 million to buy and renovate is now on the market for just under $9 million — a staggering $7 million loss.\n\nEx-con investor puts $138M of enormous trophy penthouses up for sale in NYC and Miami: It’s not often a single investor owns one of the city’s top trophy penthouses in both New York and Miami — and puts them both on the market at the same time for a combined $138 million. William Duker, a former lawyer turned investor, has listed his Miami penthouse triplex at the Apogee, 800 South.\n\nNJ’s suburbs are in a full-blown bidding war frenzy — with houses going 33% above asking: New Jersey’s suburban gold rush has no ceiling in sight, and buyers are paying whatever it takes. Forty-two Euclid Ave in Maplewood hit the market at $1.795 million.",
-    "pincusco": "Nonprofit pays $4M for retail in East New York: The nonprofit Unique Care Community Services paid $4 million to Rami Macanian through the entity.\n\nEMP Capital Group signs $44.5M construction loan for 99-unit project in Crown Heights: EMP Capital Group through the entity 918 Atlantic Property Owner LLC as borrower signed a.\n\nJacob Rosenberg signs $35M refi with Citibank for 95-unit rental in East Flatbush: Jacob Rosenberg through the entity 406 Remsen Partners LLC as borrower signed a refi loan.\n\nZar Property NY pays $28M for office in Chelsea: Zar Property NY through the entity W 22 LLC paid $28 million to Adlie Associates.",
-    "the_real_deal": "Target takes space from Vornado affiliate for Rego Park store: Target is taking over another large space in Queens. The big-box retailer leased 135,000 square feet at the Rego Park Shopping Center at 61-35 Junction Boulevard in the Rego Park neighborhood, the Commercial Observer reported.\n\nTightening office market pushes Manhattan rents higher: Manhattan office rents keep climbing. The borough’s average asking rent climbed to $78.03 per square foot in the second quarter, its highest level since July 2020 and just shy of the March 2020 average of $79.47, according to a new Colliers report.\n\nVictor Sigoura on how to be a NYC condo developer: Victor Sigoura’s first gig at a development firm was working on one of the city’s most iconic and controversial projects. Sigoura left his job as a lawyer at a white shoe firm to work for El-Ad Group, which had just acquired The Plaza and planned to convert a portion of the hotel into luxury condos.\n\nNY Dirt: Mamdani touts largest transfer of assistance project: The Bronx is about to get an affordable housing infusion. The neighborhood of Morrisania is slated to get 229 affordable homes for seniors, with 80 units reserved for NYCHA residents at Morris Houses, at a development dubbed Sol on Park."
+    "new_york_post": "Heart of downtown Long Beach shopping sold to high-profile buyer with big plans: Long Beach’s waterfront centerpiece is heading for a major reset.\n\nAmazon’s Shaver Hall is proof that the food hall trend desperately needs to die: New Yorkers — including Steve Cuozzo — have lost their taste for fancy food courts.\n\nLA’s Skid Row to change forever as $2B mega project brings 1,500 new homes: The tallest building is expected to be 30 stories high.",
+    "pincusco": "Nonprofit pays $4M for retail in East New York: The nonprofit Unique Care Community Services paid $4 million to Rami Macanian through the entity.\n\nSalvatore Bonavita pays $5.5M for grocery building in Pelham Parkway: Salvatore Bonavita through the entity Lavinia Properties LLC paid $5.5 million to family members for.\n\nJoel Weiss signs $33.2M construction loan for 99-unit project in Cypress Hills: Joel Weiss through the entity 236 Highland Realty LLC as borrower signed a new construction.\n\nYamazaki Home affiliate pays $4.6M for mixed-use in Long Island City: Yamazaki Home through the entity Yamazaki Jitsugyo Studios. Co., Ltd.",
+    "the_real_deal": "Landlord loses UES grocery condo to foreclosure: Despite grocery-anchored retail properties’ increasing popularity, some owners are still losing buildings to lenders. Through an affiliate, lender MetLife took back the keys at 188 East 64th Street on the Upper East Side through a deed in lieu of foreclosure, Crain’s reported.\n\nNYC’s top deals: Long Island City warehouse trades for $16M: There were 196 transactions totaling $306 million filed in New York City records in the 24 hours before 2:30 p.m. on Thursday, July 3.\n\nGravesend’s new condo record is courtesy of a home-grown developer: An $8 million sale doesn’t typically raise eyebrows in Brooklyn’s Gravesend neighborhood. The enclave, home to a tight-knit Syrian-Jewish community, has become known for its single-family homes that often trade for millions of dollars, as wealthy local families swap expensive homes like trading cards.\n\nLong Island man convicted in $4.7M Harlem deed theft scheme: A jury found Joseph Makhani guilty of stealing the deeds of two Harlem brownstones with a combined value of nearly $4.7 million, the office of New York Attorney General Letitia James announced on Wednesday."
   },
   "items": [
     {
@@ -20,15 +20,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-06-24T19:21:33.000Z"
-    },
-    {
-      "headline": "Target takes space from Vornado affiliate for Rego Park store",
-      "summary": "Target is taking over another large space in Queens. The big-box retailer leased 135,000 square feet at the Rego Park Shopping Center at 61-35 Junction Boulevard in the Rego Park neighborhood, the Commercial Observer reported. The shopping center is owned by Alexander’s, an affiliate partly owned by Steven Roth’s Vornado Realty Trust. The 15-year deal brings the shopping center to 99 percent leased, according to ownership.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/01/target-takes-space-from-vornado-affiliate-for-rego-park-shop/",
-      "section": "the_real_deal",
-      "retail": true,
-      "published_at": "2026-07-01T15:00:32.000Z"
     },
     {
       "headline": "Fred Astaire Dance Studios Leases First Park Slope Location",
@@ -65,6 +56,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-06-30T20:46:21.000Z"
+    },
+    {
+      "headline": "Landlord loses UES grocery condo to foreclosure",
+      "summary": "Despite grocery-anchored retail properties’ increasing popularity, some owners are still losing buildings to lenders. Through an affiliate, lender MetLife took back the keys at 188 East 64th Street on the Upper East Side through a deed in lieu of foreclosure, Crain’s reported. Real estate firm Gateside Corporation gave up both two units in the deal, a commercial condominium and a parking garage. The deal valued the two units — located at The Royale luxury condo complex — at $44.1 million.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/02/landlord-loses-ues-grocery-condo-to-foreclosure/",
+      "section": "the_real_deal",
+      "retail": true,
+      "published_at": "2026-07-02T14:18:22.000Z"
     },
     {
       "headline": "Korean Chef Jiho Kim to Open Flagship Restaurant at 21 West 17th Street",
@@ -121,31 +121,22 @@
       "published_at": "2026-07-01T16:24:02.000Z"
     },
     {
-      "headline": "Tightening office market pushes Manhattan rents higher",
-      "summary": "Manhattan office rents keep climbing. The borough’s average asking rent climbed to $78.03 per square foot in the second quarter, its highest level since July 2020 and just shy of the March 2020 average of $79.47, according to a new Colliers report. Asking rents rose 5.7 percent over the past year, the sharpest midyear increase since 2016, as large blocks of lower-priced space disappeared from the market and landlords commanded top dollar for the big blocks of space coming online.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/01/tightening-office-market-pushes-manhattan-rents-higher-in-q2/",
-      "section": "the_real_deal",
+      "headline": "Heart of downtown Long Beach shopping sold to high-profile buyer with big plans",
+      "summary": "Long Beach’s waterfront centerpiece is heading for a major reset.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/02/real-estate/high-profile-buyer-acquires-downtown-long-beach-shopping-district/",
+      "section": "new_york_post",
       "retail": true,
-      "published_at": "2026-07-01T17:45:00.000Z"
+      "published_at": "2026-07-02T16:55:29.000Z"
     },
     {
-      "headline": "Investment Firm Cerberus Capital Renews 131K SF at 875 Third Avenue",
-      "summary": "An alternative investment firm is staying put at its office in Midtown East, Commercial Observer has learned. Cerberus Capital Management , which invests in credit, private equity and real estate, has renewed its 131,000-square-foot lease at Global Holdings ’ 875 Third Avenue in a long-term commitment to the building it has called its headquarters since 2011.…",
+      "headline": "Five Tenants Sign 19K SF of Deals at Blake Partners’ 39 West 37th Street",
+      "summary": "Five new office leases totaling 19,191 square feet were signed at a Midtown building three blocks south of Bryant Park , Commercial Observer has learned. CRC Insurance Group , one of the largest wholesale specialty insurance distributors in North America, took the largest spread at Blake Partners ’ 39 West 37th Street , signing a 6,261-square-foot lease on the entire ninth floor of the building between Fifth Avenue and Avenue of the Americas, according to landlord broker Noah & Company .…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/cerberus-capital-lease-renewal-875-third-avenue/",
+      "url": "https://commercialobserver.com/2026/07/crc-insurance-group-blake-partners-39-west-37th-street/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-07-01T12:43:22.000Z"
-    },
-    {
-      "headline": "US Small Business Tenants Face Profit Pressures in 2026",
-      "summary": "Small business tenants are experiencing falling profitability, with a 1.3% year-over-year drop per Bank of America Institute’s May 2026 data. The war in Iran and surging energy costs have driven up construction and operating expenses, challenging lease renewal and expansion plans. CRE landlords could soon see higher vacancy and default rates from their largest tenant segment as financial stress accumulates.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/us-small-business-tenants-face-profit-pressures-in-2026/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-06-19T03:48:27.000Z"
+      "published_at": "2026-07-02T16:32:03.000Z"
     },
     {
       "headline": "Nonprofit pays $4M for retail in East New York",
@@ -166,6 +157,33 @@
       "published_at": "2026-06-25T13:40:10.000Z"
     },
     {
+      "headline": "Auto Parts Distributor Signs $42M Lease in Southern California",
+      "summary": "An auto parts distribution company is expanding in Southern California and has signed a lease to take over a 522,267-square-foot industrial building in the Inland Empire. The lease agreement with landlord Invesco is valued at more than $42 million, according to Daum Commercial Real Estate Services , which announced the deal Thursday and represented the tenant alongside Lara CRE .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/california-auto-distribution-industrial-invesco/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-02T19:25:14.000Z"
+    },
+    {
+      "headline": "Walmart Pilots Dark Store Depots For Faster Last-Mile Delivery",
+      "summary": "Walmart has launched Spark Delivery Depots—small, closed-to-public fulfillment hubs—starting in Fayetteville, Arkansas. Repurposing 20,000 SF former drugstores, these dark stores focus on stocking high-demand items for rapid local delivery at a premium fee. This model leverages Walmart’s store footprint to challenge Amazon’s last-mile advantage and accelerate e-commerce growth in the US.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/walmart-pilots-dark-store-depots-for-faster-last-mile-delivery/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-06-25T03:43:39.000Z"
+    },
+    {
+      "headline": "Salvatore Bonavita pays $5.5M for grocery building in Pelham Parkway",
+      "summary": "Salvatore Bonavita through the entity Lavinia Properties LLC paid $5.5 million to family members for The post Salvatore Bonavita pays $5.5M for grocery building in Pelham Parkway appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/salvatore-bonavita-pays-5-5m-for-retail-in-pelham-parkway/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-07-02T12:53:00.000Z"
+    },
+    {
       "headline": "Amazon’s Shaver Hall is proof that the food hall trend desperately needs to die",
       "summary": "New Yorkers — including Steve Cuozzo — have lost their taste for fancy food courts.",
       "source": "New York Post",
@@ -175,112 +193,94 @@
       "published_at": "2026-07-01T18:51:39.000Z"
     },
     {
-      "headline": "Victor Sigoura on how to be a NYC condo developer",
-      "summary": "Victor Sigoura’s first gig at a development firm was working on one of the city’s most iconic and controversial projects. Sigoura left his job as a lawyer at a white shoe firm to work for El-Ad Group, which had just acquired The Plaza and planned to convert a portion of the hotel into luxury condos. The hotel union fought the conversion, leading to a dramatic escalation. “I had the pleasure of handling the union.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/01/victor-sigoura-on-keys-to-success-as-a-nyc-condo-developer/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-07-01T16:10:00.000Z"
-    },
-    {
-      "headline": "EMP Capital Group signs $44.5M construction loan for 99-unit project in Crown Heights",
-      "summary": "EMP Capital Group through the entity 918 Atlantic Property Owner LLC as borrower signed a The post EMP Capital Group signs $44.5M construction loan for 99-unit project in Crown Heights appeared first on PincusCo .",
+      "headline": "Joel Weiss signs $33.2M construction loan for 99-unit project in Cypress Hills",
+      "summary": "Joel Weiss through the entity 236 Highland Realty LLC as borrower signed a new construction The post Joel Weiss signs $33.2M construction loan for 99-unit project in Cypress Hills appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/emp-capital-group-signs-44-5m-construction-loan-for-industrial-in-crown-heights/",
+      "url": "https://www.pincusco.com/joel-weiss-signs-33-2m-construction-loan-for-99-unit-project-in-cypress-hills/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-07-01T15:00:00.000Z"
+      "published_at": "2026-07-02T13:30:00.000Z"
     },
     {
-      "headline": "NY Dirt: Mamdani touts largest transfer of assistance project",
-      "summary": "The Bronx is about to get an affordable housing infusion. The neighborhood of Morrisania is slated to get 229 affordable homes for seniors, with 80 units reserved for NYCHA residents at Morris Houses, at a development dubbed Sol on Park. The Mamdani administration announced Wednesday it had closed on the project, which will be built on the same site as the Morris Houses, with plans to develop the $214 million project in partnership with New York City Housing Authority, the Housing Development Corporation and the…",
+      "headline": "NYC’s top deals: Long Island City warehouse trades for $16M",
+      "summary": "There were 196 transactions totaling $306 million filed in New York City records in the 24 hours before 2:30 p.m. on Thursday, July 3. Commercial: A warehouse in Long Island City at 44-68 Vernon Boulevard sold for $15.5 million, representing the top commercial deal to hit records in the Big Apple. Queenbea 44-68 LLC was the seller. LIC Vernon 45 LLC was the buyer.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/02/mamdani-plans-largest-nycha-transfer-redevelopment/",
+      "url": "https://therealdeal.com/new-york/2026/07/03/new-york-top-real-estate-deals-thursday-july-3/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-07-02T11:30:00.000Z"
+      "published_at": "2026-07-03T12:00:00.000Z"
     },
     {
-      "headline": "NYC’s top deals: Soho penthouse trades for $10M",
-      "summary": "There were 218 transactions totaling $340 million filed in New York City records in the 24 hours before 4 p.m. on Wednesday, July 1. Commercial: The Flatiron District was home to the priciest commercial deal to hit records in New York. ZAR Property NY picked up a 12-story, 89,400-square-foot office property at 118 West 22nd Street for $28 million.…",
+      "headline": "Gravesend’s new condo record is courtesy of a home-grown developer",
+      "summary": "An $8 million sale doesn’t typically raise eyebrows in Brooklyn’s Gravesend neighborhood. The enclave, home to a tight-knit Syrian-Jewish community, has become known for its single-family homes that often trade for millions of dollars, as wealthy local families swap expensive homes like trading cards. Last year, Eli Gindi, a member of the Gindi real estate family, sold his 10,000-square-foot home at 2126 East Fourth Street for $32 million to Victor Hakim, setting a borough record.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/02/new-york-top-real-estate-deals-wednesday-july-1/",
+      "url": "https://therealdeal.com/new-york/2026/07/02/how-this-developer-sold-an-8m-condo-in-gravesend/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-07-02T11:00:00.000Z"
+      "published_at": "2026-07-02T19:00:00.000Z"
     },
     {
-      "headline": "Jared Solomon wants out of Brooklyn detention center",
-      "summary": "Jared Solomon claims to be “a broken man” after two months locked up in the notorious Brooklyn detention center — and he wants out. But the U.S. Attorney’s Office says the convicted Vornado fraudster is “unsupervisable” having broken prison rules, and can’t be trusted to be released. Solomon, 48, was sent to the Metropolitan Detention Center in Sunset Park on April 21 after the disgraced broker was found guilty of having stolen more than $9.5 million from his former employer, Vornado Realty Trust.…",
+      "headline": "Long Island man convicted in $4.7M Harlem deed theft scheme",
+      "summary": "A jury found Joseph Makhani guilty of stealing the deeds of two Harlem brownstones with a combined value of nearly $4.7 million, the office of New York Attorney General Letitia James announced on Wednesday. The AG indicted Makhani, 63, twice — in 2021 and 2023 — for deed theft at 107 West 118th Street and 135 West 131st Street. The Kings Point, Long Island resident is now facing a maximum sentence of eight to 25 years in prison.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/01/jared-solomon-asks-for-release-from-brooklyn-jail/",
+      "url": "https://therealdeal.com/new-york/2026/07/02/long-island-man-convicted-in-4-7m-harlem-deed-theft-scheme/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-07-01T18:30:00.000Z"
+      "published_at": "2026-07-02T18:30:00.000Z"
     },
     {
-      "headline": "Why tiny NYC home is on sale for just $9M — after owner sunk $16M on it",
-      "summary": "A six-story Upper East Side townhouse that cost its owner over $16 million to buy and renovate is now on the market for just under $9 million — a staggering $7 million loss.",
+      "headline": "Nir Meir nears trial for fraud case",
+      "summary": "A judge tentatively set a date for disgraced former HFZ Capital executive Nir Meir to finally go to trial for an alleged $86 million fraud case involving the XI condo project on the High Line. The judge, Meir’s attorney and prosecutors agreed to a trial date in October during a court appearance in New York County criminal court on Wednesday. But the judge, Ann Thompson, agreed to give Meir one last court date later this month ahead of trial.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/02/nir-meir-nears-trial-for-fraud-case/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-07-02T17:30:00.000Z"
+    },
+    {
+      "headline": "Sonder bankruptcy could claim victim in Moinian FiDi debt",
+      "summary": "More than six months later, the demise of short-term rental company Sonder continues to echo through New York real estate. A $131.5 million commercial mortgage-backed securities loan backed by the Moinian Group’s 2 Washington Street in the Financial District was transferred to special servicing, the Commercial Observer reported. The culprit for the transfer to the workout station was cash flow problems, according to Morningstar Credit Analytics.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/02/sonder-bankruptcy-could-claim-victim-in-moinian-fidi-debt/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-07-02T17:30:00.000Z"
+    },
+    {
+      "headline": "LA’s Skid Row to change forever as $2B mega project brings 1,500 new homes",
+      "summary": "The tallest building is expected to be 30 stories high.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/06/30/real-estate/tiny-nyc-home-is-on-sale-for-9m-after-owner-lost-16m-on-it/",
+      "url": "https://nypost.com/2026/07/02/real-estate/2b-project-along-skid-row-looks-to-transform-las-worst-neighborhood/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-06-30T17:58:53.000Z"
+      "published_at": "2026-07-02T18:53:52.000Z"
     },
     {
-      "headline": "Ex-con investor puts $138M of enormous trophy penthouses up for sale in NYC and Miami",
-      "summary": "It’s not often a single investor owns one of the city’s top trophy penthouses in both New York and Miami — and puts them both on the market at the same time for a combined $138 million. William Duker, a former lawyer turned investor, has listed his Miami penthouse triplex at the Apogee, 800 South...",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/06/30/real-estate/ex-con-investor-puts-138-million-of-penthouses-up-for-sale-across-new-york-city-and-miami/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-06-30T17:49:35.000Z"
-    },
-    {
-      "headline": "Jacob Rosenberg signs $35M refi with Citibank for 95-unit rental in East Flatbush",
-      "summary": "Jacob Rosenberg through the entity 406 Remsen Partners LLC as borrower signed a refi loan The post Jacob Rosenberg signs $35M refi with Citibank for 95-unit rental in East Flatbush appeared first on PincusCo .",
+      "headline": "Yamazaki Home affiliate pays $4.6M for mixed-use in Long Island City",
+      "summary": "Yamazaki Home through the entity Yamazaki Jitsugyo Studios. Co., Ltd. paid $4.6 million to Ronni The post Yamazaki Home affiliate pays $4.6M for mixed-use in Long Island City appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/jacob-rosenberg-signs-35m-refi-with-citibank-for-95-unit-rental-in-east-flatbush/",
+      "url": "https://www.pincusco.com/yamazaki-home-pays-4-6m-to-ronni-newman-for-mixed-use-in-long-island-city/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-07-02T12:12:00.000Z"
+      "published_at": "2026-07-02T12:59:00.000Z"
     },
     {
-      "headline": "Zar Property NY pays $28M for office in Chelsea",
-      "summary": "Zar Property NY through the entity W 22 LLC paid $28 million to Adlie Associates The post Zar Property NY pays $28M for office in Chelsea appeared first on PincusCo .",
+      "headline": "United American Land signs $26.3M refi with Deutsche Bank for 20-unit rental in Flatiron District",
+      "summary": "United American Land through the entity Decker Associates LLC as borrower signed a refi loan The post United American Land signs $26.3M refi with Deutsche Bank for 20-unit rental in Flatiron District appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/zar-property-ny-pays-28m-for-office-in-chelsea/",
+      "url": "https://www.pincusco.com/united-american-land-signs-26-3m-refi-with-deutsche-bank-for-20-unit-rental-in-flatiron-district/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-07-02T11:52:06.000Z"
+      "published_at": "2026-07-02T12:27:00.000Z"
     },
     {
-      "headline": "NJ’s suburbs are in a full-blown bidding war frenzy — with houses going 33% above asking",
-      "summary": "New Jersey’s suburban gold rush has no ceiling in sight, and buyers are paying whatever it takes. Forty-two Euclid Ave in Maplewood hit the market at $1.795 million. It sold for $2.279 million, a staggering 27% above ask. Down the road in South Orange, 376 Melrose Pl listed for $998,999 and closed at $1.332 million,...",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/01/real-estate/new-jerseys-suburbs-are-in-a-full-blown-bidding-war-frenzy/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-07-01T18:22:30.000Z"
-    },
-    {
-      "headline": "KSL Capital Partners signs $39M refi for hotel in Boerum Hill",
-      "summary": "KSL Capital Partners through the entity Hhlp Smith Street Associates, LLC as borrower signed a The post KSL Capital Partners signs $39M refi for hotel in Boerum Hill appeared first on PincusCo .",
+      "headline": "Cornerstone Group pays $2.6M for mixed-use in Borough Park",
+      "summary": "Cornerstone Group through the entity Edgerock 53 LLC paid $2.6 million to Israel Lawrence Klein The post Cornerstone Group pays $2.6M for mixed-use in Borough Park appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/ksl-capital-partners-signs-39m-refi-for-hotel-in-boerum-hill/",
+      "url": "https://www.pincusco.com/cornerstone-group-pays-2-6m-for-mixed-use-in-borough-park/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-07-01T14:53:00.000Z"
-    },
-    {
-      "headline": "HF Capital pays $34M to LeFrak for 4 rentals, 336 units in Gravesend, Midwood",
-      "summary": "HF Capital paid just over $34 million to LeFrak for four residential rental buildings in The post HF Capital pays $34M to LeFrak for 4 rentals, 336 units in Gravesend, Midwood appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/hf-capital-pays-34m-to-lefrak-for-4-rentals-336-units-in-gravesend-midwood/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-01T14:42:00.000Z"
+      "published_at": "2026-07-02T12:20:00.000Z"
     }
   ]
 }
