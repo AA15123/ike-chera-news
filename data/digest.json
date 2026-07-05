@@ -1,15 +1,15 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-07-04",
-  "generated_at": "2026-07-04T11:40:23.722Z",
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T11:41:42.461Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Luxury Jewelry Brand David Yurman Takes 685 Fifth’s Entire 23K-SF Retail Condo: Luxury jewelry retailer David Yurman has leased the entire retail condominium at 685 Fifth Avenue , just one month after a $160 million loan on the property was transferred to special servicing.\n\nFred Astaire Dance Studios Leases First Park Slope Location: The international dance franchise Fred Astaire Dance Studios is waltzing into Brooklyn’s Park Slope neighborhood. The school’s new lease at 508 Fifth Avenue spans 2,500 square feet of ground-floor retail space previously occupied by shoe store Bobby Sportswear .\n\nThai Ramen Eatery to Open at Original Site of Danny Meyer’s Union Square Cafe: An Upper East Side Thai ramen joint is taking over a retail space near Union Square famous for being the location for Danny Meyer ’s first restaurant, Commercial Observer has learned.\n\nTarget Inks 135K-SF Lease at Queens’ Rego Park Shopping Center: Attention, Queens shoppers, you’re about to get another Target . The retail giant with over 2,000 stores in the U.S.",
     "cre_daily": "Blackstone Lends $125M Refi to Dallas Mixed-Use Complex: Harbor Group International landed a $125M refinancing from Blackstone for the Alesio Urban Center in Irving, Texas. The 908-unit mixed-use property includes 55,500 SF of retail and recently underwent a $4.5M value-add program.\n\nSoHo Tops US Trophy Retail Sales With $195M in Q1 Deals: SoHo accounted for 43% of trophy retail trades tracked in Q1 2026, leading all US shopping corridors with $195M in sales volume, per ACP. Foreign buyers and brand owner-occupants drove activity, targeting boutique trophy assets in the $10M–$50M range as hedge against rising rents.\n\nWorld Cup Tourists Flock to Buc-ee’s, Walmart, and Waffle House: International World Cup fans are driving viral buzz around American retail and restaurant chains like Walmart, Buc-ee’s, and Waffle House. The 2026 FIFA World Cup is expected to inject $1.47B into US wholesale and retail sectors, per ICSC’s Commerce + Communities Today.\n\nRetail Sales Surge in May 2026 Masks Slower Volume Growth: US retail sales jumped 5.2% YoY in May 2026, marking the fastest annual rise in over a year, largely fueled by inflation in select categories. Foot traffic outperformed for value brands and experiences, while core retail volume growth slowed to near-stagnant levels at 0.2%.",
-    "new_york_post": "Heart of downtown Long Beach shopping sold to high-profile buyer with big plans: Long Beach’s waterfront centerpiece is heading for a major reset.\n\nAmazon’s Shaver Hall is proof that the food hall trend desperately needs to die: New Yorkers — including Steve Cuozzo — have lost their taste for fancy food courts.\n\nLA’s Skid Row to change forever as $2B mega project brings 1,500 new homes: The tallest building is expected to be 30 stories high.",
+    "new_york_post": "Heart of downtown Long Beach shopping sold to high-profile buyer with big plans: Long Beach’s waterfront centerpiece is heading for a major reset.\n\nAmazon’s Shaver Hall is proof that the food hall trend desperately needs to die: New Yorkers — including Steve Cuozzo — have lost their taste for fancy food courts.\n\nA Kazakh ‘prince’ buys one of NJ’s priciest homes of all time — for just $10: One of New Jersey’s most expensive homes in history has sold for $10 to the son-in-law of disgraced former Malaysian prime minister Najib Razak, Gimme Shelter can reveal.\n\nLA’s Skid Row to change forever as $2B mega project brings 1,500 new homes: The tallest building is expected to be 30 stories high.",
     "pincusco": "Nonprofit pays $4M for retail in East New York: The nonprofit Unique Care Community Services paid $4 million to Rami Macanian through the entity.\n\nSalvatore Bonavita pays $5.5M for grocery building in Pelham Parkway: Salvatore Bonavita through the entity Lavinia Properties LLC paid $5.5 million to family members for.\n\nJoel Weiss signs $33.2M construction loan for 99-unit project in Cypress Hills: Joel Weiss through the entity 236 Highland Realty LLC as borrower signed a new construction.\n\nYamazaki Home affiliate pays $4.6M for mixed-use in Long Island City: Yamazaki Home through the entity Yamazaki Jitsugyo Studios. Co., Ltd.",
-    "the_real_deal": "Landlord loses UES grocery condo to foreclosure: Despite grocery-anchored retail properties’ increasing popularity, some owners are still losing buildings to lenders. Through an affiliate, lender MetLife took back the keys at 188 East 64th Street on the Upper East Side through a deed in lieu of foreclosure, Crain’s reported.\n\nNYC’s top deals: Long Island City warehouse trades for $16M: There were 196 transactions totaling $306 million filed in New York City records in the 24 hours before 2:30 p.m. on Thursday, July 3.\n\nGravesend’s new condo record is courtesy of a home-grown developer: An $8 million sale doesn’t typically raise eyebrows in Brooklyn’s Gravesend neighborhood. The enclave, home to a tight-knit Syrian-Jewish community, has become known for its single-family homes that often trade for millions of dollars, as wealthy local families swap expensive homes like trading cards.\n\nLong Island man convicted in $4.7M Harlem deed theft scheme: A jury found Joseph Makhani guilty of stealing the deeds of two Harlem brownstones with a combined value of nearly $4.7 million, the office of New York Attorney General Letitia James announced on Wednesday."
+    "the_real_deal": "The Croman name is back in the deal flow, featuring the next generation: The Croman name is playing in the Manhattan multifamily sandbox again, but this time the next generation is betting on the winning strategy. Jake and Adam Croman have quietly assembled a portfolio of small apartment buildings across Manhattan, leaning into rent-stabilized assets that much of the market has shunned.\n\nNYC’s top deals: Long Island City warehouse trades for $16M: There were 196 transactions totaling $306 million filed in New York City records in the 24 hours before 2:30 p.m. on Thursday, July 3.\n\nGravesend’s new condo record is courtesy of a home-grown developer: An $8 million sale doesn’t typically raise eyebrows in Brooklyn’s Gravesend neighborhood. The enclave, home to a tight-knit Syrian-Jewish community, has become known for its single-family homes that often trade for millions of dollars, as wealthy local families swap expensive homes like trading cards.\n\nLong Island man convicted in $4.7M Harlem deed theft scheme: A jury found Joseph Makhani guilty of stealing the deeds of two Harlem brownstones with a combined value of nearly $4.7 million, the office of New York Attorney General Letitia James announced on Wednesday."
   },
   "items": [
     {
@@ -58,15 +58,6 @@
       "published_at": "2026-06-30T20:46:21.000Z"
     },
     {
-      "headline": "Landlord loses UES grocery condo to foreclosure",
-      "summary": "Despite grocery-anchored retail properties’ increasing popularity, some owners are still losing buildings to lenders. Through an affiliate, lender MetLife took back the keys at 188 East 64th Street on the Upper East Side through a deed in lieu of foreclosure, Crain’s reported. Real estate firm Gateside Corporation gave up both two units in the deal, a commercial condominium and a parking garage. The deal valued the two units — located at The Royale luxury condo complex — at $44.1 million.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/02/landlord-loses-ues-grocery-condo-to-foreclosure/",
-      "section": "the_real_deal",
-      "retail": true,
-      "published_at": "2026-07-02T14:18:22.000Z"
-    },
-    {
       "headline": "Korean Chef Jiho Kim to Open Flagship Restaurant at 21 West 17th Street",
       "summary": "Korean chef Jiho Kim has leased 3,120 square feet at 21 West 17th Street in Manhattan’s Flatiron District for his namesake flagship restaurant, Jiho . The New American eatery with a Korean-inspired menu will take up 1,868 square feet on the ground floor and 1,252 square feet of basement space at the Flatiron location between Fifth Avenue and Avenue of the Americas, Commercial Observer has learned. Asking rent was $120 per square foot.…",
       "source": "Commercial Observer",
@@ -112,13 +103,13 @@
       "published_at": "2026-06-25T03:45:17.000Z"
     },
     {
-      "headline": "Obra Supplies $31M Refi on Arizona Northrop Grumman-Leased Office Property",
-      "summary": "Silver Creek Development has secured $31.4 million of bridge debt to refinance a single-tenant office complex in suburban Phoenix, Commercial Observer has learned Obra Real Estate provided the loan for the developer’s 2021-built office property at 1715 West Elliot Road in Gilbert, Ariz. The complex is fully leased to Northrop Grumman , a global aerospace and defense technology company.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/obra-arizona-northrop-grumman-office-property/",
-      "section": "commercial_observer",
+      "headline": "The Croman name is back in the deal flow, featuring the next generation",
+      "summary": "The Croman name is playing in the Manhattan multifamily sandbox again, but this time the next generation is betting on the winning strategy. Jake and Adam Croman have quietly assembled a portfolio of small apartment buildings across Manhattan, leaning into rent-stabilized assets that much of the market has shunned since the 2019 Housing Stability and Tenant Protection Act upended the economics of value-add investing. Their latest purchase, a five-story building at 118 Mulberry Street in Chinatown, is roughly…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/04/croman-name-is-back-in-the-flow-featuring-next-generation/",
+      "section": "the_real_deal",
       "retail": true,
-      "published_at": "2026-07-01T16:24:02.000Z"
+      "published_at": "2026-07-04T13:00:00.000Z"
     },
     {
       "headline": "Heart of downtown Long Beach shopping sold to high-profile buyer with big plans",
@@ -245,6 +236,15 @@
       "section": "the_real_deal",
       "retail": false,
       "published_at": "2026-07-02T17:30:00.000Z"
+    },
+    {
+      "headline": "A Kazakh ‘prince’ buys one of NJ’s priciest homes of all time — for just $10",
+      "summary": "One of New Jersey’s most expensive homes in history has sold for $10 to the son-in-law of disgraced former Malaysian prime minister Najib Razak, Gimme Shelter can reveal.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/04/real-estate/a-kazakh-prince-buys-one-of-new-jerseys-priciest-homes-of-all-time-for-just-10/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-07-04T21:24:45.000Z"
     },
     {
       "headline": "LA’s Skid Row to change forever as $2B mega project brings 1,500 new homes",
