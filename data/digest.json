@@ -1,15 +1,15 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-07-05",
-  "generated_at": "2026-07-05T11:41:42.461Z",
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T13:55:19.704Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Luxury Jewelry Brand David Yurman Takes 685 Fifth’s Entire 23K-SF Retail Condo: Luxury jewelry retailer David Yurman has leased the entire retail condominium at 685 Fifth Avenue , just one month after a $160 million loan on the property was transferred to special servicing.\n\nFred Astaire Dance Studios Leases First Park Slope Location: The international dance franchise Fred Astaire Dance Studios is waltzing into Brooklyn’s Park Slope neighborhood. The school’s new lease at 508 Fifth Avenue spans 2,500 square feet of ground-floor retail space previously occupied by shoe store Bobby Sportswear .\n\nThai Ramen Eatery to Open at Original Site of Danny Meyer’s Union Square Cafe: An Upper East Side Thai ramen joint is taking over a retail space near Union Square famous for being the location for Danny Meyer ’s first restaurant, Commercial Observer has learned.\n\nTarget Inks 135K-SF Lease at Queens’ Rego Park Shopping Center: Attention, Queens shoppers, you’re about to get another Target . The retail giant with over 2,000 stores in the U.S.",
     "cre_daily": "Blackstone Lends $125M Refi to Dallas Mixed-Use Complex: Harbor Group International landed a $125M refinancing from Blackstone for the Alesio Urban Center in Irving, Texas. The 908-unit mixed-use property includes 55,500 SF of retail and recently underwent a $4.5M value-add program.\n\nSoHo Tops US Trophy Retail Sales With $195M in Q1 Deals: SoHo accounted for 43% of trophy retail trades tracked in Q1 2026, leading all US shopping corridors with $195M in sales volume, per ACP. Foreign buyers and brand owner-occupants drove activity, targeting boutique trophy assets in the $10M–$50M range as hedge against rising rents.\n\nWorld Cup Tourists Flock to Buc-ee’s, Walmart, and Waffle House: International World Cup fans are driving viral buzz around American retail and restaurant chains like Walmart, Buc-ee’s, and Waffle House. The 2026 FIFA World Cup is expected to inject $1.47B into US wholesale and retail sectors, per ICSC’s Commerce + Communities Today.\n\nRetail Sales Surge in May 2026 Masks Slower Volume Growth: US retail sales jumped 5.2% YoY in May 2026, marking the fastest annual rise in over a year, largely fueled by inflation in select categories. Foot traffic outperformed for value brands and experiences, while core retail volume growth slowed to near-stagnant levels at 0.2%.",
-    "new_york_post": "Heart of downtown Long Beach shopping sold to high-profile buyer with big plans: Long Beach’s waterfront centerpiece is heading for a major reset.\n\nAmazon’s Shaver Hall is proof that the food hall trend desperately needs to die: New Yorkers — including Steve Cuozzo — have lost their taste for fancy food courts.\n\nA Kazakh ‘prince’ buys one of NJ’s priciest homes of all time — for just $10: One of New Jersey’s most expensive homes in history has sold for $10 to the son-in-law of disgraced former Malaysian prime minister Najib Razak, Gimme Shelter can reveal.\n\nLA’s Skid Row to change forever as $2B mega project brings 1,500 new homes: The tallest building is expected to be 30 stories high.",
-    "pincusco": "Nonprofit pays $4M for retail in East New York: The nonprofit Unique Care Community Services paid $4 million to Rami Macanian through the entity.\n\nSalvatore Bonavita pays $5.5M for grocery building in Pelham Parkway: Salvatore Bonavita through the entity Lavinia Properties LLC paid $5.5 million to family members for.\n\nJoel Weiss signs $33.2M construction loan for 99-unit project in Cypress Hills: Joel Weiss through the entity 236 Highland Realty LLC as borrower signed a new construction.\n\nYamazaki Home affiliate pays $4.6M for mixed-use in Long Island City: Yamazaki Home through the entity Yamazaki Jitsugyo Studios. Co., Ltd.",
-    "the_real_deal": "The Croman name is back in the deal flow, featuring the next generation: The Croman name is playing in the Manhattan multifamily sandbox again, but this time the next generation is betting on the winning strategy. Jake and Adam Croman have quietly assembled a portfolio of small apartment buildings across Manhattan, leaning into rent-stabilized assets that much of the market has shunned.\n\nNYC’s top deals: Long Island City warehouse trades for $16M: There were 196 transactions totaling $306 million filed in New York City records in the 24 hours before 2:30 p.m. on Thursday, July 3.\n\nGravesend’s new condo record is courtesy of a home-grown developer: An $8 million sale doesn’t typically raise eyebrows in Brooklyn’s Gravesend neighborhood. The enclave, home to a tight-knit Syrian-Jewish community, has become known for its single-family homes that often trade for millions of dollars, as wealthy local families swap expensive homes like trading cards.\n\nLong Island man convicted in $4.7M Harlem deed theft scheme: A jury found Joseph Makhani guilty of stealing the deeds of two Harlem brownstones with a combined value of nearly $4.7 million, the office of New York Attorney General Letitia James announced on Wednesday."
+    "new_york_post": "Mysterious Manhattan building up for sale for first time in more than a decade: RFR developer Aby Rosen, who bought spooky 190 Bowery in a $55 million in 2015, tapped Avison Young’s James Nelson to offer the six-story property with 33,000 square feet of office space.\n\nUptown retail booming on Manhattan’s Second Avenue: The opening of the Q subway line and rezoning a decade ago propelled a residential development frenzy, including at least seven major projects between East 71st and East 86th streets.\n\nBillionaires’ Row tower signs new tenant: The deal for two full floors brings the project to nearly 75% leased less than three years since construction began.\n\nA Kazakh ‘prince’ buys one of NJ’s priciest homes of all time — for just $10: One of New Jersey’s most expensive homes in history has sold for $10 to the son-in-law of disgraced former Malaysian prime minister Najib Razak, Gimme Shelter can reveal.",
+    "pincusco": "Nonprofit Amant pays $10.1M to R & Company for retail in Tribeca: The nonprofit Amant Foundation through the entity 64wr, LLC paid $10.1 million to the art.\n\nTishman Speyer signs $178.4M construction loan with NYC Housing Development Corporation for development in Edgemere: Tishman Speyer through the entity EC B2 Parcel (Affordable), L.L.C. (and others) as borrower signed.\n\nQuinlan Development files plans for 24-story residential in Fort Greene: Quinlan Development Group submitted a new building construction project for a 159,007-square-foot residential (R-2) building.\n\nWharton Properties signs $17M refi with Webster Bank for residential walkup in West Village: Wharton Properties through the entity 72 Bedford Street LLC as borrower signed a refi loan.",
+    "the_real_deal": "The Croman name is back in the deal flow, featuring the next generation: The Croman name is playing in the Manhattan multifamily sandbox again, but this time the next generation is betting on the winning strategy. Jake and Adam Croman have quietly assembled a portfolio of small apartment buildings across Manhattan, leaning into rent-stabilized assets that much of the market has shunned.\n\nNew York’s luxury new development market is on fire: New York City’s new development market continues to be a tale of two markets. Contracts signed for new condos in Manhattan asking $10 million or more nearly doubled in the second quarter from the same time last year to 38 from 21, marking the second consecutive period where the high-end market made up half of all.\n\nNYC’s top deals: Long Island City warehouse trades for $16M: There were 196 transactions totaling $306 million filed in New York City records in the 24 hours before 2:30 p.m. on Thursday, July 3.\n\nGravesend’s new condo record is courtesy of a home-grown developer: An $8 million sale doesn’t typically raise eyebrows in Brooklyn’s Gravesend neighborhood. The enclave, home to a tight-knit Syrian-Jewish community, has become known for its single-family homes that often trade for millions of dollars, as wealthy local families swap expensive homes like trading cards."
   },
   "items": [
     {
@@ -103,6 +103,24 @@
       "published_at": "2026-06-25T03:45:17.000Z"
     },
     {
+      "headline": "Mysterious Manhattan building up for sale for first time in more than a decade",
+      "summary": "RFR developer Aby Rosen, who bought spooky 190 Bowery in a $55 million in 2015, tapped Avison Young’s James Nelson to offer the six-story property with 33,000 square feet of office space.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/05/business/mysterious-nyc-building-up-for-sale-for-first-time-in-10-years/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-07-05T18:24:00.000Z"
+    },
+    {
+      "headline": "Uptown retail booming on Manhattan’s Second Avenue",
+      "summary": "The opening of the Q subway line and rezoning a decade ago propelled a residential development frenzy, including at least seven major projects between East 71st and East 86th streets.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/05/business/uptown-second-avenue-retail-booming/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-07-05T19:20:10.000Z"
+    },
+    {
       "headline": "The Croman name is back in the deal flow, featuring the next generation",
       "summary": "The Croman name is playing in the Manhattan multifamily sandbox again, but this time the next generation is betting on the winning strategy. Jake and Adam Croman have quietly assembled a portfolio of small apartment buildings across Manhattan, leaning into rent-stabilized assets that much of the market has shunned since the 2019 Housing Stability and Tenant Protection Act upended the economics of value-add investing. Their latest purchase, a five-story building at 118 Mulberry Street in Chinatown, is roughly…",
       "source": "The Real Deal",
@@ -112,31 +130,13 @@
       "published_at": "2026-07-04T13:00:00.000Z"
     },
     {
-      "headline": "Heart of downtown Long Beach shopping sold to high-profile buyer with big plans",
-      "summary": "Long Beach’s waterfront centerpiece is heading for a major reset.",
+      "headline": "Billionaires’ Row tower signs new tenant",
+      "summary": "The deal for two full floors brings the project to nearly 75% leased less than three years since construction began.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/07/02/real-estate/high-profile-buyer-acquires-downtown-long-beach-shopping-district/",
+      "url": "https://nypost.com/2026/07/05/business/billionaires-row-tower-signs-new-tenant/",
       "section": "new_york_post",
       "retail": true,
-      "published_at": "2026-07-02T16:55:29.000Z"
-    },
-    {
-      "headline": "Five Tenants Sign 19K SF of Deals at Blake Partners’ 39 West 37th Street",
-      "summary": "Five new office leases totaling 19,191 square feet were signed at a Midtown building three blocks south of Bryant Park , Commercial Observer has learned. CRC Insurance Group , one of the largest wholesale specialty insurance distributors in North America, took the largest spread at Blake Partners ’ 39 West 37th Street , signing a 6,261-square-foot lease on the entire ninth floor of the building between Fifth Avenue and Avenue of the Americas, according to landlord broker Noah & Company .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/crc-insurance-group-blake-partners-39-west-37th-street/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-02T16:32:03.000Z"
-    },
-    {
-      "headline": "Nonprofit pays $4M for retail in East New York",
-      "summary": "The nonprofit Unique Care Community Services paid $4 million to Rami Macanian through the entity The post Nonprofit pays $4M for retail in East New York appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/nonprofit-pays-4m-for-retail-in-east-new-york/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-07-02T12:03:00.000Z"
+      "published_at": "2026-07-05T19:07:19.000Z"
     },
     {
       "headline": "Fitness Factory to Open 25K-SF Gym at 162-11 Jamaica Avenue in Queens",
@@ -148,13 +148,13 @@
       "published_at": "2026-06-25T13:40:10.000Z"
     },
     {
-      "headline": "Auto Parts Distributor Signs $42M Lease in Southern California",
-      "summary": "An auto parts distribution company is expanding in Southern California and has signed a lease to take over a 522,267-square-foot industrial building in the Inland Empire. The lease agreement with landlord Invesco is valued at more than $42 million, according to Daum Commercial Real Estate Services , which announced the deal Thursday and represented the tenant alongside Lara CRE .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/california-auto-distribution-industrial-invesco/",
-      "section": "commercial_observer",
+      "headline": "Nonprofit Amant pays $10.1M to R & Company for retail in Tribeca",
+      "summary": "The nonprofit Amant Foundation through the entity 64wr, LLC paid $10.1 million to the art The post Nonprofit Amant pays $10.1M to R & Company for retail in Tribeca appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/nonprofit-amant-pays-10-1m-to-r-company-for-retail-in-tribeca/",
+      "section": "pincusco",
       "retail": true,
-      "published_at": "2026-07-02T19:25:14.000Z"
+      "published_at": "2026-07-06T12:43:00.000Z"
     },
     {
       "headline": "Walmart Pilots Dark Store Depots For Faster Last-Mile Delivery",
@@ -166,31 +166,22 @@
       "published_at": "2026-06-25T03:43:39.000Z"
     },
     {
-      "headline": "Salvatore Bonavita pays $5.5M for grocery building in Pelham Parkway",
-      "summary": "Salvatore Bonavita through the entity Lavinia Properties LLC paid $5.5 million to family members for The post Salvatore Bonavita pays $5.5M for grocery building in Pelham Parkway appeared first on PincusCo .",
+      "headline": "Tishman Speyer signs $178.4M construction loan with NYC Housing Development Corporation for development in Edgemere",
+      "summary": "Tishman Speyer through the entity EC B2 Parcel (Affordable), L.L.C. (and others) as borrower signed The post Tishman Speyer signs $178.4M construction loan with NYC Housing Development Corporation for development in Edgemere appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/salvatore-bonavita-pays-5-5m-for-retail-in-pelham-parkway/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-07-02T12:53:00.000Z"
-    },
-    {
-      "headline": "Amazon’s Shaver Hall is proof that the food hall trend desperately needs to die",
-      "summary": "New Yorkers — including Steve Cuozzo — have lost their taste for fancy food courts.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/01/lifestyle/amazons-shaver-hall-is-proof-that-the-food-hall-trend-desperately-needs-to-die/",
-      "section": "new_york_post",
-      "retail": true,
-      "published_at": "2026-07-01T18:51:39.000Z"
-    },
-    {
-      "headline": "Joel Weiss signs $33.2M construction loan for 99-unit project in Cypress Hills",
-      "summary": "Joel Weiss through the entity 236 Highland Realty LLC as borrower signed a new construction The post Joel Weiss signs $33.2M construction loan for 99-unit project in Cypress Hills appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/joel-weiss-signs-33-2m-construction-loan-for-99-unit-project-in-cypress-hills/",
+      "url": "https://www.pincusco.com/tishman-speyer-signs-178-4m-construction-loan-with-nyc-housing-development-corporation-for-development-in-edgemere/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-07-02T13:30:00.000Z"
+      "published_at": "2026-07-06T12:21:00.000Z"
+    },
+    {
+      "headline": "New York’s luxury new development market is on fire",
+      "summary": "New York City’s new development market continues to be a tale of two markets. Contracts signed for new condos in Manhattan asking $10 million or more nearly doubled in the second quarter from the same time last year to 38 from 21, marking the second consecutive period where the high-end market made up half of all deals signed in the city, according to Brown Harris Stevens Development Marketing. The 56 contracts signed last quarter marked a record for any period this decade. “The $10 million-plus market…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/06/luxury-market-leads-nycs-new-dev-market-in-second-quarter/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-07-06T10:00:00.000Z"
     },
     {
       "headline": "NYC’s top deals: Long Island City warehouse trades for $16M",
@@ -238,6 +229,42 @@
       "published_at": "2026-07-02T17:30:00.000Z"
     },
     {
+      "headline": "Quinlan Development files plans for 24-story residential in Fort Greene",
+      "summary": "Quinlan Development Group submitted a new building construction project for a 159,007-square-foot residential (R-2) building The post Quinlan Development files plans for 24-story residential in Fort Greene appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/quinlan-development-files-plans-for-24-story-residential-in-fort-greene/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-07-06T13:35:00.000Z"
+    },
+    {
+      "headline": "Wharton Properties signs $17M refi with Webster Bank for residential walkup in West Village",
+      "summary": "Wharton Properties through the entity 72 Bedford Street LLC as borrower signed a refi loan The post Wharton Properties signs $17M refi with Webster Bank for residential walkup in West Village appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/wharton-properties-signs-17m-refi-with-webster-bank-for-residential-walkup-in-west-village/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-07-06T13:15:00.000Z"
+    },
+    {
+      "headline": "Alduwaliya Asset Management signs $100M refi with Citibank for hotel in Garment District",
+      "summary": "Alduwaliya Asset Management through the entity Al Duwaliya Hospitality Company, Inc. as borrower signed a The post Alduwaliya Asset Management signs $100M refi with Citibank for hotel in Garment District appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/alduwaliya-asset-management-signs-100m-refi-with-citibank-for-hotel-in-garment-district/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-07-06T12:37:00.000Z"
+    },
+    {
+      "headline": "Rama Bassalali affiliate pays $8.4M to Cyprus family for mixed-use in Midtown East",
+      "summary": "Rama Bassalali of RMB Properties as signatory for the entity 663 La LLC paid $8.4 The post Rama Bassalali affiliate pays $8.4M to Cyprus family for mixed-use in Midtown East appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/rama-bassalali-affiliate-pays-8-4m-to-cyprus-family-for-mixed-use-in-midtown-east/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-07-06T12:33:00.000Z"
+    },
+    {
       "headline": "A Kazakh ‘prince’ buys one of NJ’s priciest homes of all time — for just $10",
       "summary": "One of New Jersey’s most expensive homes in history has sold for $10 to the son-in-law of disgraced former Malaysian prime minister Najib Razak, Gimme Shelter can reveal.",
       "source": "New York Post",
@@ -254,33 +281,6 @@
       "section": "new_york_post",
       "retail": false,
       "published_at": "2026-07-02T18:53:52.000Z"
-    },
-    {
-      "headline": "Yamazaki Home affiliate pays $4.6M for mixed-use in Long Island City",
-      "summary": "Yamazaki Home through the entity Yamazaki Jitsugyo Studios. Co., Ltd. paid $4.6 million to Ronni The post Yamazaki Home affiliate pays $4.6M for mixed-use in Long Island City appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/yamazaki-home-pays-4-6m-to-ronni-newman-for-mixed-use-in-long-island-city/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-02T12:59:00.000Z"
-    },
-    {
-      "headline": "United American Land signs $26.3M refi with Deutsche Bank for 20-unit rental in Flatiron District",
-      "summary": "United American Land through the entity Decker Associates LLC as borrower signed a refi loan The post United American Land signs $26.3M refi with Deutsche Bank for 20-unit rental in Flatiron District appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/united-american-land-signs-26-3m-refi-with-deutsche-bank-for-20-unit-rental-in-flatiron-district/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-02T12:27:00.000Z"
-    },
-    {
-      "headline": "Cornerstone Group pays $2.6M for mixed-use in Borough Park",
-      "summary": "Cornerstone Group through the entity Edgerock 53 LLC paid $2.6 million to Israel Lawrence Klein The post Cornerstone Group pays $2.6M for mixed-use in Borough Park appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/cornerstone-group-pays-2-6m-for-mixed-use-in-borough-park/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-02T12:20:00.000Z"
     }
   ]
 }
