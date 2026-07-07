@@ -1,15 +1,15 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-07-06",
-  "generated_at": "2026-07-06T13:55:19.704Z",
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T12:32:18.340Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Luxury Jewelry Brand David Yurman Takes 685 Fifth’s Entire 23K-SF Retail Condo: Luxury jewelry retailer David Yurman has leased the entire retail condominium at 685 Fifth Avenue , just one month after a $160 million loan on the property was transferred to special servicing.\n\nFred Astaire Dance Studios Leases First Park Slope Location: The international dance franchise Fred Astaire Dance Studios is waltzing into Brooklyn’s Park Slope neighborhood. The school’s new lease at 508 Fifth Avenue spans 2,500 square feet of ground-floor retail space previously occupied by shoe store Bobby Sportswear .\n\nThai Ramen Eatery to Open at Original Site of Danny Meyer’s Union Square Cafe: An Upper East Side Thai ramen joint is taking over a retail space near Union Square famous for being the location for Danny Meyer ’s first restaurant, Commercial Observer has learned.\n\nTarget Inks 135K-SF Lease at Queens’ Rego Park Shopping Center: Attention, Queens shoppers, you’re about to get another Target . The retail giant with over 2,000 stores in the U.S.",
-    "cre_daily": "Blackstone Lends $125M Refi to Dallas Mixed-Use Complex: Harbor Group International landed a $125M refinancing from Blackstone for the Alesio Urban Center in Irving, Texas. The 908-unit mixed-use property includes 55,500 SF of retail and recently underwent a $4.5M value-add program.\n\nSoHo Tops US Trophy Retail Sales With $195M in Q1 Deals: SoHo accounted for 43% of trophy retail trades tracked in Q1 2026, leading all US shopping corridors with $195M in sales volume, per ACP. Foreign buyers and brand owner-occupants drove activity, targeting boutique trophy assets in the $10M–$50M range as hedge against rising rents.\n\nWorld Cup Tourists Flock to Buc-ee’s, Walmart, and Waffle House: International World Cup fans are driving viral buzz around American retail and restaurant chains like Walmart, Buc-ee’s, and Waffle House. The 2026 FIFA World Cup is expected to inject $1.47B into US wholesale and retail sectors, per ICSC’s Commerce + Communities Today.\n\nRetail Sales Surge in May 2026 Masks Slower Volume Growth: US retail sales jumped 5.2% YoY in May 2026, marking the fastest annual rise in over a year, largely fueled by inflation in select categories. Foot traffic outperformed for value brands and experiences, while core retail volume growth slowed to near-stagnant levels at 0.2%.",
-    "new_york_post": "Mysterious Manhattan building up for sale for first time in more than a decade: RFR developer Aby Rosen, who bought spooky 190 Bowery in a $55 million in 2015, tapped Avison Young’s James Nelson to offer the six-story property with 33,000 square feet of office space.\n\nUptown retail booming on Manhattan’s Second Avenue: The opening of the Q subway line and rezoning a decade ago propelled a residential development frenzy, including at least seven major projects between East 71st and East 86th streets.\n\nBillionaires’ Row tower signs new tenant: The deal for two full floors brings the project to nearly 75% leased less than three years since construction began.\n\nA Kazakh ‘prince’ buys one of NJ’s priciest homes of all time — for just $10: One of New Jersey’s most expensive homes in history has sold for $10 to the son-in-law of disgraced former Malaysian prime minister Najib Razak, Gimme Shelter can reveal.",
-    "pincusco": "Nonprofit Amant pays $10.1M to R & Company for retail in Tribeca: The nonprofit Amant Foundation through the entity 64wr, LLC paid $10.1 million to the art.\n\nTishman Speyer signs $178.4M construction loan with NYC Housing Development Corporation for development in Edgemere: Tishman Speyer through the entity EC B2 Parcel (Affordable), L.L.C. (and others) as borrower signed.\n\nQuinlan Development files plans for 24-story residential in Fort Greene: Quinlan Development Group submitted a new building construction project for a 159,007-square-foot residential (R-2) building.\n\nWharton Properties signs $17M refi with Webster Bank for residential walkup in West Village: Wharton Properties through the entity 72 Bedford Street LLC as borrower signed a refi loan.",
-    "the_real_deal": "The Croman name is back in the deal flow, featuring the next generation: The Croman name is playing in the Manhattan multifamily sandbox again, but this time the next generation is betting on the winning strategy. Jake and Adam Croman have quietly assembled a portfolio of small apartment buildings across Manhattan, leaning into rent-stabilized assets that much of the market has shunned.\n\nNew York’s luxury new development market is on fire: New York City’s new development market continues to be a tale of two markets. Contracts signed for new condos in Manhattan asking $10 million or more nearly doubled in the second quarter from the same time last year to 38 from 21, marking the second consecutive period where the high-end market made up half of all.\n\nNYC’s top deals: Long Island City warehouse trades for $16M: There were 196 transactions totaling $306 million filed in New York City records in the 24 hours before 2:30 p.m. on Thursday, July 3.\n\nGravesend’s new condo record is courtesy of a home-grown developer: An $8 million sale doesn’t typically raise eyebrows in Brooklyn’s Gravesend neighborhood. The enclave, home to a tight-knit Syrian-Jewish community, has become known for its single-family homes that often trade for millions of dollars, as wealthy local families swap expensive homes like trading cards."
+    "cre_daily": "Blackstone Lends $125M Refi to Dallas Mixed-Use Complex: Harbor Group International landed a $125M refinancing from Blackstone for the Alesio Urban Center in Irving, Texas. The 908-unit mixed-use property includes 55,500 SF of retail and recently underwent a $4.5M value-add program.\n\nShaver Hall Redefines NYC Food Halls For All-Day Appeal: FB Society opened Shaver Hall, a 35,000 SF food hall in Amazon’s Midtown NYC office, aiming to be an all-day destination. This project features 11 eateries, three restaurants, two bars, and extended hours, blending dining with entertainment and nightlife to boost foot traffic.\n\nJersey Mike’s Aims for $12B IPO, 15,000 Global Locations: Jersey Mike’s plans a public market debut and targets 15,000 stores worldwide, more than quadrupling its current footprint. The chain has entered a 300-store Canadian development deal and detailed a UK/Ireland expansion as it capitalizes on franchisee momentum.\n\nInflation Pushes Back-to-School Shoppers to Discount Retail: Average back-to-school spending is up nearly 12% to $489 per child, outpacing inflation, according to JLL’s 2026 Back-to-School Survey. Dollar stores cracked the top 10 list of most-visited stores for school shoppers, with 90% of parents planning to shop in-store and 77% naming Walmart as their top choice.",
+    "new_york_post": "Mysterious Manhattan building up for sale for first time in more than a decade: RFR developer Aby Rosen, who bought spooky 190 Bowery in a $55 million in 2015, tapped Avison Young’s James Nelson to offer the six-story property with 33,000 square feet of office space.\n\nUptown retail booming on Manhattan’s Second Avenue: The opening of the Q subway line and rezoning a decade ago propelled a residential development frenzy, including at least seven major projects between East 71st and East 86th streets.\n\nBillionaires’ Row tower signs new tenant: The deal for two full floors brings the project to nearly 75% leased less than three years since construction began.\n\nElisha Cuthbert finds a buyer for her LA home as she returns to acting following a 4-year hiatus: The storybook residence, a traditional home built in 1936, stands just up the hill from Chateau Marmont, the legendary hotel in West Hollywood.",
+    "pincusco": "Sonesta International signs $245M refi with Fortress for four hotels in Manhattan: Sonesta International Hotels through the entity Sonesta Benjamin Hotel LLC as borrower signed a refi.\n\nCW Realty in contract to pay undisclosed amount for Crown Heights dev site, plans 99 units: CW Realty Group through the entity 1062 Atlantic Member LLC is in contract to pay.\n\nQuinlan Development files plans for 24-story residential in Fort Greene: Quinlan Development Group submitted a new building construction project for a 159,007-square-foot residential (R-2) building.",
+    "the_real_deal": "Target inks largest June NYC retail lease: The biggest retail lease in NYC last month truly dwarfs the rest of the list, coming in at more than five times the square footage of the next biggest lease on the list. Below is the full list of New York’s biggest retail leases in June.\n\nNYC’s top deals: Brooklyn logs borough-wide record for year with $25M townhouse sale: There were 231 transactions totaling $338 million filed in New York City records in the 24 hours before 4 p.m. on Monday, July 6.\n\nVanbarton reels in $352M refi for nearly full Grand Central office tower: Vanbarton Group landed a fresh nine-figure loan for its nearly full Midtown office tower. Goldman Sachs provided a $352 million loan for 425 Lexington Avenue, a 31-story, 747,000-square-foot Class A office building next to Grand Central Terminal, according to property records.\n\nAzorim secures financing for final phase of Yonkers complex: An Israel-based development firm is preparing to put the finishing touches on a massive multifamily complex a dozen miles north of Manhattan. Azorim landed $69 million in construction financing from Western Alliance Bank for the fourth and final building of Mizora at Ridge Hill in Yonkers, the Commercial Observer."
   },
   "items": [
     {
@@ -49,6 +49,15 @@
       "published_at": "2026-06-24T03:53:45.000Z"
     },
     {
+      "headline": "Target inks largest June NYC retail lease",
+      "summary": "The biggest retail lease in NYC last month truly dwarfs the rest of the list, coming in at more than five times the square footage of the next biggest lease on the list. Below is the full list of New York’s biggest retail leases in June. 1) Target | 61-35 Junction Boulevard | Rego Park | 135,000 sf The retail giant signed a new lease in the Rego Park Shopping Center, which totals 600,000 square feet of space.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/07/nycs-top-retail-leases-june-2026/",
+      "section": "the_real_deal",
+      "retail": true,
+      "published_at": "2026-07-07T12:00:00.000Z"
+    },
+    {
       "headline": "Target Inks 135K-SF Lease at Queens’ Rego Park Shopping Center",
       "summary": "Attention, Queens shoppers, you’re about to get another Target . The retail giant with over 2,000 stores in the U.S. is about to add another location in the busy borough of Queens. Target inked a 15-year, 135,000-square-foot lease at the Rego Park Shopping Center at 61-35 Junction Boulevard in Rego Park, property owner Alexander’s announced Monday. The Rego Park Shopping Center is a multilevel, 600,000-square-foot open-air mall anchored by wholesale giant Costco .…",
       "source": "Commercial Observer",
@@ -58,6 +67,33 @@
       "published_at": "2026-06-30T20:46:21.000Z"
     },
     {
+      "headline": "Development Firm InvestMates Buys Greenpoint Retail Building for $26M",
+      "summary": "Development firm Investmates has purchased a single-story retail building in Greenpoint, Brooklyn, Commercial Observer has learned. The company acquired 150 Green Street for approximately $26 million from foreign investors a week after revealing that it landed a $21 million loan from Northwind Group for the acquisition. InvestMates plans to build a 73-unit condominium building with ground-floor retail at the location, according to a source with knowledge of the deal.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/investmates-buys-150-green-street-greenpoint/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-07T11:00:26.000Z"
+    },
+    {
+      "headline": "Shaver Hall Redefines NYC Food Halls For All-Day Appeal",
+      "summary": "FB Society opened Shaver Hall, a 35,000 SF food hall in Amazon’s Midtown NYC office, aiming to be an all-day destination. This project features 11 eateries, three restaurants, two bars, and extended hours, blending dining with entertainment and nightlife to boost foot traffic. The model signals a national pivot as food halls embrace longer hours, event programming, and adaptive reuse strategies for mixed-use viability.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/shaver-hall-redefines-nyc-food-halls-for-all-day-appeal/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-07-07T08:29:31.000Z"
+    },
+    {
+      "headline": "Jersey Mike’s Aims for $12B IPO, 15,000 Global Locations",
+      "summary": "Jersey Mike’s plans a public market debut and targets 15,000 stores worldwide, more than quadrupling its current footprint. The chain has entered a 300-store Canadian development deal and detailed a UK/Ireland expansion as it capitalizes on franchisee momentum. Its strong growth ambitions echo a broader IPO wave across the restaurant and retail sectors, signaling continued investor interest in global rollouts.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/jersey-mike-s-aims-for-12b-ipo-15-000-global-locations/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-07-07T08:08:46.000Z"
+    },
+    {
       "headline": "Korean Chef Jiho Kim to Open Flagship Restaurant at 21 West 17th Street",
       "summary": "Korean chef Jiho Kim has leased 3,120 square feet at 21 West 17th Street in Manhattan’s Flatiron District for his namesake flagship restaurant, Jiho . The New American eatery with a Korean-inspired menu will take up 1,868 square feet on the ground floor and 1,252 square feet of basement space at the Flatiron location between Fifth Avenue and Avenue of the Americas, Commercial Observer has learned. Asking rent was $120 per square foot.…",
       "source": "Commercial Observer",
@@ -65,6 +101,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-06-26T17:40:41.000Z"
+    },
+    {
+      "headline": "Inflation Pushes Back-to-School Shoppers to Discount Retail",
+      "summary": "Average back-to-school spending is up nearly 12% to $489 per child, outpacing inflation, according to JLL’s 2026 Back-to-School Survey. Dollar stores cracked the top 10 list of most-visited stores for school shoppers, with 90% of parents planning to shop in-store and 77% naming Walmart as their top choice. The shift toward value-driven retail benefits shopping centers anchored by discount and mass merchants, driving up physical retail foot traffic during the July spending surge.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/inflation-pushes-back-to-school-shoppers-to-discount-retail/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-07-07T07:59:16.000Z"
     },
     {
       "headline": "SoHo Tops US Trophy Retail Sales With $195M in Q1 Deals",
@@ -85,22 +130,13 @@
       "published_at": "2026-06-30T03:31:46.000Z"
     },
     {
-      "headline": "Retail Sales Surge in May 2026 Masks Slower Volume Growth",
-      "summary": "US retail sales jumped 5.2% YoY in May 2026, marking the fastest annual rise in over a year, largely fueled by inflation in select categories. Foot traffic outperformed for value brands and experiences, while core retail volume growth slowed to near-stagnant levels at 0.2%. Discretionary and experiential spending held up despite tighter budgets, but broad caution is evident in food, home, and furniture categories.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/retail-sales-surge-in-may-2026-masks-slower-volume-growth/",
-      "section": "cre_daily",
+      "headline": "NYC’s top deals: Brooklyn logs borough-wide record for year with $25M townhouse sale",
+      "summary": "There were 231 transactions totaling $338 million filed in New York City records in the 24 hours before 4 p.m. on Monday, July 6. Commercial: Flushing logged the most expensive commercial deal recorded in New York. Prime Pacific LLC took over a multifamily property at 41-31 Haight Street for $7.5 million amid a foreclosure lawsuit. The mixed-use building stands six stories tall and has 23 apartments; it measures 23,700 square feet. The prior owner was 41 Haight Street Owner, LLC.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/07/new-york-top-real-estate-deals-monday-july-6/",
+      "section": "the_real_deal",
       "retail": true,
-      "published_at": "2026-06-28T10:08:23.000Z"
-    },
-    {
-      "headline": "US Core Retail Sales Hit Record as Shoppers Shift Online",
-      "summary": "Core retail sales increased 0.5% month-over-month and 5.6% year-over-year in May, reflecting resilient consumer spending. Online and discount retailers saw record sales, while restaurant and electronics spending slowed as households cut back on discretionary purchases. Absorption in retail real estate turned positive in Q2 2026, driven by demand for big-box and value-focused tenants.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/us-core-retail-sales-hit-record-as-shoppers-shift-online/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-06-25T03:45:17.000Z"
+      "published_at": "2026-07-07T11:00:00.000Z"
     },
     {
       "headline": "Mysterious Manhattan building up for sale for first time in more than a decade",
@@ -112,6 +148,24 @@
       "published_at": "2026-07-05T18:24:00.000Z"
     },
     {
+      "headline": "Law Firm Loeb & Loeb Expands to 179K SF at Rudin’s 345 Park Avenue",
+      "summary": "A global law firm is growing its office footprint to 178,959 square feet in Midtown East. Loeb & Loeb , which has more than 450 attorneys across the U.S. and Asia, signed a 16-year extension for its existing 160,051-square-foot offices on the 18th through 21st floors of Rudin ’s 345 Park Avenue and added 18,908 square feet on part of the 13th floor, according to the landlord. Loeb & Loeb has leased its New York City headquarters at the building since 1993.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/loeb-loeb-lease-expansion-rudin-345-park-avenue/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-06T20:18:56.000Z"
+    },
+    {
+      "headline": "Anchorage Capital Advisors Takes 21K SF at 125 West 57th Street",
+      "summary": "Billionaires’ Row continues to grow as a premier office destination as a new tenant seeks to move up from Lower Manhattan. Anchorage Capital Advisors , an investment firm with more than $27.8 billion in assets under management, has signed a 10-year, 20,560-square-foot lease at Alchemy-ABR Investment Partners and Cain ‘s 125 West 57th Street , the landlords announced Monday.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/anchorage-capital-advisors-lease-125-west-57th-street/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-06T16:12:52.000Z"
+    },
+    {
       "headline": "Uptown retail booming on Manhattan’s Second Avenue",
       "summary": "The opening of the Q subway line and rezoning a decade ago propelled a residential development frenzy, including at least seven major projects between East 71st and East 86th streets.",
       "source": "New York Post",
@@ -119,15 +173,6 @@
       "section": "new_york_post",
       "retail": true,
       "published_at": "2026-07-05T19:20:10.000Z"
-    },
-    {
-      "headline": "The Croman name is back in the deal flow, featuring the next generation",
-      "summary": "The Croman name is playing in the Manhattan multifamily sandbox again, but this time the next generation is betting on the winning strategy. Jake and Adam Croman have quietly assembled a portfolio of small apartment buildings across Manhattan, leaning into rent-stabilized assets that much of the market has shunned since the 2019 Housing Stability and Tenant Protection Act upended the economics of value-add investing. Their latest purchase, a five-story building at 118 Mulberry Street in Chinatown, is roughly…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/04/croman-name-is-back-in-the-flow-featuring-next-generation/",
-      "section": "the_real_deal",
-      "retail": true,
-      "published_at": "2026-07-04T13:00:00.000Z"
     },
     {
       "headline": "Billionaires’ Row tower signs new tenant",
@@ -139,6 +184,15 @@
       "published_at": "2026-07-05T19:07:19.000Z"
     },
     {
+      "headline": "Former Downtown Brooklyn Macy’s Slated for Dramatic Retail Makeover",
+      "summary": "The 440,000-square-foot space at Downtown Brooklyn’s 422 Fulton Street — the largest block of retail space currently available in New York City and the former site of a Macy’s department store — will become BKX, a five-floor retail and amusement destination that’s being described by developers as a “next-generation cultural and commercial hub,” Commercial Observer has learned.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/downtown-brooklyn-macys-new-leasing-2026/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-06T20:28:06.000Z"
+    },
+    {
       "headline": "Fitness Factory to Open 25K-SF Gym at 162-11 Jamaica Avenue in Queens",
       "summary": "Don’t you know pump it up? You got to pump it up! And residents in Queens are about to get another option for pumping up their gym workout. Fitness Factory , a growing fitness and wellness chain in New York and New Jersey, has signed a 25,000-square-foot lease to open a new gym at 162-11 Jamaica Avenue in Jamaica, Queens, Commercial Observer has learned. The deal was signed June 18, according to a source close to the deal. Fitness Factory will open a four-floor gym at its new space.…",
       "source": "Commercial Observer",
@@ -148,85 +202,76 @@
       "published_at": "2026-06-25T13:40:10.000Z"
     },
     {
-      "headline": "Nonprofit Amant pays $10.1M to R & Company for retail in Tribeca",
-      "summary": "The nonprofit Amant Foundation through the entity 64wr, LLC paid $10.1 million to the art The post Nonprofit Amant pays $10.1M to R & Company for retail in Tribeca appeared first on PincusCo .",
+      "headline": "Vanbarton reels in $352M refi for nearly full Grand Central office tower",
+      "summary": "Vanbarton Group landed a fresh nine-figure loan for its nearly full Midtown office tower. Goldman Sachs provided a $352 million loan for 425 Lexington Avenue, a 31-story, 747,000-square-foot Class A office building next to Grand Central Terminal, according to property records. A source with knowledge of the deal said the single-property CMBS deal was pre-placed entirely with BlackRock. The debt replaces a $290 million loan from New York Life Insurance Company and Northwestern Mutual.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/06/vanbarton-snags-352m-refi-for-grand-central-office-tower/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-07-06T20:15:00.000Z"
+    },
+    {
+      "headline": "Azorim secures financing for final phase of Yonkers complex",
+      "summary": "An Israel-based development firm is preparing to put the finishing touches on a massive multifamily complex a dozen miles north of Manhattan. Azorim landed $69 million in construction financing from Western Alliance Bank for the fourth and final building of Mizora at Ridge Hill in Yonkers, the Commercial Observer reported. This component of the master-planned community in the Westchester County city is at 599 Ridge Hill Boulevard.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/tristate/2026/07/06/azorim-secures-financing-for-final-phase-of-yonkers-complex/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-07-06T19:00:00.000Z"
+    },
+    {
+      "headline": "Sonesta International signs $245M refi with Fortress for four hotels in Manhattan",
+      "summary": "Sonesta International Hotels through the entity Sonesta Benjamin Hotel LLC as borrower signed a refi The post Sonesta International signs $245M refi with Fortress for four hotels in Manhattan appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/nonprofit-amant-pays-10-1m-to-r-company-for-retail-in-tribeca/",
+      "url": "https://www.pincusco.com/sonesta-international-signs-245m-refi-with-fortress-for-four-hotels-in-manhattan/",
       "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-07-06T12:43:00.000Z"
+      "retail": false,
+      "published_at": "2026-07-07T12:05:00.000Z"
     },
     {
-      "headline": "Walmart Pilots Dark Store Depots For Faster Last-Mile Delivery",
-      "summary": "Walmart has launched Spark Delivery Depots—small, closed-to-public fulfillment hubs—starting in Fayetteville, Arkansas. Repurposing 20,000 SF former drugstores, these dark stores focus on stocking high-demand items for rapid local delivery at a premium fee. This model leverages Walmart’s store footprint to challenge Amazon’s last-mile advantage and accelerate e-commerce growth in the US.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/walmart-pilots-dark-store-depots-for-faster-last-mile-delivery/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-06-25T03:43:39.000Z"
+      "headline": "Brooklyn Heights townhouse trades for $25M",
+      "summary": "A Brooklyn Heights townhouse just nabbed the borough’s priciest sale so far this year. The home at 192 Columbia Heights traded in an off-market deal for $24.5 million, according to public records. The closing price surpassed the year’s previous top sale, a penthouse at Fortis Property Group’s Olympia Dumbo, which sold for $16.3 million in March. The deal for the Civil War-era townhouse fell short of Brooklyn’s overall record, set by Eli Gindi of the Gindi real estate family in November, when he sold his…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/06/brooklyn-heights-townhouse-trades-for-25m/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-07-06T20:30:00.000Z"
     },
     {
-      "headline": "Tishman Speyer signs $178.4M construction loan with NYC Housing Development Corporation for development in Edgemere",
-      "summary": "Tishman Speyer through the entity EC B2 Parcel (Affordable), L.L.C. (and others) as borrower signed The post Tishman Speyer signs $178.4M construction loan with NYC Housing Development Corporation for development in Edgemere appeared first on PincusCo .",
+      "headline": "Former NYC “worst landlord” strikes a deal, avoids foreclosure",
+      "summary": "An infamous New York City landlord and his lender have struck a deal. Ved Parkash, one of the city’s “worst landlords,” has agreed to sell three of his buildings as part of an agreement with Community Stabilization Partners, Gothamist reported. The lender issued an ultimatum requiring the sale of the buildings to prevent foreclosure on those properties, as well as 21 others in his company’s portfolio. The properties slated for sale include a 44-unit property at 1110 Anderson Ave.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/06/former-nyc-worst-landlord-must-sell-three-buildings/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-07-06T18:30:00.000Z"
+    },
+    {
+      "headline": "Full-floor condo at Central Park Tower snags signed contract, asking $55M",
+      "summary": "A trophy condo at Extell Development’s Central Park Tower nabbed a buyer last week, topping a slow week for luxury deals ahead of the Fourth of July. A full-floor unit at 217 West 57th Street, last asking $54.9 million, was the priciest of just 15 homes in Manhattan asking $4 million or more to enter contract between June 29 and July 5, according to Olshan Realty’s weekly report. The total was down sharply from 27 contracts signed in the previous week.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/06/central-park-tower-condo-snags-signed-contract-at-55m/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-07-06T18:00:00.000Z"
+    },
+    {
+      "headline": "CW Realty in contract to pay undisclosed amount for Crown Heights dev site, plans 99 units",
+      "summary": "CW Realty Group through the entity 1062 Atlantic Member LLC is in contract to pay The post CW Realty in contract to pay undisclosed amount for Crown Heights dev site, plans 99 units appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/tishman-speyer-signs-178-4m-construction-loan-with-nyc-housing-development-corporation-for-development-in-edgemere/",
+      "url": "https://www.pincusco.com/cw-realty-in-contract-to-pay-undisclosed-amount-for-crown-heights-dev-site-plans-99-units/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-07-06T12:21:00.000Z"
+      "published_at": "2026-07-07T11:22:00.000Z"
     },
     {
-      "headline": "New York’s luxury new development market is on fire",
-      "summary": "New York City’s new development market continues to be a tale of two markets. Contracts signed for new condos in Manhattan asking $10 million or more nearly doubled in the second quarter from the same time last year to 38 from 21, marking the second consecutive period where the high-end market made up half of all deals signed in the city, according to Brown Harris Stevens Development Marketing. The 56 contracts signed last quarter marked a record for any period this decade. “The $10 million-plus market…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/06/luxury-market-leads-nycs-new-dev-market-in-second-quarter/",
-      "section": "the_real_deal",
+      "headline": "Elisha Cuthbert finds a buyer for her LA home as she returns to acting following a 4-year hiatus",
+      "summary": "The storybook residence, a traditional home built in 1936, stands just up the hill from Chateau Marmont, the legendary hotel in West Hollywood.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/06/real-estate/elisha-cuthbert-finds-a-buyer-for-her-la-home/",
+      "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-07-06T10:00:00.000Z"
-    },
-    {
-      "headline": "NYC’s top deals: Long Island City warehouse trades for $16M",
-      "summary": "There were 196 transactions totaling $306 million filed in New York City records in the 24 hours before 2:30 p.m. on Thursday, July 3. Commercial: A warehouse in Long Island City at 44-68 Vernon Boulevard sold for $15.5 million, representing the top commercial deal to hit records in the Big Apple. Queenbea 44-68 LLC was the seller. LIC Vernon 45 LLC was the buyer.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/03/new-york-top-real-estate-deals-thursday-july-3/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-07-03T12:00:00.000Z"
-    },
-    {
-      "headline": "Gravesend’s new condo record is courtesy of a home-grown developer",
-      "summary": "An $8 million sale doesn’t typically raise eyebrows in Brooklyn’s Gravesend neighborhood. The enclave, home to a tight-knit Syrian-Jewish community, has become known for its single-family homes that often trade for millions of dollars, as wealthy local families swap expensive homes like trading cards. Last year, Eli Gindi, a member of the Gindi real estate family, sold his 10,000-square-foot home at 2126 East Fourth Street for $32 million to Victor Hakim, setting a borough record.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/02/how-this-developer-sold-an-8m-condo-in-gravesend/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-07-02T19:00:00.000Z"
-    },
-    {
-      "headline": "Long Island man convicted in $4.7M Harlem deed theft scheme",
-      "summary": "A jury found Joseph Makhani guilty of stealing the deeds of two Harlem brownstones with a combined value of nearly $4.7 million, the office of New York Attorney General Letitia James announced on Wednesday. The AG indicted Makhani, 63, twice — in 2021 and 2023 — for deed theft at 107 West 118th Street and 135 West 131st Street. The Kings Point, Long Island resident is now facing a maximum sentence of eight to 25 years in prison.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/02/long-island-man-convicted-in-4-7m-harlem-deed-theft-scheme/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-07-02T18:30:00.000Z"
-    },
-    {
-      "headline": "Nir Meir nears trial for fraud case",
-      "summary": "A judge tentatively set a date for disgraced former HFZ Capital executive Nir Meir to finally go to trial for an alleged $86 million fraud case involving the XI condo project on the High Line. The judge, Meir’s attorney and prosecutors agreed to a trial date in October during a court appearance in New York County criminal court on Wednesday. But the judge, Ann Thompson, agreed to give Meir one last court date later this month ahead of trial.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/02/nir-meir-nears-trial-for-fraud-case/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-07-02T17:30:00.000Z"
-    },
-    {
-      "headline": "Sonder bankruptcy could claim victim in Moinian FiDi debt",
-      "summary": "More than six months later, the demise of short-term rental company Sonder continues to echo through New York real estate. A $131.5 million commercial mortgage-backed securities loan backed by the Moinian Group’s 2 Washington Street in the Financial District was transferred to special servicing, the Commercial Observer reported. The culprit for the transfer to the workout station was cash flow problems, according to Morningstar Credit Analytics.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/02/sonder-bankruptcy-could-claim-victim-in-moinian-fidi-debt/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-07-02T17:30:00.000Z"
+      "published_at": "2026-07-06T18:41:04.000Z"
     },
     {
       "headline": "Quinlan Development files plans for 24-story residential in Fort Greene",
@@ -236,51 +281,6 @@
       "section": "pincusco",
       "retail": false,
       "published_at": "2026-07-06T13:35:00.000Z"
-    },
-    {
-      "headline": "Wharton Properties signs $17M refi with Webster Bank for residential walkup in West Village",
-      "summary": "Wharton Properties through the entity 72 Bedford Street LLC as borrower signed a refi loan The post Wharton Properties signs $17M refi with Webster Bank for residential walkup in West Village appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/wharton-properties-signs-17m-refi-with-webster-bank-for-residential-walkup-in-west-village/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-06T13:15:00.000Z"
-    },
-    {
-      "headline": "Alduwaliya Asset Management signs $100M refi with Citibank for hotel in Garment District",
-      "summary": "Alduwaliya Asset Management through the entity Al Duwaliya Hospitality Company, Inc. as borrower signed a The post Alduwaliya Asset Management signs $100M refi with Citibank for hotel in Garment District appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/alduwaliya-asset-management-signs-100m-refi-with-citibank-for-hotel-in-garment-district/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-06T12:37:00.000Z"
-    },
-    {
-      "headline": "Rama Bassalali affiliate pays $8.4M to Cyprus family for mixed-use in Midtown East",
-      "summary": "Rama Bassalali of RMB Properties as signatory for the entity 663 La LLC paid $8.4 The post Rama Bassalali affiliate pays $8.4M to Cyprus family for mixed-use in Midtown East appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/rama-bassalali-affiliate-pays-8-4m-to-cyprus-family-for-mixed-use-in-midtown-east/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-06T12:33:00.000Z"
-    },
-    {
-      "headline": "A Kazakh ‘prince’ buys one of NJ’s priciest homes of all time — for just $10",
-      "summary": "One of New Jersey’s most expensive homes in history has sold for $10 to the son-in-law of disgraced former Malaysian prime minister Najib Razak, Gimme Shelter can reveal.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/04/real-estate/a-kazakh-prince-buys-one-of-new-jerseys-priciest-homes-of-all-time-for-just-10/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-07-04T21:24:45.000Z"
-    },
-    {
-      "headline": "LA’s Skid Row to change forever as $2B mega project brings 1,500 new homes",
-      "summary": "The tallest building is expected to be 30 stories high.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/02/real-estate/2b-project-along-skid-row-looks-to-transform-las-worst-neighborhood/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-07-02T18:53:52.000Z"
     }
   ]
 }
