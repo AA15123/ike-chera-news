@@ -1,25 +1,33 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-07-08",
-  "generated_at": "2026-07-08T11:51:20.817Z",
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T13:11:24.846Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Luxury Jewelry Brand David Yurman Takes 685 Fifth’s Entire 23K-SF Retail Condo: Luxury jewelry retailer David Yurman has leased the entire retail condominium at 685 Fifth Avenue , just one month after a $160 million loan on the property was transferred to special servicing.\n\nThai Ramen Eatery to Open at Original Site of Danny Meyer’s Union Square Cafe: An Upper East Side Thai ramen joint is taking over a retail space near Union Square famous for being the location for Danny Meyer ’s first restaurant, Commercial Observer has learned.\n\nTarget Inks 135K-SF Lease at Queens’ Rego Park Shopping Center: Attention, Queens shoppers, you’re about to get another Target . The retail giant with over 2,000 stores in the U.S.\n\nDevelopment Firm InvestMates Buys Greenpoint Retail Building for $26M: Development firm Investmates has purchased a single-story retail building in Greenpoint, Brooklyn, Commercial Observer has learned. The company acquired 150 Green Street for approximately $26 million from foreign investors a week after revealing that it landed a $21 million loan from Northwind Group for the.",
-    "cre_daily": "Bass Pro Shops Brings Experiential Retail to San Diego: Bass Pro Shops will anchor Grossmont Center in La Mesa with a 148,000-SF destination store, replacing a former Macy’s. This store marks the retailer’s sixth California location, arriving as San Diego’s retail availability rate drops to a five-year low.\n\nShaver Hall Redefines NYC Food Halls For All-Day Appeal: FB Society opened Shaver Hall, a 35,000 SF food hall in Amazon’s Midtown NYC office, aiming to be an all-day destination. This project features 11 eateries, three restaurants, two bars, and extended hours, blending dining with entertainment and nightlife to boost foot traffic.\n\nJersey Mike’s Aims for $12B IPO, 15,000 Global Locations: Jersey Mike’s plans a public market debut and targets 15,000 stores worldwide, more than quadrupling its current footprint. The chain has entered a 300-store Canadian development deal and detailed a UK/Ireland expansion as it capitalizes on franchisee momentum.\n\nInflation Pushes Back-to-School Shoppers to Discount Retail: Average back-to-school spending is up nearly 12% to $489 per child, outpacing inflation, according to JLL’s 2026 Back-to-School Survey. Dollar stores cracked the top 10 list of most-visited stores for school shoppers, with 90% of parents planning to shop in-store and 77% naming Walmart as their top choice.",
-    "new_york_post": "Mysterious Manhattan building up for sale for first time in more than a decade: RFR developer Aby Rosen, who bought spooky 190 Bowery in a $55 million in 2015, tapped Avison Young’s James Nelson to offer the six-story property with 33,000 square feet of office space.\n\nUptown retail booming on Manhattan’s Second Avenue: The opening of the Q subway line and rezoning a decade ago propelled a residential development frenzy, including at least seven major projects between East 71st and East 86th streets.\n\nBillionaires’ Row tower signs new tenant: The deal for two full floors brings the project to nearly 75% leased less than three years since construction began.",
-    "pincusco": "Swiss Institute pays $5.8M to Taconic, L+M, Goldman for LES retail, was $25M in 2019: The nonprofit art organization the Swiss Institute paid $5.8 million to the partnership of Taconic Partners,.\n\nIyad Hamsho pays $2.8M to Cape Advisors for two retail condos in FiDi: Iyad Hamsho through the entity 30 Warren Holding LLC paid $2.8 million to Cape Advisors.\n\nBlue Sky Builders signs $102M loan with S3 for office-to-resi conversion in Hell’s Kitchen: Hershy Silberstein’s Blue Sky Builders through the entity 311 West Owner LLC as borrower signed.\n\nSonesta International signs $245M refi with Fortress for four hotels in Manhattan: Sonesta International Hotels through the entity Sonesta Benjamin Hotel LLC as borrower signed a refi.",
-    "the_real_deal": "NYC’s top deals: Maspeth warehouse trades for $19M: There were 225 transactions totaling $346 million filed in New York City records in the 24 hours before 2:30 p.m. on Tuesday, July 7.\n\nMichael Shabsels lists Westhampton home for $75K a month: A real estate investor embroiled in a bankruptcy scandal is seeking a tenant for his Westhampton Beach property, listed at $75,000 per month. Michael Shabsels, who, with his brother, David Shabsels, built a now-bankrupt empire of summer camps that stretches up the East Coast, put his home at 275 Main Street on the.\n\nNamdar Group grabs additional financing in Jersey City: The Namdar Group will not be deterred from building in Jersey City, or scoring the requisite financing to do so. Joel Namdar’s company secured $180 million in debt from Affinius Capital for its project at 35 Cottage Street in the Journal Square neighborhood, the Commercial Observer reported.\n\nMeet the developers behind the Pfizer building conversion: New York City turned its eyes towards the former Pfizer building in Midtown East Tuesday morning, but not for the reason the developers would’ve hoped. Reports emerged before 8 a.m."
+    "commercial_observer": "Ideal Marketplace Renews 15K-SF Grocery Store at Chelsea’s 317 Ninth Avenue: Supermarket chain Ideal Marketplace has renewed the lease on its 14,770-square-foot store in Manhattan’s Chelsea neighborhood. The retail deal’s address at 317 Ninth Avenue resides between West 28th and West 29th streets, inside a United States Postal Service (USPS) property that spans the entire city block.\n\nThai Ramen Eatery to Open at Original Site of Danny Meyer’s Union Square Cafe: An Upper East Side Thai ramen joint is taking over a retail space near Union Square famous for being the location for Danny Meyer ’s first restaurant, Commercial Observer has learned.\n\nTarget Inks 135K-SF Lease at Queens’ Rego Park Shopping Center: Attention, Queens shoppers, you’re about to get another Target . The retail giant with over 2,000 stores in the U.S.\n\nIndian Fashion Firm Purple Style Labs Signs 24K-SF Retail Lease at 601 Madison: Luxury fashion house Purple Style Labs has leased a large retail space in Midtown East. The parent company of India-based brands such as Wendell Rodricks and Hemant Trevedi signed a lease for 23,783 square feet at 601 Madison Avenue in the second quarter of 2026, according to a retail report from JLL .",
+    "cre_daily": "Asana, Norges Bank Launch $500M JV for US Retail Assets: Asana Partners and Norges Bank formed a joint venture with $500M in equity to invest in US retail properties. The venture will focus on core and core+ grocery-anchored centers in growth markets, aiming to tap resilient tenant demand.\n\nBass Pro Shops Brings Experiential Retail to San Diego: Bass Pro Shops will anchor Grossmont Center in La Mesa with a 148,000-SF destination store, replacing a former Macy’s. This store marks the retailer’s sixth California location, arriving as San Diego’s retail availability rate drops to a five-year low.\n\nShaver Hall Redefines NYC Food Halls For All-Day Appeal: FB Society opened Shaver Hall, a 35,000 SF food hall in Amazon’s Midtown NYC office, aiming to be an all-day destination. This project features 11 eateries, three restaurants, two bars, and extended hours, blending dining with entertainment and nightlife to boost foot traffic.\n\nJersey Mike’s Aims for $12B IPO, 15,000 Global Locations: Jersey Mike’s plans a public market debut and targets 15,000 stores worldwide, more than quadrupling its current footprint. The chain has entered a 300-store Canadian development deal and detailed a UK/Ireland expansion as it capitalizes on franchisee momentum.",
+    "pincusco": "Fisher Bros., VNO have option to buy 14K sf air rights from St. Bart’s for Park Ave Plaza: Fisher Brothers and Vornado Realty Trust have an option to buy approximately 14,000 square feet.\n\nBD Hotels pays $10M to Pioneer Management for building in Hell’s Kitchen, owns adjacent hotel: BD Hotels through the entity West 42nd Street Developers, LLC paid $10 million to the.\n\nShanyi Shi pays $18.8M to York Studios, Swing Staging for industrial in Sunnyside: Shanyi Shi through the entity Grandview Portfolio Holdings LLC paid $18.8 million to York Studios.\n\nMoshe Drizin partnership signs $55M refi with Chase for 1,321 units in Crown Heights: A Moshe Drizin partnership through the entity Fieldbridge Associates LLC as borrower signed a refi.",
+    "the_real_deal": "Anthropic finalizes Hudson Square 466K sf building lease as it grows in NYC: Anthropic is fully invested in Manhattan’s artificial intelligence office boom, sealing the deal for a full building in Hudson Square. The AI firm is leasing the 16-story building at 330 Hudson Street from AEW Capital Management, the New York Times reported.\n\nNYC’s top construction permits: Week ending July 3, 2026: New Building: The largest new building application filed last week was in Queens. EMP Capital Group plans to construct two buildings at 35-13 Steinway Street and 35-08 41st Street in Long Island City that would span a combined 183,876 square feet.\n\nNYC’s top deals: Maspeth warehouse trades for $19M: There were 225 transactions totaling $346 million filed in New York City records in the 24 hours before 2:30 p.m. on Tuesday, July 7.\n\nAffinius ramping up lending prominence in Garden State: If it’s a day ending in ‘y,’ Affinius Capital is probably doling out a big loan. This time, the recipient was a joint venture of PCCP, Claremont Development and Stanbery Development Group."
   },
   "items": [
     {
-      "headline": "Luxury Jewelry Brand David Yurman Takes 685 Fifth’s Entire 23K-SF Retail Condo",
-      "summary": "Luxury jewelry retailer David Yurman has leased the entire retail condominium at 685 Fifth Avenue , just one month after a $160 million loan on the property was transferred to special servicing. The jewelry brand will open a new 23,000-square-foot David Yurman flagship store at the base of the 29-story Midtown building, according to landlord GGP , the retail subsidiary of Brookfield Corporation .…",
+      "headline": "Ideal Marketplace Renews 15K-SF Grocery Store at Chelsea’s 317 Ninth Avenue",
+      "summary": "Supermarket chain Ideal Marketplace has renewed the lease on its 14,770-square-foot store in Manhattan’s Chelsea neighborhood. The retail deal’s address at 317 Ninth Avenue resides between West 28th and West 29th streets, inside a United States Postal Service (USPS) property that spans the entire city block. USPS, which is actively operating at the connected 341 Ninth Avenue , owns the five-story property.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/06/david-yurman-lease-685-fifth-avenue-retail-condo/",
+      "url": "https://commercialobserver.com/2026/07/ideal-marketplace-lease-renewal-317-ninth-avenue/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-06-24T19:21:33.000Z"
+      "published_at": "2026-07-08T19:45:47.000Z"
+    },
+    {
+      "headline": "Asana, Norges Bank Launch $500M JV for US Retail Assets",
+      "summary": "Asana Partners and Norges Bank formed a joint venture with $500M in equity to invest in US retail properties. The venture will focus on core and core+ grocery-anchored centers in growth markets, aiming to tap resilient tenant demand. This move reflects ongoing investor interest in neighborhood retail as consumer spending remains robust but selective.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/asana-norges-bank-launch-500m-jv-for-us-retail-assets/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-07-09T08:57:34.000Z"
     },
     {
       "headline": "Bass Pro Shops Brings Experiential Retail to San Diego",
@@ -49,13 +57,13 @@
       "published_at": "2026-06-30T20:46:21.000Z"
     },
     {
-      "headline": "Development Firm InvestMates Buys Greenpoint Retail Building for $26M",
-      "summary": "Development firm Investmates has purchased a single-story retail building in Greenpoint, Brooklyn, Commercial Observer has learned. The company acquired 150 Green Street for approximately $26 million from foreign investors a week after revealing that it landed a $21 million loan from Northwind Group for the acquisition. InvestMates plans to build a 73-unit condominium building with ground-floor retail at the location, according to a source with knowledge of the deal.…",
+      "headline": "Indian Fashion Firm Purple Style Labs Signs 24K-SF Retail Lease at 601 Madison",
+      "summary": "Luxury fashion house Purple Style Labs has leased a large retail space in Midtown East. The parent company of India-based brands such as Wendell Rodricks and Hemant Trevedi signed a lease for 23,783 square feet at 601 Madison Avenue in the second quarter of 2026, according to a retail report from JLL . Average asking rent for retail space along that stretch of Madison Avenue was $890 per square foot in the second quarter, according to the report. The length of the lease and the brokers were unclear.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/investmates-buys-150-green-street-greenpoint/",
+      "url": "https://commercialobserver.com/2026/07/purple-style-labs-lease-601-madison-avenue/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-07-07T11:00:26.000Z"
+      "published_at": "2026-07-08T14:02:38.000Z"
     },
     {
       "headline": "Shaver Hall Redefines NYC Food Halls For All-Day Appeal",
@@ -65,6 +73,15 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-07-07T08:29:31.000Z"
+    },
+    {
+      "headline": "Sedano’s Buys Miami-Dade Retail Center Where It Operates a Supermarket",
+      "summary": "Sedano’s Supermarkets purchased one of the retail centers it anchors in Miami-Dade County, property records show. The Florida grocery store chain paid $32 million for a 107,034-square-foot open-air property at 8601 Bird Road , by the intersection with Southwest 87th Avenue, near Tropical Park. Besides the Sedano store, tenants include Denny’s and Office Depot .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/sedanos-miami-bird-road/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-08T18:00:53.000Z"
     },
     {
       "headline": "Jersey Mike’s Aims for $12B IPO, 15,000 Global Locations",
@@ -103,26 +120,44 @@
       "published_at": "2026-06-30T03:47:18.000Z"
     },
     {
-      "headline": "World Cup Tourists Flock to Buc-ee’s, Walmart, and Waffle House",
-      "summary": "International World Cup fans are driving viral buzz around American retail and restaurant chains like Walmart, Buc-ee’s, and Waffle House. The 2026 FIFA World Cup is expected to inject $1.47B into US wholesale and retail sectors, per ICSC’s Commerce + Communities Today. Operators near host cities see a surge in foot traffic and spending as visitors post their ‘very American’ experiences on social media.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/world-cup-tourists-flock-to-buc-ee-s-walmart-and-waffle-house/",
-      "section": "cre_daily",
+      "headline": "Anthropic finalizes Hudson Square 466K sf building lease as it grows in NYC",
+      "summary": "Anthropic is fully invested in Manhattan’s artificial intelligence office boom, sealing the deal for a full building in Hudson Square. The AI firm is leasing the 16-story building at 330 Hudson Street from AEW Capital Management, the New York Times reported. Details about the lease, including asking rent and broker involvement, were not disclosed. It was reported back in April that the company behind Claude was closing in on a deal to lease the 466,000-square-foot building.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/08/anthropic-finalizes-hudson-square-lease-as-it-grows-in-nyc/",
+      "section": "the_real_deal",
       "retail": true,
-      "published_at": "2026-06-30T03:31:46.000Z"
+      "published_at": "2026-07-08T20:00:00.000Z"
     },
     {
-      "headline": "Mysterious Manhattan building up for sale for first time in more than a decade",
-      "summary": "RFR developer Aby Rosen, who bought spooky 190 Bowery in a $55 million in 2015, tapped Avison Young’s James Nelson to offer the six-story property with 33,000 square feet of office space.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/05/business/mysterious-nyc-building-up-for-sale-for-first-time-in-10-years/",
-      "section": "new_york_post",
+      "headline": "Ralph Lauren Expands to 280K SF at RXR’s Starrett-Lehigh Building",
+      "summary": "Iconic fashion brand Ralph Lauren has tacked on 22,000 square feet to its already giant office footprint in Manhattan’s Chelsea neighborhood, Commercial Observer has learned. Ralph Lauren is expanding to 280,000 square feet at RXR ’s Starrett-Lehigh Building , also known as 601 West 26th Street . The expanded footprint will give the luxury brand access to the second-floor mezzanine in addition to its existing offices on the fifth, sixth and seventh floors.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/ralph-lauren-lease-expansion-rxr-starrett-lehigh-building/",
+      "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-07-05T18:24:00.000Z"
+      "published_at": "2026-07-08T18:39:36.000Z"
+    },
+    {
+      "headline": "SDC Capital Partners Inks 23K-SF Lease at Savanna’s 799 Broadway",
+      "summary": "SDC Capital Partners has signed a new office lease just south of Manhattan’s Union Square , Commercial Observer has learned. The global digital infrastructure investment firm is taking 22,531 square feet of office space at Savanna ’s 799 Broadway , according to a source with knowledge of the deal. The lease seems to represent a minor relocation for SDC, which lists its current offices a block north at 817 Broadway .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/sdc-capital-partners-lease-savanna-799-broadway/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-08T16:17:56.000Z"
+    },
+    {
+      "headline": "NYC’s top construction permits: Week ending July 3, 2026",
+      "summary": "New Building: The largest new building application filed last week was in Queens. EMP Capital Group plans to construct two buildings at 35-13 Steinway Street and 35-08 41st Street in Long Island City that would span a combined 183,876 square feet. The Steinway Street building would stand 19 stories tall and house 99 apartments; the other property would stand 26 stories tall and have 77 units. The project’s architect is Ralph Kowalcyzk.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/08/new-york-citys-top-construction-permits-july-3-2026/",
+      "section": "the_real_deal",
+      "retail": true,
+      "published_at": "2026-07-08T12:00:00.000Z"
     },
     {
       "headline": "NYC’s top deals: Maspeth warehouse trades for $19M",
-      "summary": "There were 225 transactions totaling $346 million filed in New York City records in the 24 hours before 2:30 p.m. on Tuesday, July 7. Commercial: The priciest commercial deal to hit records was in Queens. In Maspeth, a warehouse at 34-02 Laurel Hill Boulevard sold for $18.8 million. Patricia York and John P. Pantanelli were the sellers; Grandview Portfolio Holdings LLC was the buyer. The property spans about 43,200 square feet. Residential: Chelsea had the most expensive recorded home sale in the city.…",
+      "summary": "There were 225 transactions totaling $346 million filed in New York City records in the 24 hours before 2:30 p.m. on Tuesday, July 7. Commercial: The priciest commercial deal to hit records was in Queens, where a warehouse at 34-02 Laurel Hill Boulevard in Maspeth sold for $18.8 million. Patricia York and John P. Pantanelli were the sellers; Grandview Portfolio Holdings LLC was the buyer. The property spans about 43,200 square feet. Residential: Chelsea had the most expensive recorded home sale in the city.…",
       "source": "The Real Deal",
       "url": "https://therealdeal.com/new-york/2026/07/08/new-york-top-real-estate-deals-tuesday-july-7/",
       "section": "the_real_deal",
@@ -130,58 +165,13 @@
       "published_at": "2026-07-08T11:00:00.000Z"
     },
     {
-      "headline": "Law Firm Loeb & Loeb Expands to 179K SF at Rudin’s 345 Park Avenue",
-      "summary": "A global law firm is growing its office footprint to 178,959 square feet in Midtown East. Loeb & Loeb , which has more than 450 attorneys across the U.S. and Asia, signed a 16-year extension for its existing 160,051-square-foot offices on the 18th through 21st floors of Rudin ’s 345 Park Avenue and added 18,908 square feet on part of the 13th floor, according to the landlord. Loeb & Loeb has leased its New York City headquarters at the building since 1993.…",
+      "headline": "Chinese Camera Company Insta360 to Open Store in Times Square",
+      "summary": "Insta360 , a China-based global optics and camera company, has signed its first U.S. lease for a 1,100-square-foot store at 1515 Broadway in Manhattan’s Times Square , Commercial Observer has learned. The world’s No. 1 360-degree camera brand, which is a direct competitor to the popular GoPro brand, has been used for purposes ranging from undersea exploring to documenting sustainable outer space adventures.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/loeb-loeb-lease-expansion-rudin-345-park-avenue/",
+      "url": "https://commercialobserver.com/2026/07/china-camera-insta360-lease-times-square/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-07-06T20:18:56.000Z"
-    },
-    {
-      "headline": "Uptown retail booming on Manhattan’s Second Avenue",
-      "summary": "The opening of the Q subway line and rezoning a decade ago propelled a residential development frenzy, including at least seven major projects between East 71st and East 86th streets.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/05/business/uptown-second-avenue-retail-booming/",
-      "section": "new_york_post",
-      "retail": true,
-      "published_at": "2026-07-05T19:20:10.000Z"
-    },
-    {
-      "headline": "Billionaires’ Row tower signs new tenant",
-      "summary": "The deal for two full floors brings the project to nearly 75% leased less than three years since construction began.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/05/business/billionaires-row-tower-signs-new-tenant/",
-      "section": "new_york_post",
-      "retail": true,
-      "published_at": "2026-07-05T19:07:19.000Z"
-    },
-    {
-      "headline": "Michael Shabsels lists Westhampton home for $75K a month",
-      "summary": "A real estate investor embroiled in a bankruptcy scandal is seeking a tenant for his Westhampton Beach property, listed at $75,000 per month. Michael Shabsels, who, with his brother, David Shabsels, built a now-bankrupt empire of summer camps that stretches up the East Coast, put his home at 275 Main Street on the market for rent at the end of June, according to a Zillow listing. Among the camps owned by the Shabsels are the popular Mohawk Day Camp in New York state and Camp Blue Star in North Carolina.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/07/michael-shabsels-lists-westhampton-home-for-75k-a-month/",
-      "section": "the_real_deal",
-      "retail": true,
-      "published_at": "2026-07-07T18:30:00.000Z"
-    },
-    {
-      "headline": "Environmental Consulting Firm Roux Takes 5K SF at Circle Realty’s 14 Penn Plaza",
-      "summary": "Environmental consulting and compliance firm Roux is relocating within Midtown. The company signed a lease spanning 5,250 square feet for a term of 10 years and five months at Circle Realty ’s 225 West 34th Street , also known as 14 Penn Plaza , according to tenant broker Lee & Associates NYC . Asking rent in the 22-story Art Deco building was $65 per square foot. Roux is relocating from 252 West 37th Street three blocks away.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/roux-lease-circle-realty-14-penn-plaza/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-07T15:50:18.000Z"
-    },
-    {
-      "headline": "Former Downtown Brooklyn Macy’s Slated for Dramatic Retail Makeover",
-      "summary": "The 440,000-square-foot space at Downtown Brooklyn’s 422 Fulton Street — the largest block of retail space currently available in New York City and the former site of a Macy’s department store — will become BKX, a five-floor retail and amusement destination that’s being described by developers as a “next-generation cultural and commercial hub,” Commercial Observer has learned.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/downtown-brooklyn-macys-new-leasing-2026/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-06T20:28:06.000Z"
+      "published_at": "2026-07-08T19:11:26.000Z"
     },
     {
       "headline": "Fitness Factory to Open 25K-SF Gym at 162-11 Jamaica Avenue in Queens",
@@ -193,94 +183,103 @@
       "published_at": "2026-06-25T13:40:10.000Z"
     },
     {
-      "headline": "Swiss Institute pays $5.8M to Taconic, L+M, Goldman for LES retail, was $25M in 2019",
-      "summary": "The nonprofit art organization the Swiss Institute paid $5.8 million to the partnership of Taconic Partners, The post Swiss Institute pays $5.8M to Taconic, L+M, Goldman for LES retail, was $25M in 2019 appeared first on PincusCo .",
+      "headline": "Fisher Bros., VNO have option to buy 14K sf air rights from St. Bart’s for Park Ave Plaza",
+      "summary": "Fisher Brothers and Vornado Realty Trust have an option to buy approximately 14,000 square feet The post Fisher Bros., VNO have option to buy 14K sf air rights from St. Bart’s for Park Ave Plaza appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/swiss-institute-pays-5-8m-to-taconic-lm-goldman-for-retail-in-lower-east-side/",
+      "url": "https://www.pincusco.com/fisher-bros-vno-have-option-to-buy-14k-sf-air-rights-from-st-barts-for-park-ave-plaza/",
       "section": "pincusco",
       "retail": true,
-      "published_at": "2026-07-08T08:43:17.000Z"
+      "published_at": "2026-07-09T10:03:10.000Z"
     },
     {
-      "headline": "Iyad Hamsho pays $2.8M to Cape Advisors for two retail condos in FiDi",
-      "summary": "Iyad Hamsho through the entity 30 Warren Holding LLC paid $2.8 million to Cape Advisors The post Iyad Hamsho pays $2.8M to Cape Advisors for two retail condos in FiDi appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/iyad-hamsho-pays-2-8m-to-cape-advisors-for-two-retail-condos-in-fidi/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-07-07T14:05:00.000Z"
-    },
-    {
-      "headline": "Namdar Group grabs additional financing in Jersey City",
-      "summary": "The Namdar Group will not be deterred from building in Jersey City, or scoring the requisite financing to do so. Joel Namdar’s company secured $180 million in debt from Affinius Capital for its project at 35 Cottage Street in the Journal Square neighborhood, the Commercial Observer reported. The project was previously the recipient of a $152 million loan. The refinancing will support the 27-story, 564-unit luxury multifamily property going up a short walk from the local PATH station.…",
+      "headline": "Affinius ramping up lending prominence in Garden State",
+      "summary": "If it’s a day ending in ‘y,’ Affinius Capital is probably doling out a big loan. This time, the recipient was a joint venture of PCCP, Claremont Development and Stanbery Development Group. The partners scored a $188 million loan to refinance the District 15Fifteen complex in Parsippany, New Jersey, the Commercial Observer reported. The property at 1515 Route 10 East in the affluent suburb opened last month. It includes three buildings, stretching along 13 acres.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/tristate/2026/07/07/namdar-group-grabs-additional-financing-in-jersey-city/",
+      "url": "https://therealdeal.com/new-york/tristate/2026/07/08/affinius-ramping-up-lending-prominence-in-garden-state/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-07-07T17:04:06.000Z"
+      "published_at": "2026-07-08T21:00:00.000Z"
     },
     {
-      "headline": "Blue Sky Builders signs $102M loan with S3 for office-to-resi conversion in Hell’s Kitchen",
-      "summary": "Hershy Silberstein’s Blue Sky Builders through the entity 311 West Owner LLC as borrower signed The post Blue Sky Builders signs $102M loan with S3 for office-to-resi conversion in Hell’s Kitchen appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/blue-sky-builders-signs-102m-loan-with-s3-for-office-to-resi-conversion-in-hells-kitchen/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-07T13:52:00.000Z"
-    },
-    {
-      "headline": "Meet the developers behind the Pfizer building conversion",
-      "summary": "New York City turned its eyes towards the former Pfizer building in Midtown East Tuesday morning, but not for the reason the developers would’ve hoped. Reports emerged before 8 a.m. of debris falling from the construction site at 235 East 42nd Street, arguably the country’s most notable office-to-residential conversion post-pandemic to unfold. As of midday, concerns about the safety of the building remain as columns within the building buckle, forcing evacuations and street closures in and around the property.…",
+      "headline": "NYC’s top deals: Trio of Bronx apartment buildings trade for $17M",
+      "summary": "There were 254 transactions totaling $330 million filed in New York City records in the 24 hours before 4 p.m. on Wednesday, July 8. Residential The Upper West Side had the top home sale to hit records in the city. A townhouse at 69 West 83rd Street traded for $8.4 million. Karl Dasher was the seller. Andrew and Mylene Vaz were the buyers. The 7,300 square foot home has five bedrooms and over four and a half bathrooms.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/07/meet-the-developers-behind-the-pfizer-building-conversion/",
+      "url": "https://therealdeal.com/new-york/2026/07/09/new-york-top-real-estate-deals-wednesday-july-8/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-07-07T21:05:51.000Z"
+      "published_at": "2026-07-09T11:00:00.000Z"
     },
     {
-      "headline": "Buckling ex-Pfizer HQ hit with multiple DOB violations last year",
-      "summary": "The former Pfizer headquarters at 235 East 42nd Street in Midtown Manhattan, where structural columns buckled on its 21st floor this morning leading to concerns of collapse, generated seven construction safety violations in 2025. The city’s largest planned office-to-residential conversion, led by David Werner and Nathan Berman’s Metro Loft Management and architect Gensler, had multiple Department of Buildings violations last year preceding today’s evacuation of workers. “As we await the arrival of materials…",
+      "headline": "NY Dirt: Mamdani remains bullish on office-to-resi",
+      "summary": "Office-to-residential conversions haven’t fallen out of favor with the mayor. Buckling columns at the former Pfizer headquarters in Midtown weren’t enough to deter the mayor’s pursuit of office-to-residential conversions as part of his broader housing plan for 200,000 units over the next decade.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/07/pfizer-building-conversion-hit-with-dob-violations/",
+      "url": "https://therealdeal.com/new-york/2026/07/09/mamdani-remains-bullish-on-office-to-resi-conversions/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-07-07T18:27:40.000Z"
+      "published_at": "2026-07-09T11:30:00.000Z"
     },
     {
-      "headline": "Prana Investments’ NYC multifamily portfolio faces 14 foreclosure lawsuits",
-      "summary": "Prana Investments‘ bet on rent-stabilized properties in New York City is turning into a disaster. The San Francisco-based firm faces at least 14 foreclosure lawsuits against its 550-unit multifamily portfolio in the Bronx and Upper Manhattan. Three lenders filed lawsuits in New York State courts in the past four months, alleging that Prana’s entities owe over $56.6 million in unpaid loans and interest. Peapack Private Bank and Trust initiated the most recent foreclosure actions against Prana.…",
+      "headline": "Engineering failure likely behind Pfizer project scare",
+      "summary": "Major renovations on aging buildings require delicate structural work, particularly when developers add floors, cantilever new sections or redistribute loads through an existing frame. Structural engineers say those projects demand extensive analysis to ensure existing structures can safely support new weight and altered load paths. When something is overlooked in the design, engineering or construction process, the consequences can be severe. “There’s a lot of structural analysis that has to go on.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/07/prana-investments-faces-14-foreclosure-suits/",
+      "url": "https://therealdeal.com/new-york/2026/07/08/engineering-failure-likely-behind-pfizer-project-scare/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-07-07T16:00:00.000Z"
+      "published_at": "2026-07-08T18:00:00.000Z"
     },
     {
-      "headline": "Sonesta International signs $245M refi with Fortress for four hotels in Manhattan",
-      "summary": "Sonesta International Hotels through the entity Sonesta Benjamin Hotel LLC as borrower signed a refi The post Sonesta International signs $245M refi with Fortress for four hotels in Manhattan appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/sonesta-international-signs-245m-refi-with-fortress-for-four-hotels-in-manhattan/",
-      "section": "pincusco",
+      "headline": "After collapse scare, Pfizer building stabilization efforts continue",
+      "summary": "The situation at the old Pfizer building in Midtown East appeared to be calming down on Wednesday morning as officials began reopening streets. People were allowed back into nearby buildings on Wednesday morning as the so-called “frozen zone” around 235 East 42nd Street shrank, Bloomberg reported. Fire Department units were also leaving the scene, according to the publication, as a source said the building’s threat of collapse had waned.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/08/stabilization-efforts-of-compromised-pfizer-building-persist/",
+      "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-07-07T12:05:00.000Z"
+      "published_at": "2026-07-08T15:39:48.000Z"
     },
     {
-      "headline": "Simon Elyakim pays $3.2M for mixed-use in Bushwick",
-      "summary": "Simon Elyakim through the entity Broadway Lawton LLC paid $3.2 million to Alan Zeitler through The post Simon Elyakim pays $3.2M for mixed-use in Bushwick appeared first on PincusCo .",
+      "headline": "BD Hotels pays $10M to Pioneer Management for building in Hell’s Kitchen, owns adjacent hotel",
+      "summary": "BD Hotels through the entity West 42nd Street Developers, LLC paid $10 million to the The post BD Hotels pays $10M to Pioneer Management for building in Hell’s Kitchen, owns adjacent hotel appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/simon-elyakim-pays-3-2m-for-mixed-use-in-bushwick/",
+      "url": "https://www.pincusco.com/bd-hotels-pays-10m-to-pioneer-management-for-building-in-hells-kitchen/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-07-07T13:57:00.000Z"
+      "published_at": "2026-07-08T13:53:00.000Z"
     },
     {
-      "headline": "Yisroel Herzka signs for $85M refi with Welltower Inc. for SNF in Bushwick",
-      "summary": "Yisroel Herzka signed for the entity BV SNF Realty LLC as borrower, for a refinance The post Yisroel Herzka signs for $85M refi with Welltower Inc. for SNF in Bushwick appeared first on PincusCo .",
+      "headline": "Shanyi Shi pays $18.8M to York Studios, Swing Staging for industrial in Sunnyside",
+      "summary": "Shanyi Shi through the entity Grandview Portfolio Holdings LLC paid $18.8 million to York Studios The post Shanyi Shi pays $18.8M to York Studios, Swing Staging for industrial in Sunnyside appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/yisroel-herzka-signs-for-85m-refi-with-welltower-inc-for-snf-in-bushwick/",
+      "url": "https://www.pincusco.com/shanyi-shi-pays-18-8m-to-york-studios-swing-staging-for-industrial-in-sunnyside/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-07-07T12:47:00.000Z"
+      "published_at": "2026-07-08T13:47:00.000Z"
+    },
+    {
+      "headline": "Moshe Drizin partnership signs $55M refi with Chase for 1,321 units in Crown Heights",
+      "summary": "A Moshe Drizin partnership through the entity Fieldbridge Associates LLC as borrower signed a refi The post Moshe Drizin partnership signs $55M refi with Chase for 1,321 units in Crown Heights appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/moshe-drizin-partnership-signs-55m-refi-with-chase-for-1321-units-in-crown-heights/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-07-08T13:29:00.000Z"
+    },
+    {
+      "headline": "Related Companies signs $90M refi with Wells Fargo for five properties in Far Rockaway",
+      "summary": "Related Companies through the entity Greenport Preservation L.P. as borrower signed a refi loan with The post Related Companies signs $90M refi with Wells Fargo for five properties in Far Rockaway appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/related-companies-signs-90m-refi-with-wells-fargo-for-five-properties-in-far-rockaway/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-07-08T13:25:00.000Z"
+    },
+    {
+      "headline": "Watermark Capital signs $105M refi with Walker & Dunlop for new 184-unit rental in LIC",
+      "summary": "Watermark Capital Group through the entity The Pecora LLC as borrower signed a refi loan The post Watermark Capital signs $105M refi with Walker & Dunlop for new 184-unit rental in LIC appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/watermark-capital-signs-105m-refi-with-walker-dunlop-for-new-184-unit-rental-in-lic/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-07-08T13:20:00.000Z"
     }
   ]
 }
