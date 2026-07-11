@@ -1,15 +1,15 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-07-10",
-  "generated_at": "2026-07-10T12:30:51.141Z",
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T11:12:41.481Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Ideal Marketplace Renews 15K-SF Grocery Store at Chelsea’s 317 Ninth Avenue: Supermarket chain Ideal Marketplace has renewed the lease on its 14,770-square-foot store in Manhattan’s Chelsea neighborhood. The retail deal’s address at 317 Ninth Avenue resides between West 28th and West 29th streets, inside a United States Postal Service (USPS) property that spans the entire city block.\n\nThai Ramen Eatery to Open at Original Site of Danny Meyer’s Union Square Cafe: An Upper East Side Thai ramen joint is taking over a retail space near Union Square famous for being the location for Danny Meyer ’s first restaurant, Commercial Observer has learned.\n\nTarget Inks 135K-SF Lease at Queens’ Rego Park Shopping Center: Attention, Queens shoppers, you’re about to get another Target . The retail giant with over 2,000 stores in the U.S.\n\nIndian Fashion Firm Purple Style Labs Signs 24K-SF Retail Lease at 601 Madison: Luxury fashion house Purple Style Labs has leased a large retail space in Midtown East. The parent company of India-based brands such as Wendell Rodricks and Hemant Trevedi signed a lease for 23,783 square feet at 601 Madison Avenue in the second quarter of 2026, according to a retail report from JLL .",
+    "commercial_observer": "Ideal Marketplace Renews 15K-SF Grocery Store at Chelsea’s 317 Ninth Avenue: Supermarket chain Ideal Marketplace has renewed the lease on its 14,770-square-foot store in Manhattan’s Chelsea neighborhood. The retail deal’s address at 317 Ninth Avenue resides between West 28th and West 29th streets, inside a United States Postal Service (USPS) property that spans the entire city block.\n\nTarget Inks 135K-SF Lease at Queens’ Rego Park Shopping Center: Attention, Queens shoppers, you’re about to get another Target . The retail giant with over 2,000 stores in the U.S.\n\nIndian Fashion Firm Purple Style Labs Signs 24K-SF Retail Lease at 601 Madison: Luxury fashion house Purple Style Labs has leased a large retail space in Midtown East. The parent company of India-based brands such as Wendell Rodricks and Hemant Trevedi signed a lease for 23,783 square feet at 601 Madison Avenue in the second quarter of 2026, according to a retail report from JLL .\n\nRivani Sells Wynwood Jungle Retail Building in Miami for $26M: Prominent real estate investor Robert Rivani has sold the Wynwood Jungle retail building in Miami for $25.7 million, property records show. Tabani Group purchased the 39,000-square-foot property between 75 and 43 Northwest 23rd Street , west of North Miami Avenue.",
     "cre_daily": "Asana, Norges Bank Launch $500M JV for US Retail Assets: Asana Partners and Norges Bank formed a joint venture with $500M in equity to invest in US retail properties. The venture will focus on core and core+ grocery-anchored centers in growth markets, aiming to tap resilient tenant demand.\n\nBass Pro Shops Brings Experiential Retail to San Diego: Bass Pro Shops will anchor Grossmont Center in La Mesa with a 148,000-SF destination store, replacing a former Macy’s. This store marks the retailer’s sixth California location, arriving as San Diego’s retail availability rate drops to a five-year low.\n\nShaver Hall Redefines NYC Food Halls For All-Day Appeal: FB Society opened Shaver Hall, a 35,000 SF food hall in Amazon’s Midtown NYC office, aiming to be an all-day destination. This project features 11 eateries, three restaurants, two bars, and extended hours, blending dining with entertainment and nightlife to boost foot traffic.\n\nJersey Mike’s Aims for $12B IPO, 15,000 Global Locations: Jersey Mike’s plans a public market debut and targets 15,000 stores worldwide, more than quadrupling its current footprint. The chain has entered a 300-store Canadian development deal and detailed a UK/Ireland expansion as it capitalizes on franchisee momentum.",
-    "new_york_post": "Billionaires’ Row tower at risk of ‘raining chunks of concrete’ on NYC will begin facade repairs this month: As issues at the building have been made public for years, a massive apartment at 432 Park Ave. on Billionaires' Row is in contract for far less than ask.\n\nSerial killer Joel Rifkin’s LI murder home finds new owners after 3 months for sale: ‘They’re so excited’: The East Meadow house where notorious serial killer Joel Rifkin slaughtered several of his victims is under contract.\n\nKelly Slater’s luxury Texas surf park hit with $16M wipeout as construction stalls: Slater had personally hyped the project in a December video pitching it as the next step in his manmade-wave empire.",
-    "pincusco": "Global Asset Properties pays $17M to HUBB NYC for retail in Midtown South: Global Asset Properties through the entity Empire State Retail LLC paid $17 million to HUBB.\n\nNew Empire Corp. signs $52.2M construction loan with Madison for 131-unit condo in Flatbush: New Empire Corp. through the entity Nere Flatbush Management LLC as borrower signed a new.\n\nMDL RE Holdings signs $30M loan with TD Bank for 4 properties in NYC: MDL RE Holdings through the entity 130 7th Avenue Realty LLC (and others) as borrower.\n\nLeonard Rosenberg files plans for 39 units in Fordham Heights: Leonard Rosenberg submitted a new building construction project for a 39-unit, 22,910-square-foot residential (R-2) building.",
-    "the_real_deal": "NY Dirt: Hit the gym: New Yorkers are ready to get healthy. Retailers are willing to bet on it.\n\nAnthropic finalizes Hudson Square 466K sf building lease as it grows in NYC: Anthropic is fully invested in Manhattan’s artificial intelligence office boom, sealing the deal for a full building in Hudson Square. The AI firm is leasing the 16-story building at 330 Hudson Street from AEW Capital Management, the New York Times reported.\n\nNYC’s top construction permits: Week ending July 3, 2026: New Building: The largest new building application filed last week was in Queens. EMP Capital Group plans to construct two buildings at 35-13 Steinway Street and 35-08 41st Street in Long Island City that would span a combined 183,876 square feet.\n\nAffinius ramping up lending prominence in Garden State: If it’s a day ending in ‘y,’ Affinius Capital is probably doling out a big loan. This time, the recipient was a joint venture of PCCP, Claremont Development and Stanbery Development Group."
+    "new_york_post": "See the state with the largest homes for sale — and which city has the most affordable: Study: A rural, western mountain state has an average home size of 2,627 square feet, according to a NetCredit analysis of 250,000 Zillow listings.\n\nIncredible SF cliffside complex once home to Frida Kahlo hits market for $8M: An apartment building clinging to the side of a San Francisco cliff is looking for a buyer, and its $8 million price tag comes with panoramic bay views, a famously quirky layout and a surprising artistic pedigree.\n\nBillionaires’ Row tower at risk of ‘raining chunks of concrete’ on NYC will begin facade repairs this month: As issues at the building have been made public for years, a massive apartment at 432 Park Ave. on Billionaires' Row is in contract for far less than ask.",
+    "pincusco": "Gazelli Art House pays $7.5M to Marlborough Gallery for two retail condos in Chelsea: Gazelli Art House through the entity MRCRI Prop LLC paid $7.5 million to Marlborough Gallery.\n\nNuveen pays $57M to Metropolitan Realty, Gary Podell for 119-unit portfolio in Crown Heights: Nuveen through the entity Union Street Housing Development Fund Corporation paid $57 million to Metropolitan.\n\nSelfhelp Realty Group, NRP Group sign $139.5M construction loan in Morrisania: Selfhelp Realty Group and NRP Group through the entity Sol On Park Housing Development Fund.\n\nWestbridge Realty Group files plans for 35 units in Wakefield: Westbridge Realty Group submitted a new building construction project for a 35-unit, 20,969-square-foot residential (R-2).",
+    "the_real_deal": "NY Dirt: Hit the gym: New Yorkers are ready to get healthy. Retailers are willing to bet on it.\n\nSmoking gun: Former state official reveals secret decision that kneecapped landlords: In 2023, under pressure from lawmakers, tenant organizers and New York Attorney General Letitia James, state housing regulators secretly changed a policy to make it harder to remove buildings from rent stabilization.\n\nAndrew Kimball to oversee NYU real estate portfolio: Andrew Kimball just landed a new job. New York University hired the former Economic Development Corporation president and CEO to oversee the school’s global real estate portfolio, Crain’s New York Business reported.\n\nRockpoint, Urby team up to build in booming Jersey City: A hot new bombshell has entered the Jersey City development villa. Boston-based Rockpoint and local developer Urby formed a joint venture for a massive development on the city’s waterfront, the Commercial Observer reported."
   },
   "items": [
     {
@@ -38,15 +38,6 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-07-08T08:33:14.000Z"
-    },
-    {
-      "headline": "Thai Ramen Eatery to Open at Original Site of Danny Meyer’s Union Square Cafe",
-      "summary": "An Upper East Side Thai ramen joint is taking over a retail space near Union Square famous for being the location for Danny Meyer ’s first restaurant, Commercial Observer has learned. Bua Thai Ramen & Robata Grill has signed a 4,840-square-foot lease at David Ellis Real Estate ’s 21 East 16th Street in an expansion of its current presence at 1611 Second Avenue , according to landlord broker Retail by MONA . The lease is for 10 years and asking rent for the space was $250 per square foot, the brokerage said.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/06/bua-thai-ramen-robata-grill-lease-21-east-16th-street/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-06-26T13:40:31.000Z"
     },
     {
       "headline": "Target Inks 135K-SF Lease at Queens’ Rego Park Shopping Center",
@@ -103,6 +94,15 @@
       "published_at": "2026-07-07T08:08:46.000Z"
     },
     {
+      "headline": "Event Company Glasshouses Inks 70K SF at 175 Greenwich Street",
+      "summary": "Event Company Glasshouses is establishing its flagship Lower Manhattan venue, Glasshouse Downtown , at the base of 3 World Trade Center . The company announced Thursday the execution of a long-term, 70,000-square-foot location at 175 Greenwich Street . The address is within the Westfield World Trade Center complex, owned by Paris-based developer and operator Unibail-Rodamco-Westfield (URW).…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/glasshouses-inks-70k-sf-lease-175-greenwich-street/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-10T14:54:58.000Z"
+    },
+    {
       "headline": "Dim Sum Restaurant Breeze to Open at 590 Fulton Street in Downtown Brooklyn",
       "summary": "Popular Sichuan and dim sum restaurant Breeze is set to open a second Brooklyn location this fall. Breeze, also known for its curated wine and cocktail program, signed a 15-year, 3,569-square-foot lease at the base of the Gotham Organization ’s 52-story, 586-unit residential building at 590 Fulton Street in Downtown Brooklyn, broker Lee & Associates NYC announced Thursday. The restaurant leased 2,790 square feet on the ground floor and 779 square feet on the lower level of the property.…",
       "source": "Commercial Observer",
@@ -119,15 +119,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-07-09T14:25:59.000Z"
-    },
-    {
-      "headline": "Korean Chef Jiho Kim to Open Flagship Restaurant at 21 West 17th Street",
-      "summary": "Korean chef Jiho Kim has leased 3,120 square feet at 21 West 17th Street in Manhattan’s Flatiron District for his namesake flagship restaurant, Jiho . The New American eatery with a Korean-inspired menu will take up 1,868 square feet on the ground floor and 1,252 square feet of basement space at the Flatiron location between Fifth Avenue and Avenue of the Americas, Commercial Observer has learned. Asking rent was $120 per square foot.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/06/jiho-kim-restaurant-lease-21-west-17th-street/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-06-26T17:40:41.000Z"
     },
     {
       "headline": "Inflation Pushes Back-to-School Shoppers to Discount Retail",
@@ -166,40 +157,22 @@
       "published_at": "2026-07-09T19:44:45.000Z"
     },
     {
-      "headline": "Lighting Designer Stickbulb Moves to 27K SF at Brooklyn’s MADE Bush Terminal",
-      "summary": "The New York City Economic Development Corporation (NYCEDC) is all aglow about its newest tenant coming to Brooklyn’s MADE Bush Terminal . Luxury lighting manufacturer Stickbulb has signed a 27,300-square-foot lease across the Sunset Park manufacturing hub’s Building A and Building B , both located at 13 42nd Street , Commercial Observer has learned. The lease is for more than five years.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/stickbulb-lease-brooklyn-made-bush-terminal/",
-      "section": "commercial_observer",
+      "headline": "See the state with the largest homes for sale — and which city has the most affordable: Study",
+      "summary": "A rural, western mountain state has an average home size of 2,627 square feet, according to a NetCredit analysis of 250,000 Zillow listings.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/10/real-estate/see-the-state-with-the-largest-homes-for-sale/",
+      "section": "new_york_post",
       "retail": true,
-      "published_at": "2026-07-09T14:00:07.000Z"
+      "published_at": "2026-07-10T19:27:41.000Z"
     },
     {
-      "headline": "Anthropic finalizes Hudson Square 466K sf building lease as it grows in NYC",
-      "summary": "Anthropic is fully invested in Manhattan’s artificial intelligence office boom, sealing the deal for a full building in Hudson Square. The AI firm is leasing the 16-story building at 330 Hudson Street from AEW Capital Management, the New York Times reported. Details about the lease, including asking rent and broker involvement, were not disclosed. It was reported back in April that the company behind Claude was closing in on a deal to lease the 466,000-square-foot building.…",
+      "headline": "Smoking gun: Former state official reveals secret decision that kneecapped landlords",
+      "summary": "In 2023, under pressure from lawmakers, tenant organizers and New York Attorney General Letitia James, state housing regulators secretly changed a policy to make it harder to remove buildings from rent stabilization. No public discussion was held, nor was any notice given to the real estate industry, according to a bombshell statement by Woody Pascal. At the time he was in charge of substantial rehabilitations — the state program being kneecapped — and had been since 2010.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/08/anthropic-finalizes-hudson-square-lease-as-it-grows-in-nyc/",
+      "url": "https://therealdeal.com/new-york/2026/07/09/ex-housing-officials-bombshell-statement-rocks-state-agency/",
       "section": "the_real_deal",
       "retail": true,
-      "published_at": "2026-07-08T20:00:00.000Z"
-    },
-    {
-      "headline": "NYC’s top construction permits: Week ending July 3, 2026",
-      "summary": "New Building: The largest new building application filed last week was in Queens. EMP Capital Group plans to construct two buildings at 35-13 Steinway Street and 35-08 41st Street in Long Island City that would span a combined 183,876 square feet. The Steinway Street building would stand 19 stories tall and house 99 apartments; the other property would stand 26 stories tall and have 77 units. The project’s architect is Ralph Kowalcyzk.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/08/new-york-citys-top-construction-permits-july-3-2026/",
-      "section": "the_real_deal",
-      "retail": true,
-      "published_at": "2026-07-08T12:00:00.000Z"
-    },
-    {
-      "headline": "Global Asset Properties pays $17M to HUBB NYC for retail in Midtown South",
-      "summary": "Global Asset Properties through the entity Empire State Retail LLC paid $17 million to HUBB The post Global Asset Properties pays $17M to HUBB NYC for retail in Midtown South appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/global-asset-properties-pays-17m-to-hubb-nyc-for-retail-in-park-avenue-south/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-07-09T18:46:48.000Z"
+      "published_at": "2026-07-09T22:00:00.000Z"
     },
     {
       "headline": "Chinese Camera Company Insta360 to Open Store in Times Square",
@@ -211,22 +184,58 @@
       "published_at": "2026-07-08T19:11:26.000Z"
     },
     {
-      "headline": "New Empire Corp. signs $52.2M construction loan with Madison for 131-unit condo in Flatbush",
-      "summary": "New Empire Corp. through the entity Nere Flatbush Management LLC as borrower signed a new The post New Empire Corp. signs $52.2M construction loan with Madison for 131-unit condo in Flatbush appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/new-empire-corp-signs-52-2m-construction-loan-with-madison-for-131-unit-condo-in-flatbush/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-09T15:44:00.000Z"
+      "headline": "Incredible SF cliffside complex once home to Frida Kahlo hits market for $8M",
+      "summary": "An apartment building clinging to the side of a San Francisco cliff is looking for a buyer, and its $8 million price tag comes with panoramic bay views, a famously quirky layout and a surprising artistic pedigree.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/10/real-estate/frida-kahlos-former-san-francisco-complex-hits-market-for-8m/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-07-10T23:01:45.000Z"
     },
     {
-      "headline": "Affinius ramping up lending prominence in Garden State",
-      "summary": "If it’s a day ending in ‘y,’ Affinius Capital is probably doling out a big loan. This time, the recipient was a joint venture of PCCP, Claremont Development and Stanbery Development Group. The partners scored a $188 million loan to refinance the District 15Fifteen complex in Parsippany, New Jersey, the Commercial Observer reported. The property at 1515 Route 10 East in the affluent suburb opened last month. It includes three buildings, stretching along 13 acres.…",
+      "headline": "Gazelli Art House pays $7.5M to Marlborough Gallery for two retail condos in Chelsea",
+      "summary": "Gazelli Art House through the entity MRCRI Prop LLC paid $7.5 million to Marlborough Gallery The post Gazelli Art House pays $7.5M to Marlborough Gallery for two retail condos in Chelsea appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/gazelli-art-space-pays-7-5m-to-marlborough-gallery-for-two-retail-condos-in-chelsea/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-07-10T16:15:00.000Z"
+    },
+    {
+      "headline": "Andrew Kimball to oversee NYU real estate portfolio",
+      "summary": "Andrew Kimball just landed a new job. New York University hired the former Economic Development Corporation president and CEO to oversee the school’s global real estate portfolio, Crain’s New York Business reported. Kimball will take over in August with the title senior vice president for global real estate, facilities and campus development. The annual base salary range for this position is around $600,000, according to job posting.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/tristate/2026/07/08/affinius-ramping-up-lending-prominence-in-garden-state/",
+      "url": "https://therealdeal.com/new-york/2026/07/09/andrew-kimball-will-oversee-nyu-real-estate-portfolio/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-07-08T21:00:00.000Z"
+      "published_at": "2026-07-09T20:00:00.000Z"
+    },
+    {
+      "headline": "Nuveen pays $57M to Metropolitan Realty, Gary Podell for 119-unit portfolio in Crown Heights",
+      "summary": "Nuveen through the entity Union Street Housing Development Fund Corporation paid $57 million to Metropolitan The post Nuveen pays $57M to Metropolitan Realty, Gary Podell for 119-unit portfolio in Crown Heights appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/nuveen-pays-57m-to-metropolitan-realty-gary-podell-for-affordable-in-crown-heights/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-07-10T17:16:00.000Z"
+    },
+    {
+      "headline": "Selfhelp Realty Group, NRP Group sign $139.5M construction loan in Morrisania",
+      "summary": "Selfhelp Realty Group and NRP Group through the entity Sol On Park Housing Development Fund The post Selfhelp Realty Group, NRP Group sign $139.5M construction loan in Morrisania appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/selfhelp-realty-group-nrp-group-sign-139-5m-construction-loan-for-in-morrisania/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-07-10T15:55:00.000Z"
+    },
+    {
+      "headline": "Rockpoint, Urby team up to build in booming Jersey City",
+      "summary": "A hot new bombshell has entered the Jersey City development villa. Boston-based Rockpoint and local developer Urby formed a joint venture for a massive development on the city’s waterfront, the Commercial Observer reported. The project is part of a larger three-tower multifamily complex along the Hudson River. Rockpoint and Urby acquired the site at 201 Hudson Street from Brookfield for an undisclosed price. Newmark’s Adam Spies, Adam Doneger and Michael Collins advised the buyers in the deal.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/09/rockpoint-urby-team-up-to-build-in-booming-jersey-city/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-07-09T19:00:00.000Z"
     },
     {
       "headline": "Billionaires’ Row tower at risk of ‘raining chunks of concrete’ on NYC will begin facade repairs this month",
@@ -238,49 +247,40 @@
       "published_at": "2026-07-10T11:30:00.000Z"
     },
     {
-      "headline": "MDL RE Holdings signs $30M loan with TD Bank for 4 properties in NYC",
-      "summary": "MDL RE Holdings through the entity 130 7th Avenue Realty LLC (and others) as borrower The post MDL RE Holdings signs $30M loan with TD Bank for 4 properties in NYC appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/mdl-re-holdings-signs-30m-loan-with-td-bank-for-4-properties-in-nyc/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-09T14:59:00.000Z"
-    },
-    {
-      "headline": "NYC’s top deals: Trio of Bronx apartment buildings trade for $17M",
-      "summary": "There were 254 transactions totaling $330 million filed in New York City records in the 24 hours before 4 p.m. on Wednesday, July 8. Residential The Upper West Side had the top home sale to hit records in the city. A townhouse at 69 West 83rd Street traded for $8.4 million. Karl Dasher was the seller. Andrew and Mylene Vaz were the buyers. The 7,300 square foot home has five bedrooms and over four and a half bathrooms.…",
+      "headline": "NYC’s top deals: Reuben brothers sell Surrey pad for $26M",
+      "summary": "There were 224 transactions totaling $434 million filed in New York City records in the 24 hours before 4 p.m. on Wednesday, July 8. Residential: The most expensive home sale recorded in New York was on the Upper East Side, where a nearly 5,000-square-foot condo at Reuben Brothers’ Surrey Residences at 20 East 76th Street sold for $25.7 million. Douglas Elliman’s Lauren Muss and Michelle Griffith had the listing.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/09/new-york-top-real-estate-deals-wednesday-july-8/",
+      "url": "https://therealdeal.com/new-york/2026/07/10/new-york-top-real-estate-deals-thursday-july-9/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-07-09T11:00:00.000Z"
+      "published_at": "2026-07-10T11:00:00.000Z"
     },
     {
-      "headline": "Leonard Rosenberg files plans for 39 units in Fordham Heights",
-      "summary": "Leonard Rosenberg submitted a new building construction project for a 39-unit, 22,910-square-foot residential (R-2) building The post Leonard Rosenberg files plans for 39 units in Fordham Heights appeared first on PincusCo .",
+      "headline": "Hochul awards $1B in bonds, subsidies to affordable projects",
+      "summary": "New York State awarded $1 billion in housing bonds and subsidies in the latest push from Gov. Kathy Hochul as part of her broader $25 billion five-year housing plan. The funds were awarded by New York State Homes and Community Renewal to 12 housing development projects that aim to create or preserve 2,754 apartments across the state. Seven of those projects are in New York City, including the preservation and rehabilitation of two existing structures in Harlem and on the Upper West Side, the adaptive reuse…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/09/hochul-hcr-award-1b-bonds-subsidies-for-new-york-projects/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-07-09T22:30:00.000Z"
+    },
+    {
+      "headline": "Pfizer building inspector and subcontractor’s violations face scrutiny as probes proceed",
+      "summary": "Days after buckled columns at the Pfizer building conversion sparked concerns that the project was in danger of collapse, key parties at the property are facing scrutiny over past violations. A private firm that conducted special inspections of 235 East 42nd Street was repeatedly cited for issues at other projects, the New York Times reported. Domani Inspection Services certified the safety of high-strength bolting, steel welding and the structural stability of other alterations.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/09/pfizer-building-inspector-subcontractor-face-scrutiny/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-07-09T18:23:19.000Z"
+    },
+    {
+      "headline": "Westbridge Realty Group files plans for 35 units in Wakefield",
+      "summary": "Westbridge Realty Group submitted a new building construction project for a 35-unit, 20,969-square-foot residential (R-2) The post Westbridge Realty Group files plans for 35 units in Wakefield appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/leonard-rosenberg-files-plans-for-39-units-in-fordham-heights/",
+      "url": "https://www.pincusco.com/westbridge-realty-group-files-plans-for-35-units-in-wakefield/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-07-10T12:20:00.000Z"
-    },
-    {
-      "headline": "Serial killer Joel Rifkin’s LI murder home finds new owners after 3 months for sale: ‘They’re so excited’",
-      "summary": "The East Meadow house where notorious serial killer Joel Rifkin slaughtered several of his victims is under contract.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/09/real-estate/serial-killer-joel-rifkins-li-murder-home-finds-buyer/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-07-09T19:52:43.000Z"
-    },
-    {
-      "headline": "Kelly Slater’s luxury Texas surf park hit with $16M wipeout as construction stalls",
-      "summary": "Slater had personally hyped the project in a December video pitching it as the next step in his manmade-wave empire.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/09/real-estate/kelly-slaters-texas-surf-club-construction-stalls-as-liens-pile-up/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-07-09T17:53:43.000Z"
+      "published_at": "2026-07-10T12:36:00.000Z"
     }
   ]
 }
