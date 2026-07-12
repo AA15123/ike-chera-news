@@ -1,15 +1,15 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-07-11",
-  "generated_at": "2026-07-11T11:12:41.481Z",
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T11:17:57.180Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Ideal Marketplace Renews 15K-SF Grocery Store at Chelsea’s 317 Ninth Avenue: Supermarket chain Ideal Marketplace has renewed the lease on its 14,770-square-foot store in Manhattan’s Chelsea neighborhood. The retail deal’s address at 317 Ninth Avenue resides between West 28th and West 29th streets, inside a United States Postal Service (USPS) property that spans the entire city block.\n\nTarget Inks 135K-SF Lease at Queens’ Rego Park Shopping Center: Attention, Queens shoppers, you’re about to get another Target . The retail giant with over 2,000 stores in the U.S.\n\nIndian Fashion Firm Purple Style Labs Signs 24K-SF Retail Lease at 601 Madison: Luxury fashion house Purple Style Labs has leased a large retail space in Midtown East. The parent company of India-based brands such as Wendell Rodricks and Hemant Trevedi signed a lease for 23,783 square feet at 601 Madison Avenue in the second quarter of 2026, according to a retail report from JLL .\n\nRivani Sells Wynwood Jungle Retail Building in Miami for $26M: Prominent real estate investor Robert Rivani has sold the Wynwood Jungle retail building in Miami for $25.7 million, property records show. Tabani Group purchased the 39,000-square-foot property between 75 and 43 Northwest 23rd Street , west of North Miami Avenue.",
     "cre_daily": "Asana, Norges Bank Launch $500M JV for US Retail Assets: Asana Partners and Norges Bank formed a joint venture with $500M in equity to invest in US retail properties. The venture will focus on core and core+ grocery-anchored centers in growth markets, aiming to tap resilient tenant demand.\n\nBass Pro Shops Brings Experiential Retail to San Diego: Bass Pro Shops will anchor Grossmont Center in La Mesa with a 148,000-SF destination store, replacing a former Macy’s. This store marks the retailer’s sixth California location, arriving as San Diego’s retail availability rate drops to a five-year low.\n\nShaver Hall Redefines NYC Food Halls For All-Day Appeal: FB Society opened Shaver Hall, a 35,000 SF food hall in Amazon’s Midtown NYC office, aiming to be an all-day destination. This project features 11 eateries, three restaurants, two bars, and extended hours, blending dining with entertainment and nightlife to boost foot traffic.\n\nJersey Mike’s Aims for $12B IPO, 15,000 Global Locations: Jersey Mike’s plans a public market debut and targets 15,000 stores worldwide, more than quadrupling its current footprint. The chain has entered a 300-store Canadian development deal and detailed a UK/Ireland expansion as it capitalizes on franchisee momentum.",
-    "new_york_post": "See the state with the largest homes for sale — and which city has the most affordable: Study: A rural, western mountain state has an average home size of 2,627 square feet, according to a NetCredit analysis of 250,000 Zillow listings.\n\nIncredible SF cliffside complex once home to Frida Kahlo hits market for $8M: An apartment building clinging to the side of a San Francisco cliff is looking for a buyer, and its $8 million price tag comes with panoramic bay views, a famously quirky layout and a surprising artistic pedigree.\n\nBillionaires’ Row tower at risk of ‘raining chunks of concrete’ on NYC will begin facade repairs this month: As issues at the building have been made public for years, a massive apartment at 432 Park Ave. on Billionaires' Row is in contract for far less than ask.",
-    "pincusco": "Gazelli Art House pays $7.5M to Marlborough Gallery for two retail condos in Chelsea: Gazelli Art House through the entity MRCRI Prop LLC paid $7.5 million to Marlborough Gallery.\n\nNuveen pays $57M to Metropolitan Realty, Gary Podell for 119-unit portfolio in Crown Heights: Nuveen through the entity Union Street Housing Development Fund Corporation paid $57 million to Metropolitan.\n\nSelfhelp Realty Group, NRP Group sign $139.5M construction loan in Morrisania: Selfhelp Realty Group and NRP Group through the entity Sol On Park Housing Development Fund.\n\nWestbridge Realty Group files plans for 35 units in Wakefield: Westbridge Realty Group submitted a new building construction project for a 35-unit, 20,969-square-foot residential (R-2).",
-    "the_real_deal": "NY Dirt: Hit the gym: New Yorkers are ready to get healthy. Retailers are willing to bet on it.\n\nSmoking gun: Former state official reveals secret decision that kneecapped landlords: In 2023, under pressure from lawmakers, tenant organizers and New York Attorney General Letitia James, state housing regulators secretly changed a policy to make it harder to remove buildings from rent stabilization.\n\nAndrew Kimball to oversee NYU real estate portfolio: Andrew Kimball just landed a new job. New York University hired the former Economic Development Corporation president and CEO to oversee the school’s global real estate portfolio, Crain’s New York Business reported.\n\nRockpoint, Urby team up to build in booming Jersey City: A hot new bombshell has entered the Jersey City development villa. Boston-based Rockpoint and local developer Urby formed a joint venture for a massive development on the city’s waterfront, the Commercial Observer reported."
+    "new_york_post": "See the state with the largest homes for sale — and which city has the most affordable: study: A rural, western mountain state has an average home size of 2,627 square feet, according to a NetCredit analysis of 250,000 Zillow listings.\n\nIncredible SF cliffside complex once home to Frida Kahlo hits market for $8M: An apartment building clinging to the side of a San Francisco cliff is looking for a buyer, and its $8 million price tag comes with panoramic bay views, a famously quirky layout and a surprising artistic pedigree.\n\nBillionaires’ Row tower at risk of ‘raining chunks of concrete’ on NYC will begin facade repairs this month: As issues at the building have been made public for years, a massive apartment at 432 Park Ave. on Billionaires' Row is in contract for far less than ask.",
+    "pincusco": "Gazelli Art House pays $7.5M to Marlborough Gallery for two retail condos in Chelsea: Gazelli Art House through the entity MRCRI Prop LLC paid $7.5 million to Marlborough Gallery.\n\nNuveen pays $57M to Metropolitan Realty, Gary Podell for 119-unit portfolio in Crown Heights: Nuveen through the entity Union Street Housing Development Fund Corporation paid $57 million to Metropolitan.\n\nSelfhelp Realty Group, NRP Group sign $139.5M construction loan in Morrisania: Selfhelp Realty Group and NRP Group through the entity Sol On Park Housing Development Fund.",
+    "the_real_deal": "NY Dirt: Hit the gym: New Yorkers are ready to get healthy. Retailers are willing to bet on it.\n\nTrump administration rejects Congress’ plan, threatening vouchers: President Donald Trump’s administration is refusing to replace a pandemic-era housing voucher program, setting up a funding cliff that could leave thousands of New York City renters scrambling to stay housed.\n\nBroadRange Logistics sued for tenant improvement fraud scheme: The owner of a Pennsylvania warehouse sued BroadRange Logistics, alleging the firm engaged in a scheme to defraud the property owner out of millions of dollars in tenant improvement funds.\n\nNathan Berman communicating with investors over Pfizer project: While shoring up the former Pfizer headquarters in Midtown East, its developer is also looking to shore up investor support. MetroLoft’s Nathan Berman has been talking to investors of the office-to-residential project since Tuesday’s incident, the New York Times reported."
   },
   "items": [
     {
@@ -139,6 +139,15 @@
       "published_at": "2026-06-30T03:47:18.000Z"
     },
     {
+      "headline": "Trump administration rejects Congress’ plan, threatening vouchers",
+      "summary": "President Donald Trump’s administration is refusing to replace a pandemic-era housing voucher program, setting up a funding cliff that could leave thousands of New York City renters scrambling to stay housed. Federal housing officials told Gothamist the Department of Housing and Urban Development will not convert expiring Emergency Housing Vouchers into long-term Tenant Protection Vouchers, despite roughly $264 million in congressional funding earmarked for that purpose. Instead, HUD plans to use the money…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/10/administration-rejects-congress-plan-threatening-vouchers/",
+      "section": "the_real_deal",
+      "retail": true,
+      "published_at": "2026-07-10T17:31:31.000Z"
+    },
+    {
       "headline": "NBCUniversal Renews 244K-SF Offices at 1221 Avenue of the Americas",
       "summary": "NBCUniversal is keeping its massive office near Rockefeller Center . The mass media and entertainment conglomerate has renewed its 244,185-square-foot lease at Rockefeller Group ’s 1221 Avenue of the Americas , according to a second-quarter office report from CBRE . NBC first signed a lease for its space at the 51-story Midtown office building in 2012 as part of a $190 million investment into its New York City operations, according to an announcement at the time.…",
       "source": "Commercial Observer",
@@ -157,22 +166,13 @@
       "published_at": "2026-07-09T19:44:45.000Z"
     },
     {
-      "headline": "See the state with the largest homes for sale — and which city has the most affordable: Study",
+      "headline": "See the state with the largest homes for sale — and which city has the most affordable: study",
       "summary": "A rural, western mountain state has an average home size of 2,627 square feet, according to a NetCredit analysis of 250,000 Zillow listings.",
       "source": "New York Post",
       "url": "https://nypost.com/2026/07/10/real-estate/see-the-state-with-the-largest-homes-for-sale/",
       "section": "new_york_post",
       "retail": true,
       "published_at": "2026-07-10T19:27:41.000Z"
-    },
-    {
-      "headline": "Smoking gun: Former state official reveals secret decision that kneecapped landlords",
-      "summary": "In 2023, under pressure from lawmakers, tenant organizers and New York Attorney General Letitia James, state housing regulators secretly changed a policy to make it harder to remove buildings from rent stabilization. No public discussion was held, nor was any notice given to the real estate industry, according to a bombshell statement by Woody Pascal. At the time he was in charge of substantial rehabilitations — the state program being kneecapped — and had been since 2010.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/09/ex-housing-officials-bombshell-statement-rocks-state-agency/",
-      "section": "the_real_deal",
-      "retail": true,
-      "published_at": "2026-07-09T22:00:00.000Z"
     },
     {
       "headline": "Chinese Camera Company Insta360 to Open Store in Times Square",
@@ -193,6 +193,15 @@
       "published_at": "2026-07-10T23:01:45.000Z"
     },
     {
+      "headline": "BroadRange Logistics sued for tenant improvement fraud scheme",
+      "summary": "The owner of a Pennsylvania warehouse sued BroadRange Logistics, alleging the firm engaged in a scheme to defraud the property owner out of millions of dollars in tenant improvement funds. KSG, the owner of a 600,000-square-foot warehouse in Mount Pocono, Pennsylvania, alleges it entered into a 20-year lease with BroadRange Logistics and agreed to provide $11 million in tenant improvement allowance.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/10/ksg-sued-broadrange-for-11m-tenant-improvement-allowance/",
+      "section": "the_real_deal",
+      "retail": true,
+      "published_at": "2026-07-10T18:56:47.000Z"
+    },
+    {
       "headline": "Gazelli Art House pays $7.5M to Marlborough Gallery for two retail condos in Chelsea",
       "summary": "Gazelli Art House through the entity MRCRI Prop LLC paid $7.5 million to Marlborough Gallery The post Gazelli Art House pays $7.5M to Marlborough Gallery for two retail condos in Chelsea appeared first on PincusCo .",
       "source": "PincusCo",
@@ -202,13 +211,13 @@
       "published_at": "2026-07-10T16:15:00.000Z"
     },
     {
-      "headline": "Andrew Kimball to oversee NYU real estate portfolio",
-      "summary": "Andrew Kimball just landed a new job. New York University hired the former Economic Development Corporation president and CEO to oversee the school’s global real estate portfolio, Crain’s New York Business reported. Kimball will take over in August with the title senior vice president for global real estate, facilities and campus development. The annual base salary range for this position is around $600,000, according to job posting.…",
+      "headline": "Nathan Berman communicating with investors over Pfizer project",
+      "summary": "While shoring up the former Pfizer headquarters in Midtown East, its developer is also looking to shore up investor support. MetroLoft’s Nathan Berman has been talking to investors of the office-to-residential project since Tuesday’s incident, the New York Times reported. Berman’s ability to meet the construction timeline relies not just on the ability to resume work at 235 East 42nd Street, but to hold on to his financing.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/09/andrew-kimball-will-oversee-nyu-real-estate-portfolio/",
+      "url": "https://therealdeal.com/new-york/2026/07/10/nathan-berman-communicating-with-investors-over-pfizer-dev/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-07-09T20:00:00.000Z"
+      "published_at": "2026-07-10T15:21:03.000Z"
     },
     {
       "headline": "Nuveen pays $57M to Metropolitan Realty, Gary Podell for 119-unit portfolio in Crown Heights",
@@ -229,13 +238,40 @@
       "published_at": "2026-07-10T15:55:00.000Z"
     },
     {
-      "headline": "Rockpoint, Urby team up to build in booming Jersey City",
-      "summary": "A hot new bombshell has entered the Jersey City development villa. Boston-based Rockpoint and local developer Urby formed a joint venture for a massive development on the city’s waterfront, the Commercial Observer reported. The project is part of a larger three-tower multifamily complex along the Hudson River. Rockpoint and Urby acquired the site at 201 Hudson Street from Brookfield for an undisclosed price. Newmark’s Adam Spies, Adam Doneger and Michael Collins advised the buyers in the deal.…",
+      "headline": "Why this Brooklyn project is nowhere to be seen",
+      "summary": "Walk around New York and you might wonder why some blocks have little or no housing despite tremendous demand for it. You have to connect the dots. At the Arrow Linen site, a Brooklyn Council member is seeking applicants for a task force to monitor construction of 250 apartments. Um, what construction? Apex Development received approval 17 months ago for its project at 441 and 467 Prospect Avenue but still has no timeline to break ground.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/09/rockpoint-urby-team-up-to-build-in-booming-jersey-city/",
+      "url": "https://therealdeal.com/new-york/2026/07/11/why-this-brooklyn-multifamily-development-site-sits-dormant/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-07-09T19:00:00.000Z"
+      "published_at": "2026-07-11T13:00:00.000Z"
+    },
+    {
+      "headline": "Pfizer building scare tests office-to-resi thesis",
+      "summary": "For an industry betting that obsolete office towers can help solve the housing shortage, this week’s scare at the former Pfizer headquarters could be a snag. Work stopped at the Midtown Manhattan tower on Tuesday after two steel columns failed during construction, prompting evacuations of the site and neighboring properties.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/11/pfizer-scares-tests-office-to-resi-thesis/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-07-11T12:00:00.000Z"
+    },
+    {
+      "headline": "NYC’s top deals: UWS megamansion trades for $40M — nearly 50% off asking",
+      "summary": "Residential: The most expensive home sale recorded in New York was on the Upper West Side, where a megamansion at 48-50 West 69th Street sold for $45 million — $40 million off its last asking price. The seller of the nearly 45-foot-wide home was French businessman Pierre Bastid and his wife, Malou Beauvoir, a jazz singer. The couple purchased the property — two adjacent homes — in separate deals in 2011 and 2018 for a total of $24.5 million.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/11/new-york-top-real-estate-deals-friday-july-10/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-07-11T11:00:00.000Z"
+    },
+    {
+      "headline": "Chelsea NYCHA redevelopment greenlit after court lifts pause",
+      "summary": "Demolition and redevelopment at the current site of Elliott-Chelsea and Fulton Houses will move forward after a state appellate court ruling lifted a pause on the Related Companies and Essence Development-led project. The New York City Housing Authority, which partnered with private developers for the $2 billion overhaul of the sites in Chelsea, is prepared to begin re-engaging residents who remain in their units at the Fulton 11 and Chelsea Addition buildings with the goal of relocating them to make the buildings…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/10/related-essence-get-court-nod-for-nycha-chelsea-redev/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-07-10T16:54:26.000Z"
     },
     {
       "headline": "Billionaires’ Row tower at risk of ‘raining chunks of concrete’ on NYC will begin facade repairs this month",
@@ -245,42 +281,6 @@
       "section": "new_york_post",
       "retail": false,
       "published_at": "2026-07-10T11:30:00.000Z"
-    },
-    {
-      "headline": "NYC’s top deals: Reuben brothers sell Surrey pad for $26M",
-      "summary": "There were 224 transactions totaling $434 million filed in New York City records in the 24 hours before 4 p.m. on Wednesday, July 8. Residential: The most expensive home sale recorded in New York was on the Upper East Side, where a nearly 5,000-square-foot condo at Reuben Brothers’ Surrey Residences at 20 East 76th Street sold for $25.7 million. Douglas Elliman’s Lauren Muss and Michelle Griffith had the listing.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/10/new-york-top-real-estate-deals-thursday-july-9/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-07-10T11:00:00.000Z"
-    },
-    {
-      "headline": "Hochul awards $1B in bonds, subsidies to affordable projects",
-      "summary": "New York State awarded $1 billion in housing bonds and subsidies in the latest push from Gov. Kathy Hochul as part of her broader $25 billion five-year housing plan. The funds were awarded by New York State Homes and Community Renewal to 12 housing development projects that aim to create or preserve 2,754 apartments across the state. Seven of those projects are in New York City, including the preservation and rehabilitation of two existing structures in Harlem and on the Upper West Side, the adaptive reuse…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/09/hochul-hcr-award-1b-bonds-subsidies-for-new-york-projects/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-07-09T22:30:00.000Z"
-    },
-    {
-      "headline": "Pfizer building inspector and subcontractor’s violations face scrutiny as probes proceed",
-      "summary": "Days after buckled columns at the Pfizer building conversion sparked concerns that the project was in danger of collapse, key parties at the property are facing scrutiny over past violations. A private firm that conducted special inspections of 235 East 42nd Street was repeatedly cited for issues at other projects, the New York Times reported. Domani Inspection Services certified the safety of high-strength bolting, steel welding and the structural stability of other alterations.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/09/pfizer-building-inspector-subcontractor-face-scrutiny/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-07-09T18:23:19.000Z"
-    },
-    {
-      "headline": "Westbridge Realty Group files plans for 35 units in Wakefield",
-      "summary": "Westbridge Realty Group submitted a new building construction project for a 35-unit, 20,969-square-foot residential (R-2) The post Westbridge Realty Group files plans for 35 units in Wakefield appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/westbridge-realty-group-files-plans-for-35-units-in-wakefield/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-10T12:36:00.000Z"
     }
   ]
 }
