@@ -1,15 +1,15 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-07-15",
-  "generated_at": "2026-07-15T11:41:55.961Z",
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T11:47:08.260Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Ideal Marketplace Renews 15K-SF Grocery Store at Chelsea’s 317 Ninth Avenue: Supermarket chain Ideal Marketplace has renewed the lease on its 14,770-square-foot store in Manhattan’s Chelsea neighborhood. The retail deal’s address at 317 Ninth Avenue resides between West 28th and West 29th streets, inside a United States Postal Service (USPS) property that spans the entire city block.\n\nLos Angeles Matcha Brand Archives of Us Signs Retail Lease in East Village: A Los Angeles-based matcha cafe chain has signed a retail deal for its first New York City location in Manhattan’s East Village. Archives of Us has leased 2,400 square feet at Highpoint Property Group ’s 84 Second Avenue , where it will act as a cafe and retail presence for the matcha brand, according to landlord.\n\nIndian Fashion Firm Purple Style Labs Signs 24K-SF Retail Lease at 601 Madison: Luxury fashion house Purple Style Labs has leased a large retail space in Midtown East. The parent company of India-based brands such as Wendell Rodricks and Hemant Trevedi signed a lease for 23,783 square feet at 601 Madison Avenue in the second quarter of 2026, according to a retail report from JLL .\n\nAffinius Capital Provides $35M Refi for Grocery-Office Asset Near Houston: Howard Hughes Communities has secured a $35 million loan to refinance Village Green at Bridgeland Central , a nearly 200,000-square-foot mixed-use development that includes retail and office space in Cypress, Texas, Commercial Observer can first report.",
+    "commercial_observer": "Ideal Marketplace Renews 15K-SF Grocery Store at Chelsea’s 317 Ninth Avenue: Supermarket chain Ideal Marketplace has renewed the lease on its 14,770-square-foot store in Manhattan’s Chelsea neighborhood. The retail deal’s address at 317 Ninth Avenue resides between West 28th and West 29th streets, inside a United States Postal Service (USPS) property that spans the entire city block.\n\nLos Angeles Matcha Brand Archives of Us Signs Retail Lease in East Village: A Los Angeles-based matcha cafe chain has signed a retail deal for its first New York City location in Manhattan’s East Village. Archives of Us has leased 2,400 square feet at Highpoint Property Group ’s 84 Second Avenue , where it will act as a cafe and retail presence for the matcha brand, according to landlord.\n\nIndian Fashion Firm Purple Style Labs Signs 24K-SF Retail Lease at 601 Madison: Luxury fashion house Purple Style Labs has leased a large retail space in Midtown East. The parent company of India-based brands such as Wendell Rodricks and Hemant Trevedi signed a lease for 23,783 square feet at 601 Madison Avenue in the second quarter of 2026, according to a retail report from JLL .\n\nBarolo Restaurant Group Inks Deal to Open Italian Eatery in Times Square: Italian restaurant operator Barolo Restaurant Group plans to open its third New York City restaurant, Barolo West , at 250 West 49th Street in Times Square . The company took 2,500 square feet of space at the newly developed 29-story property in Midtown.",
     "cre_daily": "Rising Bankruptcies Create Lease Challenges for CRE Owners: Corporate bankruptcy filings rose nearly 12% year-over-year to over 591,000, per Administrative Office of the US Courts. Retail and restaurant tenants are increasingly rejecting or renegotiating leases, directly impacting commercial landlords and property values.\n\nAsana, Norges Bank Launch $500M JV for US Retail Assets: Asana Partners and Norges Bank formed a joint venture with $500M in equity to invest in US retail properties. The venture will focus on core and core+ grocery-anchored centers in growth markets, aiming to tap resilient tenant demand.\n\nBass Pro Shops Brings Experiential Retail to San Diego: Bass Pro Shops will anchor Grossmont Center in La Mesa with a 148,000-SF destination store, replacing a former Macy’s. This store marks the retailer’s sixth California location, arriving as San Diego’s retail availability rate drops to a five-year low.\n\nBoutique Gyms Lead Manhattan Retail Leasing Surge: Manhattan’s largest retail leases this quarter came from boutique gyms and wellness providers, according to a new JLL report. Top signings include Chelsea Piers and Life Time, both taking over 70,000 SF, with more high-end wellness entrants following suit.",
-    "new_york_post": "Three World Trade Center inks deal with event space Glasshouse to fill longtime vacancy: Now, ending a decade-long struggle to fill most of Three World Trade Center’s “podium” level, major event space Glasshouse struck a deal to launch its first downtown outpost in 66,436 square feet on three floors.",
-    "pincusco": "Camber, Osborne sign $138.4M construction loan in Chelsea: Camber Property Group and Osborne Association through the entity Chelsea Beacon Housing Development Fund Corporation.\n\nNYU Langone Hospitals pays $29.5M to Jun’s Construction for office in Sunset Park: NYU Langone Hospitals through the entity Family Health Centers At NYU Langone paid $29.5 million.\n\nMetropolitan Realty Group pays $19.2M to Aminim Group for two Harlem rentals: Metropolitan Realty Group through the entity Hudson View III Housing Development Fund Corporation paid $19.2.\n\nHudson, Related sign $185M loan with Wells Fargo for two rentals on Roosevelt Island: Hudson Companies and Related Companies through the entity Riverwalk 7, LLC as borrower signed a.",
-    "the_real_deal": "NY Dirt: Hit the gym: New Yorkers are ready to get healthy. Retailers are willing to bet on it.\n\nNYC’s top deals: Bobby Cayre offloads Meatpacking District property for $100M: There were 177 transactions totaling $612 million filed in New York City records in the 24 hours before 4 p.m. on Tuesday, July 13.\n\nDefense Department signs 10-year lease for Long Island office: The government agency formerly known as the Department of Defense has chosen a Long Island hamlet for its new regional office. DBD Realty Group signed the department to 23,600 square feet at its 1 Old Country Road in Nassau County’s Carle Place, according to Lee & Associates NYC, which represented the landlord in the.\n\nNY Dirt: Restaurants gobble up space: New York wasn’t always the restaurant town it is today. In the decade between 2009 and 2019, jobs in the restaurant sector grew at twice the rate of the city’s total employment."
+    "new_york_post": "Longtime ’90s mall staple plans on closing 15 stores this year as the retail apocalypse rages on: The company shuttered over 140 stores in the last couple of years alone as shopping centers transform their strategy to survive.\n\n15,000-square-foot California lot sells for $10 despite being worth $1M — but there’s an annoying catch: A vacant Oakland lot valued at $900,000 sold for just $10, but the buyer also inherited $1.7 million in debt as part of an affordable housing plan.",
+    "pincusco": "Global Asset Properties signs $17.2M loan with Morgan Stanley for retail in Park Avenue South: Global Asset Properties through the entity Empire State Retail LLC as borrower signed a acquisition.\n\nAirbnb, Beacon pays $81.5M to RFR for office, retail in Gramercy: Airbnb and Beacon Capital Partners through the entity Makalu Property LLC paid $81.5 million to.\n\nAndrew Schwartz pays $2.1M for mixed-use in Carroll Gardens: Andrew Schwartz through the entity 495 Henry LLC paid $2.1 million to the entity Mye Properties.",
+    "the_real_deal": "NY Dirt: Hit the gym: New Yorkers are ready to get healthy. Retailers are willing to bet on it.\n\nLender refuses to let Harry Macklowe off the hook for $14M loan shortfall: BankUnited is not walking away from a $14.2 million loan dispute with Harry Macklowe just yet. After losing the trial in April, the lender is now taking the legendary Manhattan developer to an appeals court.\n\nPeter Fine eyes $70M for SoBro rental: Peter Fine, once the city’s biggest affordable housing developer, is looking to sell one of his South Bronx buildings for $70 million. Fine’s Atlantic Development Group has put the 419-unit building at 105 Willis Avenue in Mott Haven up for sale.\n\nHochul taps developers to build $1B Hell’s Kitchen towers: The state has tapped three New York developers to build two towers with more than 1,100 homes on a publicly owned parking lot in Hell’s Kitchen across from the USS Intrepid museum. Gov."
   },
   "items": [
     {
@@ -67,6 +67,15 @@
       "published_at": "2026-07-14T08:59:59.000Z"
     },
     {
+      "headline": "US Retail Vacancy Holds at 4.4% as Demand Stays Strong",
+      "summary": "US retail vacancy remained at 4.4% in Q2 2026, showing market stability despite economic headwinds. Net absorption rebounded to 10.2M SF, with value-oriented and experiential retailers driving leasing activity. Limited new supply and resilient consumer demand are keeping rents firm and positioning the sector for continued strength. Key Takeaways Retail Resilience Defies Market Pessimism US retail fundamentals stayed on solid footing in Q2 2026, even as the wider economy faced ongoing uncertainty.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/us-retail-vacancy-holds-at-4-4-as-demand-stays-strong/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-07-16T03:56:56.000Z"
+    },
+    {
       "headline": "Net Lease Cap Rates Tick Up as Retail Supply Surges in Q2",
       "summary": "US net lease cap rates edged up in Q2 2026, with retail up 5 bps to 6.60% and industrial up 10 bps to 7.25%, per The Boulder Group. Total single tenant properties on the market increased 12.5% quarter-over-quarter, driven by a 16.2% surge in retail availability. The gap between asking and closed cap rates continued to tighten, reflecting intense competition for premium, long-term assets.…",
       "source": "CRE Daily",
@@ -92,33 +101,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-07-08T14:02:38.000Z"
-    },
-    {
-      "headline": "Affinius Capital Provides $35M Refi for Grocery-Office Asset Near Houston",
-      "summary": "Howard Hughes Communities has secured a $35 million loan to refinance Village Green at Bridgeland Central , a nearly 200,000-square-foot mixed-use development that includes retail and office space in Cypress, Texas, Commercial Observer can first report. Affinius Capital provided the debt, while JLL ’ s Colby Mueck, Kelly Layne, Jack Britton and Scot Sarlin arranged the transaction.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/affinius-capital-provides-35m-refi-for-mixed-use-grocery-office-asset-near-houston/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-14T17:43:50.000Z"
-    },
-    {
-      "headline": "Shaver Hall Redefines NYC Food Halls For All-Day Appeal",
-      "summary": "FB Society opened Shaver Hall, a 35,000 SF food hall in Amazon’s Midtown NYC office, aiming to be an all-day destination. This project features 11 eateries, three restaurants, two bars, and extended hours, blending dining with entertainment and nightlife to boost foot traffic. The model signals a national pivot as food halls embrace longer hours, event programming, and adaptive reuse strategies for mixed-use viability.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/shaver-hall-redefines-nyc-food-halls-for-all-day-appeal/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-07-07T08:29:31.000Z"
-    },
-    {
-      "headline": "Department of Defense Inks 24K-SF Deal at Former Long Island HQ of 1-800-Flowers",
-      "summary": "The U.S. Department of Defense is opening a new regional office in the Long Island hamlet of Carle Place, N.Y. The department, which is seeking approval this year from Congress to rebrand as the Department of War, signed its new lease at 1 Old Country Road in Nassau County. The five-story office building recently served as the headquarters of 1-800-Flowers . The online floral and gift retailer departed the repositioned office building for Jericho, N.Y., in 2020.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/department-of-defense-lease-1-old-country-road-long-island/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-14T18:48:40.000Z"
     },
     {
       "headline": "Barolo Restaurant Group Inks Deal to Open Italian Eatery in Times Square",
@@ -148,40 +130,76 @@
       "published_at": "2026-07-09T14:25:59.000Z"
     },
     {
-      "headline": "NYC’s top deals: Bobby Cayre offloads Meatpacking District property for $100M",
-      "summary": "There were 177 transactions totaling $612 million filed in New York City records in the 24 hours before 4 p.m. on Tuesday, July 13. Residential: The East Village logged the priciest recorded residential transaction. PIP Ventures LLC purchased a townhouse at 14 East 2nd Street for $6.2 million. The sellers were the Hornedo and Leach families, which had owned the property for decades. The three-family home spans about 3,700 square feet.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/15/new-york-top-real-estate-deals-tuesday-july-13/",
-      "section": "the_real_deal",
-      "retail": true,
-      "published_at": "2026-07-15T11:00:00.000Z"
-    },
-    {
-      "headline": "Nonprofit Graham Windham to Relocate to 10K SF at the Interchurch Center",
-      "summary": "Nonprofit Graham Windham is relocating its headquarters to Riverside Drive. The century-old nonprofit for children and families signed a five-year lease with the Interchurch Center at 475 Riverside Drive in Upper Manhattan’s Morningside Heights neighborhood. The newly renovated, 9,833-square-foot office will be on the 14th floor of the 19-story building. Asking rent was $29 per square foot.…",
+      "headline": "Restaurateur James O’Brien Bringing Wine Bar to Naftali’s Williamsburg Wharf",
+      "summary": "Some wine and a walk by the Williamsburg waterfront? Sounds like the perfect evening. James O’Brien , the restaurateur behind Cobble Hill’s popular Italian restaurant Popina , has signed a 2,000-square-foot lease at Naftali Group ’s Williamsburg Wharf to open a new wine bar, t he developer announced Tuesday. The yet-to-be-named wine bar will open at 484 Kent Avenue in 2027.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/nonprofit-graham-windham-lease-interchurch-center/",
+      "url": "https://commercialobserver.com/2026/07/james-obrien-lease-wine-bar-naftali-williamsburg-wharf/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-07-14T19:20:03.000Z"
+      "published_at": "2026-07-15T15:59:43.000Z"
     },
     {
-      "headline": "Defense Department signs 10-year lease for Long Island office",
-      "summary": "The government agency formerly known as the Department of Defense has chosen a Long Island hamlet for its new regional office. DBD Realty Group signed the department to 23,600 square feet at its 1 Old Country Road in Nassau County’s Carle Place, according to Lee & Associates NYC, which represented the landlord in the 10-year deal. The government agency, which is expected to move into the five-story office building early next year, was represented by Ralph Guiffre, Vince Lamatta and Richard Freel of…",
+      "headline": "Lender refuses to let Harry Macklowe off the hook for $14M loan shortfall",
+      "summary": "BankUnited is not walking away from a $14.2 million loan dispute with Harry Macklowe just yet. After losing the trial in April, the lender is now taking the legendary Manhattan developer to an appeals court. The dispute stems from a development loan the lender issued to Macklowe in December 2013. Macklowe used rent revenue from a Walgreens lease at 310 East 53 Street — for which, according to the lawsuit, he signed for 99-years in 2006 — to service the loan.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/tristate/2026/07/14/defense-department-inks-10-year-lease-for-long-island-office/",
+      "url": "https://therealdeal.com/new-york/2026/07/15/bankunited-revives-loan-dispute-with-harry-macklowe/",
       "section": "the_real_deal",
       "retail": true,
-      "published_at": "2026-07-14T16:30:00.000Z"
+      "published_at": "2026-07-15T19:02:03.000Z"
     },
     {
-      "headline": "Stockbridge Sells Fully Leased NoVA Industrial Park for $132M",
-      "summary": "TA Realty has expanded its industrial footprint with the $132 million acquisition of a fully leased, 734,606-square-foot warehouse portfolio in Northern Virginia. The Boston-based investor acquired the 13-building business park named Featherstone Industrial Park from a joint venture between Rosenthal Properties and Stockbridge . The sale price is almost 27 percent more than what the sellers paid for the property just five years ago. Newmark brokered the most recent sale.…",
+      "headline": "Peter Fine eyes $70M for SoBro rental",
+      "summary": "Peter Fine, once the city’s biggest affordable housing developer, is looking to sell one of his South Bronx buildings for $70 million. Fine’s Atlantic Development Group has put the 419-unit building at 105 Willis Avenue in Mott Haven up for sale. The 476,000-square-foot building is “located at the cornerstone of the rapidly evolving Mott Haven submarket, a neighborhood defined by a historic surge in large-scale residential development, trendy waterfront parks, and an expanding retail landscape,” according to a…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/15/peter-fine-to-sell-south-bronx-rental/",
+      "section": "the_real_deal",
+      "retail": true,
+      "published_at": "2026-07-15T17:06:12.000Z"
+    },
+    {
+      "headline": "Pure Paws Veterinary Care to Relocate to 5K SF at Brooklyn’s 1 Putnam Avenue",
+      "summary": "A pack of Brooklyn veterinarians are taking themselves for a short walk. Pure Paws Veterinary Care is relocating its Brooklyn practice to a larger, nearby location in the Clinton Hill neighborhood. The veterinary office signed a 5,000-square-foot lease at 1 Putnam Avenue , near the intersection of Cambridge Place and Fulton Street. The asking rent for the 10-year lease, signed July 1, was $75 per square foot. Traded first reported the deal. The mixed-use building’s landlord is Abe Betesh .…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/ta-realty-stockbridge-virginia-industrial/",
+      "url": "https://commercialobserver.com/2026/07/pure-paws-veterinary-care-lease-1-putnam-avenue/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-07-14T19:30:11.000Z"
+      "published_at": "2026-07-15T20:09:15.000Z"
+    },
+    {
+      "headline": "Hochul taps developers to build $1B Hell’s Kitchen towers",
+      "summary": "The state has tapped three New York developers to build two towers with more than 1,100 homes on a publicly owned parking lot in Hell’s Kitchen across from the USS Intrepid museum. Gov. Kathy Hochul selected The Gotham Organization, Fisher Brothers and Mural Real Estate to construct the highrises with 1,127 condos and apartments at 621 West 45th Street, Crain’s New York reported. Plans for the $1 billion project, dubbed Hudson Landing, include two connected towers containing 1.3 million square feet on…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/15/hochul-taps-developers-to-build-1b-hells-kitchen-towers/",
+      "section": "the_real_deal",
+      "retail": true,
+      "published_at": "2026-07-15T18:00:00.000Z"
+    },
+    {
+      "headline": "Data Intelligence Firm Curinos Takes 14K SF at Marx Realty’s 10 Grand Central",
+      "summary": "Curinos , a global data intelligence firm serving the financial industry, is relocating to Marx Realty ’s 10 Grand Central after signing a 14,000-square-foot lease, Commercial Observer has learned. Curinos will move from its current office about two blocks north at 485 Lexington Avenue , though it is unclear when the move will happen. The length of the lease was not disclosed. Asking rents at 10 Grand Central — which is now 98 percent leased, according to the landlord — ranges from $85 to $135 per square foot.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/curinos-lease-marx-realty-10-grand-central/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-15T19:06:56.000Z"
+    },
+    {
+      "headline": "Global Asset Properties signs $17.2M loan with Morgan Stanley for retail in Park Avenue South",
+      "summary": "Global Asset Properties through the entity Empire State Retail LLC as borrower signed a acquisition The post Global Asset Properties signs $17.2M loan with Morgan Stanley for retail in Park Avenue South appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/global-asset-properties-signs-17-2m-loan-with-morgan-stanley-for-retail-in-park-avenue-south/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-07-15T15:48:00.000Z"
+    },
+    {
+      "headline": "Airbnb, Beacon pays $81.5M to RFR for office, retail in Gramercy",
+      "summary": "Airbnb and Beacon Capital Partners through the entity Makalu Property LLC paid $81.5 million to The post Airbnb, Beacon pays $81.5M to RFR for office, retail in Gramercy appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/airbnb-beacon-pays-81-5m-to-rfr-for-office-retail-in-gramercy/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-07-15T15:33:00.000Z"
     },
     {
       "headline": "Chinese Camera Company Insta360 to Open Store in Times Square",
@@ -193,13 +211,13 @@
       "published_at": "2026-07-08T19:11:26.000Z"
     },
     {
-      "headline": "Three World Trade Center inks deal with event space Glasshouse to fill longtime vacancy",
-      "summary": "Now, ending a decade-long struggle to fill most of Three World Trade Center’s “podium” level, major event space Glasshouse struck a deal to launch its first downtown outpost in 66,436 square feet on three floors.",
+      "headline": "Longtime ’90s mall staple plans on closing 15 stores this year as the retail apocalypse rages on",
+      "summary": "The company shuttered over 140 stores in the last couple of years alone as shopping centers transform their strategy to survive.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/07/13/business/three-world-trade-center-inks-deal-with-event-space-glasshouse-to-fill-longtime-vacancy/",
+      "url": "https://nypost.com/2026/07/15/real-estate/mall-staple-fossil-group-plans-on-closing-15-stores/",
       "section": "new_york_post",
       "retail": true,
-      "published_at": "2026-07-13T20:27:25.000Z"
+      "published_at": "2026-07-15T18:59:01.000Z"
     },
     {
       "headline": "John Roesch Exits Meridian to Start Roesch Real Estate Group",
@@ -211,76 +229,58 @@
       "published_at": "2026-07-13T12:00:43.000Z"
     },
     {
-      "headline": "NY Dirt: Restaurants gobble up space",
-      "summary": "New York wasn’t always the restaurant town it is today. In the decade between 2009 and 2019, jobs in the restaurant sector grew at twice the rate of the city’s total employment. Restaurants added 120,000 jobs, bringing the total to 317,800, according to a state comptroller’s analysis. That growth is good for those of us who like to eat.…",
+      "headline": "NY Dirt: Council grills HPD on Mitchell-Lama costs",
+      "summary": "Speaker Menin and more than a dozen other members of the City Council want to get to the bottom of the Mitchell-Lama cost conundrum. A hearing on affordability across an aging tranche of subsidized housing drew pointed questions from Council members to Housing Preservation and Development Department officials overseeing a portion of the city’s Mitchell-Lama portfolio.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/15/ny-dirt-restaurants-gobble-up-space/",
-      "section": "the_real_deal",
-      "retail": true,
-      "published_at": "2026-07-15T11:30:00.000Z"
-    },
-    {
-      "headline": "Zeckondorf family accuses supermarket moguls of selling pilfered art",
-      "summary": "The Zeckondorf family has accused the co-owners of a Pennsylvania supermarket chain of selling stolen art. The Zeckondorfs, a legacy New York office developer, filed a lawsuit against the heirs of Robert and Patricia Weis, who own a nearly two-thirds stake in Weis Markets, accusing them of auctioning a painting stolen a half century ago from a Zeckondorf patriarch, Crain’s New York reported. The painting, a mostly black abstract work by Pierre Soulages dubbed “Peinture 161 x 200 cm, 14 novembre 1958,” sold…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/14/zeckondorfs-accuse-supermarket-moguls-of-selling-stolen-art/",
+      "url": "https://therealdeal.com/new-york/2026/07/16/mitchell-lama-affordability-scrutinized-by-city-council/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-07-14T22:00:00.000Z"
+      "published_at": "2026-07-16T11:30:00.000Z"
     },
     {
-      "headline": "Camber, Osborne sign $138.4M construction loan in Chelsea",
-      "summary": "Camber Property Group and Osborne Association through the entity Chelsea Beacon Housing Development Fund Corporation The post Camber, Osborne sign $138.4M construction loan in Chelsea appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/camber-osborne-sign-138-4m-construction-loan-in-chelsea/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-14T15:54:00.000Z"
-    },
-    {
-      "headline": "Hochul orders 1-year ban on large data center construction",
-      "summary": "Gov. Kathy Hochul has put a one-year kibosh on building massive data centers across New York as regulators dial in their environmental impacts and power use. The governor Tuesday ordered a moratorium on large data centers to allow the state to develop an environmental assessment and set consistent standards while establishing rules for how they can provide their own energy, Newsday reported.…",
+      "headline": "NYC’s top deals: UES townhouse trades for $15M",
+      "summary": "There were 227 transactions totaling $356 million filed in New York City records in the 24 hours before 4 p.m. on Wednesday, July 15. Residential: The top residential sale to hit records was on the Upper East Side where a home at 110 East 78th Street sold for $14.5 million. Lawrence Creel, portfolio manager at Edgewood Management, and his wife Dana Creel were the sellers. The buyer was a trust.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/tristate/2026/07/14/hochul-orders-year-long-data-center-construction-moratorium/",
+      "url": "https://therealdeal.com/new-york/2026/07/16/new-york-top-real-estate-deals-wednesday-july-15/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-07-14T16:02:44.000Z"
+      "published_at": "2026-07-16T11:00:00.000Z"
     },
     {
-      "headline": "Housing Notes: Developers are in on the joke: Apologize later",
-      "summary": "I have long had a fascination with the grit it takes to be a Manhattan developer. After all, I taught market analysis to a class of approximately 150 graduate students in Columbia’s Master of Science in Real Estate Development (MSRED) program for 8 years. My students have ended up all over the U.S. and hopefully they learned not to accept “no” as an answer when they’re out in the world.…",
+      "headline": "Building Department inspecting other construction sites after Pfizer Building debacle",
+      "summary": "Building safety inspectors are on the march across five boroughs after a dangerous incident at an office conversion project in Midtown East cast a national spotlight on New York. The Department of Buildings ordered inspectors to conduct safety reviews of construction sites across the city as part of a larger probe into what caused two structural columns to buckle at the former Pfizer Building on 42nd Street, Gothamist reported. The scope of the sweeps isn’t clear.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/14/analyzing-harry-macklowes-development-legacy/",
+      "url": "https://therealdeal.com/new-york/2026/07/15/dob-inspecting-construction-sites-after-pfizer-hq-debacle/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-07-14T14:30:27.000Z"
+      "published_at": "2026-07-15T16:02:50.000Z"
     },
     {
-      "headline": "NYU Langone Hospitals pays $29.5M to Jun’s Construction for office in Sunset Park",
-      "summary": "NYU Langone Hospitals through the entity Family Health Centers At NYU Langone paid $29.5 million The post NYU Langone Hospitals pays $29.5M to Jun’s Construction for office in Sunset Park appeared first on PincusCo .",
+      "headline": "Andrew Schwartz pays $2.1M for mixed-use in Carroll Gardens",
+      "summary": "Andrew Schwartz through the entity 495 Henry LLC paid $2.1 million to the entity Mye Properties The post Andrew Schwartz pays $2.1M for mixed-use in Carroll Gardens appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/nyu-langone-hospitals-pays-29-5m-to-juns-construction-for-office-in-sunset-park/",
+      "url": "https://www.pincusco.com/andrew-schwartz-pays-2-1m-for-mixed-use-in-carroll-gardens/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-07-14T16:09:00.000Z"
+      "published_at": "2026-07-16T10:51:00.000Z"
     },
     {
-      "headline": "Metropolitan Realty Group pays $19.2M to Aminim Group for two Harlem rentals",
-      "summary": "Metropolitan Realty Group through the entity Hudson View III Housing Development Fund Corporation paid $19.2 The post Metropolitan Realty Group pays $19.2M to Aminim Group for two Harlem rentals appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/metropolitan-realty-group-pays-19-2m-to-aminim-group-for-two-residential-elevator-properties-in-harlem/",
-      "section": "pincusco",
+      "headline": "London club operator buys Meatpacking industrial building for $100M",
+      "summary": "Pending approval from the city’s Landmarks Preservation Commission, the new owners plan to convert the former safe and lock factory into the first international location of the London private club, Annabel’s. Caprice Holdings, a unit of Abu Dhabi-based DIAFA, purchased the historic five-story Herring Building at 675 Hudson Street in the Meatpacking District for $100 million. The seller, Aurora Capital Associates, previously acquired the property in 2023 for $50 million, effectively doubling its…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/15/london-club-operator-buys-meatpacking-industrial-building/",
+      "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-07-14T16:03:00.000Z"
+      "published_at": "2026-07-15T19:11:35.000Z"
     },
     {
-      "headline": "Hudson, Related sign $185M loan with Wells Fargo for two rentals on Roosevelt Island",
-      "summary": "Hudson Companies and Related Companies through the entity Riverwalk 7, LLC as borrower signed a The post Hudson, Related sign $185M loan with Wells Fargo for two rentals on Roosevelt Island appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/hudson-related-sign-185m-refi-with-wells-fargo-for-two-rental-on-roosevelt-island/",
-      "section": "pincusco",
+      "headline": "15,000-square-foot California lot sells for $10 despite being worth $1M — but there’s an annoying catch",
+      "summary": "A vacant Oakland lot valued at $900,000 sold for just $10, but the buyer also inherited $1.7 million in debt as part of an affordable housing plan.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/15/real-estate/california-lot-worth-900k-sells-for-10-but-theres-a-catch/",
+      "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-07-14T15:21:00.000Z"
+      "published_at": "2026-07-15T18:21:12.000Z"
     }
   ]
 }
