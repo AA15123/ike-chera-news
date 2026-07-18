@@ -1,15 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-07-17",
-  "generated_at": "2026-07-17T11:26:29.190Z",
+  "date": "2026-07-18",
+  "generated_at": "2026-07-18T11:11:12.790Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Ideal Marketplace Renews 15K-SF Grocery Store at Chelsea’s 317 Ninth Avenue: Supermarket chain Ideal Marketplace has renewed the lease on its 14,770-square-foot store in Manhattan’s Chelsea neighborhood. The retail deal’s address at 317 Ninth Avenue resides between West 28th and West 29th streets, inside a United States Postal Service (USPS) property that spans the entire city block.\n\nLive Shopping Marketplace Storefront Takes 5K SF at 555 West 25th Street: Storefront , a new e-commerce platform and live shopping marketplace for brands and independent sellers, has signed a 4,700-square-foot lease at Mactaggart Family & Partners ’ office building at 555 West 25th Street , Commercial Observer has learned.\n\nLos Angeles Matcha Brand Archives of Us Signs Retail Lease in East Village: A Los Angeles-based matcha cafe chain has signed a retail deal for its first New York City location in Manhattan’s East Village. Archives of Us has leased 2,400 square feet at Highpoint Property Group ’s 84 Second Avenue , where it will act as a cafe and retail presence for the matcha brand, according to landlord.\n\nIndian Fashion Firm Purple Style Labs Signs 24K-SF Retail Lease at 601 Madison: Luxury fashion house Purple Style Labs has leased a large retail space in Midtown East. The parent company of India-based brands such as Wendell Rodricks and Hemant Trevedi signed a lease for 23,783 square feet at 601 Madison Avenue in the second quarter of 2026, according to a retail report from JLL .",
+    "commercial_observer": "Ideal Marketplace Renews 15K-SF Grocery Store at Chelsea’s 317 Ninth Avenue: Supermarket chain Ideal Marketplace has renewed the lease on its 14,770-square-foot store in Manhattan’s Chelsea neighborhood. The retail deal’s address at 317 Ninth Avenue resides between West 28th and West 29th streets, inside a United States Postal Service (USPS) property that spans the entire city block.\n\nLive Shopping Marketplace Storefront Takes 5K SF at 555 West 25th Street: Storefront , a new e-commerce platform and live shopping marketplace for brands and independent sellers, has signed a 4,700-square-foot lease at Mactaggart Family & Partners ’ office building at 555 West 25th Street , Commercial Observer has learned.\n\nLos Angeles Matcha Brand Archives of Us Signs Retail Lease in East Village: A Los Angeles-based matcha cafe chain has signed a retail deal for its first New York City location in Manhattan’s East Village. Archives of Us has leased 2,400 square feet at Highpoint Property Group ’s 84 Second Avenue , where it will act as a cafe and retail presence for the matcha brand, according to landlord.\n\nBakery Shop Cafe Aroma to Open New Spot on the Upper East Side: Time to rise and grind, Upper East Siders, as a new coffee shop and bakery is set to open at Avenues Equity Partners ’ 1410 Madison Avenue in Carnegie Hill. Family-owned coffee shop and bakery Cafe Aroma has taken 2,200 square feet of retail space at the base of the five-story residential building, according to.",
     "cre_daily": "Rising Bankruptcies Create Lease Challenges for CRE Owners: Corporate bankruptcy filings rose nearly 12% year-over-year to over 591,000, per Administrative Office of the US Courts. Retail and restaurant tenants are increasingly rejecting or renegotiating leases, directly impacting commercial landlords and property values.\n\nAsana, Norges Bank Launch $500M JV for US Retail Assets: Asana Partners and Norges Bank formed a joint venture with $500M in equity to invest in US retail properties. The venture will focus on core and core+ grocery-anchored centers in growth markets, aiming to tap resilient tenant demand.\n\nBass Pro Shops Brings Experiential Retail to San Diego: Bass Pro Shops will anchor Grossmont Center in La Mesa with a 148,000-SF destination store, replacing a former Macy’s. This store marks the retailer’s sixth California location, arriving as San Diego’s retail availability rate drops to a five-year low.\n\nBoutique Gyms Lead Manhattan Retail Leasing Surge: Manhattan’s largest retail leases this quarter came from boutique gyms and wellness providers, according to a new JLL report. Top signings include Chelsea Piers and Life Time, both taking over 70,000 SF, with more high-end wellness entrants following suit.",
-    "new_york_post": "Longtime ’90s mall staple plans on closing 15 stores this year as the retail apocalypse rages on: The company shuttered over 140 stores in the last couple of years alone as shopping centers transform their strategy to survive.",
-    "pincusco": "Achille Salvagni Atelier pays $13.5M for retail in Lenox Hill: Achille Salvagni Atelier through the entity Madison Re LLC paid $13.5 million to Theodore Katsihtis.\n\nSCG Capital signs $3.5M ground lease for 73-unit dev site in Mt Hope: SCG Capital through the entity Jerome SG LLC as tenant signed a 99-year ground lease.\n\nCatholic Homes signs $146.9M construction loan for 251-unit project in Tremont: Catholic Homes through the entity Bathgate 178th Housing Development Fund Corporatio as borrower signed a.",
-    "the_real_deal": "NY Dirt: Hit the gym: New Yorkers are ready to get healthy. Retailers are willing to bet on it.\n\nNYC’s top deals: NoMad parking garage dev site trades for $34M: There were 236 transactions totaling $410 million filed in New York City records in the 24 hours before 4 p.m. on Thursday, July 16.\n\nBridges Development lands retail-office building in Brooklyn for $31M: Bridges Development Group has snagged a three-story retail and office complex in south Brooklyn for $31 million, a third of what it traded for six years ago. The Manhattan-based investor bought the 226,130-square-foot Kingswood Center at 1630 East 15th Street, in Midwood, Crain’s New York reported.\n\nRalph Zucker’s luxury condo development in Asbury Park snags $186M loan: The developer behind the iconic Bell Works revitalization in Chicago secured a massive construction loan for a banner condo project on the Jersey Shore. Zucker’s Inspired by Somerset Development snagged a $186 million loan from Madison Realty Capital for the development located at 1201 Ocean Avenue North in Asbury."
+    "pincusco": "Sollevare Group pays $5.1M to J. Safra Real Estate for mixed-use in Brooklyn Heights: Sollevare Group through the entity 122 Montague St. Propco LLC paid $5.1 million to J.\n\nCohabs pays $6.4M for 2 mixed-use buildings in Brooklyn: Cohabs paid $6.4 million for two mixed-use buildings in Brooklyn in two transactions to two.",
+    "the_real_deal": "NY Dirt: Hit the gym: New Yorkers are ready to get healthy. Retailers are willing to bet on it.\n\nNYC’s top deals: NoMad parking garage dev site trades for $34M: There were 236 transactions totaling $410 million filed in New York City records in the 24 hours before 4 p.m. on Thursday, July 16.\n\nAmazon eyes 4M sf warehouse on Long Island: Amazon wants to plant a 4.2 million-square-foot warehouse development in the middle of Long Island. The Seattle-based e-commerce giant has filed plans to build two warehouses on 140 acres of woodland near Sunrise Highway and Beacon Drive in the hamlet of Holbrook, east of Long Island MacArthur Airport, Newsday.\n\nNYC’s top deals: BD Hotels offloads The Blakely hotel for $39M: There were 188 transactions totaling $322 million filed in New York City records in the 24 hours before 4 p.m. on Friday, July 17."
   },
   "items": [
     {
@@ -50,7 +49,7 @@
     },
     {
       "headline": "Live Shopping Marketplace Storefront Takes 5K SF at 555 West 25th Street",
-      "summary": "Storefront , a new e-commerce platform and live shopping marketplace for brands and independent sellers, has signed a 4,700-square-foot lease at Mactaggart Family & Partners ’ office building at 555 West 25th Street , Commercial Observer has learned. The length of the lease is for two years and the asking rent was in the high $30s per square foot, according to Michael Segerman from Current Real Estate Advisors , who represented both the landlord and the tenant in the deal. Storefront will launch this fall.…",
+      "summary": "Storefront , a new e-commerce platform and live shopping marketplace for brands and independent sellers, has signed a 4,700-square-foot lease at Mactaggart Family & Partners ’ office building at 555 West 25th Street , Commercial Observer has learned. The length of the lease is for two years and the asking rent was in the high $40s per square foot, according to Michael Segerman from Current Real Estate Advisors , who represented both the landlord and the tenant in the deal. Storefront will launch this fall.…",
       "source": "Commercial Observer",
       "url": "https://commercialobserver.com/2026/07/storefront-lease-555-west-25th-street/",
       "section": "commercial_observer",
@@ -74,6 +73,15 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-07-14T08:59:59.000Z"
+    },
+    {
+      "headline": "Bakery Shop Cafe Aroma to Open New Spot on the Upper East Side",
+      "summary": "Time to rise and grind, Upper East Siders, as a new coffee shop and bakery is set to open at Avenues Equity Partners ’ 1410 Madison Avenue in Carnegie Hill. Family-owned coffee shop and bakery Cafe Aroma has taken 2,200 square feet of retail space at the base of the five-story residential building, according to landlord broker Meridian Capital Group . The asking rent and the length of the lease were not disclosed.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/cafe-aroma-lease-upper-east-side-madison-avenue/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-17T16:05:12.000Z"
     },
     {
       "headline": "US Retail Vacancy Holds at 4.4% as Demand Stays Strong",
@@ -157,22 +165,22 @@
       "published_at": "2026-07-17T11:00:00.000Z"
     },
     {
-      "headline": "Bridges Development lands retail-office building in Brooklyn for $31M",
-      "summary": "Bridges Development Group has snagged a three-story retail and office complex in south Brooklyn for $31 million, a third of what it traded for six years ago. The Manhattan-based investor bought the 226,130-square-foot Kingswood Center at 1630 East 15th Street, in Midwood, Crain’s New York reported. The seller was Midland Loan Services, a Kansas-based unit of PNC Bank. The deal, first reported by the Commercial Observer, works out to $137 per square foot.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/16/bridges-development-lands-retail-office-building-in-brooklyn/",
-      "section": "the_real_deal",
-      "retail": true,
-      "published_at": "2026-07-16T20:57:55.000Z"
-    },
-    {
-      "headline": "Pure Paws Veterinary Care to Relocate to 5K SF at Brooklyn’s 1 Putnam Avenue",
-      "summary": "A pack of Brooklyn veterinarians are taking themselves for a short walk. Pure Paws Veterinary Care is relocating its Brooklyn practice to a larger, nearby location in the Clinton Hill neighborhood. The veterinary office signed a 5,000-square-foot lease at 1 Putnam Avenue , near the intersection of Cambridge Place and Fulton Street. The asking rent for the 10-year lease, signed July 1, was $75 per square foot. Traded first reported the deal. The mixed-use building’s landlord is Abe Betesh .…",
+      "headline": "Logistics Firm Highline Commerce Grows to 60K SF at Industry City, Thanks to Robots",
+      "summary": "Third-party logistics provider Highline Commerce is expanding its industrial footprint at Brooklyn’s Industry City for the second time in four years, Commercial Observer has learned. Highline’s lease renewal at 67 34th Street in Brooklyn’s Sunset Park neighborhood tacked on another 18,000 square feet to its warehouse space. The five-year deal rounds out the company’s total footprint at the mixed-use commercial campus to 60,000 square feet.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/pure-paws-veterinary-care-lease-1-putnam-avenue/",
+      "url": "https://commercialobserver.com/2026/07/highline-commerce-lease-expansion-industry-city/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-07-15T20:09:15.000Z"
+      "published_at": "2026-07-17T16:07:55.000Z"
+    },
+    {
+      "headline": "Amazon eyes 4M sf warehouse on Long Island",
+      "summary": "Amazon wants to plant a 4.2 million-square-foot warehouse development in the middle of Long Island. The Seattle-based e-commerce giant has filed plans to build two warehouses on 140 acres of woodland near Sunrise Highway and Beacon Drive in the hamlet of Holbrook, east of Long Island MacArthur Airport, Newsday reported. The $1 billion fulfillment warehouse complex would be its largest on Long Island, and 21 times larger than any existing facility there.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/tristate/2026/07/17/amazon-eyes-4m-sf-warehouse-on-long-island/",
+      "section": "the_real_deal",
+      "retail": true,
+      "published_at": "2026-07-17T17:00:00.000Z"
     },
     {
       "headline": "AI Firm Isara Laboratories Inks 6K-SF Lease at 515 West 20th Street",
@@ -193,15 +201,6 @@
       "published_at": "2026-07-16T19:45:36.000Z"
     },
     {
-      "headline": "Center for Justice Innovation Expands to 34K SF at GFP’s 520 Eighth Avenue",
-      "summary": "The Center for Justice Innovation , a nonprofit organization focused on community safety and racial justice, is taking more space at its Midtown offices. The nonprofit has signed a deal to expand to 34,300 square feet at GFP Real Estate ’s 520 Eighth Avenue and extend its current lease at the property, the landlord announced Thursday. The 20-year lease spans a portion of the 18th floor and the entire 19th floor of the 26-story Midtown office building.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/center-for-justice-innovation-lease-gfp-520-eighth-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-16T14:22:22.000Z"
-    },
-    {
       "headline": "Chinese Camera Company Insta360 to Open Store in Times Square",
       "summary": "Insta360 , a China-based global optics and camera company, has signed its first U.S. lease for a 1,100-square-foot store at 1515 Broadway in Manhattan’s Times Square , Commercial Observer has learned. The world’s No. 1 360-degree camera brand, which is a direct competitor to the popular GoPro brand, has been used for purposes ranging from undersea exploring to documenting sustainable outer space adventures.…",
       "source": "Commercial Observer",
@@ -220,33 +219,6 @@
       "published_at": "2026-07-16T21:45:48.000Z"
     },
     {
-      "headline": "Achille Salvagni Atelier pays $13.5M for retail in Lenox Hill",
-      "summary": "Achille Salvagni Atelier through the entity Madison Re LLC paid $13.5 million to Theodore Katsihtis The post Achille Salvagni Atelier pays $13.5M for retail in Lenox Hill appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/achille-salvagni-atelier-pays-13-5m-for-retail-in-lenox-hill/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-07-16T12:10:00.000Z"
-    },
-    {
-      "headline": "SCG Capital signs $3.5M ground lease for 73-unit dev site in Mt Hope",
-      "summary": "SCG Capital through the entity Jerome SG LLC as tenant signed a 99-year ground lease The post SCG Capital signs $3.5M ground lease for 73-unit dev site in Mt Hope appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/scg-capital-signs-3-5m-ground-lease-for-73-unit-dev-site-in-mt-hope/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-07-16T12:05:00.000Z"
-    },
-    {
-      "headline": "Longtime ’90s mall staple plans on closing 15 stores this year as the retail apocalypse rages on",
-      "summary": "The company shuttered over 140 stores in the last couple of years alone as shopping centers transform their strategy to survive.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/15/real-estate/mall-staple-fossil-group-plans-on-closing-15-stores/",
-      "section": "new_york_post",
-      "retail": true,
-      "published_at": "2026-07-15T18:59:01.000Z"
-    },
-    {
       "headline": "John Roesch Exits Meridian to Start Roesch Real Estate Group",
       "summary": "Following an almost decade-long run with Meridian Retail Leasing , broker John Roesch decided to strike out on his own and has founded Roesch Real Estate Group (RREG). The days-old firm will focus on retail leasing with the eventual goal of starting an investment sales team, and bring institutional-style execution to the middle market.…",
       "source": "Commercial Observer",
@@ -256,31 +228,58 @@
       "published_at": "2026-07-13T12:00:43.000Z"
     },
     {
-      "headline": "Ralph Zucker’s luxury condo development in Asbury Park snags $186M loan",
-      "summary": "The developer behind the iconic Bell Works revitalization in Chicago secured a massive construction loan for a banner condo project on the Jersey Shore. Zucker’s Inspired by Somerset Development snagged a $186 million loan from Madison Realty Capital for the development located at 1201 Ocean Avenue North in Asbury Park, New Jersey. Meridian Capital Group’s David Bollag and James Darling arranged the financing for Zucker’s Inspired by Somerset Development, the real estate advisory firm announced Wednesday.…",
+      "headline": "NYC’s top deals: BD Hotels offloads The Blakely hotel for $39M",
+      "summary": "There were 188 transactions totaling $322 million filed in New York City records in the 24 hours before 4 p.m. on Friday, July 17. Residential: The most expensive recorded home sale was in the East Village, where Elizabeth Martin scooped up a four-bedroom condo at 80 East 10th Street for $7 million. The sellers were Aishwerya and Sanjeev Bahl, who had purchased the 2,500-square-foot pad in 2020 for $6.4 million. The latest sale breaks down to about $2,800 per square foot.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/tristate/2026/07/16/ralph-zuckers-asbury-park-luxury-condos-snag-186m-loan/",
+      "url": "https://therealdeal.com/new-york/2026/07/18/new-york-top-real-estate-deals-friday-july-17/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-07-16T17:15:00.000Z"
+      "published_at": "2026-07-18T11:00:00.000Z"
     },
     {
-      "headline": "Catholic Homes signs $146.9M construction loan for 251-unit project in Tremont",
-      "summary": "Catholic Homes through the entity Bathgate 178th Housing Development Fund Corporatio as borrower signed a The post Catholic Homes signs $146.9M construction loan for 251-unit project in Tremont appeared first on PincusCo .",
+      "headline": "Extell scores $185M refi on 1,400-apartment Yonkers luxury development",
+      "summary": "Gary Barnett secured refinancing for the first phase of his Hudson Piers project that he’s betting will help turn Yonkers into New York City’s next residential frontier. NewBridge Lending and Meridian Capital provided Extell Development with $185 million to refinance the first phase of the 1,400-unit luxury development, replacing a commercial loan from Wells Fargo and a mezzanine loan.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/17/extell-development-refinances-yonkers-development/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-07-17T17:02:33.000Z"
+    },
+    {
+      "headline": "Charney sells student dorm to Columbia for $122M",
+      "summary": "It may be a bit early for back-to-school, but real estate dealmaking doesn’t take a summer break. Sam Charney sold his student-housing project at 99 Claremont Avenue in Morningside Heights to Columbia University for $122 million, The Real Deal has learned. Charney Companies bought the Gothic-style building that once served as a dorm for the Union Theological Seminary for $38 million in 2024, and then renovated it into a 300-student residence.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/17/charney-cos-sells-99-claremont-avenue-to-columbia-university/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-07-17T16:30:00.000Z"
+    },
+    {
+      "headline": "Maverick acquires Gorham Building in $50M foreclosure sale",
+      "summary": "Maverick Real Estate Partners has finally taken control of the Gorham Building, ending a monthslong legal battle with the property’s longtime owners. Maverick acquired the 140,000-square-foot commercial building at 390 Fifth Avenue through a foreclosure sale, according to property records. The transfer, valued at $50 million, comes after a New York judge cleared the way for the lender to proceed with foreclosure.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/17/maverick-acquires-gorham-building-in-50m-foreclosure-sale/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-07-17T16:30:00.000Z"
+    },
+    {
+      "headline": "Sollevare Group pays $5.1M to J. Safra Real Estate for mixed-use in Brooklyn Heights",
+      "summary": "Sollevare Group through the entity 122 Montague St. Propco LLC paid $5.1 million to J. The post Sollevare Group pays $5.1M to J. Safra Real Estate for mixed-use in Brooklyn Heights appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/catholic-homes-signs-146-9m-construction-loan-for-251-unit-project-in-tremont/",
+      "url": "https://www.pincusco.com/sollevare-group-pays-5-1m-to-j-safra-real-estate-for-mixed-use-in-brooklyn-heights/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-07-16T11:55:00.000Z"
+      "published_at": "2026-07-17T15:10:00.000Z"
     },
     {
-      "headline": "NY Dirt: Council grills HPD on Mitchell-Lama costs",
-      "summary": "Speaker Menin and more than a dozen other members of the City Council want to get to the bottom of the Mitchell-Lama cost conundrum. A hearing on affordability across an aging tranche of subsidized housing drew pointed questions from Council members to Housing Preservation and Development Department officials overseeing a portion of the city’s Mitchell-Lama portfolio.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/16/mitchell-lama-affordability-scrutinized-by-city-council/",
-      "section": "the_real_deal",
+      "headline": "Cohabs pays $6.4M for 2 mixed-use buildings in Brooklyn",
+      "summary": "Cohabs paid $6.4 million for two mixed-use buildings in Brooklyn in two transactions to two The post Cohabs pays $6.4M for 2 mixed-use buildings in Brooklyn appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/cohabs-pays-6-4m-for-2-mixed-use-building-in-brooklyn/",
+      "section": "pincusco",
       "retail": false,
-      "published_at": "2026-07-16T11:30:00.000Z"
+      "published_at": "2026-07-17T13:53:00.000Z"
     }
   ]
 }
