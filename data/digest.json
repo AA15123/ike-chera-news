@@ -1,14 +1,15 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-07-18",
-  "generated_at": "2026-07-18T11:11:12.790Z",
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19T11:15:55.413Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Ideal Marketplace Renews 15K-SF Grocery Store at Chelsea’s 317 Ninth Avenue: Supermarket chain Ideal Marketplace has renewed the lease on its 14,770-square-foot store in Manhattan’s Chelsea neighborhood. The retail deal’s address at 317 Ninth Avenue resides between West 28th and West 29th streets, inside a United States Postal Service (USPS) property that spans the entire city block.\n\nLive Shopping Marketplace Storefront Takes 5K SF at 555 West 25th Street: Storefront , a new e-commerce platform and live shopping marketplace for brands and independent sellers, has signed a 4,700-square-foot lease at Mactaggart Family & Partners ’ office building at 555 West 25th Street , Commercial Observer has learned.\n\nLos Angeles Matcha Brand Archives of Us Signs Retail Lease in East Village: A Los Angeles-based matcha cafe chain has signed a retail deal for its first New York City location in Manhattan’s East Village. Archives of Us has leased 2,400 square feet at Highpoint Property Group ’s 84 Second Avenue , where it will act as a cafe and retail presence for the matcha brand, according to landlord.\n\nBakery Shop Cafe Aroma to Open New Spot on the Upper East Side: Time to rise and grind, Upper East Siders, as a new coffee shop and bakery is set to open at Avenues Equity Partners ’ 1410 Madison Avenue in Carnegie Hill. Family-owned coffee shop and bakery Cafe Aroma has taken 2,200 square feet of retail space at the base of the five-story residential building, according to.",
     "cre_daily": "Rising Bankruptcies Create Lease Challenges for CRE Owners: Corporate bankruptcy filings rose nearly 12% year-over-year to over 591,000, per Administrative Office of the US Courts. Retail and restaurant tenants are increasingly rejecting or renegotiating leases, directly impacting commercial landlords and property values.\n\nAsana, Norges Bank Launch $500M JV for US Retail Assets: Asana Partners and Norges Bank formed a joint venture with $500M in equity to invest in US retail properties. The venture will focus on core and core+ grocery-anchored centers in growth markets, aiming to tap resilient tenant demand.\n\nBass Pro Shops Brings Experiential Retail to San Diego: Bass Pro Shops will anchor Grossmont Center in La Mesa with a 148,000-SF destination store, replacing a former Macy’s. This store marks the retailer’s sixth California location, arriving as San Diego’s retail availability rate drops to a five-year low.\n\nBoutique Gyms Lead Manhattan Retail Leasing Surge: Manhattan’s largest retail leases this quarter came from boutique gyms and wellness providers, according to a new JLL report. Top signings include Chelsea Piers and Life Time, both taking over 70,000 SF, with more high-end wellness entrants following suit.",
+    "new_york_post": "Housing affordability improves compared to 2025 — despite home prices surging to new record high: Yet, the market remains challenging, particularly in areas lagging behind in new construction.",
     "pincusco": "Sollevare Group pays $5.1M to J. Safra Real Estate for mixed-use in Brooklyn Heights: Sollevare Group through the entity 122 Montague St. Propco LLC paid $5.1 million to J.\n\nCohabs pays $6.4M for 2 mixed-use buildings in Brooklyn: Cohabs paid $6.4 million for two mixed-use buildings in Brooklyn in two transactions to two.",
-    "the_real_deal": "NY Dirt: Hit the gym: New Yorkers are ready to get healthy. Retailers are willing to bet on it.\n\nNYC’s top deals: NoMad parking garage dev site trades for $34M: There were 236 transactions totaling $410 million filed in New York City records in the 24 hours before 4 p.m. on Thursday, July 16.\n\nAmazon eyes 4M sf warehouse on Long Island: Amazon wants to plant a 4.2 million-square-foot warehouse development in the middle of Long Island. The Seattle-based e-commerce giant has filed plans to build two warehouses on 140 acres of woodland near Sunrise Highway and Beacon Drive in the hamlet of Holbrook, east of Long Island MacArthur Airport, Newsday.\n\nNYC’s top deals: BD Hotels offloads The Blakely hotel for $39M: There were 188 transactions totaling $322 million filed in New York City records in the 24 hours before 4 p.m. on Friday, July 17."
+    "the_real_deal": "NY Dirt: Hit the gym: New Yorkers are ready to get healthy. Retailers are willing to bet on it.\n\nAmazon eyes 4M sf warehouse on Long Island: Amazon wants to plant a 4.2 million-square-foot warehouse development in the middle of Long Island. The Seattle-based e-commerce giant has filed plans to build two warehouses on 140 acres of woodland near Sunrise Highway and Beacon Drive in the hamlet of Holbrook, east of Long Island MacArthur Airport, Newsday.\n\nNYC’s top deals: BD Hotels offloads The Blakely hotel for $39M: There were 188 transactions totaling $322 million filed in New York City records in the 24 hours before 4 p.m. on Friday, July 17.\n\nExtell scores $185M refi on 1,400-apartment Yonkers luxury development: Gary Barnett secured refinancing for the first phase of his Hudson Piers project that he’s betting will help turn Yonkers into New York City’s next residential frontier. NewBridge Lending and Meridian Capital provided Extell Development with $185 million to refinance the first phase of the 1,400-unit luxury."
   },
   "items": [
     {
@@ -156,15 +157,6 @@
       "published_at": "2026-07-15T15:59:43.000Z"
     },
     {
-      "headline": "NYC’s top deals: NoMad parking garage dev site trades for $34M",
-      "summary": "There were 236 transactions totaling $410 million filed in New York City records in the 24 hours before 4 p.m. on Thursday, July 16. Commercial: The top commercial sale to hit records was in NoMad for a parking garage at 10 East 30th Street for about $33.5 million. Aero Park Corporation was the seller, and Royal Yacht Tower Management LLC was the buyer. The building stands eight stories tall with 48,500 square feet.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/17/new-york-top-real-estate-deals-thursday-july-16/",
-      "section": "the_real_deal",
-      "retail": true,
-      "published_at": "2026-07-17T11:00:00.000Z"
-    },
-    {
       "headline": "Logistics Firm Highline Commerce Grows to 60K SF at Industry City, Thanks to Robots",
       "summary": "Third-party logistics provider Highline Commerce is expanding its industrial footprint at Brooklyn’s Industry City for the second time in four years, Commercial Observer has learned. Highline’s lease renewal at 67 34th Street in Brooklyn’s Sunset Park neighborhood tacked on another 18,000 square feet to its warehouse space. The five-year deal rounds out the company’s total footprint at the mixed-use commercial campus to 60,000 square feet.…",
       "source": "Commercial Observer",
@@ -246,13 +238,13 @@
       "published_at": "2026-07-17T17:02:33.000Z"
     },
     {
-      "headline": "Charney sells student dorm to Columbia for $122M",
-      "summary": "It may be a bit early for back-to-school, but real estate dealmaking doesn’t take a summer break. Sam Charney sold his student-housing project at 99 Claremont Avenue in Morningside Heights to Columbia University for $122 million, The Real Deal has learned. Charney Companies bought the Gothic-style building that once served as a dorm for the Union Theological Seminary for $38 million in 2024, and then renovated it into a 300-student residence.…",
+      "headline": "How the Pfizer building scare could push developers to rethink vertical conversion plans",
+      "summary": "Following the near collapse of the Pfizer building conversion project last week, the industry has grappled with the potential impacts of the alarming structural failure. Aside from the consequences for the project itself, such as construction delays and financing constraints, real estate players are also attempting to forecast the incident’s effect on other office-to-residential conversion bets in the city, as well as on the larger development landscape. Though the fallout is still taking shape, many expect…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/17/charney-cos-sells-99-claremont-avenue-to-columbia-university/",
+      "url": "https://therealdeal.com/new-york/2026/07/18/how-the-pfizer-building-scare-could-recast-conversion-plans/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-07-17T16:30:00.000Z"
+      "published_at": "2026-07-18T12:00:00.000Z"
     },
     {
       "headline": "Maverick acquires Gorham Building in $50M foreclosure sale",
@@ -280,6 +272,15 @@
       "section": "pincusco",
       "retail": false,
       "published_at": "2026-07-17T13:53:00.000Z"
+    },
+    {
+      "headline": "Housing affordability improves compared to 2025 — despite home prices surging to new record high",
+      "summary": "Yet, the market remains challenging, particularly in areas lagging behind in new construction.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/17/real-estate/affordability-improves-despite-record-high-home-prices/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-07-17T20:10:41.000Z"
     }
   ]
 }
