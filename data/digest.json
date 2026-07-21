@@ -1,15 +1,15 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-07-20",
-  "generated_at": "2026-07-20T12:22:07.674Z",
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T11:52:46.598Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Ideal Marketplace Renews 15K-SF Grocery Store at Chelsea’s 317 Ninth Avenue: Supermarket chain Ideal Marketplace has renewed the lease on its 14,770-square-foot store in Manhattan’s Chelsea neighborhood. The retail deal’s address at 317 Ninth Avenue resides between West 28th and West 29th streets, inside a United States Postal Service (USPS) property that spans the entire city block.\n\nLos Angeles Matcha Brand Archives of Us Signs Retail Lease in East Village: A Los Angeles-based matcha cafe chain has signed a retail deal for its first New York City location in Manhattan’s East Village. Archives of Us has leased 2,400 square feet at Highpoint Property Group ’s 84 Second Avenue , where it will act as a cafe and retail presence for the matcha brand, according to landlord.\n\nBakery Shop Cafe Aroma to Open New Spot on the Upper East Side: Time to rise and grind, Upper East Siders, as a new coffee shop and bakery is set to open at Avenues Equity Partners ’ 1410 Madison Avenue in Carnegie Hill. Family-owned coffee shop and bakery Cafe Aroma has taken 2,200 square feet of retail space at the base of the five-story residential building, according to.\n\nIndian Fashion Firm Purple Style Labs Signs 24K-SF Retail Lease at 601 Madison: Luxury fashion house Purple Style Labs has leased a large retail space in Midtown East. The parent company of India-based brands such as Wendell Rodricks and Hemant Trevedi signed a lease for 23,783 square feet at 601 Madison Avenue in the second quarter of 2026, according to a retail report from JLL .",
+    "commercial_observer": "Ideal Marketplace Renews 15K-SF Grocery Store at Chelsea’s 317 Ninth Avenue: Supermarket chain Ideal Marketplace has renewed the lease on its 14,770-square-foot store in Manhattan’s Chelsea neighborhood. The retail deal’s address at 317 Ninth Avenue resides between West 28th and West 29th streets, inside a United States Postal Service (USPS) property that spans the entire city block.\n\nInfinium Wall Systems Takes 30K SF of Office, Retail Space at ESRT’s 1359 Broadway: If these walls could talk, they’d talk about all the new leasing in Midtown. Infinium Wall Syst ems , a company that designs, engineers and installs wall systems and doors for offices, has inked a new office and retail lease spanning 30,017 square feet at Empire State Realty Trust (ESRT)’s 1359 Broadway , the landlord.\n\nLos Angeles Matcha Brand Archives of Us Signs Retail Lease in East Village: A Los Angeles-based matcha cafe chain has signed a retail deal for its first New York City location in Manhattan’s East Village. Archives of Us has leased 2,400 square feet at Highpoint Property Group ’s 84 Second Avenue , where it will act as a cafe and retail presence for the matcha brand, according to landlord.\n\nBakery Shop Cafe Aroma to Open New Spot on the Upper East Side: Time to rise and grind, Upper East Siders, as a new coffee shop and bakery is set to open at Avenues Equity Partners ’ 1410 Madison Avenue in Carnegie Hill. Family-owned coffee shop and bakery Cafe Aroma has taken 2,200 square feet of retail space at the base of the five-story residential building, according to.",
     "cre_daily": "Rising Bankruptcies Create Lease Challenges for CRE Owners: Corporate bankruptcy filings rose nearly 12% year-over-year to over 591,000, per Administrative Office of the US Courts. Retail and restaurant tenants are increasingly rejecting or renegotiating leases, directly impacting commercial landlords and property values.\n\nAsana, Norges Bank Launch $500M JV for US Retail Assets: Asana Partners and Norges Bank formed a joint venture with $500M in equity to invest in US retail properties. The venture will focus on core and core+ grocery-anchored centers in growth markets, aiming to tap resilient tenant demand.\n\nBass Pro Shops Brings Experiential Retail to San Diego: Bass Pro Shops will anchor Grossmont Center in La Mesa with a 148,000-SF destination store, replacing a former Macy’s. This store marks the retailer’s sixth California location, arriving as San Diego’s retail availability rate drops to a five-year low.\n\nBoutique Gyms Lead Manhattan Retail Leasing Surge: Manhattan’s largest retail leases this quarter came from boutique gyms and wellness providers, according to a new JLL report. Top signings include Chelsea Piers and Life Time, both taking over 70,000 SF, with more high-end wellness entrants following suit.",
-    "new_york_post": "LA-based United Talent Agency taking its talents to the Empire State Building: UTA signed a lease for 100,948 square feet on the landmark skyscraper’s 32nd through 35th floors.\n\nIntrigue over St. Barth hotel deal detailed in new book: Izak Senbahar, the New York developer of trophy properties such as jinga puzzle-like 56 Leonard St., glass-wrapped 165 Charles St. and the redesigned Mark Hotel, twice lost out in a struggle over luxury beach resort hotel Taiwana.",
-    "pincusco": "Stylianos Aniftos signs $35M construction loan with Webster for 83-unit project in Astoria: Stylianos Aniftos through the entity Aniska31 Realty, LLC as borrower signed a new construction loan.\n\nRCM Group signs $45M construction loan with Slate for 72-unit project in Harlem: RCM Group through the entity 264 West 135 Residence LLC as borrower signed a new.\n\nFattal Hotel Group pays $38.5M to BD Hotels for Blakely Hotel in Midtown West: Fattal Hotel Group through the entity Fattal Nyx Nyc L.P. paid $38.5 million to BD.",
-    "the_real_deal": "NY Dirt: Hit the gym: New Yorkers are ready to get healthy. Retailers are willing to bet on it.\n\nAmazon eyes 4M sf warehouse on Long Island: Amazon wants to plant a 4.2 million-square-foot warehouse development in the middle of Long Island. The Seattle-based e-commerce giant has filed plans to build two warehouses on 140 acres of woodland near Sunrise Highway and Beacon Drive in the hamlet of Holbrook, east of Long Island MacArthur Airport, Newsday.\n\nNYC’s top deals: BD Hotels offloads The Blakely hotel for $39M: There were 188 transactions totaling $322 million filed in New York City records in the 24 hours before 4 p.m. on Friday, July 17.\n\nExtell scores $185M refi on 1,400-apartment Yonkers luxury development: Gary Barnett secured refinancing for the first phase of his Hudson Piers project that he’s betting will help turn Yonkers into New York City’s next residential frontier. NewBridge Lending and Meridian Capital provided Extell Development with $185 million to refinance the first phase of the 1,400-unit luxury."
+    "new_york_post": "LA-based United Talent Agency taking its talents to the Empire State Building: UTA signed a lease for 100,948 square feet on the landmark skyscraper’s 32nd through 35th floors.",
+    "pincusco": "Mendel Schwimmer signs $29M construction loan with S3 for 55-unit project in East Williamsburg: Mendel Schwimmer through the entity The Williamsburg Grand LLC as borrower signed a new construction.\n\nPark-It Management signs $42M refi with Provident Bank for nine properties in NYC: Park-It Management through the entity Path Land Holdings LLC as borrower signed a refi loan.",
+    "the_real_deal": "NY Dirt: Hit the gym: New Yorkers are ready to get healthy. Retailers are willing to bet on it.\n\nHollywood talent agency takes 100K sf at Empire State Building: One of Hollywood’s biggest talent agencies is moving to glitzier office digs in the Big Apple. United Talent Agency announced a 101,000-square-foot lease at the Empire State Building, a space that will encompass the 32nd through 35th floors, the New York Post reported.\n\nNew dev deals sink as Manhattan luxury contends with shrinking pipeline: Manhattan is logging fewer inked deals for luxury new development properties. Over the last four weeks, buyers have signed just 12 contracts to purchase sponsor units in the borough asking $4 million or more, a significant drop-off from the decade average of 28 for the same period, according to a report from Olshan."
   },
   "items": [
     {
@@ -47,6 +47,15 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-07-08T08:33:14.000Z"
+    },
+    {
+      "headline": "Infinium Wall Systems Takes 30K SF of Office, Retail Space at ESRT’s 1359 Broadway",
+      "summary": "If these walls could talk, they’d talk about all the new leasing in Midtown. Infinium Wall Syst ems , a company that designs, engineers and installs wall systems and doors for offices, has inked a new office and retail lease spanning 30,017 square feet at Empire State Realty Trust (ESRT)’s 1359 Broadway , the landlord announced Monday. “We are pleased to welcome Infinium to 1359 Broadway,” Ryan Kass , executive vice president, co-head of real estate and chief revenue officer at ESRT, said in a statement.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/infinium-wall-systems-lease-esrt-1359-broadway/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-20T20:30:52.000Z"
     },
     {
       "headline": "Los Angeles Matcha Brand Archives of Us Signs Retail Lease in East Village",
@@ -139,6 +148,15 @@
       "published_at": "2026-07-09T14:25:59.000Z"
     },
     {
+      "headline": "Instacart Takes 26K SF at ESRT’s 111 West 33rd Street",
+      "summary": "Grocery delivery app Instacart is getting a bigger home in Midtown. The San Francisco-based technology company has signed a 26,134-square-foot lease at Empire State Realty Trust (ESRT)’s 111 West 33rd Street , the landlord announced Monday. The seven-year lease was signed during the second quarter of 2026, according to ESRT, at an asking rent of $75 per square foot.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/instacart-lease-esrt-111-west-33rd-street/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-20T16:46:55.000Z"
+    },
+    {
       "headline": "Korean Grocery Sensation H Mart Wants to Conquer the Sun Belt",
       "summary": "Shopping hauls are some of the Internet’s most popular videos , but some Gen Zers are sampling and sharing their impressions of an Asian supermarket’s products instead of their latest luxury splurge. In February, TikTok user Linda Vo (@itslindavo) posted a short clip of her emptying a paper bag of Korean salt bread, a triangle kimbap, vermicelli, pears and puffy rice cakes that she purchased at her local H Mart, a Lyndhurst, N.J.-based chain of grocery stores that specialize in Asian goods.…",
       "source": "Commercial Observer",
@@ -157,31 +175,67 @@
       "published_at": "2026-07-15T15:59:43.000Z"
     },
     {
-      "headline": "Investment Firm HarbourVest Partners Takes 20K SF at 9 West 57th Street",
-      "summary": "HarbourVest Partners , a global private markets investment firm, is moving into its first New York City office, Commercial Observer has learned. The firm, which is headquartered in Boston, has inked a 10-year deal for 19,752 square feet on part of the 49th floor of the Soloviev Group ’s 9 West 57th Street . The asking rent was not disclosed, but Commercial Observer previously report ed a record asking rent at the Midtown office tower — also known as the Solow Building — of $327.50 per square foot.…",
+      "headline": "Infinity, KB Realty Partners Bag 75 Kenmare Street’s Retail Condo for $12M",
+      "summary": "A joint venture went shopping near SoHo and didn’t come away empty-handed. Infinity Real Estate and KB Realty Partners just acquired the retail condominium at 75 Kenmare Street in Manhattan’s Nolita neighborhood—just outside of SoHo — for $11.75 million, Commercial Observer can first report. The transaction, which closed July 16, adds to Infinity’s continued push into SoHo retail, and KB Realty’s expanding portfolio in the neighborhood via both retail and mixed-use investments.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/harbourvest-partners-lease-9-west-57th-street/",
+      "url": "https://commercialobserver.com/2026/07/soho-infinity-kb-realty-retail/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-07-20T11:00:09.000Z"
+      "published_at": "2026-07-20T19:55:09.000Z"
     },
     {
-      "headline": "Logistics Firm Highline Commerce Grows to 60K SF at Industry City, Thanks to Robots",
-      "summary": "Third-party logistics provider Highline Commerce is expanding its industrial footprint at Brooklyn’s Industry City for the second time in four years, Commercial Observer has learned. Highline’s lease renewal at 67 34th Street in Brooklyn’s Sunset Park neighborhood tacked on another 18,000 square feet to its warehouse space. The five-year deal rounds out the company’s total footprint at the mixed-use commercial campus to 60,000 square feet.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/highline-commerce-lease-expansion-industry-city/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-17T16:07:55.000Z"
-    },
-    {
-      "headline": "Amazon eyes 4M sf warehouse on Long Island",
-      "summary": "Amazon wants to plant a 4.2 million-square-foot warehouse development in the middle of Long Island. The Seattle-based e-commerce giant has filed plans to build two warehouses on 140 acres of woodland near Sunrise Highway and Beacon Drive in the hamlet of Holbrook, east of Long Island MacArthur Airport, Newsday reported. The $1 billion fulfillment warehouse complex would be its largest on Long Island, and 21 times larger than any existing facility there.…",
+      "headline": "Hollywood talent agency takes 100K sf at Empire State Building",
+      "summary": "One of Hollywood’s biggest talent agencies is moving to glitzier office digs in the Big Apple. United Talent Agency announced a 101,000-square-foot lease at the Empire State Building, a space that will encompass the 32nd through 35th floors, the New York Post reported. The asking rent at the crown jewel of Empire State Realty Trust’s office portfolio was $96 per square foot.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/tristate/2026/07/17/amazon-eyes-4m-sf-warehouse-on-long-island/",
+      "url": "https://therealdeal.com/new-york/2026/07/20/hollywood-agency-takes-100k-sf-at-empire-state-building/",
       "section": "the_real_deal",
       "retail": true,
-      "published_at": "2026-07-17T17:00:00.000Z"
+      "published_at": "2026-07-20T14:23:44.000Z"
+    },
+    {
+      "headline": "United Talent Agency Consolidates to 101K SF at ESRT’s Empire State Building",
+      "summary": "Los Angeles-based United Talent Agency (UTA), known for its high-profile clients, has aptly selected New York City’s most famous office building for its new East Coast headquarters. UTA leased 100,948 square feet at the Empire State Building in a move that will consolidate its various office locations across Manhattan, the company announced Monday. The New York Post first reported the news.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/united-talent-agency-lease-esrt-empire-state-building/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-20T15:22:47.000Z"
+    },
+    {
+      "headline": "Retail Veterans Joshua Strauss and Scott Zinovoy Join JLL",
+      "summary": "There are some new recruits at JLL , the brokerage firm announced Monday. Joshua Strauss and Scott Zinovoy , who co-founded retail and entertainment real estate firm Dreamscape , have joined JLL as executive managing director and senior vice president, respectively, to help further drive the firm’s experiential retail, entertainment and mixed-use leasing initiatives.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/retail-joshua-strauss-scott-zinovoy-jll/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-20T20:41:14.000Z"
+    },
+    {
+      "headline": "Law Firm Hodgson Russ Renews 20K SF at Fisher Brothers’ 605 Third Avenue",
+      "summary": "Law firm Hodgson Russ spearheaded a rush of new leases at Fisher Brothers ’ 605 Third Avenue . The firm renewed its 19,900-square-foot lease on the 23rd floor of the tower, located between East 39th and East 40th streets, in June, according to the landlord. Newmark ’s Brian Cohen and Kyle Ciminelli negotiated the 10-year renewal on behalf of the law firm. Several deals inked in the building since April secured rents up to $120 per square foot, according to Fisher Brothers.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/hodgson-russ-lease-renewal-fisher-brothers-605-third-avenue/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-20T19:48:48.000Z"
+    },
+    {
+      "headline": "Insurance, Real Estate Firms Take 57K SF at SL Green’s 1185 Avenue of the Americas",
+      "summary": "Two companies signed recent deals at SL Green Realty ’s 1185 Avenue of the Americas . In the largest lease, international specialty insurance firm Ryan Specialty signed a 10-year renewal and expansion lease at the 42-story office property, taki ng 29,166 square feet across the building’s entire 38th floor, the landlord announced. The company will move within the building from part of the 23rd floor, where it occupied 12,803 square feet.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/ryan-specialty-solil-leases-sl-green-1185-avenue-of-the-americas/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-20T17:06:35.000Z"
+    },
+    {
+      "headline": "Experiential Retail: What Works Now and What Doesn’t",
+      "summary": "Area 15 in Las Vegas is a retail and entertainment complex featuring shops and food and beverage outlets in addition to attractions that take the complex far beyond traditional retail. Inside Area 15, which New York-based Fisher Brothers developed, Interstellar Arc bills itself as “the world’s largest VR experience.” Speaking of experiences, the John Wick Experience takes you inside the beloved Keanu Reeves film and challenges you to escape, with a full bar awaiting you once you do.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/experiential-retail-2026/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-21T11:00:34.000Z"
     },
     {
       "headline": "Chinese Camera Company Insta360 to Open Store in Times Square",
@@ -202,85 +256,31 @@
       "published_at": "2026-07-19T18:35:05.000Z"
     },
     {
-      "headline": "South Florida Retail Markets Show Sub-5% Vacancy",
-      "summary": "Despite oft-repeated fears of retail’s pandemic-drive demise, South Florida’s retail sector is enjoying a combination of low vacancy rates, resilient rental rates and robust leasing and investment sales. That’s according to market reports released Thursday by commercial real estate brokerage Colliers .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/south-florida-miami-retail-leasing-vacancy-rent/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-16T21:45:48.000Z"
-    },
-    {
-      "headline": "John Roesch Exits Meridian to Start Roesch Real Estate Group",
-      "summary": "Following an almost decade-long run with Meridian Retail Leasing , broker John Roesch decided to strike out on his own and has founded Roesch Real Estate Group (RREG). The days-old firm will focus on retail leasing with the eventual goal of starting an investment sales team, and bring institutional-style execution to the middle market.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/john-roesch-roesch-real-estate-group/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-13T12:00:43.000Z"
-    },
-    {
-      "headline": "NYC’s top deals: BD Hotels offloads The Blakely hotel for $39M",
-      "summary": "There were 188 transactions totaling $322 million filed in New York City records in the 24 hours before 4 p.m. on Friday, July 17. Residential: The most expensive recorded home sale was in the East Village, where Elizabeth Martin scooped up a four-bedroom condo at 80 East 10th Street for $7 million. The sellers were Aishwerya and Sanjeev Bahl, who had purchased the 2,500-square-foot pad in 2020 for $6.4 million. The latest sale breaks down to about $2,800 per square foot.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/18/new-york-top-real-estate-deals-friday-july-17/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-07-18T11:00:00.000Z"
-    },
-    {
-      "headline": "Extell scores $185M refi on 1,400-apartment Yonkers luxury development",
-      "summary": "Gary Barnett secured refinancing for the first phase of his Hudson Piers project that he’s betting will help turn Yonkers into New York City’s next residential frontier. NewBridge Lending and Meridian Capital provided Extell Development with $185 million to refinance the first phase of the 1,400-unit luxury development, replacing a commercial loan from Wells Fargo and a mezzanine loan.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/17/extell-development-refinances-yonkers-development/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-07-17T17:02:33.000Z"
-    },
-    {
-      "headline": "Stylianos Aniftos signs $35M construction loan with Webster for 83-unit project in Astoria",
-      "summary": "Stylianos Aniftos through the entity Aniska31 Realty, LLC as borrower signed a new construction loan The post Stylianos Aniftos signs $35M construction loan with Webster for 83-unit project in Astoria appeared first on PincusCo .",
+      "headline": "Mendel Schwimmer signs $29M construction loan with S3 for 55-unit project in East Williamsburg",
+      "summary": "Mendel Schwimmer through the entity The Williamsburg Grand LLC as borrower signed a new construction The post Mendel Schwimmer signs $29M construction loan with S3 for 55-unit project in East Williamsburg appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/stylianos-aniftos-signs-35m-construction-loan-with-webster-bank-for-development-in-astoria/",
+      "url": "https://www.pincusco.com/mendel-schwimmer-signs-29m-construction-loan-with-s3-capital-for-mixed-use-in-east-williamsburg/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-07-20T11:22:00.000Z"
+      "published_at": "2026-07-20T12:26:00.000Z"
     },
     {
-      "headline": "RCM Group signs $45M construction loan with Slate for 72-unit project in Harlem",
-      "summary": "RCM Group through the entity 264 West 135 Residence LLC as borrower signed a new The post RCM Group signs $45M construction loan with Slate for 72-unit project in Harlem appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/rcm-group-signs-45m-construction-loan-with-slate-for-72-unit-project-in-harlem/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-20T09:48:00.000Z"
-    },
-    {
-      "headline": "How the Pfizer building scare could push developers to rethink vertical conversion plans",
-      "summary": "Following the near collapse of the Pfizer building conversion project last week, the industry has grappled with the potential impacts of the alarming structural failure. Aside from the consequences for the project itself, such as construction delays and financing constraints, real estate players are also attempting to forecast the incident’s effect on other office-to-residential conversion bets in the city, as well as on the larger development landscape. Though the fallout is still taking shape, many expect…",
+      "headline": "New dev deals sink as Manhattan luxury contends with shrinking pipeline",
+      "summary": "Manhattan is logging fewer inked deals for luxury new development properties. Over the last four weeks, buyers have signed just 12 contracts to purchase sponsor units in the borough asking $4 million or more, a significant drop-off from the decade average of 28 for the same period, according to a report from Olshan Realty. That decline is due to a waning new development pipeline in Manhattan, which has resulted in a 62 percent decrease in new construction inventory over the last year, according to data from…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/18/how-the-pfizer-building-scare-could-recast-conversion-plans/",
+      "url": "https://therealdeal.com/new-york/2026/07/20/manhattan-luxury-contends-with-shrinking-new-dev-pipeline/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-07-18T12:00:00.000Z"
+      "published_at": "2026-07-20T16:40:47.000Z"
     },
     {
-      "headline": "Fattal Hotel Group pays $38.5M to BD Hotels for Blakely Hotel in Midtown West",
-      "summary": "Fattal Hotel Group through the entity Fattal Nyx Nyc L.P. paid $38.5 million to BD The post Fattal Hotel Group pays $38.5M to BD Hotels for Blakely Hotel in Midtown West appeared first on PincusCo .",
+      "headline": "Park-It Management signs $42M refi with Provident Bank for nine properties in NYC",
+      "summary": "Park-It Management through the entity Path Land Holdings LLC as borrower signed a refi loan The post Park-It Management signs $42M refi with Provident Bank for nine properties in NYC appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/fattal-hotel-group-pays-38-5m-to-bd-hotels-for-blakely-hotel-in-midtown-west/",
+      "url": "https://www.pincusco.com/park-it-management-signs-42m-refi-with-provident-bank-for-nine-properties-in-nyc/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-07-20T10:36:00.000Z"
-    },
-    {
-      "headline": "Intrigue over St. Barth hotel deal detailed in new book",
-      "summary": "Izak Senbahar, the New York developer of trophy properties such as jinga puzzle-like 56 Leonard St., glass-wrapped 165 Charles St. and the redesigned Mark Hotel, twice lost out in a struggle over luxury beach resort hotel Taiwana.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/19/business/intrigue-over-st-barth-hotel-deal-detailed-in-new-book/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-07-19T19:19:45.000Z"
+      "published_at": "2026-07-20T12:42:00.000Z"
     }
   ]
 }
