@@ -1,16 +1,25 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-07-22",
-  "generated_at": "2026-07-22T11:55:25.846Z",
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T11:55:59.236Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Ideal Marketplace Renews 15K-SF Grocery Store at Chelsea’s 317 Ninth Avenue: Supermarket chain Ideal Marketplace has renewed the lease on its 14,770-square-foot store in Manhattan’s Chelsea neighborhood. The retail deal’s address at 317 Ninth Avenue resides between West 28th and West 29th streets, inside a United States Postal Service (USPS) property that spans the entire city block.\n\nInfinium Wall Systems Takes 30K SF of Office, Retail Space at ESRT’s 1359 Broadway: If these walls could talk, they’d talk about all the new leasing in Midtown. Infinium Wall Syst ems , a company that designs, engineers and installs wall systems and doors for offices, has inked a new office and retail lease spanning 30,017 square feet at Empire State Realty Trust (ESRT)’s 1359 Broadway , the landlord.\n\nLos Angeles Matcha Brand Archives of Us Signs Retail Lease in East Village: A Los Angeles-based matcha cafe chain has signed a retail deal for its first New York City location in Manhattan’s East Village. Archives of Us has leased 2,400 square feet at Highpoint Property Group ’s 84 Second Avenue , where it will act as a cafe and retail presence for the matcha brand, according to landlord.\n\nBakery Shop Cafe Aroma to Open New Spot on the Upper East Side: Time to rise and grind, Upper East Siders, as a new coffee shop and bakery is set to open at Avenues Equity Partners ’ 1410 Madison Avenue in Carnegie Hill. Family-owned coffee shop and bakery Cafe Aroma has taken 2,200 square feet of retail space at the base of the five-story residential building, according to.",
-    "cre_daily": "Rising Bankruptcies Create Lease Challenges for CRE Owners: Corporate bankruptcy filings rose nearly 12% year-over-year to over 591,000, per Administrative Office of the US Courts. Retail and restaurant tenants are increasingly rejecting or renegotiating leases, directly impacting commercial landlords and property values.\n\nAsana, Norges Bank Launch $500M JV for US Retail Assets: Asana Partners and Norges Bank formed a joint venture with $500M in equity to invest in US retail properties. The venture will focus on core and core+ grocery-anchored centers in growth markets, aiming to tap resilient tenant demand.\n\nBoutique Gyms Lead Manhattan Retail Leasing Surge: Manhattan’s largest retail leases this quarter came from boutique gyms and wellness providers, according to a new JLL report. Top signings include Chelsea Piers and Life Time, both taking over 70,000 SF, with more high-end wellness entrants following suit.\n\nUS Retail Vacancy Holds at 4.4% as Demand Stays Strong: US retail vacancy remained at 4.4% in Q2 2026, showing market stability despite economic headwinds. Net absorption rebounded to 10.2M SF, with value-oriented and experiential retailers driving leasing activity.",
-    "pincusco": "Chaskel Landau signs $10M ground lease with KSR Development for dev site in Bedford Stuyvesant: UPDATED 2:22 p.m., July 21, 2026: Chaskel Landau as tenant through the entity 1288 Fulton.\n\nRebecca Colin pays $9.5M to Ralph Braha, Nakash Holdings for retail in Downtown Brooklyn: Rebecca Colin through the entity 423 Fulton RC LLC paid $9.5 million to Ralph Braha.\n\nSchuckman family signs $15M refi with Webster Bank for retail in Ozone Park: The family including Stanley Schuckman through the entity AHB Atlantic Realty LLC as borrower signed.",
-    "the_real_deal": "NY Dirt: Hit the gym: New Yorkers are ready to get healthy. Retailers are willing to bet on it.\n\nBXP putting 7 Times Square ground lease on the market: BXP is trying its hand at a nine-figure deal in the heart of Manhattan. Owen Thomas’ firm is seeking to sell the ground lease tied to 7 Times Square, the Commercial Observer reported.\n\nIs Mamdani’s “tenant equity” program oxymoronic? Or just moronic?: It seemed like a far-left fantasy — not a serious idea but something to titillate the base: on page 38 of Zohran Mamdani’s housing plan, a program to give tenants part-ownership of their buildings.\n\n295 Fifth Ave owners push for revival with refinancing: A landlord trio secured more than $200 million in fresh debt following the renovation of their 19-story Midtown South office building. PGIM, Tribeca Investment Group and Meadow Partners landed a $228.9 million loan to refinance 295 Fifth Avenue, otherwise known as the Textile Building, the Commercial Observer."
+    "commercial_observer": "Meal Delivery Service CookUnity to Open Flagship Storefront at NoMad Hotel: CookUnity , a subscription-based meal delivery platform, has inked 4,721 square feet of ground-floor retail space at Lam Group ’s 1227 Broadway , also known as Virgin Hotel New York City , in Manhattan’s NoMad neighborhood, Commercial Observer has learned.\n\nInfinium Wall Systems Takes 30K SF of Office, Retail Space at ESRT’s 1359 Broadway: If these walls could talk, they’d talk about all the new leasing in Midtown. Infinium Wall Syst ems , a company that designs, engineers and installs wall systems and doors for offices, has inked a new office and retail lease spanning 30,017 square feet at Empire State Realty Trust (ESRT)’s 1359 Broadway , the landlord.\n\nLos Angeles Matcha Brand Archives of Us Signs Retail Lease in East Village: A Los Angeles-based matcha cafe chain has signed a retail deal for its first New York City location in Manhattan’s East Village. Archives of Us has leased 2,400 square feet at Highpoint Property Group ’s 84 Second Avenue , where it will act as a cafe and retail presence for the matcha brand, according to landlord.\n\nBakery Shop Cafe Aroma to Open New Spot on the Upper East Side: Time to rise and grind, Upper East Siders, as a new coffee shop and bakery is set to open at Avenues Equity Partners ’ 1410 Madison Avenue in Carnegie Hill. Family-owned coffee shop and bakery Cafe Aroma has taken 2,200 square feet of retail space at the base of the five-story residential building, according to.",
+    "cre_daily": "Rising Bankruptcies Create Lease Challenges for CRE Owners: Corporate bankruptcy filings rose nearly 12% year-over-year to over 591,000, per Administrative Office of the US Courts. Retail and restaurant tenants are increasingly rejecting or renegotiating leases, directly impacting commercial landlords and property values.\n\nBoutique Gyms Lead Manhattan Retail Leasing Surge: Manhattan’s largest retail leases this quarter came from boutique gyms and wellness providers, according to a new JLL report. Top signings include Chelsea Piers and Life Time, both taking over 70,000 SF, with more high-end wellness entrants following suit.\n\nUS Retail Vacancy Holds at 4.4% as Demand Stays Strong: US retail vacancy remained at 4.4% in Q2 2026, showing market stability despite economic headwinds. Net absorption rebounded to 10.2M SF, with value-oriented and experiential retailers driving leasing activity.\n\nNet Lease Cap Rates Tick Up as Retail Supply Surges in Q2: US net lease cap rates edged up in Q2 2026, with retail up 5 bps to 6.60% and industrial up 10 bps to 7.25%, per The Boulder Group. Total single tenant properties on the market increased 12.5% quarter-over-quarter, driven by a 16.2% surge in retail availability.",
+    "new_york_post": "Landlord sues upscale ‘squatters’ in luxe NYC tower who racked up a colossal $78K in back rent: The rent is too damn high — except when it isn’t being paid. Two deadbeat residents with an apparent taste for the finest are squatting in a swanky Central Park South tower, having racked up an eye-popping $78,375 plus interest in back rent, a new Manhattan Supreme Court lawsuit alleges.\n\nSan Francisco’s troubled homeless housing project stripped of millions after scandal-plagued run: \"We want to make very clear to HomeRise as well as other providers that this level of failure is not acceptable,\" a spokesperson said.\n\nDying mom leaves grieving son sprawling mythical castle, now filled with her ‘signs’: A Los Angeles man is turning his grief into a full-time restoration project, spending his days bringing a storybook Hollywood Hills castle back to life in honor of the mother who left it to him before she died of cancer.",
+    "the_real_deal": "NY Dirt: Hit the gym: New Yorkers are ready to get healthy. Retailers are willing to bet on it.\n\nNYC’s top deals: Midwood office trades for $31M: There were 206 transactions totaling $307 million filed in New York City records in the 24 hours before 4 p.m. on Wednesday, July 22.\n\nNir Meir fails to reach plea deal, will head to trial for fraud: Nir Meir has not yet accepted a plea deal, his attorney said at his last court appearance before his October trial. The disgraced former HFZ Capital executive has pleaded not guilty in an alleged $86 million fraud case involving the XI condo project on the High Line.\n\nMamdani turns to familiar figure to lead EDC: Zohran Mamdani is filling the seven-month void at one of the city’s most critical business agencies with a political veteran intimately familiar with the workings of New York City government. Mamdani will name McKinsey & Co."
   },
   "items": [
+    {
+      "headline": "Meal Delivery Service CookUnity to Open Flagship Storefront at NoMad Hotel",
+      "summary": "CookUnity , a subscription-based meal delivery platform, has inked 4,721 square feet of ground-floor retail space at Lam Group ’s 1227 Broadway , also known as Virgin Hotel New York City , in Manhattan’s NoMad neighborhood, Commercial Observer has learned. The deal represents the chef-prepared meal service company’s first flagship storefront in New York City, a source close to the deal told CO. The store is expected to open in the first half of 2027.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/meal-delivery-cookunity-lease-store-nomad-hotel/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-22T20:55:51.000Z"
+    },
     {
       "headline": "Rising Bankruptcies Create Lease Challenges for CRE Owners",
       "summary": "Corporate bankruptcy filings rose nearly 12% year-over-year to over 591,000, per Administrative Office of the US Courts. Retail and restaurant tenants are increasingly rejecting or renegotiating leases, directly impacting commercial landlords and property values. CRE owners face increased uncertainty but some are backfilling space with new growth tenants as market churn accelerates.…",
@@ -19,24 +28,6 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-07-14T08:12:00.000Z"
-    },
-    {
-      "headline": "Ideal Marketplace Renews 15K-SF Grocery Store at Chelsea’s 317 Ninth Avenue",
-      "summary": "Supermarket chain Ideal Marketplace has renewed the lease on its 14,770-square-foot store in Manhattan’s Chelsea neighborhood. The retail deal’s address at 317 Ninth Avenue resides between West 28th and West 29th streets, inside a United States Postal Service (USPS) property that spans the entire city block. USPS, which is actively operating at the connected 341 Ninth Avenue , owns the five-story property.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/ideal-marketplace-lease-renewal-317-ninth-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-08T19:45:47.000Z"
-    },
-    {
-      "headline": "Asana, Norges Bank Launch $500M JV for US Retail Assets",
-      "summary": "Asana Partners and Norges Bank formed a joint venture with $500M in equity to invest in US retail properties. The venture will focus on core and core+ grocery-anchored centers in growth markets, aiming to tap resilient tenant demand. This move reflects ongoing investor interest in neighborhood retail as consumer spending remains robust but selective.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/asana-norges-bank-launch-500m-jv-for-us-retail-assets/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-07-09T08:57:34.000Z"
     },
     {
       "headline": "Infinium Wall Systems Takes 30K SF of Office, Retail Space at ESRT’s 1359 Broadway",
@@ -138,6 +129,15 @@
       "published_at": "2026-07-09T14:25:59.000Z"
     },
     {
+      "headline": "GLP-1 Medications Shift US Retail Foot Traffic and Sales",
+      "summary": "GLP-1 medications are altering US shopping habits, cutting snack spending and boosting wellness-related retail activity. Fitness, fresh food, and athleisure retailers are seeing increased foot traffic and sales as consumers refocus on health. Landlords and retailers are adapting to demand shifts, reflecting broader changes in size curves, inventory, and leasing activity.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/glp-1-medications-shift-us-retail-foot-traffic-and-sales/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-07-22T03:52:30.000Z"
+    },
+    {
       "headline": "Korean Grocery Sensation H Mart Wants to Conquer the Sun Belt",
       "summary": "Shopping hauls are some of the Internet’s most popular videos , but some Gen Zers are sampling and sharing their impressions of an Asian supermarket’s products instead of their latest luxury splurge. In February, TikTok user Linda Vo (@itslindavo) posted a short clip of her emptying a paper bag of Korean salt bread, a triangle kimbap, vermicelli, pears and puffy rice cakes that she purchased at her local H Mart, a Lyndhurst, N.J.-based chain of grocery stores that specialize in Asian goods.…",
       "source": "Commercial Observer",
@@ -156,49 +156,22 @@
       "published_at": "2026-07-15T15:59:43.000Z"
     },
     {
-      "headline": "Real Estate Firm Yuco, AI Company Elite Each Take 7K SF at 757 Third Avenue",
-      "summary": "Two tenants have signed on for 6,960 square feet each at Midtown East’s 757 Third Avenue , Commercial Observer has learned. Yuco Management , a New York City-based real estate development and management firm, inked a deal to take over the entire 27th floor of the 26-story Class A office building owned by New York Life Real Estate Investors , according to landlord broker JLL . Yuco will relocate to 757 Third Avenue from its current offices at 200 Park Avenue .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/yuco-management-elite-leases-757-third-avenue/",
-      "section": "commercial_observer",
+      "headline": "NYC’s top deals: Midwood office trades for $31M",
+      "summary": "There were 206 transactions totaling $307 million filed in New York City records in the 24 hours before 4 p.m. on Wednesday, July 22. Commercial: The biggest commercial sale to hit records was in Midwood, where an affiliate of Midland Loan Services parted with an office building at 1630 East 15th Street for $31 million. The buyer was a company managed by Marcus Adjmi. Midland had taken over the property in 2024 amid a foreclosure case. The three-story building measures about 230,000 square feet.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/23/new-york-top-real-estate-deals-wednesday-july-22/",
+      "section": "the_real_deal",
       "retail": true,
-      "published_at": "2026-07-21T21:24:38.000Z"
+      "published_at": "2026-07-23T11:00:00.000Z"
     },
     {
-      "headline": "AI Company Mercor Takes 26K SF at Durst’s One World Trade Center",
-      "summary": "One World Trade Center is almost 100 percent leased thanks to the latest deal with an artificial intelligence company, Commercial Observer has learned. Mercor , which employs human experts to train AI algorithms, has inked a five-year, 25,550-square-foot deal on the 77th floor of the Lower Manhattan office tower, the Durst Organization announced Tuesday. Durst owns the 104-story building along with the Port Authority of New York and New Jersey .…",
+      "headline": "Insurance Giant Fidelity Takes 20K SF at SL Green’s 711 Third Avenue",
+      "summary": "SL Green Realty has signed two deals totaling 34,564 square feet at its 20-story Midtown East office building at 711 Third Avenue , Commercial Observer has learned. In the largest deal, title insurance and settlement provider Fidelity National Title Insurance signed a new lease for 19,966 square feet on a portion of the seventh floor for a period of 10 years, according to the landlord. Fidelity’s website lists its current address as 485 Lexington Avenue , a five-minute walk from its new location.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/mercor-lease-durst-one-world-trade-center/",
+      "url": "https://commercialobserver.com/2026/07/fidelity-lease-sl-green-711-third-avenue/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-07-21T18:55:00.000Z"
-    },
-    {
-      "headline": "Starwood Advances 226K-SF Data Center in Fairfax County, Va.",
-      "summary": "Starwood Capital Group is advancing plans for a pair of data centers in Fairfax County, Va., near the Alexandria border. The investment firm filed plans last week for the first building at its Plaza 500 development, according to the Business Journals , which cited Fairfax County records. Plaza 500 South , the proposed two-story data center, would span 226,469 square feet and rise 75 feet. The first phase of construction on the building shell is estimated to cost $5 million.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/starwood-data-center-virginia/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-21T21:35:49.000Z"
-    },
-    {
-      "headline": "Investment Firm T7 Capital Signs 4K-SF Lease at GFP’s 515 Madison Avenue",
-      "summary": "GFP Real Estate has signed three new deals at its Midtown office tower at 515 Madison Avenue , totaling nearly 9,000 square feet of space, the landlord announced Tuesday. In the largest deal, investment management firm T7 Capital signed a five-year, 3,956-square-foot lease on the building’s 29th floor. It’s unclear whether the deal represents a relocation or a new location for T7, which has a current office address listed at 1040 Avenue of the Americas on its website.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/t7-capital-lease-gfp-515-madison-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-21T15:32:24.000Z"
-    },
-    {
-      "headline": "Chaskel Landau signs $10M ground lease with KSR Development for dev site in Bedford Stuyvesant",
-      "summary": "UPDATED 2:22 p.m., July 21, 2026: Chaskel Landau as tenant through the entity 1288 Fulton The post Chaskel Landau signs $10M ground lease with KSR Development for dev site in Bedford Stuyvesant appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/chaskel-landau-signs-10m-ground-lease-with-salama-sabbagh-dweck-kassin-for-dev-site-in-bedford-stuyvesant/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-07-21T12:51:00.000Z"
+      "published_at": "2026-07-22T17:34:21.000Z"
     },
     {
       "headline": "Retail Veterans Joshua Strauss and Scott Zinovoy Join JLL",
@@ -210,42 +183,6 @@
       "published_at": "2026-07-20T20:41:14.000Z"
     },
     {
-      "headline": "Rebecca Colin pays $9.5M to Ralph Braha, Nakash Holdings for retail in Downtown Brooklyn",
-      "summary": "Rebecca Colin through the entity 423 Fulton RC LLC paid $9.5 million to Ralph Braha The post Rebecca Colin pays $9.5M to Ralph Braha, Nakash Holdings for retail in Downtown Brooklyn appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/rebecca-colin-pays-9-5m-to-ralph-braha-nakash-holdings-for-retail-in-downtown-brooklyn/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-07-22T11:05:00.000Z"
-    },
-    {
-      "headline": "BXP putting 7 Times Square ground lease on the market",
-      "summary": "BXP is trying its hand at a nine-figure deal in the heart of Manhattan. Owen Thomas’ firm is seeking to sell the ground lease tied to 7 Times Square, the Commercial Observer reported. BXP is reportedly expected to ask between $700 million and $750 million for the 1.2 million-square-foot property. What’s unclear is whether or not that asking price pertains to the entire ground lease, or the majority stake BXP possesses.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/21/bxp-putting-7-times-square-ground-lease-on-the-market/",
-      "section": "the_real_deal",
-      "retail": true,
-      "published_at": "2026-07-21T16:15:00.000Z"
-    },
-    {
-      "headline": "Chinese Camera Company Insta360 to Open Store in Times Square",
-      "summary": "Insta360 , a China-based global optics and camera company, has signed its first U.S. lease for a 1,100-square-foot store at 1515 Broadway in Manhattan’s Times Square , Commercial Observer has learned. The world’s No. 1 360-degree camera brand, which is a direct competitor to the popular GoPro brand, has been used for purposes ranging from undersea exploring to documenting sustainable outer space adventures.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/china-camera-insta360-lease-times-square/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-08T19:11:26.000Z"
-    },
-    {
-      "headline": "Schuckman family signs $15M refi with Webster Bank for retail in Ozone Park",
-      "summary": "The family including Stanley Schuckman through the entity AHB Atlantic Realty LLC as borrower signed The post Schuckman family signs $15M refi with Webster Bank for retail in Ozone Park appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/schuckman-family-signs-15m-refi-with-webster-bank-for-retail-in-ozone-park/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-07-22T11:02:00.000Z"
-    },
-    {
       "headline": "More Luxury Retailers Partner With Everyday Names to Lure Gen Z Shoppers",
       "summary": "On May 16, watch brands Swatch and Audemars Piguet (AP) launched a collaborative line of eight pocket watches called Royal Pop, which, in addition to featuring designs that popped with vibrant colors, included a window into the inner workings of the watch. The intent of the Royal Pop watches, which retail for around $400 each, was to “invite a broader audience, including the younger generations, to experience mechanical watchmaking differently,” according to the AP website .…",
       "source": "Commercial Observer",
@@ -255,31 +192,94 @@
       "published_at": "2026-07-22T10:00:51.000Z"
     },
     {
-      "headline": "Luxury Menswear Brand ISAIA Takes 13K SF at Feil’s 257 Park Avenue South",
-      "summary": "ISAIA , a luxury menswear brand out of Naples, Italy, has signed a 13,000-square-foot lease renewal on the 10th floor of the Feil Organization ’s 257 Park Avenue South , the property owner announced Tuesday. Feil said the brand has “recommitted” to its corporate showroom space at the property, also known as the Gramercy Park Building . The length of the lease is for 10 years. Feil did not disclose the asking rent for the space.…",
+      "headline": "GLP-1 Users Are Reshaping Retail With Every Pound They Shed",
+      "summary": "In 2024, according to a Gallup survey , just 3 percent of U.S. adults were using GLP-1 medications to lose weight. By July 2026, that share had soared to 11 percent, with 15 percent saying they had at some point tried a GLP-1 drug such as Ozempic or Wegovy for weight loss. This means that right now, around 1 in 8 American adults are making a serious attempt to eat healthier, live less destructive lifestyles, and transform into the idealized versions of themselves they had long been trying, but failing, to become.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/isaia-lease-feil-257-park-avenue-south/",
+      "url": "https://commercialobserver.com/2026/07/glp-1-retail-groceries-clothes/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-07-21T20:46:04.000Z"
+      "published_at": "2026-07-20T13:00:02.000Z"
     },
     {
-      "headline": "Is Mamdani’s “tenant equity” program oxymoronic? Or just moronic?",
-      "summary": "It seemed like a far-left fantasy — not a serious idea but something to titillate the base: on page 38 of Zohran Mamdani’s housing plan, a program to give tenants part-ownership of their buildings. But last week his housing commissioner, Dina Levy, said the administration is having “really interesting conversations” with for-profit real estate firms about making it happen.…",
+      "headline": "Nir Meir fails to reach plea deal, will head to trial for fraud",
+      "summary": "Nir Meir has not yet accepted a plea deal, his attorney said at his last court appearance before his October trial. The disgraced former HFZ Capital executive has pleaded not guilty in an alleged $86 million fraud case involving the XI condo project on the High Line. When Meir was in court earlier this month, his attorney, Stephen McCarthy, asked the judge for one last chance to make a plea deal before trial, saying he had a meeting planned with the bureau chief at the Manhattan district attorney’s office.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/21/mamdani-in-talks-on-program-to-give-tenants-stake-in-buildings/",
-      "section": "the_real_deal",
-      "retail": true,
-      "published_at": "2026-07-21T13:00:00.000Z"
-    },
-    {
-      "headline": "295 Fifth Ave owners push for revival with refinancing",
-      "summary": "A landlord trio secured more than $200 million in fresh debt following the renovation of their 19-story Midtown South office building. PGIM, Tribeca Investment Group and Meadow Partners landed a $228.9 million loan to refinance 295 Fifth Avenue, otherwise known as the Textile Building, the Commercial Observer reported. Rialto Capital Management and Hines issued the floating-rate, interest-only bridge debt. The sponsorship group last secured $150 million in debt from Deutsche Pfandbriefbank in November 2022.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/21/owners-of-295-fifth-ave-push-for-revival-with-refinancing/",
+      "url": "https://therealdeal.com/new-york/2026/07/22/nir-meir-headed-to-trial/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-07-21T19:00:00.000Z"
+      "published_at": "2026-07-22T21:13:45.000Z"
+    },
+    {
+      "headline": "Mamdani turns to familiar figure to lead EDC",
+      "summary": "Zohran Mamdani is filling the seven-month void at one of the city’s most critical business agencies with a political veteran intimately familiar with the workings of New York City government. Mamdani will name McKinsey & Co. partner Anthony Shorris as the president and chief executive officer of the Economic Development Corporation, Crain’s reported. The official announcement could come as soon as Wednesday.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/22/mamdani-turns-to-familiar-figure-to-lead-edc/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-07-22T15:00:00.000Z"
+    },
+    {
+      "headline": "NYC’s top construction permits: Week ending July 17, 2026",
+      "summary": "New Building: The largest new building application filed last week was on the border of Crown Heights and Prospect-Lefferts Gardens. Rafael Rabinowitz of HSD Construction plans to build a 112,279-square-foot, eight-story development at 103 Empire Boulevard. The mixed-use project is slated to have 50 apartments. Kao Hwa Lee is the architect. Job Filing Number: B01408304-I1 New Building: Borough Developers filed plans to construct an 82,731-square-foot mixed-use project at 45-51 and 45-49 Vernon Boulevard in Queens.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/22/new-york-citys-top-construction-permits-july-17-2026/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-07-22T12:00:00.000Z"
+    },
+    {
+      "headline": "Landlord sues upscale ‘squatters’ in luxe NYC tower who racked up a colossal $78K in back rent",
+      "summary": "The rent is too damn high — except when it isn’t being paid. Two deadbeat residents with an apparent taste for the finest are squatting in a swanky Central Park South tower, having racked up an eye-popping $78,375 plus interest in back rent, a new Manhattan Supreme Court lawsuit alleges. And, according to other records,...",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/22/real-estate/couple-squats-in-13k-central-park-south-apartment-lawsuit/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-07-22T11:30:00.000Z"
+    },
+    {
+      "headline": "NYC’s top deals: Noho apartment building trades for $17M",
+      "summary": "There were 227 transactions totaling $385 million filed in New York City records in the 24 hours before 4 p.m. on Tuesday, July 21. Commercial: Aston of Bowry LLC bought the apartment building at 312 Bowery in NoHo for $16.7 million, representing the priciest commercial sale to hit records. Bremen House Inc. was the seller.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/22/new-york-top-real-estate-deals-tuesday-july-21/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-07-22T11:00:00.000Z"
+    },
+    {
+      "headline": "NY Dirt: Mamdani’s EDC picks, “dream team” or odd couple?",
+      "summary": "Mayor Zohran Mamdani describes new CEO Anthony Shorris and Chair Lina Khan as a “dream team” atop the EDC, but they are also an odd pairing. A mild-mannered McKinsey & Co. partner and firebrand ex-Federal Trade Commission chair aren’t the typical duo to hold the reins of the city’s most powerful business agency and its board. Mamdani, however, thinks that Shorris and Khan can find common ground as economic wonks to deliver on his Olympic-level expectations for reshaping the Economic Development…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/23/mamdani-taps-shorris-khan-as-edc-heads/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-07-23T11:30:00.000Z"
+    },
+    {
+      "headline": "San Francisco’s troubled homeless housing project stripped of millions after scandal-plagued run",
+      "summary": "\"We want to make very clear to HomeRise as well as other providers that this level of failure is not acceptable,\" a spokesperson said.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/22/us-news/san-francisco-cuts-off-homelessness-nonprofit-homerise/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-07-22T23:21:21.000Z"
+    },
+    {
+      "headline": "JPMorgan eyes $425M valuation in exit from Fisher Brothers’ Third Avenue office tower",
+      "summary": "Fisher Brothers is set to recapitalize another big Midtown office tower. Fresh off its $1.1 billion recap of Park Avenue Plaza, the family firm is planning to take on a new partner at 605 Third Avenue — eyeing a valuation of $425 million. The Fishers’ partner, JPMorgan Asset Management, is looking to sell its 49-percent stake in the 43-story, 1 million-square-foot tower, The Real Deal has learned.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/22/jpmorgan-to-sell-stake-in-fisher-brothers-605-third-avenue/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-07-22T20:45:00.000Z"
+    },
+    {
+      "headline": "Dying mom leaves grieving son sprawling mythical castle, now filled with her ‘signs’",
+      "summary": "A Los Angeles man is turning his grief into a full-time restoration project, spending his days bringing a storybook Hollywood Hills castle back to life in honor of the mother who left it to him before she died of cancer. Teva Barnea, who goes by @hollywoodhillscastle on TikTok, has drawn millions of views documenting his...",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/22/real-estate/dying-mom-leaves-grieving-son-sprawling-mythical-castle/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-07-22T17:11:39.000Z"
     }
   ]
 }
