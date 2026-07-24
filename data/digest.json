@@ -1,14 +1,15 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-07-23",
-  "generated_at": "2026-07-23T11:55:59.236Z",
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T11:48:21.664Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Meal Delivery Service CookUnity to Open Flagship Storefront at NoMad Hotel: CookUnity , a subscription-based meal delivery platform, has inked 4,721 square feet of ground-floor retail space at Lam Group ’s 1227 Broadway , also known as Virgin Hotel New York City , in Manhattan’s NoMad neighborhood, Commercial Observer has learned.\n\nInfinium Wall Systems Takes 30K SF of Office, Retail Space at ESRT’s 1359 Broadway: If these walls could talk, they’d talk about all the new leasing in Midtown. Infinium Wall Syst ems , a company that designs, engineers and installs wall systems and doors for offices, has inked a new office and retail lease spanning 30,017 square feet at Empire State Realty Trust (ESRT)’s 1359 Broadway , the landlord.\n\nLos Angeles Matcha Brand Archives of Us Signs Retail Lease in East Village: A Los Angeles-based matcha cafe chain has signed a retail deal for its first New York City location in Manhattan’s East Village. Archives of Us has leased 2,400 square feet at Highpoint Property Group ’s 84 Second Avenue , where it will act as a cafe and retail presence for the matcha brand, according to landlord.\n\nBakery Shop Cafe Aroma to Open New Spot on the Upper East Side: Time to rise and grind, Upper East Siders, as a new coffee shop and bakery is set to open at Avenues Equity Partners ’ 1410 Madison Avenue in Carnegie Hill. Family-owned coffee shop and bakery Cafe Aroma has taken 2,200 square feet of retail space at the base of the five-story residential building, according to.",
-    "cre_daily": "Rising Bankruptcies Create Lease Challenges for CRE Owners: Corporate bankruptcy filings rose nearly 12% year-over-year to over 591,000, per Administrative Office of the US Courts. Retail and restaurant tenants are increasingly rejecting or renegotiating leases, directly impacting commercial landlords and property values.\n\nBoutique Gyms Lead Manhattan Retail Leasing Surge: Manhattan’s largest retail leases this quarter came from boutique gyms and wellness providers, according to a new JLL report. Top signings include Chelsea Piers and Life Time, both taking over 70,000 SF, with more high-end wellness entrants following suit.\n\nUS Retail Vacancy Holds at 4.4% as Demand Stays Strong: US retail vacancy remained at 4.4% in Q2 2026, showing market stability despite economic headwinds. Net absorption rebounded to 10.2M SF, with value-oriented and experiential retailers driving leasing activity.\n\nNet Lease Cap Rates Tick Up as Retail Supply Surges in Q2: US net lease cap rates edged up in Q2 2026, with retail up 5 bps to 6.60% and industrial up 10 bps to 7.25%, per The Boulder Group. Total single tenant properties on the market increased 12.5% quarter-over-quarter, driven by a 16.2% surge in retail availability.",
-    "new_york_post": "Landlord sues upscale ‘squatters’ in luxe NYC tower who racked up a colossal $78K in back rent: The rent is too damn high — except when it isn’t being paid. Two deadbeat residents with an apparent taste for the finest are squatting in a swanky Central Park South tower, having racked up an eye-popping $78,375 plus interest in back rent, a new Manhattan Supreme Court lawsuit alleges.\n\nSan Francisco’s troubled homeless housing project stripped of millions after scandal-plagued run: \"We want to make very clear to HomeRise as well as other providers that this level of failure is not acceptable,\" a spokesperson said.\n\nDying mom leaves grieving son sprawling mythical castle, now filled with her ‘signs’: A Los Angeles man is turning his grief into a full-time restoration project, spending his days bringing a storybook Hollywood Hills castle back to life in honor of the mother who left it to him before she died of cancer.",
-    "the_real_deal": "NY Dirt: Hit the gym: New Yorkers are ready to get healthy. Retailers are willing to bet on it.\n\nNYC’s top deals: Midwood office trades for $31M: There were 206 transactions totaling $307 million filed in New York City records in the 24 hours before 4 p.m. on Wednesday, July 22.\n\nNir Meir fails to reach plea deal, will head to trial for fraud: Nir Meir has not yet accepted a plea deal, his attorney said at his last court appearance before his October trial. The disgraced former HFZ Capital executive has pleaded not guilty in an alleged $86 million fraud case involving the XI condo project on the High Line.\n\nMamdani turns to familiar figure to lead EDC: Zohran Mamdani is filling the seven-month void at one of the city’s most critical business agencies with a political veteran intimately familiar with the workings of New York City government. Mamdani will name McKinsey & Co."
+    "cre_daily": "Boutique Gyms Lead Manhattan Retail Leasing Surge: Manhattan’s largest retail leases this quarter came from boutique gyms and wellness providers, according to a new JLL report. Top signings include Chelsea Piers and Life Time, both taking over 70,000 SF, with more high-end wellness entrants following suit.\n\nUS Retail Vacancy Holds at 4.4% as Demand Stays Strong: US retail vacancy remained at 4.4% in Q2 2026, showing market stability despite economic headwinds. Net absorption rebounded to 10.2M SF, with value-oriented and experiential retailers driving leasing activity.\n\nNet Lease Cap Rates Tick Up as Retail Supply Surges in Q2: US net lease cap rates edged up in Q2 2026, with retail up 5 bps to 6.60% and industrial up 10 bps to 7.25%, per The Boulder Group. Total single tenant properties on the market increased 12.5% quarter-over-quarter, driven by a 16.2% surge in retail availability.\n\nRetail Investment Surges as Supply Tightens Across US: Retail transaction volume hit $15.3B in Q1 2026, rising 5% year-over-year, as buyers chase limited deals per JLL. Vacancy remains low and new supply trails the 10-year average, fueling stiff competition and rising rents in prime markets.",
+    "new_york_post": "Famed Polo Bar will leave its iconic NYC home for free rent — risking its exclusivity: Sources say the restaurant's original home will soon give way to a shinier address, but not everyone is ready to say goodbye.",
+    "pincusco": "Abraham Posner signs $50M construction loan with Ponce for 2 projects with 198 units in Canarsie: Abraham Posner through the entity Unity Grove LLC as borrower signed a new construction loan.",
+    "the_real_deal": "NYC’s top deals: Witkoff, Access Industries sell One High Line unit for $14M: There were 168 transactions totaling $247 million filed in New York City records in the 24 hours before 4 p.m. on Thursday, July 23.\n\nSL Green cashes in on Manhattan office rebound: With little new office construction on the horizon, tenants are scrambling for the city’s best buildings, and Manhattan’s biggest office landlord is reaping the benefits. SL Green raised its full-year earnings guidance by $1.20 per share, a more than 26 percent increase.\n\nRelated looks to recruit Polo Bar to 625 Madison: Jeff Blau’s recruitment pitch for office tenants at 625 Madison Avenue could include proximity to one of the most exclusive eateries in New York City. Related Companies is in discussions to bring Ralph Lauren’s Polo Bar to the Midtown Manhattan development, the Wall Street Journal reported.\n\nMamdani admin supporting bid on foreclosed Emerald Equities portfolio: Mayor Zohran Mamdani wants to transfer distressed buildings to new ownership. One of the first tests of that strategy will involve an East Harlem portfolio of 38 rent-stabilized Manhattan buildings currently in foreclosure."
   },
   "items": [
     {
@@ -19,15 +20,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-07-22T20:55:51.000Z"
-    },
-    {
-      "headline": "Rising Bankruptcies Create Lease Challenges for CRE Owners",
-      "summary": "Corporate bankruptcy filings rose nearly 12% year-over-year to over 591,000, per Administrative Office of the US Courts. Retail and restaurant tenants are increasingly rejecting or renegotiating leases, directly impacting commercial landlords and property values. CRE owners face increased uncertainty but some are backfilling space with new growth tenants as market churn accelerates.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/rising-bankruptcies-create-lease-challenges-for-cre-owners/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-07-14T08:12:00.000Z"
     },
     {
       "headline": "Infinium Wall Systems Takes 30K SF of Office, Retail Space at ESRT’s 1359 Broadway",
@@ -84,15 +76,6 @@
       "published_at": "2026-07-15T04:28:13.000Z"
     },
     {
-      "headline": "NY Dirt: Hit the gym",
-      "summary": "New Yorkers are ready to get healthy. Retailers are willing to bet on it. One trend driving retail activity this past quarter compared to last was high-end wellness. The two largest leases of the quarter, as compiled in a JLL report released Thursday, were Chelsea Piers’ 76,000-square-foot deal by the South Street Seaport, at 250 Water Street, and Life Time’s 71,000-square-foot lease in North Williamsburg.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/10/wellness-dominated-nyc-retail-leases/",
-      "section": "the_real_deal",
-      "retail": true,
-      "published_at": "2026-07-10T11:30:00.000Z"
-    },
-    {
       "headline": "Retail Investment Surges as Supply Tightens Across US",
       "summary": "Retail transaction volume hit $15.3B in Q1 2026, rising 5% year-over-year, as buyers chase limited deals per JLL. Vacancy remains low and new supply trails the 10-year average, fueling stiff competition and rising rents in prime markets. Institutional capital is increasing, shifting market dynamics as investors broaden their focus beyond grocery-anchored centers.…",
       "source": "CRE Daily",
@@ -102,6 +85,15 @@
       "published_at": "2026-07-17T04:37:39.000Z"
     },
     {
+      "headline": "Fashion Nova Expands L.A. Footprint With 133K-SF Warehouse Deal",
+      "summary": "Fashion Nova is expanding its Southern California logistics side with another industrial lease in Santa Fe Springs. The Los Angeles-based fast-fashion retailer signed a lease to take over the 132,888-square-foot warehouse at 12301 Hawkins Street , according to CoStar . It increases Fashion Nova’s warehouse footprint in Santa Fe Springs by about 33 percent. New York-based real estate investment manager Clarion Partners owns the property in the Heritage Springs Business Park .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/fashion-nova-la-industrial/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-23T22:20:03.000Z"
+    },
+    {
       "headline": "Barolo Restaurant Group Inks Deal to Open Italian Eatery in Times Square",
       "summary": "Italian restaurant operator Barolo Restaurant Group plans to open its third New York City restaurant, Barolo West , at 250 West 49th Street in Times Square . The company took 2,500 square feet of space at the newly developed 29-story property in Midtown. The length of the lease was not disclosed, but the asking rent was $210 per square foot, according to broker Meridian Capital Group . Meridian’s Noam Aziz and Carson Shahrabani represented Barolo and landlord Chess Builders .…",
       "source": "Commercial Observer",
@@ -109,24 +101,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-07-14T17:27:27.000Z"
-    },
-    {
-      "headline": "Dim Sum Restaurant Breeze to Open at 590 Fulton Street in Downtown Brooklyn",
-      "summary": "Popular Sichuan and dim sum restaurant Breeze is set to open a second Brooklyn location this fall. Breeze, also known for its curated wine and cocktail program, signed a 15-year, 3,569-square-foot lease at the base of the Gotham Organization ’s 52-story, 586-unit residential building at 590 Fulton Street in Downtown Brooklyn, broker Lee & Associates NYC announced Thursday. The restaurant leased 2,790 square feet on the ground floor and 779 square feet on the lower level of the property.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/dim-sum-breeze-lease-590-fulton-street-brooklyn/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-09T16:57:55.000Z"
-    },
-    {
-      "headline": "Italian Market Chain to Open First NYC Store by Penn Station",
-      "summary": "Mangia! Mangia! Manhattan’s Penn District is getting a new Italian market this fall. Dal Moros Fresh Pasta To Go , a fast-casual restaurant born in Venice, Italy, has signed a lease for 1,100 square feet at 421 Seventh Avenue , marking the brand’s first New York City location, Commercial Observer has learned. Dal Moros is best known for its grab-and-go fresh pasta concept, in which it serves freshly made, artisanal pasta in convenient takeout boxes. The Italian market already has U.S.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/dal-moros-lease-store-penn-station/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-09T14:25:59.000Z"
     },
     {
       "headline": "GLP-1 Medications Shift US Retail Foot Traffic and Sales",
@@ -156,22 +130,67 @@
       "published_at": "2026-07-15T15:59:43.000Z"
     },
     {
-      "headline": "NYC’s top deals: Midwood office trades for $31M",
-      "summary": "There were 206 transactions totaling $307 million filed in New York City records in the 24 hours before 4 p.m. on Wednesday, July 22. Commercial: The biggest commercial sale to hit records was in Midwood, where an affiliate of Midland Loan Services parted with an office building at 1630 East 15th Street for $31 million. The buyer was a company managed by Marcus Adjmi. Midland had taken over the property in 2024 amid a foreclosure case. The three-story building measures about 230,000 square feet.…",
+      "headline": "NYC’s top deals: Witkoff, Access Industries sell One High Line unit for $14M",
+      "summary": "There were 168 transactions totaling $247 million filed in New York City records in the 24 hours before 4 p.m. on Thursday, July 23. Commercial: Midtown had the priciest commercial deal recorded in New York. Enbergar NY LLC sold the office building at 122 East 55th Street for $7.7 million. The buyer was 122 East 55th Street LLC. The five-floor building spans nearly 5,500 square feet.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/23/new-york-top-real-estate-deals-wednesday-july-22/",
+      "url": "https://therealdeal.com/new-york/2026/07/24/new-york-top-real-estate-deals-thursday-july-23/",
       "section": "the_real_deal",
       "retail": true,
-      "published_at": "2026-07-23T11:00:00.000Z"
+      "published_at": "2026-07-24T11:00:00.000Z"
     },
     {
-      "headline": "Insurance Giant Fidelity Takes 20K SF at SL Green’s 711 Third Avenue",
-      "summary": "SL Green Realty has signed two deals totaling 34,564 square feet at its 20-story Midtown East office building at 711 Third Avenue , Commercial Observer has learned. In the largest deal, title insurance and settlement provider Fidelity National Title Insurance signed a new lease for 19,966 square feet on a portion of the seventh floor for a period of 10 years, according to the landlord. Fidelity’s website lists its current address as 485 Lexington Avenue , a five-minute walk from its new location.…",
+      "headline": "SL Green cashes in on Manhattan office rebound",
+      "summary": "With little new office construction on the horizon, tenants are scrambling for the city’s best buildings, and Manhattan’s biggest office landlord is reaping the benefits. SL Green raised its full-year earnings guidance by $1.20 per share, a more than 26 percent increase. The bump was largely driven by strong Manhattan office leasing, particularly early renewals and tenants snapping up pre-built space, as well as faster tenant move-ins and tighter expense controls, CFO Matt DiLiberto said during a…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/23/sl-green-cashes-in-on-manhattan-office-rebound/",
+      "section": "the_real_deal",
+      "retail": true,
+      "published_at": "2026-07-23T20:30:00.000Z"
+    },
+    {
+      "headline": "Related looks to recruit Polo Bar to 625 Madison",
+      "summary": "Jeff Blau’s recruitment pitch for office tenants at 625 Madison Avenue could include proximity to one of the most exclusive eateries in New York City. Related Companies is in discussions to bring Ralph Lauren’s Polo Bar to the Midtown Manhattan development, the Wall Street Journal reported. Details about the lease and the potential relocation from 1 East 55th Street were not disclosed.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/23/related-looks-to-recruit-polo-bar-to-625-madison/",
+      "section": "the_real_deal",
+      "retail": true,
+      "published_at": "2026-07-23T15:20:48.000Z"
+    },
+    {
+      "headline": "Mamdani admin supporting bid on foreclosed Emerald Equities portfolio",
+      "summary": "Mayor Zohran Mamdani wants to transfer distressed buildings to new ownership. One of the first tests of that strategy will involve an East Harlem portfolio of 38 rent-stabilized Manhattan buildings currently in foreclosure. The city is specifically supporting a bid on the buildings by Spatial Equity Co., a developer specializing in affordable and supportive housing, according to tenant organizers working with the portfolio. The buildings were previously owned by affiliates of Emerald Equities.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/23/mamdani-supports-spatial-equity-bid-on-emerald-portfolio/",
+      "section": "the_real_deal",
+      "retail": true,
+      "published_at": "2026-07-23T13:30:00.000Z"
+    },
+    {
+      "headline": "Retail CRE Lenders Sharpen Pricing on 60–65% LTV Debt",
+      "summary": "Lenders have tightened credit spreads on 60–65% LTV retail CRE loans by 16 basis points over the past year, per Trepp. The cost of incremental debt in the 50–59% LTV tier is nearly unchanged in the same period, underscoring a shift in lender competition. Lenders prioritizing pricing competitiveness in the middle of the capital stack could alter borrower decisions and reshape risk distribution in retail loan origination.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/retail-cre-lenders-sharpen-pricing-on-60-65-ltv-debt/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-07-24T06:06:29.000Z"
+    },
+    {
+      "headline": "Data Platform Chalk Grabs 27K SF in Flatiron District",
+      "summary": "Another artificial intelligence firm is planting roots in Midtown South. Chalk , a data platform that provides companies with infrastructure to deliver data to AI agents, has signed a lease for 26,607 square feet at Castro Properties ’ 43 West 23rd Street in the Flatiron District, according to landlord broker Okada & Company . Asking rent was $85 per square foot. The deal represents Chalk’s second Flatiron office location after it opened its first office at 54 West 21st Street four years ago.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/fidelity-lease-sl-green-711-third-avenue/",
+      "url": "https://commercialobserver.com/2026/07/chalk-ai-lease-flatiron-43-west-23rd-street/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-07-22T17:34:21.000Z"
+      "published_at": "2026-07-23T15:30:15.000Z"
+    },
+    {
+      "headline": "Google Expands Miami Office to 45K SF",
+      "summary": "Google ’s parent company has quadrupled its office footprint in Miami, Bloomberg reported . Alphabet inked a lease for about 45,000 square feet at 1450 Brickell Avenue this spring, where it had been leasing about 10,000 square feet. The tech giant has been stationed at the 34-story building since 2016. Developer Rilea Group completed the 1.1 million-square-foot high-rise in 2010, which Ramon Llorens ’s Amkin Management now owns, according to records.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/google-miami-office-1450-brickell-avenue/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-23T14:15:54.000Z"
     },
     {
       "headline": "Retail Veterans Joshua Strauss and Scott Zinovoy Join JLL",
@@ -181,6 +200,24 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-07-20T20:41:14.000Z"
+    },
+    {
+      "headline": "AI Firm Legora Takes 98K SF at SL Green’s 11 Madison Avenue",
+      "summary": "Legora , a company that developed a collaborative artificial intelligence-driven workspace for the legal profession, has signed a new 10-year lease for 98,420 square feet — the entire 11th floor — at SL Green Realty ’s 11 Madison Avenue . This brings the building to 100 percent occupancy. SL Green was represented by Brian Waterman , Brent Ozarowski and Erik Harris at Newmark . Legora was represented by Justin Haber and Kyle Riker at JLL .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/ai-firm-legora-takes-98k-sl-greens-11-madison-avenue/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-23T21:19:37.000Z"
+    },
+    {
+      "headline": "Lender quits legal battle with Jeff Sutton over $50M mortgage",
+      "summary": "A German bank has quietly exited foreclosure litigation it initiated last year against Jeff Sutton’s Herald Square retail property at 29 West 34th Street. The bank, Helaba, assigned the $50 million mortgage package to a new corporate entity, 29 W. 34th Street Holdings LLC, according to court records filed on July 17, which immediately reassigned the debt to 29 W. 34th Street Lender LLC. Financial documents show that SL Green’s Chief Legal Officer Andrew S.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/07/23/helaba-exits-foreclosure-lawsuit-against-jeff-suttons-herald-square-retail-property/",
+      "section": "the_real_deal",
+      "retail": true,
+      "published_at": "2026-07-23T19:00:00.000Z"
     },
     {
       "headline": "More Luxury Retailers Partner With Everyday Names to Lure Gen Z Shoppers",
@@ -201,85 +238,49 @@
       "published_at": "2026-07-20T13:00:02.000Z"
     },
     {
-      "headline": "Nir Meir fails to reach plea deal, will head to trial for fraud",
-      "summary": "Nir Meir has not yet accepted a plea deal, his attorney said at his last court appearance before his October trial. The disgraced former HFZ Capital executive has pleaded not guilty in an alleged $86 million fraud case involving the XI condo project on the High Line. When Meir was in court earlier this month, his attorney, Stephen McCarthy, asked the judge for one last chance to make a plea deal before trial, saying he had a meeting planned with the bureau chief at the Manhattan district attorney’s office.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/22/nir-meir-headed-to-trial/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-07-22T21:13:45.000Z"
+      "headline": "South Florida Retail Markets Show Sub-5% Vacancy",
+      "summary": "Despite oft-repeated fears of retail’s pandemic-drive demise, South Florida’s retail sector is enjoying a combination of low vacancy rates, resilient rental rates and robust leasing and investment sales. That’s according to market reports released Thursday by commercial real estate brokerage Colliers .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/south-florida-miami-retail-leasing-vacancy-rent/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-16T21:45:48.000Z"
     },
     {
-      "headline": "Mamdani turns to familiar figure to lead EDC",
-      "summary": "Zohran Mamdani is filling the seven-month void at one of the city’s most critical business agencies with a political veteran intimately familiar with the workings of New York City government. Mamdani will name McKinsey & Co. partner Anthony Shorris as the president and chief executive officer of the Economic Development Corporation, Crain’s reported. The official announcement could come as soon as Wednesday.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/22/mamdani-turns-to-familiar-figure-to-lead-edc/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-07-22T15:00:00.000Z"
+      "headline": "John Roesch Exits Meridian to Start Roesch Real Estate Group",
+      "summary": "Following an almost decade-long run with Meridian Retail Leasing , broker John Roesch decided to strike out on his own and has founded Roesch Real Estate Group (RREG). The days-old firm will focus on retail leasing with the eventual goal of starting an investment sales team, and bring institutional-style execution to the middle market.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/john-roesch-roesch-real-estate-group/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-13T12:00:43.000Z"
     },
     {
-      "headline": "NYC’s top construction permits: Week ending July 17, 2026",
-      "summary": "New Building: The largest new building application filed last week was on the border of Crown Heights and Prospect-Lefferts Gardens. Rafael Rabinowitz of HSD Construction plans to build a 112,279-square-foot, eight-story development at 103 Empire Boulevard. The mixed-use project is slated to have 50 apartments. Kao Hwa Lee is the architect. Job Filing Number: B01408304-I1 New Building: Borough Developers filed plans to construct an 82,731-square-foot mixed-use project at 45-51 and 45-49 Vernon Boulevard in Queens.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/22/new-york-citys-top-construction-permits-july-17-2026/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-07-22T12:00:00.000Z"
-    },
-    {
-      "headline": "Landlord sues upscale ‘squatters’ in luxe NYC tower who racked up a colossal $78K in back rent",
-      "summary": "The rent is too damn high — except when it isn’t being paid. Two deadbeat residents with an apparent taste for the finest are squatting in a swanky Central Park South tower, having racked up an eye-popping $78,375 plus interest in back rent, a new Manhattan Supreme Court lawsuit alleges. And, according to other records,...",
+      "headline": "Famed Polo Bar will leave its iconic NYC home for free rent — risking its exclusivity",
+      "summary": "Sources say the restaurant's original home will soon give way to a shinier address, but not everyone is ready to say goodbye.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/07/22/real-estate/couple-squats-in-13k-central-park-south-apartment-lawsuit/",
+      "url": "https://nypost.com/2026/07/23/real-estate/polo-bar-will-leave-its-nyc-location-for-free-rent/",
       "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-07-22T11:30:00.000Z"
+      "retail": true,
+      "published_at": "2026-07-23T20:38:23.000Z"
     },
     {
-      "headline": "NYC’s top deals: Noho apartment building trades for $17M",
-      "summary": "There were 227 transactions totaling $385 million filed in New York City records in the 24 hours before 4 p.m. on Tuesday, July 21. Commercial: Aston of Bowry LLC bought the apartment building at 312 Bowery in NoHo for $16.7 million, representing the priciest commercial sale to hit records. Bremen House Inc. was the seller.…",
+      "headline": "Kings Capital buys vacant FiDi Building, plans for conversion",
+      "summary": "Kings Capital acquired a long-vacant 17-story building in Manhattan’s Financial District with plans to convert it into a sleek rental building. The development group, led by George Giannopoulos and Jeffrey Znaty, purchased 69 Gold Street from New York Presbyterian Hospital for $30.1 million, according to a source familiar with the matter. The developer is also nearing a $41 million construction loan from Derby Copeland. The building has been vacant for nearly a decade.…",
       "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/22/new-york-top-real-estate-deals-tuesday-july-21/",
+      "url": "https://therealdeal.com/new-york/2026/07/23/kings-capital-buys-vacant-fidi-building/",
       "section": "the_real_deal",
       "retail": false,
-      "published_at": "2026-07-22T11:00:00.000Z"
+      "published_at": "2026-07-23T22:00:00.000Z"
     },
     {
-      "headline": "NY Dirt: Mamdani’s EDC picks, “dream team” or odd couple?",
-      "summary": "Mayor Zohran Mamdani describes new CEO Anthony Shorris and Chair Lina Khan as a “dream team” atop the EDC, but they are also an odd pairing. A mild-mannered McKinsey & Co. partner and firebrand ex-Federal Trade Commission chair aren’t the typical duo to hold the reins of the city’s most powerful business agency and its board. Mamdani, however, thinks that Shorris and Khan can find common ground as economic wonks to deliver on his Olympic-level expectations for reshaping the Economic Development…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/23/mamdani-taps-shorris-khan-as-edc-heads/",
-      "section": "the_real_deal",
+      "headline": "Abraham Posner signs $50M construction loan with Ponce for 2 projects with 198 units in Canarsie",
+      "summary": "Abraham Posner through the entity Unity Grove LLC as borrower signed a new construction loan The post Abraham Posner signs $50M construction loan with Ponce for 2 projects with 198 units in Canarsie appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/abraham-posner-signs-50m-construction-loan-with-ponce-for-2-projects-with-198-units-in-canarsie/",
+      "section": "pincusco",
       "retail": false,
-      "published_at": "2026-07-23T11:30:00.000Z"
-    },
-    {
-      "headline": "San Francisco’s troubled homeless housing project stripped of millions after scandal-plagued run",
-      "summary": "\"We want to make very clear to HomeRise as well as other providers that this level of failure is not acceptable,\" a spokesperson said.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/22/us-news/san-francisco-cuts-off-homelessness-nonprofit-homerise/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-07-22T23:21:21.000Z"
-    },
-    {
-      "headline": "JPMorgan eyes $425M valuation in exit from Fisher Brothers’ Third Avenue office tower",
-      "summary": "Fisher Brothers is set to recapitalize another big Midtown office tower. Fresh off its $1.1 billion recap of Park Avenue Plaza, the family firm is planning to take on a new partner at 605 Third Avenue — eyeing a valuation of $425 million. The Fishers’ partner, JPMorgan Asset Management, is looking to sell its 49-percent stake in the 43-story, 1 million-square-foot tower, The Real Deal has learned.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/07/22/jpmorgan-to-sell-stake-in-fisher-brothers-605-third-avenue/",
-      "section": "the_real_deal",
-      "retail": false,
-      "published_at": "2026-07-22T20:45:00.000Z"
-    },
-    {
-      "headline": "Dying mom leaves grieving son sprawling mythical castle, now filled with her ‘signs’",
-      "summary": "A Los Angeles man is turning his grief into a full-time restoration project, spending his days bringing a storybook Hollywood Hills castle back to life in honor of the mother who left it to him before she died of cancer. Teva Barnea, who goes by @hollywoodhillscastle on TikTok, has drawn millions of views documenting his...",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/22/real-estate/dying-mom-leaves-grieving-son-sprawling-mythical-castle/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-07-22T17:11:39.000Z"
+      "published_at": "2026-07-24T10:16:00.000Z"
     }
   ]
 }
