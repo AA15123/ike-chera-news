@@ -1,13 +1,13 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-07-25",
-  "generated_at": "2026-07-25T11:18:31.058Z",
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T11:24:57.537Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Meal Delivery Service CookUnity to Open Flagship Storefront at NoMad Hotel: CookUnity , a subscription-based meal delivery platform, has inked 4,721 square feet of ground-floor retail space at Lam Group ’s 1227 Broadway , also known as Virgin Hotel New York City , in Manhattan’s NoMad neighborhood, Commercial Observer has learned.\n\nInfinium Wall Systems Takes 30K SF of Office, Retail Space at ESRT’s 1359 Broadway: If these walls could talk, they’d talk about all the new leasing in Midtown. Infinium Wall Syst ems , a company that designs, engineers and installs wall systems and doors for offices, has inked a new office and retail lease spanning 30,017 square feet at Empire State Realty Trust (ESRT)’s 1359 Broadway , the landlord.\n\nLos Angeles Matcha Brand Archives of Us Signs Retail Lease in East Village: A Los Angeles-based matcha cafe chain has signed a retail deal for its first New York City location in Manhattan’s East Village. Archives of Us has leased 2,400 square feet at Highpoint Property Group ’s 84 Second Avenue , where it will act as a cafe and retail presence for the matcha brand, according to landlord.\n\nBakery Shop Cafe Aroma to Open New Spot on the Upper East Side: Time to rise and grind, Upper East Siders, as a new coffee shop and bakery is set to open at Avenues Equity Partners ’ 1410 Madison Avenue in Carnegie Hill. Family-owned coffee shop and bakery Cafe Aroma has taken 2,200 square feet of retail space at the base of the five-story residential building, according to.",
     "cre_daily": "Boutique Gyms Lead Manhattan Retail Leasing Surge: Manhattan’s largest retail leases this quarter came from boutique gyms and wellness providers, according to a new JLL report. Top signings include Chelsea Piers and Life Time, both taking over 70,000 SF, with more high-end wellness entrants following suit.\n\nUS Retail Vacancy Holds at 4.4% as Demand Stays Strong: US retail vacancy remained at 4.4% in Q2 2026, showing market stability despite economic headwinds. Net absorption rebounded to 10.2M SF, with value-oriented and experiential retailers driving leasing activity.\n\nNet Lease Cap Rates Tick Up as Retail Supply Surges in Q2: US net lease cap rates edged up in Q2 2026, with retail up 5 bps to 6.60% and industrial up 10 bps to 7.25%, per The Boulder Group. Total single tenant properties on the market increased 12.5% quarter-over-quarter, driven by a 16.2% surge in retail availability.\n\nRetail Investment Surges as Supply Tightens Across US: Retail transaction volume hit $15.3B in Q1 2026, rising 5% year-over-year, as buyers chase limited deals per JLL. Vacancy remains low and new supply trails the 10-year average, fueling stiff competition and rising rents in prime markets.",
-    "new_york_post": "House of Spells brings fresh magic to the Deuce decades after NYC block’s porn-and-crime nadir: The Deuce was losing its juice, but a giant new fun-and-fantasy store from England is the latest retailer aiming to put the magic back in the once notorious but now revitalized West 42nd Street block.\n\nFamed Polo Bar will leave its iconic NYC home for free rent — risking its exclusivity: Sources say the restaurant's original home will soon give way to a shinier address, but not everyone is ready to say goodbye.\n\nCalifornia city’s taxpayer-funded housing for ‘LGBTQ seniors’ accused of breaking civil rights laws: A concerned resident filed a complaint against the development for illegally preferencing people based on their sexual orientation.",
+    "new_york_post": "House of Spells brings fresh magic to the Deuce decades after NYC block’s porn-and-crime nadir: The Deuce was losing its juice, but a giant new fun-and-fantasy store from England is the latest retailer aiming to put the magic back in the once notorious but now revitalized West 42nd Street block.\n\nFamed Polo Bar will leave its iconic NYC home for free rent — risking its exclusivity: Sources say the restaurant's original home will soon give way to a shinier address, but not everyone is ready to say goodbye.\n\nGOP lawmaker trolls San Francisco NIMBYs fighting huge waterfront development: ‘build BIG’: A Republican lawmaker representing one of California's fastest-growing counties has a message for San Franciscans opposing a huge housing development in one of the city's most exclusive neighborhoods: Get over it.\n\nCalifornia city’s taxpayer-funded housing for ‘LGBTQ seniors’ accused of breaking civil rights laws: A concerned resident filed a complaint against the development for illegally preferencing people based on their sexual orientation.",
     "pincusco": "Wei Li pays $3.1M for retail in Bay Ridge: Wei Li through the entity Bayridge 86 LLC paid $3.1 million to the entity Wsw 8515-17.\n\nSilbersteins sign $7.5M construction loan with Conventus for resi project in Crown Heights: Isaac Silberstein and Benjamin Silberstein through the entity Empire Blvd LLC as borrower signed a.\n\nAbraham Posner signs $50M construction loan with Ponce for 2 projects with 198 units in Canarsie: Abraham Posner through the entity Unity Grove LLC as borrower signed a new construction loan.\n\nWatermark Capital files plans for 99 units in Financial District: Watermark Capital Group submitted a new building construction project for a 99-unit, 153,632-square-foot residential (R-2)."
   },
   "items": [
@@ -237,6 +237,15 @@
       "published_at": "2026-07-24T10:16:00.000Z"
     },
     {
+      "headline": "GOP lawmaker trolls San Francisco NIMBYs fighting huge waterfront development: ‘build BIG’",
+      "summary": "A Republican lawmaker representing one of California's fastest-growing counties has a message for San Franciscans opposing a huge housing development in one of the city's most exclusive neighborhoods: Get over it.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/25/us-news/gop-lawmaker-trolls-san-francisco-nimbys-fighting-marina-safeway-housing-site/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-07-25T21:53:25.000Z"
+    },
+    {
       "headline": "California city’s taxpayer-funded housing for ‘LGBTQ seniors’ accused of breaking civil rights laws",
       "summary": "A concerned resident filed a complaint against the development for illegally preferencing people based on their sexual orientation.",
       "source": "New York Post",
@@ -271,15 +280,6 @@
       "section": "pincusco",
       "retail": false,
       "published_at": "2026-07-24T10:38:00.000Z"
-    },
-    {
-      "headline": "Chana and Solomon Simkowitz pay $6.4M for mixed-use in Williamsburg, borrow $14.2M",
-      "summary": "Chana Simkowitz and Solomon Simkowitz through the entity 236 Broadway Realty LLC paid $6.4 million The post Chana and Solomon Simkowitz pay $6.4M for mixed-use in Williamsburg, borrow $14.2M appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/chana-and-solomon-simkowitz-pay-6-4m-for-mixed-use-in-williamsburg/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-24T10:23:00.000Z"
     }
   ]
 }
