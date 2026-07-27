@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-07-26",
-  "generated_at": "2026-07-26T11:24:57.537Z",
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T13:16:00.281Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Meal Delivery Service CookUnity to Open Flagship Storefront at NoMad Hotel: CookUnity , a subscription-based meal delivery platform, has inked 4,721 square feet of ground-floor retail space at Lam Group ’s 1227 Broadway , also known as Virgin Hotel New York City , in Manhattan’s NoMad neighborhood, Commercial Observer has learned.\n\nInfinium Wall Systems Takes 30K SF of Office, Retail Space at ESRT’s 1359 Broadway: If these walls could talk, they’d talk about all the new leasing in Midtown. Infinium Wall Syst ems , a company that designs, engineers and installs wall systems and doors for offices, has inked a new office and retail lease spanning 30,017 square feet at Empire State Realty Trust (ESRT)’s 1359 Broadway , the landlord.\n\nLos Angeles Matcha Brand Archives of Us Signs Retail Lease in East Village: A Los Angeles-based matcha cafe chain has signed a retail deal for its first New York City location in Manhattan’s East Village. Archives of Us has leased 2,400 square feet at Highpoint Property Group ’s 84 Second Avenue , where it will act as a cafe and retail presence for the matcha brand, according to landlord.\n\nBakery Shop Cafe Aroma to Open New Spot on the Upper East Side: Time to rise and grind, Upper East Siders, as a new coffee shop and bakery is set to open at Avenues Equity Partners ’ 1410 Madison Avenue in Carnegie Hill. Family-owned coffee shop and bakery Cafe Aroma has taken 2,200 square feet of retail space at the base of the five-story residential building, according to.",
-    "cre_daily": "Boutique Gyms Lead Manhattan Retail Leasing Surge: Manhattan’s largest retail leases this quarter came from boutique gyms and wellness providers, according to a new JLL report. Top signings include Chelsea Piers and Life Time, both taking over 70,000 SF, with more high-end wellness entrants following suit.\n\nUS Retail Vacancy Holds at 4.4% as Demand Stays Strong: US retail vacancy remained at 4.4% in Q2 2026, showing market stability despite economic headwinds. Net absorption rebounded to 10.2M SF, with value-oriented and experiential retailers driving leasing activity.\n\nNet Lease Cap Rates Tick Up as Retail Supply Surges in Q2: US net lease cap rates edged up in Q2 2026, with retail up 5 bps to 6.60% and industrial up 10 bps to 7.25%, per The Boulder Group. Total single tenant properties on the market increased 12.5% quarter-over-quarter, driven by a 16.2% surge in retail availability.\n\nRetail Investment Surges as Supply Tightens Across US: Retail transaction volume hit $15.3B in Q1 2026, rising 5% year-over-year, as buyers chase limited deals per JLL. Vacancy remains low and new supply trails the 10-year average, fueling stiff competition and rising rents in prime markets.",
-    "new_york_post": "House of Spells brings fresh magic to the Deuce decades after NYC block’s porn-and-crime nadir: The Deuce was losing its juice, but a giant new fun-and-fantasy store from England is the latest retailer aiming to put the magic back in the once notorious but now revitalized West 42nd Street block.\n\nFamed Polo Bar will leave its iconic NYC home for free rent — risking its exclusivity: Sources say the restaurant's original home will soon give way to a shinier address, but not everyone is ready to say goodbye.\n\nGOP lawmaker trolls San Francisco NIMBYs fighting huge waterfront development: ‘build BIG’: A Republican lawmaker representing one of California's fastest-growing counties has a message for San Franciscans opposing a huge housing development in one of the city's most exclusive neighborhoods: Get over it.\n\nCalifornia city’s taxpayer-funded housing for ‘LGBTQ seniors’ accused of breaking civil rights laws: A concerned resident filed a complaint against the development for illegally preferencing people based on their sexual orientation.",
-    "pincusco": "Wei Li pays $3.1M for retail in Bay Ridge: Wei Li through the entity Bayridge 86 LLC paid $3.1 million to the entity Wsw 8515-17.\n\nSilbersteins sign $7.5M construction loan with Conventus for resi project in Crown Heights: Isaac Silberstein and Benjamin Silberstein through the entity Empire Blvd LLC as borrower signed a.\n\nAbraham Posner signs $50M construction loan with Ponce for 2 projects with 198 units in Canarsie: Abraham Posner through the entity Unity Grove LLC as borrower signed a new construction loan.\n\nWatermark Capital files plans for 99 units in Financial District: Watermark Capital Group submitted a new building construction project for a 99-unit, 153,632-square-foot residential (R-2)."
+    "cre_daily": "Why Premium Grocers Skew CMBS Delinquency Rankings: Headline CMBS delinquency rates overstate tenant risk for premium grocers due to property-level issues unrelated to supermarket performance. Large nonperforming loans are tied to urban retail condos and malls, not traditional grocery-anchored centers, distorting delinquency statistics.\n\nBoutique Gyms Lead Manhattan Retail Leasing Surge: Manhattan’s largest retail leases this quarter came from boutique gyms and wellness providers, according to a new JLL report. Top signings include Chelsea Piers and Life Time, both taking over 70,000 SF, with more high-end wellness entrants following suit.\n\nUS Retail Vacancy Holds at 4.4% as Demand Stays Strong: US retail vacancy remained at 4.4% in Q2 2026, showing market stability despite economic headwinds. Net absorption rebounded to 10.2M SF, with value-oriented and experiential retailers driving leasing activity.\n\nNet Lease Cap Rates Tick Up as Retail Supply Surges in Q2: US net lease cap rates edged up in Q2 2026, with retail up 5 bps to 6.60% and industrial up 10 bps to 7.25%, per The Boulder Group. Total single tenant properties on the market increased 12.5% quarter-over-quarter, driven by a 16.2% surge in retail availability.",
+    "new_york_post": "SL Green signs 2 leases for 1185 Sixth Ave, reaches 92% occupied: One lease was a 29,166 square-foot renewal and expansion for insurance firm Ryan Specialty LLC, while other was a new, 27,508 square-foot lease with property management firm Solil Management LLC.\n\nHouse of Spells brings fresh magic to the Deuce decades after NYC block’s porn-and-crime nadir: The Deuce was losing its juice, but a giant new fun-and-fantasy store from England is the latest retailer aiming to put the magic back in the once notorious but now revitalized West 42nd Street block.\n\n460 Park Ave. getting $200 million upgrade: Tower owner Korea International Trade Association is launching a $200 million redevelopment to bring the entire 22-story, Midcentury property into the modern age.",
+    "pincusco": "Wharton Properties signs $20.3M refi with Provident Bank for retail in Penn Plaza: Wharton Properties through the entity 40 West 34th St. Owner LLC as borrower signed a.\n\nApex Building Group pays $3.9M, signs $165.4M construction loan for 273-unit project in East New York: Apex Building Group through the entity Alafia 3 Housing Development Fund Corporation paid $3.9 million.\n\nHPD files plans for 262 units in Bedford Stuyvesant: NYC Department of Housing Preservation and Development submitted a new building construction project for a.\n\nMordechai Schwimmer files plans for 79 units in Long Island City: Mordechai Schwimmer submitted a new building construction project for a 79-unit, 66,824-square-foot residential (R-2) building."
   },
   "items": [
     {
@@ -19,6 +19,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-07-22T20:55:51.000Z"
+    },
+    {
+      "headline": "Why Premium Grocers Skew CMBS Delinquency Rankings",
+      "summary": "Headline CMBS delinquency rates overstate tenant risk for premium grocers due to property-level issues unrelated to supermarket performance. Large nonperforming loans are tied to urban retail condos and malls, not traditional grocery-anchored centers, distorting delinquency statistics. For CRE investors, evaluating property collateral is more useful than screening solely by grocery tenant names in CMBS analysis.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/why-premium-grocers-skew-cmbs-delinquency-rankings/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-07-27T06:43:40.000Z"
     },
     {
       "headline": "Infinium Wall Systems Takes 30K SF of Office, Retail Space at ESRT’s 1359 Broadway",
@@ -84,15 +93,6 @@
       "published_at": "2026-07-17T04:37:39.000Z"
     },
     {
-      "headline": "Fashion Nova Expands L.A. Footprint With 133K-SF Warehouse Deal",
-      "summary": "Fashion Nova is expanding its Southern California logistics side with another industrial lease in Santa Fe Springs. The Los Angeles-based fast-fashion retailer signed a lease to take over the 132,888-square-foot warehouse at 12301 Hawkins Street , according to CoStar . It increases Fashion Nova’s warehouse footprint in Santa Fe Springs by about 33 percent. New York-based real estate investment manager Clarion Partners owns the property in the Heritage Springs Business Park .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/fashion-nova-la-industrial/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-23T22:20:03.000Z"
-    },
-    {
       "headline": "Barolo Restaurant Group Inks Deal to Open Italian Eatery in Times Square",
       "summary": "Italian restaurant operator Barolo Restaurant Group plans to open its third New York City restaurant, Barolo West , at 250 West 49th Street in Times Square . The company took 2,500 square feet of space at the newly developed 29-story property in Midtown. The length of the lease was not disclosed, but the asking rent was $210 per square foot, according to broker Meridian Capital Group . Meridian’s Noam Aziz and Carson Shahrabani represented Barolo and landlord Chess Builders .…",
       "source": "Commercial Observer",
@@ -129,13 +129,13 @@
       "published_at": "2026-07-15T15:59:43.000Z"
     },
     {
-      "headline": "Retail CRE Lenders Sharpen Pricing on 60–65% LTV Debt",
-      "summary": "Lenders have tightened credit spreads on 60–65% LTV retail CRE loans by 16 basis points over the past year, per Trepp. The cost of incremental debt in the 50–59% LTV tier is nearly unchanged in the same period, underscoring a shift in lender competition. Lenders prioritizing pricing competitiveness in the middle of the capital stack could alter borrower decisions and reshape risk distribution in retail loan origination.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/retail-cre-lenders-sharpen-pricing-on-60-65-ltv-debt/",
-      "section": "cre_daily",
+      "headline": "Gowanus Golf Club Secures 6K SF to Open Private Club in Brooklyn’s Dumbo",
+      "summary": "A new golf club is being teed up for Brooklyn’s Dumbo neighborhood. Gowanus Golf Club , a Brooklyn-based private indoor golf club chain, has leased approximately 6,000 square feet along the Dumbo waterfront at 215 Water Street , Commercial Observer has learned. The five-story mixed-use building between Bridge and Jay streets is owned by Pearl Realty Management , according to broker Corey Cohen , principal of the Roebling team at Compass .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/gowanus-golf-club-lease-dumbo-215-water-street/",
+      "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-07-24T06:06:29.000Z"
+      "published_at": "2026-07-27T13:00:26.000Z"
     },
     {
       "headline": "Retail Veterans Joshua Strauss and Scott Zinovoy Join JLL",
@@ -147,22 +147,40 @@
       "published_at": "2026-07-20T20:41:14.000Z"
     },
     {
-      "headline": "Wei Li pays $3.1M for retail in Bay Ridge",
-      "summary": "Wei Li through the entity Bayridge 86 LLC paid $3.1 million to the entity Wsw 8515-17 The post Wei Li pays $3.1M for retail in Bay Ridge appeared first on PincusCo .",
+      "headline": "Wharton Properties signs $20.3M refi with Provident Bank for retail in Penn Plaza",
+      "summary": "Wharton Properties through the entity 40 West 34th St. Owner LLC as borrower signed a The post Wharton Properties signs $20.3M refi with Provident Bank for retail in Penn Plaza appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/wei-li-pays-3-1m-for-retail-in-bay-ridge/",
+      "url": "https://www.pincusco.com/wharton-properties-signs-20-3m-refi-loan-with-provident-bank-for-mixed-use-in-penn-plaza/",
       "section": "pincusco",
       "retail": true,
-      "published_at": "2026-07-24T13:40:00.000Z"
+      "published_at": "2026-07-27T12:34:00.000Z"
     },
     {
-      "headline": "AI Firm Legora Takes 98K SF at SL Green’s 11 Madison Avenue",
-      "summary": "Legora , a company that developed a collaborative artificial intelligence-driven workspace for the legal profession, has signed a new 10-year lease for 98,420 square feet — the entire 11th floor — at SL Green Realty ’s 11 Madison Avenue . This brings the building to 100 percent occupancy. SL Green was represented by Brian Waterman , Brent Ozarowski and Erik Harris at Newmark . Legora was represented by Justin Haber and Kyle Riker at JLL .…",
+      "headline": "Technology Platform Genius AI Expands by 14K SF at 838 Broadway",
+      "summary": "Technology platform Genius AI , formerly known as GlossGenius, has undertaken a 13,754-square-foot headquarters expansion at ZG Capital Partners ’ 838 Broadway , Commercial Observer has learned. The deal sees Genius AI’s footprint at 838 Broadway grow to 27,373 square feet, occupying the entire second and third floors. The deal also secures 100 percent occupancy for the six-story building, located between East 12th and East 13th streets just south of Union Square .…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/ai-firm-legora-takes-98k-sl-greens-11-madison-avenue/",
+      "url": "https://commercialobserver.com/2026/07/genius-ai-lease-expansion-838-broadway/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-07-23T21:19:37.000Z"
+      "published_at": "2026-07-27T12:00:23.000Z"
+    },
+    {
+      "headline": "SL Green signs 2 leases for 1185 Sixth Ave, reaches 92% occupied",
+      "summary": "One lease was a 29,166 square-foot renewal and expansion for insurance firm Ryan Specialty LLC, while other was a new, 27,508 square-foot lease with property management firm Solil Management LLC.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/26/business/sl-green-signs-2-leases-for-1185-sixth-ave-reaches-92-occupied/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-07-26T18:55:57.000Z"
+    },
+    {
+      "headline": "Sunday Summary: Are GLP-1s Affecting Retail? Oh, You Better Believe They Are.",
+      "summary": "The real estate version of the “ butterfly can flap its wings in Peking, and in Central Park you get rain instead of sunshine” goes something like this: Eli Lily introduces a GLP-1 for weight loss — the local Pizza Hut becomes a Pilates studio. At least that’s the takeaway for retailers from the barrage of new weight-loss drugs .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/sunday-summary-are-glp-1s-affecting-retail-oh-you-better-believe-they-are/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-26T13:00:51.000Z"
     },
     {
       "headline": "More Luxury Retailers Partner With Everyday Names to Lure Gen Z Shoppers",
@@ -192,15 +210,6 @@
       "published_at": "2026-07-16T21:45:48.000Z"
     },
     {
-      "headline": "John Roesch Exits Meridian to Start Roesch Real Estate Group",
-      "summary": "Following an almost decade-long run with Meridian Retail Leasing , broker John Roesch decided to strike out on his own and has founded Roesch Real Estate Group (RREG). The days-old firm will focus on retail leasing with the eventual goal of starting an investment sales team, and bring institutional-style execution to the middle market.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/john-roesch-roesch-real-estate-group/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-13T12:00:43.000Z"
-    },
-    {
       "headline": "House of Spells brings fresh magic to the Deuce decades after NYC block’s porn-and-crime nadir",
       "summary": "The Deuce was losing its juice, but a giant new fun-and-fantasy store from England is the latest retailer aiming to put the magic back in the once notorious but now revitalized West 42nd Street block.",
       "source": "New York Post",
@@ -210,76 +219,67 @@
       "published_at": "2026-07-24T13:40:48.000Z"
     },
     {
-      "headline": "Famed Polo Bar will leave its iconic NYC home for free rent — risking its exclusivity",
-      "summary": "Sources say the restaurant's original home will soon give way to a shinier address, but not everyone is ready to say goodbye.",
+      "headline": "Apex Building Group pays $3.9M, signs $165.4M construction loan for 273-unit project in East New York",
+      "summary": "Apex Building Group through the entity Alafia 3 Housing Development Fund Corporation paid $3.9 million The post Apex Building Group pays $3.9M, signs $165.4M construction loan for 273-unit project in East New York appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/apex-building-group-signs-165-4m-construction-loan-for-273-project-in/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-07-26T22:03:00.000Z"
+    },
+    {
+      "headline": "HPD files plans for 262 units in Bedford Stuyvesant",
+      "summary": "NYC Department of Housing Preservation and Development submitted a new building construction project for a The post HPD files plans for 262 units in Bedford Stuyvesant appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/hpd-files-plans-for-262-units-in-bedford-stuyvesant/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-07-27T10:20:00.000Z"
+    },
+    {
+      "headline": "Mordechai Schwimmer files plans for 79 units in Long Island City",
+      "summary": "Mordechai Schwimmer submitted a new building construction project for a 79-unit, 66,824-square-foot residential (R-2) building The post Mordechai Schwimmer files plans for 79 units in Long Island City appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/mordechai-schwimmer-files-plans-for-79-units-in-long-island-city/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-07-27T11:17:00.000Z"
+    },
+    {
+      "headline": "Builders Group USA files plans for 14 units in Castle Hill",
+      "summary": "Yitzi Salamon of Builders Group USA submitted a new building construction project for a 14-unit, The post Builders Group USA files plans for 14 units in Castle Hill appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/builders-group-usa-files-plans-for-14-units-in-castle-hill/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-07-27T10:07:00.000Z"
+    },
+    {
+      "headline": "Joel Steinmetz files plans for 99 units in Jamaica, parcel long-owned by Menashe family",
+      "summary": "Joel Steinmetz submitted a new building construction project for a 99-unit, 77,807-square-foot residential (R-2) building The post Joel Steinmetz files plans for 99 units in Jamaica, parcel long-owned by Menashe family appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/bonei-builders-files-plans-for-99-units-in-jamaica/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-07-26T23:55:00.000Z"
+    },
+    {
+      "headline": "Sehoon Park pays $3.9M to G-Way Management for mixed-use in Clinton Hill",
+      "summary": "Sehoon Park through the entity 1015 Fulton Realty LLC paid $3.9 million to G-Way Management The post Sehoon Park pays $3.9M to G-Way Management for mixed-use in Clinton Hill appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/sehoon-park-pays-3-9m-to-g-way-management-for-mixed-use-in-clinton-hill/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-07-26T23:11:00.000Z"
+    },
+    {
+      "headline": "460 Park Ave. getting $200 million upgrade",
+      "summary": "Tower owner Korea International Trade Association is launching a $200 million redevelopment to bring the entire 22-story, Midcentury property into the modern age.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/07/23/real-estate/polo-bar-will-leave-its-nyc-location-for-free-rent/",
-      "section": "new_york_post",
-      "retail": true,
-      "published_at": "2026-07-23T20:38:23.000Z"
-    },
-    {
-      "headline": "Silbersteins sign $7.5M construction loan with Conventus for resi project in Crown Heights",
-      "summary": "Isaac Silberstein and Benjamin Silberstein through the entity Empire Blvd LLC as borrower signed a The post Silbersteins sign $7.5M construction loan with Conventus for resi project in Crown Heights appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/isaac-silberstein-benjamin-silberstein-sign-7-5m-construction-loan-with-conventus-for-in-crown-heights/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-24T13:34:00.000Z"
-    },
-    {
-      "headline": "Abraham Posner signs $50M construction loan with Ponce for 2 projects with 198 units in Canarsie",
-      "summary": "Abraham Posner through the entity Unity Grove LLC as borrower signed a new construction loan The post Abraham Posner signs $50M construction loan with Ponce for 2 projects with 198 units in Canarsie appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/abraham-posner-signs-50m-construction-loan-with-ponce-for-2-projects-with-198-units-in-canarsie/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-24T10:16:00.000Z"
-    },
-    {
-      "headline": "GOP lawmaker trolls San Francisco NIMBYs fighting huge waterfront development: ‘build BIG’",
-      "summary": "A Republican lawmaker representing one of California's fastest-growing counties has a message for San Franciscans opposing a huge housing development in one of the city's most exclusive neighborhoods: Get over it.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/25/us-news/gop-lawmaker-trolls-san-francisco-nimbys-fighting-marina-safeway-housing-site/",
+      "url": "https://nypost.com/2026/07/26/business/460-park-ave-getting-200-million-upgrade/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-07-25T21:53:25.000Z"
-    },
-    {
-      "headline": "California city’s taxpayer-funded housing for ‘LGBTQ seniors’ accused of breaking civil rights laws",
-      "summary": "A concerned resident filed a complaint against the development for illegally preferencing people based on their sexual orientation.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/24/us-news/sf-affordable-housing-for-lgbt-seniors-accused-of-civil-rights-violation/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-07-24T21:26:42.000Z"
-    },
-    {
-      "headline": "Watermark Capital files plans for 99 units in Financial District",
-      "summary": "Watermark Capital Group submitted a new building construction project for a 99-unit, 153,632-square-foot residential (R-2) The post Watermark Capital files plans for 99 units in Financial District appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/watermark-capital-files-plans-for-99-units-in-financial-district/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-24T14:15:00.000Z"
-    },
-    {
-      "headline": "Avi Lustig signs $55M refi loan with CIBC Bank for nursing properties in Corona",
-      "summary": "Nursing home investor Avi Lustig through the entity Penrod Owner LLC as borrower signed a The post Avi Lustig signs $55M refi loan with CIBC Bank for nursing properties in Corona appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/avi-lustig-signs-55m-refi-loan-with-cibc-bank-for-nursing-properties-in-corona/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-24T13:50:00.000Z"
-    },
-    {
-      "headline": "Haussmann Development, Carlyle file plans for 99 units in Crown Heights",
-      "summary": "Haussmann Development in partnership with Carlyle Group submitted a new building construction project for a The post Haussmann Development, Carlyle file plans for 99 units in Crown Heights appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/haussmann-development-carlyle-files-plans-for-99-units-in-crown-heights/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-24T10:38:00.000Z"
+      "published_at": "2026-07-26T18:52:07.000Z"
     }
   ]
 }
