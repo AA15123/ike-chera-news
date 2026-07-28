@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-07-27",
-  "generated_at": "2026-07-27T13:16:00.281Z",
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T12:03:04.239Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Meal Delivery Service CookUnity to Open Flagship Storefront at NoMad Hotel: CookUnity , a subscription-based meal delivery platform, has inked 4,721 square feet of ground-floor retail space at Lam Group ’s 1227 Broadway , also known as Virgin Hotel New York City , in Manhattan’s NoMad neighborhood, Commercial Observer has learned.\n\nInfinium Wall Systems Takes 30K SF of Office, Retail Space at ESRT’s 1359 Broadway: If these walls could talk, they’d talk about all the new leasing in Midtown. Infinium Wall Syst ems , a company that designs, engineers and installs wall systems and doors for offices, has inked a new office and retail lease spanning 30,017 square feet at Empire State Realty Trust (ESRT)’s 1359 Broadway , the landlord.\n\nLos Angeles Matcha Brand Archives of Us Signs Retail Lease in East Village: A Los Angeles-based matcha cafe chain has signed a retail deal for its first New York City location in Manhattan’s East Village. Archives of Us has leased 2,400 square feet at Highpoint Property Group ’s 84 Second Avenue , where it will act as a cafe and retail presence for the matcha brand, according to landlord.\n\nBakery Shop Cafe Aroma to Open New Spot on the Upper East Side: Time to rise and grind, Upper East Siders, as a new coffee shop and bakery is set to open at Avenues Equity Partners ’ 1410 Madison Avenue in Carnegie Hill. Family-owned coffee shop and bakery Cafe Aroma has taken 2,200 square feet of retail space at the base of the five-story residential building, according to.",
-    "cre_daily": "Why Premium Grocers Skew CMBS Delinquency Rankings: Headline CMBS delinquency rates overstate tenant risk for premium grocers due to property-level issues unrelated to supermarket performance. Large nonperforming loans are tied to urban retail condos and malls, not traditional grocery-anchored centers, distorting delinquency statistics.\n\nBoutique Gyms Lead Manhattan Retail Leasing Surge: Manhattan’s largest retail leases this quarter came from boutique gyms and wellness providers, according to a new JLL report. Top signings include Chelsea Piers and Life Time, both taking over 70,000 SF, with more high-end wellness entrants following suit.\n\nUS Retail Vacancy Holds at 4.4% as Demand Stays Strong: US retail vacancy remained at 4.4% in Q2 2026, showing market stability despite economic headwinds. Net absorption rebounded to 10.2M SF, with value-oriented and experiential retailers driving leasing activity.\n\nNet Lease Cap Rates Tick Up as Retail Supply Surges in Q2: US net lease cap rates edged up in Q2 2026, with retail up 5 bps to 6.60% and industrial up 10 bps to 7.25%, per The Boulder Group. Total single tenant properties on the market increased 12.5% quarter-over-quarter, driven by a 16.2% surge in retail availability.",
-    "new_york_post": "SL Green signs 2 leases for 1185 Sixth Ave, reaches 92% occupied: One lease was a 29,166 square-foot renewal and expansion for insurance firm Ryan Specialty LLC, while other was a new, 27,508 square-foot lease with property management firm Solil Management LLC.\n\nHouse of Spells brings fresh magic to the Deuce decades after NYC block’s porn-and-crime nadir: The Deuce was losing its juice, but a giant new fun-and-fantasy store from England is the latest retailer aiming to put the magic back in the once notorious but now revitalized West 42nd Street block.\n\n460 Park Ave. getting $200 million upgrade: Tower owner Korea International Trade Association is launching a $200 million redevelopment to bring the entire 22-story, Midcentury property into the modern age.",
-    "pincusco": "Wharton Properties signs $20.3M refi with Provident Bank for retail in Penn Plaza: Wharton Properties through the entity 40 West 34th St. Owner LLC as borrower signed a.\n\nApex Building Group pays $3.9M, signs $165.4M construction loan for 273-unit project in East New York: Apex Building Group through the entity Alafia 3 Housing Development Fund Corporation paid $3.9 million.\n\nHPD files plans for 262 units in Bedford Stuyvesant: NYC Department of Housing Preservation and Development submitted a new building construction project for a.\n\nMordechai Schwimmer files plans for 79 units in Long Island City: Mordechai Schwimmer submitted a new building construction project for a 79-unit, 66,824-square-foot residential (R-2) building."
+    "commercial_observer": "Meal Delivery Service CookUnity to Open Flagship Storefront at NoMad Hotel: CookUnity , a subscription-based meal delivery platform, has inked 4,721 square feet of ground-floor retail space at Lam Group ’s 1227 Broadway , also known as Virgin Hotel New York City , in Manhattan’s NoMad neighborhood, Commercial Observer has learned.\n\nInfinium Wall Systems Takes 30K SF of Office, Retail Space at ESRT’s 1359 Broadway: If these walls could talk, they’d talk about all the new leasing in Midtown. Infinium Wall Syst ems , a company that designs, engineers and installs wall systems and doors for offices, has inked a new office and retail lease spanning 30,017 square feet at Empire State Realty Trust (ESRT)’s 1359 Broadway , the landlord.\n\nAI Firm Corgi to Open 24/7 Cafe at 121 East 27th Street: Alert the Queen, here come the corgis! OK, not exactly.\n\nLos Angeles Matcha Brand Archives of Us Signs Retail Lease in East Village: A Los Angeles-based matcha cafe chain has signed a retail deal for its first New York City location in Manhattan’s East Village. Archives of Us has leased 2,400 square feet at Highpoint Property Group ’s 84 Second Avenue , where it will act as a cafe and retail presence for the matcha brand, according to landlord.",
+    "cre_daily": "Why Premium Grocers Skew CMBS Delinquency Rankings: Headline CMBS delinquency rates overstate tenant risk for premium grocers due to property-level issues unrelated to supermarket performance. Large nonperforming loans are tied to urban retail condos and malls, not traditional grocery-anchored centers, distorting delinquency statistics.\n\nUS Retail Vacancy Holds at 4.4% as Demand Stays Strong: US retail vacancy remained at 4.4% in Q2 2026, showing market stability despite economic headwinds. Net absorption rebounded to 10.2M SF, with value-oriented and experiential retailers driving leasing activity.\n\nRetail Investment Surges as Supply Tightens Across US: Retail transaction volume hit $15.3B in Q1 2026, rising 5% year-over-year, as buyers chase limited deals per JLL. Vacancy remains low and new supply trails the 10-year average, fueling stiff competition and rising rents in prime markets.\n\nGLP-1 Medications Shift US Retail Foot Traffic and Sales: GLP-1 medications are altering US shopping habits, cutting snack spending and boosting wellness-related retail activity. Fitness, fresh food, and athleisure retailers are seeing increased foot traffic and sales as consumers refocus on health.",
+    "new_york_post": "SL Green signs 2 leases for 1185 Sixth Ave, reaches 92% occupied: One lease was a 29,166 square-foot renewal and expansion for insurance firm Ryan Specialty LLC, while other was a new, 27,508 square-foot lease with property management firm Solil Management LLC.\n\nA shocking number of wealthy NYC renters live in stabilized units: New York’s rent-stabilized apartments — the largest such system in the country — disproportionately benefit wealthy tenants in expensive neighborhoods.\n\nCalifornia’s first tiny home megaproject ignites fury in idyllic beach town: New plans for the controversial ADU housing project in Southern California were released in hopes of gaining community support today.",
+    "pincusco": "Wharton Properties signs $20.3M refi with Provident Bank for retail in Penn Plaza: Wharton Properties through the entity 40 West 34th St. Owner LLC as borrower signed a.\n\nHPD files plans for 262 units in Bedford Stuyvesant: NYC Department of Housing Preservation and Development submitted a new building construction project for a.\n\nGrun Group files plans for 198 units in Woodlawn Heights: Grun Group filed plans for two buildings with a total of 198 units in Woodlawn.\n\nLakhwinder Singh files plans for 26 stories, 99 units in Jamaica: Lakhwinder Singh submitted a new building construction project for a 99-unit, 83,744-square-foot residential (R-2) building."
   },
   "items": [
     {
@@ -39,6 +39,15 @@
       "published_at": "2026-07-20T20:30:52.000Z"
     },
     {
+      "headline": "AI Firm Corgi to Open 24/7 Cafe at 121 East 27th Street",
+      "summary": "Alert the Queen, here come the corgis! OK, not exactly. Corgi Cafe , a 24/7 coffee shop from Corgi , an artificial intelligence-powered insurance company — no, really — is getting ready to open its first location in New York City, Commercial Observer can first report. The tenant, which will operate a round-the-clock cafe selling coffee, drinks and snacks, took 1,223 square feet of retail space at the base of 121 East 27th Street in Manhattan’s NoMad neighborhood, according to broker Meridian Capital Group .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/corgi-cafe-lease-121-east-27th-street/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-27T15:40:25.000Z"
+    },
+    {
       "headline": "Los Angeles Matcha Brand Archives of Us Signs Retail Lease in East Village",
       "summary": "A Los Angeles-based matcha cafe chain has signed a retail deal for its first New York City location in Manhattan’s East Village. Archives of Us has leased 2,400 square feet at Highpoint Property Group ’s 84 Second Avenue , where it will act as a cafe and retail presence for the matcha brand, according to landlord broker Meridian Capital Group . Meridian did not disclose the length of the lease, but the asking rent for the space was $125 per square foot.…",
       "source": "Commercial Observer",
@@ -46,15 +55,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-07-14T16:19:14.000Z"
-    },
-    {
-      "headline": "Boutique Gyms Lead Manhattan Retail Leasing Surge",
-      "summary": "Manhattan’s largest retail leases this quarter came from boutique gyms and wellness providers, according to a new JLL report. Top signings include Chelsea Piers and Life Time, both taking over 70,000 SF, with more high-end wellness entrants following suit. Retail vacancies in Manhattan’s prime corridors dropped to 12%, the lowest since 2019, suggesting wellness demand is cushioning the sector.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/boutique-gyms-lead-manhattan-retail-leasing-surge/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-07-14T08:59:59.000Z"
     },
     {
       "headline": "Bakery Shop Cafe Aroma to Open New Spot on the Upper East Side",
@@ -73,15 +73,6 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-07-16T03:56:56.000Z"
-    },
-    {
-      "headline": "Net Lease Cap Rates Tick Up as Retail Supply Surges in Q2",
-      "summary": "US net lease cap rates edged up in Q2 2026, with retail up 5 bps to 6.60% and industrial up 10 bps to 7.25%, per The Boulder Group. Total single tenant properties on the market increased 12.5% quarter-over-quarter, driven by a 16.2% surge in retail availability. The gap between asking and closed cap rates continued to tighten, reflecting intense competition for premium, long-term assets.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/net-lease-cap-rates-tick-up-as-retail-supply-surges-in-q2/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-07-15T04:28:13.000Z"
     },
     {
       "headline": "Retail Investment Surges as Supply Tightens Across US",
@@ -130,12 +121,39 @@
     },
     {
       "headline": "Gowanus Golf Club Secures 6K SF to Open Private Club in Brooklyn’s Dumbo",
-      "summary": "A new golf club is being teed up for Brooklyn’s Dumbo neighborhood. Gowanus Golf Club , a Brooklyn-based private indoor golf club chain, has leased approximately 6,000 square feet along the Dumbo waterfront at 215 Water Street , Commercial Observer has learned. The five-story mixed-use building between Bridge and Jay streets is owned by Pearl Realty Management , according to broker Corey Cohen , principal of the Roebling team at Compass .…",
+      "summary": "A new golf club is being teed up for Brooklyn’s Dumbo neighborhood. Gowanus Golf Club , a Brooklyn-based private indoor golf club chain, has leased approximately 6,000 square feet along the Dumbo waterfront at 215 Water Street , Commercial Observer has learned. The five-story mixed-use building between Bridge and Jay streets is owned by Pearl Realty Management , according to broker Corey Cohen , principal of the Roebling Team at Compass .…",
       "source": "Commercial Observer",
       "url": "https://commercialobserver.com/2026/07/gowanus-golf-club-lease-dumbo-215-water-street/",
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-07-27T13:00:26.000Z"
+    },
+    {
+      "headline": "Legal AI Firm Sandstone Signs 14K-SF Lease at 141 East Houston Street",
+      "summary": "An artificial intelligence-powered management platform designed to help law firms has signed an office lease on the Lower East Side, Commercial Observer has learned. AI platform Sandstone signed a five-year deal spanning 13,794 square feet on the entire third and fourth floors of East End Capital ’s 141 East Houston Street , according to landlord broker Current Real Estate Advisors . Asking rent for the space was $93 per square foot.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/sandstone-lease-141-east-houston-street/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-27T19:51:11.000Z"
+    },
+    {
+      "headline": "Selective Buyers Reshape US Retail Investment in 2026",
+      "summary": "National retail transaction count dropped 13.8% and total dollar volume fell 21.6% from December 2025 to May 2026, according to DealGround’s new report. Cap rates increased to 6.75%, and buyers negotiated deeper discounts, with the average spread between asking and sale prices rising from 5.2% to 13.5%. The market remains active for prime properties, but increased selectivity and financing challenges are creating headwinds for B-quality assets.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/selective-buyers-reshape-us-retail-investment-in-2026/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-07-27T18:42:01.000Z"
+    },
+    {
+      "headline": "Retail CRE Lenders Sharpen Pricing on 60–65% LTV Debt",
+      "summary": "Lenders have tightened credit spreads on 60–65% LTV retail CRE loans by 16 basis points over the past year, per Trepp. The cost of incremental debt in the 50–59% LTV tier is nearly unchanged in the same period, underscoring a shift in lender competition. Lenders prioritizing pricing competitiveness in the middle of the capital stack could alter borrower decisions and reshape risk distribution in retail loan origination.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/retail-cre-lenders-sharpen-pricing-on-60-65-ltv-debt/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-07-24T06:06:29.000Z"
     },
     {
       "headline": "Retail Veterans Joshua Strauss and Scott Zinovoy Join JLL",
@@ -156,15 +174,6 @@
       "published_at": "2026-07-27T12:34:00.000Z"
     },
     {
-      "headline": "Technology Platform Genius AI Expands by 14K SF at 838 Broadway",
-      "summary": "Technology platform Genius AI , formerly known as GlossGenius, has undertaken a 13,754-square-foot headquarters expansion at ZG Capital Partners ’ 838 Broadway , Commercial Observer has learned. The deal sees Genius AI’s footprint at 838 Broadway grow to 27,373 square feet, occupying the entire second and third floors. The deal also secures 100 percent occupancy for the six-story building, located between East 12th and East 13th streets just south of Union Square .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/genius-ai-lease-expansion-838-broadway/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-27T12:00:23.000Z"
-    },
-    {
       "headline": "SL Green signs 2 leases for 1185 Sixth Ave, reaches 92% occupied",
       "summary": "One lease was a 29,166 square-foot renewal and expansion for insurance firm Ryan Specialty LLC, while other was a new, 27,508 square-foot lease with property management firm Solil Management LLC.",
       "source": "New York Post",
@@ -172,15 +181,6 @@
       "section": "new_york_post",
       "retail": true,
       "published_at": "2026-07-26T18:55:57.000Z"
-    },
-    {
-      "headline": "Sunday Summary: Are GLP-1s Affecting Retail? Oh, You Better Believe They Are.",
-      "summary": "The real estate version of the “ butterfly can flap its wings in Peking, and in Central Park you get rain instead of sunshine” goes something like this: Eli Lily introduces a GLP-1 for weight loss — the local Pizza Hut becomes a Pilates studio. At least that’s the takeaway for retailers from the barrage of new weight-loss drugs .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/sunday-summary-are-glp-1s-affecting-retail-oh-you-better-believe-they-are/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-26T13:00:51.000Z"
     },
     {
       "headline": "More Luxury Retailers Partner With Everyday Names to Lure Gen Z Shoppers",
@@ -201,31 +201,13 @@
       "published_at": "2026-07-20T13:00:02.000Z"
     },
     {
-      "headline": "South Florida Retail Markets Show Sub-5% Vacancy",
-      "summary": "Despite oft-repeated fears of retail’s pandemic-drive demise, South Florida’s retail sector is enjoying a combination of low vacancy rates, resilient rental rates and robust leasing and investment sales. That’s according to market reports released Thursday by commercial real estate brokerage Colliers .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/south-florida-miami-retail-leasing-vacancy-rent/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-16T21:45:48.000Z"
-    },
-    {
-      "headline": "House of Spells brings fresh magic to the Deuce decades after NYC block’s porn-and-crime nadir",
-      "summary": "The Deuce was losing its juice, but a giant new fun-and-fantasy store from England is the latest retailer aiming to put the magic back in the once notorious but now revitalized West 42nd Street block.",
+      "headline": "A shocking number of wealthy NYC renters live in stabilized units",
+      "summary": "New York’s rent-stabilized apartments — the largest such system in the country — disproportionately benefit wealthy tenants in expensive neighborhoods.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/07/24/business/house-of-spells-brings-fresh-magic-to-the-deuce-decades-after-nyc-blocks-porn-and-crime-nadir/",
+      "url": "https://nypost.com/2026/07/27/real-estate/big-number-of-wealthy-nyc-renters-live-in-stabilized-units/",
       "section": "new_york_post",
-      "retail": true,
-      "published_at": "2026-07-24T13:40:48.000Z"
-    },
-    {
-      "headline": "Apex Building Group pays $3.9M, signs $165.4M construction loan for 273-unit project in East New York",
-      "summary": "Apex Building Group through the entity Alafia 3 Housing Development Fund Corporation paid $3.9 million The post Apex Building Group pays $3.9M, signs $165.4M construction loan for 273-unit project in East New York appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/apex-building-group-signs-165-4m-construction-loan-for-273-project-in/",
-      "section": "pincusco",
       "retail": false,
-      "published_at": "2026-07-26T22:03:00.000Z"
+      "published_at": "2026-07-27T16:52:13.000Z"
     },
     {
       "headline": "HPD files plans for 262 units in Bedford Stuyvesant",
@@ -235,6 +217,42 @@
       "section": "pincusco",
       "retail": false,
       "published_at": "2026-07-27T10:20:00.000Z"
+    },
+    {
+      "headline": "California’s first tiny home megaproject ignites fury in idyllic beach town",
+      "summary": "New plans for the controversial ADU housing project in Southern California were released in hopes of gaining community support today.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/27/real-estate/californias-first-tiny-home-megaproject-ignites-fury-in-idyllic-beach-town/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-07-28T03:30:00.000Z"
+    },
+    {
+      "headline": "Grun Group files plans for 198 units in Woodlawn Heights",
+      "summary": "Grun Group filed plans for two buildings with a total of 198 units in Woodlawn The post Grun Group files plans for 198 units in Woodlawn Heights appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/grun-group-files-plans-for-198-units-in-woodlawn-heights/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-07-27T15:26:00.000Z"
+    },
+    {
+      "headline": "Lakhwinder Singh files plans for 26 stories, 99 units in Jamaica",
+      "summary": "Lakhwinder Singh submitted a new building construction project for a 99-unit, 83,744-square-foot residential (R-2) building The post Lakhwinder Singh files plans for 26 stories, 99 units in Jamaica appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/lakhwinder-singh-files-plans-for-99-units-in-jamaica/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-07-27T13:46:00.000Z"
+    },
+    {
+      "headline": "SCG Capital files plans for 197 units in Bedford Park",
+      "summary": "Shimon Greenfeld’s SCG Capital filed plans for two buildings with a total of 197 units The post SCG Capital files plans for 197 units in Bedford Park appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/scg-capital-files-plans-for-197-units-in-bedford-park/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-07-27T13:27:00.000Z"
     },
     {
       "headline": "Mordechai Schwimmer files plans for 79 units in Long Island City",
@@ -262,24 +280,6 @@
       "section": "pincusco",
       "retail": false,
       "published_at": "2026-07-26T23:55:00.000Z"
-    },
-    {
-      "headline": "Sehoon Park pays $3.9M to G-Way Management for mixed-use in Clinton Hill",
-      "summary": "Sehoon Park through the entity 1015 Fulton Realty LLC paid $3.9 million to G-Way Management The post Sehoon Park pays $3.9M to G-Way Management for mixed-use in Clinton Hill appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/sehoon-park-pays-3-9m-to-g-way-management-for-mixed-use-in-clinton-hill/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-26T23:11:00.000Z"
-    },
-    {
-      "headline": "460 Park Ave. getting $200 million upgrade",
-      "summary": "Tower owner Korea International Trade Association is launching a $200 million redevelopment to bring the entire 22-story, Midcentury property into the modern age.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/26/business/460-park-ave-getting-200-million-upgrade/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-07-26T18:52:07.000Z"
     }
   ]
 }
