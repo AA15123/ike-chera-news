@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-07-28",
-  "generated_at": "2026-07-28T12:03:04.239Z",
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T12:08:29.167Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Meal Delivery Service CookUnity to Open Flagship Storefront at NoMad Hotel: CookUnity , a subscription-based meal delivery platform, has inked 4,721 square feet of ground-floor retail space at Lam Group ’s 1227 Broadway , also known as Virgin Hotel New York City , in Manhattan’s NoMad neighborhood, Commercial Observer has learned.\n\nInfinium Wall Systems Takes 30K SF of Office, Retail Space at ESRT’s 1359 Broadway: If these walls could talk, they’d talk about all the new leasing in Midtown. Infinium Wall Syst ems , a company that designs, engineers and installs wall systems and doors for offices, has inked a new office and retail lease spanning 30,017 square feet at Empire State Realty Trust (ESRT)’s 1359 Broadway , the landlord.\n\nAI Firm Corgi to Open 24/7 Cafe at 121 East 27th Street: Alert the Queen, here come the corgis! OK, not exactly.\n\nLos Angeles Matcha Brand Archives of Us Signs Retail Lease in East Village: A Los Angeles-based matcha cafe chain has signed a retail deal for its first New York City location in Manhattan’s East Village. Archives of Us has leased 2,400 square feet at Highpoint Property Group ’s 84 Second Avenue , where it will act as a cafe and retail presence for the matcha brand, according to landlord.",
+    "commercial_observer": "Meal Delivery Service CookUnity to Open Flagship Storefront at NoMad Hotel: CookUnity , a subscription-based meal delivery platform, has inked 4,721 square feet of ground-floor retail space at Lam Group ’s 1227 Broadway , also known as Virgin Hotel New York City , in Manhattan’s NoMad neighborhood, Commercial Observer has learned.\n\nInfinium Wall Systems Takes 30K SF of Office, Retail Space at ESRT’s 1359 Broadway: If these walls could talk, they’d talk about all the new leasing in Midtown. Infinium Wall Syst ems , a company that designs, engineers and installs wall systems and doors for offices, has inked a new office and retail lease spanning 30,017 square feet at Empire State Realty Trust (ESRT)’s 1359 Broadway , the landlord.\n\nAI Firm Corgi to Open 24/7 Cafe at 121 East 27th Street: Alert the Queen, here come the corgis! OK, not exactly.\n\nBakery Shop Cafe Aroma to Open New Spot on the Upper East Side: Time to rise and grind, Upper East Siders, as a new coffee shop and bakery is set to open at Avenues Equity Partners ’ 1410 Madison Avenue in Carnegie Hill. Family-owned coffee shop and bakery Cafe Aroma has taken 2,200 square feet of retail space at the base of the five-story residential building, according to.",
     "cre_daily": "Why Premium Grocers Skew CMBS Delinquency Rankings: Headline CMBS delinquency rates overstate tenant risk for premium grocers due to property-level issues unrelated to supermarket performance. Large nonperforming loans are tied to urban retail condos and malls, not traditional grocery-anchored centers, distorting delinquency statistics.\n\nUS Retail Vacancy Holds at 4.4% as Demand Stays Strong: US retail vacancy remained at 4.4% in Q2 2026, showing market stability despite economic headwinds. Net absorption rebounded to 10.2M SF, with value-oriented and experiential retailers driving leasing activity.\n\nRetail Investment Surges as Supply Tightens Across US: Retail transaction volume hit $15.3B in Q1 2026, rising 5% year-over-year, as buyers chase limited deals per JLL. Vacancy remains low and new supply trails the 10-year average, fueling stiff competition and rising rents in prime markets.\n\nGLP-1 Medications Shift US Retail Foot Traffic and Sales: GLP-1 medications are altering US shopping habits, cutting snack spending and boosting wellness-related retail activity. Fitness, fresh food, and athleisure retailers are seeing increased foot traffic and sales as consumers refocus on health.",
-    "new_york_post": "SL Green signs 2 leases for 1185 Sixth Ave, reaches 92% occupied: One lease was a 29,166 square-foot renewal and expansion for insurance firm Ryan Specialty LLC, while other was a new, 27,508 square-foot lease with property management firm Solil Management LLC.\n\nA shocking number of wealthy NYC renters live in stabilized units: New York’s rent-stabilized apartments — the largest such system in the country — disproportionately benefit wealthy tenants in expensive neighborhoods.\n\nCalifornia’s first tiny home megaproject ignites fury in idyllic beach town: New plans for the controversial ADU housing project in Southern California were released in hopes of gaining community support today.",
-    "pincusco": "Wharton Properties signs $20.3M refi with Provident Bank for retail in Penn Plaza: Wharton Properties through the entity 40 West 34th St. Owner LLC as borrower signed a.\n\nHPD files plans for 262 units in Bedford Stuyvesant: NYC Department of Housing Preservation and Development submitted a new building construction project for a.\n\nGrun Group files plans for 198 units in Woodlawn Heights: Grun Group filed plans for two buildings with a total of 198 units in Woodlawn.\n\nLakhwinder Singh files plans for 26 stories, 99 units in Jamaica: Lakhwinder Singh submitted a new building construction project for a 99-unit, 83,744-square-foot residential (R-2) building."
+    "new_york_post": "SL Green signs 2 leases for 1185 Sixth Ave, reaches 92% occupied: One lease was a 29,166 square-foot renewal and expansion for insurance firm Ryan Specialty LLC, while other was a new, 27,508 square-foot lease with property management firm Solil Management LLC.\n\nA shocking number of wealthy NYC renters live in stabilized units: New York’s rent-stabilized apartments — the largest such system in the country — disproportionately benefit wealthy tenants in expensive neighborhoods.\n\nRare $112M oceanfront California compound stands to break a local home sale record — again: The asking price could set a new residential sales record for both an affluent California city and all of Orange County.\n\nCalifornia’s first tiny home megaproject ignites fury in idyllic beach town: New plans for the controversial ADU housing project in Southern California were released in hopes of gaining community support today.",
+    "pincusco": "Dalan, CSFG, pay $16.4M to DAX Real Estate for mixed-use rentals in Williamsburg: Dalan Real Estate and CSFG Real Estate through the entity CSFG7 (US) Holding LLC paid.\n\nRichman Group files plans for 420 units in East Harlem: Richman Group, in a joint venture with Monadnock Development, submitted a new building construction project.\n\nEliran Cohen pays $9.2M to Kwong Chiu for 12-unit dev site in Greenpoint: Eliran Cohen through the entity Newton Development LLC paid $9.2 million to Kwong Chiu through.\n\nGrun Group files plans for 198 units in Woodlawn Heights: Grun Group filed plans for two buildings with a total of 198 units in Woodlawn."
   },
   "items": [
     {
@@ -40,21 +40,12 @@
     },
     {
       "headline": "AI Firm Corgi to Open 24/7 Cafe at 121 East 27th Street",
-      "summary": "Alert the Queen, here come the corgis! OK, not exactly. Corgi Cafe , a 24/7 coffee shop from Corgi , an artificial intelligence-powered insurance company — no, really — is getting ready to open its first location in New York City, Commercial Observer can first report. The tenant, which will operate a round-the-clock cafe selling coffee, drinks and snacks, took 1,223 square feet of retail space at the base of 121 East 27th Street in Manhattan’s NoMad neighborhood, according to broker Meridian Capital Group .…",
+      "summary": "Alert the Queen, here come the corgis! OK, not exactly. Corgi Cafe , a 24/7 coffee shop from Corgi , an artificial intelligence-powered insurance company — no, really — is getting ready to open its first location in New York City, Commercial Observer can first report. The tenant, which will operate a round-the-clock cafe selling coffee, other drinks and snacks, took 1,223 square feet of retail space at the base of 121 East 27th Street in Manhattan’s NoMad neighborhood, according to broker Meridian Capital Group .…",
       "source": "Commercial Observer",
       "url": "https://commercialobserver.com/2026/07/corgi-cafe-lease-121-east-27th-street/",
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-07-27T15:40:25.000Z"
-    },
-    {
-      "headline": "Los Angeles Matcha Brand Archives of Us Signs Retail Lease in East Village",
-      "summary": "A Los Angeles-based matcha cafe chain has signed a retail deal for its first New York City location in Manhattan’s East Village. Archives of Us has leased 2,400 square feet at Highpoint Property Group ’s 84 Second Avenue , where it will act as a cafe and retail presence for the matcha brand, according to landlord broker Meridian Capital Group . Meridian did not disclose the length of the lease, but the asking rent for the space was $125 per square foot.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/archives-of-us-retail-lease-84-second-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-14T16:19:14.000Z"
     },
     {
       "headline": "Bakery Shop Cafe Aroma to Open New Spot on the Upper East Side",
@@ -84,13 +75,13 @@
       "published_at": "2026-07-17T04:37:39.000Z"
     },
     {
-      "headline": "Barolo Restaurant Group Inks Deal to Open Italian Eatery in Times Square",
-      "summary": "Italian restaurant operator Barolo Restaurant Group plans to open its third New York City restaurant, Barolo West , at 250 West 49th Street in Times Square . The company took 2,500 square feet of space at the newly developed 29-story property in Midtown. The length of the lease was not disclosed, but the asking rent was $210 per square foot, according to broker Meridian Capital Group . Meridian’s Noam Aziz and Carson Shahrabani represented Barolo and landlord Chess Builders .…",
+      "headline": "Whole Foods Signs 8K-SF Lease to Open Daily Shop at 1524 Second Avenue",
+      "summary": "Whole Foods Market has signed a lease on the Upper East Side to open its version of a mini-mart. The Amazon -owned grocery chain closed an 8,121-square-foot deal for one of its small-scale concepts on the ground floor of ConTowers Associates LP ’s 1524 Second Avenue , also known as the Continental Towers , according to landlord broker Newmark . While the brokers did not define what kind of concept the store will be, the focus will be on prepared foods in a convenient setting.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/barolo-restaurant-group-lease-italian-times-square/",
+      "url": "https://commercialobserver.com/2026/07/whole-foods-market-daily-shop-lease-1524-second-avenue/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-07-14T17:27:27.000Z"
+      "published_at": "2026-07-28T19:31:41.000Z"
     },
     {
       "headline": "GLP-1 Medications Shift US Retail Foot Traffic and Sales",
@@ -120,6 +111,15 @@
       "published_at": "2026-07-15T15:59:43.000Z"
     },
     {
+      "headline": "U.S. Department of Veterans Affairs Takes 5K SF at 1733 Eastchester Road in the Bronx",
+      "summary": "Simone Development Companies has brought its two-story, 27,275-square-foot medical and office building at 1733 Eastchester Road in the Bronx’s Morris Park neighborhood to full occupancy, according to the firm. The building’s last vacant space was leased in June, when the U.S. General Services Administration (GSA) inked a long-term, 5,234-square-foot lease to house the U.S. Department of Veterans Affairs ’ new Bronx Vet Center at the property. It was a direct lease between the GSA and Simone.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/us-department-veterans-affairs-lease-1733-eastchester-road-bronx/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-28T19:54:44.000Z"
+    },
+    {
       "headline": "Gowanus Golf Club Secures 6K SF to Open Private Club in Brooklyn’s Dumbo",
       "summary": "A new golf club is being teed up for Brooklyn’s Dumbo neighborhood. Gowanus Golf Club , a Brooklyn-based private indoor golf club chain, has leased approximately 6,000 square feet along the Dumbo waterfront at 215 Water Street , Commercial Observer has learned. The five-story mixed-use building between Bridge and Jay streets is owned by Pearl Realty Management , according to broker Corey Cohen , principal of the Roebling Team at Compass .…",
       "source": "Commercial Observer",
@@ -129,13 +129,22 @@
       "published_at": "2026-07-27T13:00:26.000Z"
     },
     {
-      "headline": "Legal AI Firm Sandstone Signs 14K-SF Lease at 141 East Houston Street",
-      "summary": "An artificial intelligence-powered management platform designed to help law firms has signed an office lease on the Lower East Side, Commercial Observer has learned. AI platform Sandstone signed a five-year deal spanning 13,794 square feet on the entire third and fourth floors of East End Capital ’s 141 East Houston Street , according to landlord broker Current Real Estate Advisors . Asking rent for the space was $93 per square foot.…",
+      "headline": "Suffolk Construction Inks 19K-SF Lease in West Palm Beach",
+      "summary": "Suffolk Construction is moving its office within Downtown West Palm Beach after signing a 19,000-square-foot lease at the Echo boutique building. The builder will relocate to the top floor of the four-story building at 205 Datura Street , which sits adjacent to South Narcissus Avenue, the tenant announced. The new office sits about three blocks east of Suffolk’s current digs at 426 Clematis Street .…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/sandstone-lease-141-east-houston-street/",
+      "url": "https://commercialobserver.com/2026/07/suffolk-construction-west-palm-beach-echo-205-datura/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-07-27T19:51:11.000Z"
+      "published_at": "2026-07-28T18:35:09.000Z"
+    },
+    {
+      "headline": "Cynde Altheim Interiors Renews 7K SF at 149 West 36th Street",
+      "summary": "Interior design firm Cynde Altheim Interiors is holding onto its third-floor lease at 149 West 36th Street . Cynde Altheim will maintain its 6,740-square-foot office space in the Frangene Company -owned building, located between Broadway and Seventh Avenue. The design firm, which operates under the name of Mark David Interiors , specializes in residential and commercial projects. Cynde Altheim arrived at the Garment District address in 2014.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/cynde-altheim-interiors-lease-renewal-149-west-36th-street/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-28T17:18:12.000Z"
     },
     {
       "headline": "Selective Buyers Reshape US Retail Investment in 2026",
@@ -165,15 +174,6 @@
       "published_at": "2026-07-20T20:41:14.000Z"
     },
     {
-      "headline": "Wharton Properties signs $20.3M refi with Provident Bank for retail in Penn Plaza",
-      "summary": "Wharton Properties through the entity 40 West 34th St. Owner LLC as borrower signed a The post Wharton Properties signs $20.3M refi with Provident Bank for retail in Penn Plaza appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/wharton-properties-signs-20-3m-refi-loan-with-provident-bank-for-mixed-use-in-penn-plaza/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-07-27T12:34:00.000Z"
-    },
-    {
       "headline": "SL Green signs 2 leases for 1185 Sixth Ave, reaches 92% occupied",
       "summary": "One lease was a 29,166 square-foot renewal and expansion for insurance firm Ryan Specialty LLC, while other was a new, 27,508 square-foot lease with property management firm Solil Management LLC.",
       "source": "New York Post",
@@ -201,6 +201,15 @@
       "published_at": "2026-07-20T13:00:02.000Z"
     },
     {
+      "headline": "South Florida Retail Markets Show Sub-5% Vacancy",
+      "summary": "Despite oft-repeated fears of retail’s pandemic-drive demise, South Florida’s retail sector is enjoying a combination of low vacancy rates, resilient rental rates and robust leasing and investment sales. That’s according to market reports released Thursday by commercial real estate brokerage Colliers .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/south-florida-miami-retail-leasing-vacancy-rent/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-16T21:45:48.000Z"
+    },
+    {
       "headline": "A shocking number of wealthy NYC renters live in stabilized units",
       "summary": "New York’s rent-stabilized apartments — the largest such system in the country — disproportionately benefit wealthy tenants in expensive neighborhoods.",
       "source": "New York Post",
@@ -210,13 +219,40 @@
       "published_at": "2026-07-27T16:52:13.000Z"
     },
     {
-      "headline": "HPD files plans for 262 units in Bedford Stuyvesant",
-      "summary": "NYC Department of Housing Preservation and Development submitted a new building construction project for a The post HPD files plans for 262 units in Bedford Stuyvesant appeared first on PincusCo .",
+      "headline": "Rare $112M oceanfront California compound stands to break a local home sale record — again",
+      "summary": "The asking price could set a new residential sales record for both an affluent California city and all of Orange County.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/29/real-estate/laguna-beach-compound-asks-a-record-112m/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-07-29T11:30:00.000Z"
+    },
+    {
+      "headline": "Dalan, CSFG, pay $16.4M to DAX Real Estate for mixed-use rentals in Williamsburg",
+      "summary": "Dalan Real Estate and CSFG Real Estate through the entity CSFG7 (US) Holding LLC paid The post Dalan, CSFG, pay $16.4M to DAX Real Estate for mixed-use rentals in Williamsburg appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/hpd-files-plans-for-262-units-in-bedford-stuyvesant/",
+      "url": "https://www.pincusco.com/dalan-csfg-pay-16-4m-to-dax-real-estate-for-mixed-use-rentals-in-williamsburg/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-07-27T10:20:00.000Z"
+      "published_at": "2026-07-28T13:42:00.000Z"
+    },
+    {
+      "headline": "Richman Group files plans for 420 units in East Harlem",
+      "summary": "Richman Group, in a joint venture with Monadnock Development, submitted a new building construction project The post Richman Group files plans for 420 units in East Harlem appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/richman-group-files-plans-for-420-units-in-east-harlem/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-07-28T13:11:00.000Z"
+    },
+    {
+      "headline": "Eliran Cohen pays $9.2M to Kwong Chiu for 12-unit dev site in Greenpoint",
+      "summary": "Eliran Cohen through the entity Newton Development LLC paid $9.2 million to Kwong Chiu through The post Eliran Cohen pays $9.2M to Kwong Chiu for 12-unit dev site in Greenpoint appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/eliran-cohen-pays-9-2m-to-kwong-chiu-for-dev-site-in-greenpoint/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-07-28T12:17:00.000Z"
     },
     {
       "headline": "California’s first tiny home megaproject ignites fury in idyllic beach town",
@@ -244,42 +280,6 @@
       "section": "pincusco",
       "retail": false,
       "published_at": "2026-07-27T13:46:00.000Z"
-    },
-    {
-      "headline": "SCG Capital files plans for 197 units in Bedford Park",
-      "summary": "Shimon Greenfeld’s SCG Capital filed plans for two buildings with a total of 197 units The post SCG Capital files plans for 197 units in Bedford Park appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/scg-capital-files-plans-for-197-units-in-bedford-park/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-27T13:27:00.000Z"
-    },
-    {
-      "headline": "Mordechai Schwimmer files plans for 79 units in Long Island City",
-      "summary": "Mordechai Schwimmer submitted a new building construction project for a 79-unit, 66,824-square-foot residential (R-2) building The post Mordechai Schwimmer files plans for 79 units in Long Island City appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/mordechai-schwimmer-files-plans-for-79-units-in-long-island-city/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-27T11:17:00.000Z"
-    },
-    {
-      "headline": "Builders Group USA files plans for 14 units in Castle Hill",
-      "summary": "Yitzi Salamon of Builders Group USA submitted a new building construction project for a 14-unit, The post Builders Group USA files plans for 14 units in Castle Hill appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/builders-group-usa-files-plans-for-14-units-in-castle-hill/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-27T10:07:00.000Z"
-    },
-    {
-      "headline": "Joel Steinmetz files plans for 99 units in Jamaica, parcel long-owned by Menashe family",
-      "summary": "Joel Steinmetz submitted a new building construction project for a 99-unit, 77,807-square-foot residential (R-2) building The post Joel Steinmetz files plans for 99 units in Jamaica, parcel long-owned by Menashe family appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/bonei-builders-files-plans-for-99-units-in-jamaica/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-26T23:55:00.000Z"
     }
   ]
 }
