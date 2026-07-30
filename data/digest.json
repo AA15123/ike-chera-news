@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-07-29",
-  "generated_at": "2026-07-29T12:08:29.167Z",
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T11:57:26.689Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Meal Delivery Service CookUnity to Open Flagship Storefront at NoMad Hotel: CookUnity , a subscription-based meal delivery platform, has inked 4,721 square feet of ground-floor retail space at Lam Group ’s 1227 Broadway , also known as Virgin Hotel New York City , in Manhattan’s NoMad neighborhood, Commercial Observer has learned.\n\nInfinium Wall Systems Takes 30K SF of Office, Retail Space at ESRT’s 1359 Broadway: If these walls could talk, they’d talk about all the new leasing in Midtown. Infinium Wall Syst ems , a company that designs, engineers and installs wall systems and doors for offices, has inked a new office and retail lease spanning 30,017 square feet at Empire State Realty Trust (ESRT)’s 1359 Broadway , the landlord.\n\nAI Firm Corgi to Open 24/7 Cafe at 121 East 27th Street: Alert the Queen, here come the corgis! OK, not exactly.\n\nBakery Shop Cafe Aroma to Open New Spot on the Upper East Side: Time to rise and grind, Upper East Siders, as a new coffee shop and bakery is set to open at Avenues Equity Partners ’ 1410 Madison Avenue in Carnegie Hill. Family-owned coffee shop and bakery Cafe Aroma has taken 2,200 square feet of retail space at the base of the five-story residential building, according to.",
-    "cre_daily": "Why Premium Grocers Skew CMBS Delinquency Rankings: Headline CMBS delinquency rates overstate tenant risk for premium grocers due to property-level issues unrelated to supermarket performance. Large nonperforming loans are tied to urban retail condos and malls, not traditional grocery-anchored centers, distorting delinquency statistics.\n\nUS Retail Vacancy Holds at 4.4% as Demand Stays Strong: US retail vacancy remained at 4.4% in Q2 2026, showing market stability despite economic headwinds. Net absorption rebounded to 10.2M SF, with value-oriented and experiential retailers driving leasing activity.\n\nRetail Investment Surges as Supply Tightens Across US: Retail transaction volume hit $15.3B in Q1 2026, rising 5% year-over-year, as buyers chase limited deals per JLL. Vacancy remains low and new supply trails the 10-year average, fueling stiff competition and rising rents in prime markets.\n\nGLP-1 Medications Shift US Retail Foot Traffic and Sales: GLP-1 medications are altering US shopping habits, cutting snack spending and boosting wellness-related retail activity. Fitness, fresh food, and athleisure retailers are seeing increased foot traffic and sales as consumers refocus on health.",
-    "new_york_post": "SL Green signs 2 leases for 1185 Sixth Ave, reaches 92% occupied: One lease was a 29,166 square-foot renewal and expansion for insurance firm Ryan Specialty LLC, while other was a new, 27,508 square-foot lease with property management firm Solil Management LLC.\n\nA shocking number of wealthy NYC renters live in stabilized units: New York’s rent-stabilized apartments — the largest such system in the country — disproportionately benefit wealthy tenants in expensive neighborhoods.\n\nRare $112M oceanfront California compound stands to break a local home sale record — again: The asking price could set a new residential sales record for both an affluent California city and all of Orange County.\n\nCalifornia’s first tiny home megaproject ignites fury in idyllic beach town: New plans for the controversial ADU housing project in Southern California were released in hopes of gaining community support today.",
-    "pincusco": "Dalan, CSFG, pay $16.4M to DAX Real Estate for mixed-use rentals in Williamsburg: Dalan Real Estate and CSFG Real Estate through the entity CSFG7 (US) Holding LLC paid.\n\nRichman Group files plans for 420 units in East Harlem: Richman Group, in a joint venture with Monadnock Development, submitted a new building construction project.\n\nEliran Cohen pays $9.2M to Kwong Chiu for 12-unit dev site in Greenpoint: Eliran Cohen through the entity Newton Development LLC paid $9.2 million to Kwong Chiu through.\n\nGrun Group files plans for 198 units in Woodlawn Heights: Grun Group filed plans for two buildings with a total of 198 units in Woodlawn."
+    "cre_daily": "Why Premium Grocers Skew CMBS Delinquency Rankings: Headline CMBS delinquency rates overstate tenant risk for premium grocers due to property-level issues unrelated to supermarket performance. Large nonperforming loans are tied to urban retail condos and malls, not traditional grocery-anchored centers, distorting delinquency statistics.\n\nNYC Doubles Retail Lease Assistance Funding Amid Tight Market: New York City increased its commercial lease assistance program budget from $4M to $8M to support small business tenants. The program provides legal support for leases, renewals, and disputes, benefiting both tenants and landlords as retail rents and competition rise.\n\nRetail Investment Surges as Supply Tightens Across US: Retail transaction volume hit $15.3B in Q1 2026, rising 5% year-over-year, as buyers chase limited deals per JLL. Vacancy remains low and new supply trails the 10-year average, fueling stiff competition and rising rents in prime markets.\n\nGLP-1 Medications Shift US Retail Foot Traffic and Sales: GLP-1 medications are altering US shopping habits, cutting snack spending and boosting wellness-related retail activity. Fitness, fresh food, and athleisure retailers are seeing increased foot traffic and sales as consumers refocus on health.",
+    "new_york_post": "Newly minted millionaires raid LA real estate market after stock sale bonanza — as desired neighborhoods revealed: Fresh LA millionaires are eyeing homes across the city.\n\nRare $112M oceanfront California compound stands to break a local home sale record — again: The asking price could set a new residential sales record for both an affluent California city and all of Orange County.\n\nCalifornia’s first tiny home megaproject ignites fury in idyllic beach town: New plans for the controversial ADU housing project in Southern California were released in hopes of gaining community support today.\n\nNYC homeowners sue to stop co-op from evicting their son — whose viral feud with doorman spiraled into racial slurs, assault and arrest: A toxic, long-simmering feud at an East Side cooperative, 339 E. 58th St., has exploded into a new Manhattan Supreme Court lawsuit.",
+    "pincusco": "PGIM, Tribeca, Meadow, sign $228.9M construction loan to renovate Park Avenue South office: PGIM Real Estate, Tribeca Investment Group, and Meadow Partners through the entity 295 Fifth Ave.\n\nQiang Chen files plans for 12 units in Astoria: Qiang Chen submitted a new building construction project for a 12-unit, 11,812-square-foot residential (R-2) building.\n\nM. Melnick & Co. pays $8M to Stanford Hotels for office in Tremont: M. Melnick & Co.\n\nPrince Mario Max Schaumburg Lippe pays $12M to William Su for hotel in Chinatown: Prince Mario Max Schaumburg Lippe, who also uses the name Max Zu, through the entity."
   },
   "items": [
     {
@@ -39,6 +39,15 @@
       "published_at": "2026-07-20T20:30:52.000Z"
     },
     {
+      "headline": "NYC Doubles Retail Lease Assistance Funding Amid Tight Market",
+      "summary": "New York City increased its commercial lease assistance program budget from $4M to $8M to support small business tenants. The program provides legal support for leases, renewals, and disputes, benefiting both tenants and landlords as retail rents and competition rise. Persistently tight availability is boosting demand and asking rents, underlining the need for more accessible tenant resources in a landlord-driven market.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/nyc-doubles-retail-lease-assistance-funding-amid-tight-market/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-07-30T06:47:29.000Z"
+    },
+    {
       "headline": "AI Firm Corgi to Open 24/7 Cafe at 121 East 27th Street",
       "summary": "Alert the Queen, here come the corgis! OK, not exactly. Corgi Cafe , a 24/7 coffee shop from Corgi , an artificial intelligence-powered insurance company — no, really — is getting ready to open its first location in New York City, Commercial Observer can first report. The tenant, which will operate a round-the-clock cafe selling coffee, other drinks and snacks, took 1,223 square feet of retail space at the base of 121 East 27th Street in Manhattan’s NoMad neighborhood, according to broker Meridian Capital Group .…",
       "source": "Commercial Observer",
@@ -55,15 +64,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-07-17T16:05:12.000Z"
-    },
-    {
-      "headline": "US Retail Vacancy Holds at 4.4% as Demand Stays Strong",
-      "summary": "US retail vacancy remained at 4.4% in Q2 2026, showing market stability despite economic headwinds. Net absorption rebounded to 10.2M SF, with value-oriented and experiential retailers driving leasing activity. Limited new supply and resilient consumer demand are keeping rents firm and positioning the sector for continued strength. Key Takeaways Retail Resilience Defies Market Pessimism US retail fundamentals stayed on solid footing in Q2 2026, even as the wider economy faced ongoing uncertainty.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/us-retail-vacancy-holds-at-4-4-as-demand-stays-strong/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-07-16T03:56:56.000Z"
     },
     {
       "headline": "Retail Investment Surges as Supply Tightens Across US",
@@ -102,15 +102,6 @@
       "published_at": "2026-07-20T10:30:32.000Z"
     },
     {
-      "headline": "Restaurateur James O’Brien Bringing Wine Bar to Naftali’s Williamsburg Wharf",
-      "summary": "Some wine and a walk by the Williamsburg waterfront? Sounds like the perfect evening. James O’Brien , the restaurateur behind Cobble Hill’s popular Italian restaurant Popina , has signed a 2,000-square-foot lease at Naftali Group ’s Williamsburg Wharf to open a new wine bar, t he developer announced Tuesday. The yet-to-be-named wine bar will open at 484 Kent Avenue in 2027.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/james-obrien-lease-wine-bar-naftali-williamsburg-wharf/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-15T15:59:43.000Z"
-    },
-    {
       "headline": "U.S. Department of Veterans Affairs Takes 5K SF at 1733 Eastchester Road in the Bronx",
       "summary": "Simone Development Companies has brought its two-story, 27,275-square-foot medical and office building at 1733 Eastchester Road in the Bronx’s Morris Park neighborhood to full occupancy, according to the firm. The building’s last vacant space was leased in June, when the U.S. General Services Administration (GSA) inked a long-term, 5,234-square-foot lease to house the U.S. Department of Veterans Affairs ’ new Bronx Vet Center at the property. It was a direct lease between the GSA and Simone.…",
       "source": "Commercial Observer",
@@ -127,24 +118,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-07-27T13:00:26.000Z"
-    },
-    {
-      "headline": "Suffolk Construction Inks 19K-SF Lease in West Palm Beach",
-      "summary": "Suffolk Construction is moving its office within Downtown West Palm Beach after signing a 19,000-square-foot lease at the Echo boutique building. The builder will relocate to the top floor of the four-story building at 205 Datura Street , which sits adjacent to South Narcissus Avenue, the tenant announced. The new office sits about three blocks east of Suffolk’s current digs at 426 Clematis Street .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/suffolk-construction-west-palm-beach-echo-205-datura/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-28T18:35:09.000Z"
-    },
-    {
-      "headline": "Cynde Altheim Interiors Renews 7K SF at 149 West 36th Street",
-      "summary": "Interior design firm Cynde Altheim Interiors is holding onto its third-floor lease at 149 West 36th Street . Cynde Altheim will maintain its 6,740-square-foot office space in the Frangene Company -owned building, located between Broadway and Seventh Avenue. The design firm, which operates under the name of Mark David Interiors , specializes in residential and commercial projects. Cynde Altheim arrived at the Garment District address in 2014.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/cynde-altheim-interiors-lease-renewal-149-west-36th-street/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-28T17:18:12.000Z"
     },
     {
       "headline": "Selective Buyers Reshape US Retail Investment in 2026",
@@ -174,13 +147,13 @@
       "published_at": "2026-07-20T20:41:14.000Z"
     },
     {
-      "headline": "SL Green signs 2 leases for 1185 Sixth Ave, reaches 92% occupied",
-      "summary": "One lease was a 29,166 square-foot renewal and expansion for insurance firm Ryan Specialty LLC, while other was a new, 27,508 square-foot lease with property management firm Solil Management LLC.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/26/business/sl-green-signs-2-leases-for-1185-sixth-ave-reaches-92-occupied/",
-      "section": "new_york_post",
+      "headline": "AI Infrastructure Firm Treeswift Signs 7K-SF Lease at 256 West 38th Street",
+      "summary": "An artificial intelligence-driven infrastructure technology company is relocating its offices to Midtown. Philadelphia-based Treeswift signed a four-year, 7,487-square-foot lease on the entire 11th floor of the Hakimian Organization ’s 256 West 38th Street in an expansion of its New York City operations, according to landlord broker Lee & Associates NYC . Asking rent was $39 per square foot.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/treeswift-lease-256-west-38th-street/",
+      "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-07-26T18:55:57.000Z"
+      "published_at": "2026-07-29T19:14:34.000Z"
     },
     {
       "headline": "More Luxury Retailers Partner With Everyday Names to Lure Gen Z Shoppers",
@@ -210,13 +183,58 @@
       "published_at": "2026-07-16T21:45:48.000Z"
     },
     {
-      "headline": "A shocking number of wealthy NYC renters live in stabilized units",
-      "summary": "New York’s rent-stabilized apartments — the largest such system in the country — disproportionately benefit wealthy tenants in expensive neighborhoods.",
+      "headline": "PGIM, Tribeca, Meadow, sign $228.9M construction loan to renovate Park Avenue South office",
+      "summary": "PGIM Real Estate, Tribeca Investment Group, and Meadow Partners through the entity 295 Fifth Ave The post PGIM, Tribeca, Meadow, sign $228.9M construction loan to renovate Park Avenue South office appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/pgim-tribeca-meadow-sign-228-9m-construction-loan-to-renovate-park-avenue-south-office/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-07-29T14:51:00.000Z"
+    },
+    {
+      "headline": "Marx Realty CEO Craig Deitelzweig Spied the Office-Hospitality Connection Early",
+      "summary": "When he isn’t home tending to his alpacas — yes, he has alpacas — Craig Deitelzweig, the chief executive officer of owner Marx Realty, is working out ways to beautify the company’s office portfolio, intent on making where people go to work a destination, not a chore. Deitelzweig, a former lawyer who graduated from Fordham University’s law school, became CEO of Marx Realty in 2017 and set out to reposition the firm’s portfolio, grow the company, and improve the value of the office properties in the key markets…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/marx-realty-ceo-craig-deitelzweig-office-hospitality/",
+      "section": "commercial_observer",
+      "retail": false,
+      "published_at": "2026-07-21T14:00:22.000Z"
+    },
+    {
+      "headline": "Newly minted millionaires raid LA real estate market after stock sale bonanza — as desired neighborhoods revealed",
+      "summary": "Fresh LA millionaires are eyeing homes across the city.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/07/27/real-estate/big-number-of-wealthy-nyc-renters-live-in-stabilized-units/",
+      "url": "https://nypost.com/2026/07/29/real-estate/newly-minted-millionaires-raid-la-real-estate-market-after-stock-sale-bonanza-as-desired-neighborhoods-revealed/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-07-27T16:52:13.000Z"
+      "published_at": "2026-07-29T21:05:16.000Z"
+    },
+    {
+      "headline": "Qiang Chen files plans for 12 units in Astoria",
+      "summary": "Qiang Chen submitted a new building construction project for a 12-unit, 11,812-square-foot residential (R-2) building The post Qiang Chen files plans for 12 units in Astoria appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/qiang-chen-files-plans-for-12-units-in-astoria/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-07-29T15:20:00.000Z"
+    },
+    {
+      "headline": "M. Melnick & Co. pays $8M to Stanford Hotels for office in Tremont",
+      "summary": "M. Melnick & Co. through the entity 1940 Webster II LLC paid $8 million to The post M. Melnick & Co. pays $8M to Stanford Hotels for office in Tremont appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/m-melnick-co-pays-8m-to-stanford-hotels-for-office-in-tremont/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-07-29T14:28:00.000Z"
+    },
+    {
+      "headline": "Prince Mario Max Schaumburg Lippe pays $12M to William Su for hotel in Chinatown",
+      "summary": "Prince Mario Max Schaumburg Lippe, who also uses the name Max Zu, through the entity The post Prince Mario Max Schaumburg Lippe pays $12M to William Su for hotel in Chinatown appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/prince-mario-max-schaumburg-lippe-pays-12m-to-william-su-for-hotel-in-chinatown/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-07-29T12:59:00.000Z"
     },
     {
       "headline": "Rare $112M oceanfront California compound stands to break a local home sale record — again",
@@ -228,33 +246,6 @@
       "published_at": "2026-07-29T11:30:00.000Z"
     },
     {
-      "headline": "Dalan, CSFG, pay $16.4M to DAX Real Estate for mixed-use rentals in Williamsburg",
-      "summary": "Dalan Real Estate and CSFG Real Estate through the entity CSFG7 (US) Holding LLC paid The post Dalan, CSFG, pay $16.4M to DAX Real Estate for mixed-use rentals in Williamsburg appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/dalan-csfg-pay-16-4m-to-dax-real-estate-for-mixed-use-rentals-in-williamsburg/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-28T13:42:00.000Z"
-    },
-    {
-      "headline": "Richman Group files plans for 420 units in East Harlem",
-      "summary": "Richman Group, in a joint venture with Monadnock Development, submitted a new building construction project The post Richman Group files plans for 420 units in East Harlem appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/richman-group-files-plans-for-420-units-in-east-harlem/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-28T13:11:00.000Z"
-    },
-    {
-      "headline": "Eliran Cohen pays $9.2M to Kwong Chiu for 12-unit dev site in Greenpoint",
-      "summary": "Eliran Cohen through the entity Newton Development LLC paid $9.2 million to Kwong Chiu through The post Eliran Cohen pays $9.2M to Kwong Chiu for 12-unit dev site in Greenpoint appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/eliran-cohen-pays-9-2m-to-kwong-chiu-for-dev-site-in-greenpoint/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-28T12:17:00.000Z"
-    },
-    {
       "headline": "California’s first tiny home megaproject ignites fury in idyllic beach town",
       "summary": "New plans for the controversial ADU housing project in Southern California were released in hopes of gaining community support today.",
       "source": "New York Post",
@@ -264,22 +255,31 @@
       "published_at": "2026-07-28T03:30:00.000Z"
     },
     {
-      "headline": "Grun Group files plans for 198 units in Woodlawn Heights",
-      "summary": "Grun Group filed plans for two buildings with a total of 198 units in Woodlawn The post Grun Group files plans for 198 units in Woodlawn Heights appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/grun-group-files-plans-for-198-units-in-woodlawn-heights/",
-      "section": "pincusco",
+      "headline": "NYC homeowners sue to stop co-op from evicting their son — whose viral feud with doorman spiraled into racial slurs, assault and arrest",
+      "summary": "A toxic, long-simmering feud at an East Side cooperative, 339 E. 58th St., has exploded into a new Manhattan Supreme Court lawsuit.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/29/real-estate/nyc-family-sues-to-block-emergency-eviction-of-son/",
+      "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-07-27T15:26:00.000Z"
+      "published_at": "2026-07-29T17:28:26.000Z"
     },
     {
-      "headline": "Lakhwinder Singh files plans for 26 stories, 99 units in Jamaica",
-      "summary": "Lakhwinder Singh submitted a new building construction project for a 99-unit, 83,744-square-foot residential (R-2) building The post Lakhwinder Singh files plans for 26 stories, 99 units in Jamaica appeared first on PincusCo .",
+      "headline": "Lightstone in contract to pay Pinnacle $88M for control of 172-unit UWS rental",
+      "summary": "David Lichtenstein’s Lightstone Group through the entity LREP Acquisitions XIV LLC, as buyer signed a The post Lightstone in contract to pay Pinnacle $88M for control of 172-unit UWS rental appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/lakhwinder-singh-files-plans-for-99-units-in-jamaica/",
+      "url": "https://www.pincusco.com/lightstone-in-contract-to-pay-pinnacle-88m-for-control-of-172-unit-uws-rental/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-07-27T13:46:00.000Z"
+      "published_at": "2026-07-30T10:14:04.000Z"
+    },
+    {
+      "headline": "Astoria’s beloved Italian pastry shop La Guli closes for good after 89 years",
+      "summary": "Italian pastry shop La Guli, a beloved Astoria institution since 1937, has served its last gingerbread house.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/30/business/astorias-beloved-italian-pastry-shop-la-guli-closes-for-good/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-07-30T10:00:00.000Z"
     }
   ]
 }
