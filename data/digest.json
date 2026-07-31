@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-07-30",
-  "generated_at": "2026-07-30T11:57:26.689Z",
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T12:06:29.392Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Meal Delivery Service CookUnity to Open Flagship Storefront at NoMad Hotel: CookUnity , a subscription-based meal delivery platform, has inked 4,721 square feet of ground-floor retail space at Lam Group ’s 1227 Broadway , also known as Virgin Hotel New York City , in Manhattan’s NoMad neighborhood, Commercial Observer has learned.\n\nInfinium Wall Systems Takes 30K SF of Office, Retail Space at ESRT’s 1359 Broadway: If these walls could talk, they’d talk about all the new leasing in Midtown. Infinium Wall Syst ems , a company that designs, engineers and installs wall systems and doors for offices, has inked a new office and retail lease spanning 30,017 square feet at Empire State Realty Trust (ESRT)’s 1359 Broadway , the landlord.\n\nAI Firm Corgi to Open 24/7 Cafe at 121 East 27th Street: Alert the Queen, here come the corgis! OK, not exactly.\n\nBakery Shop Cafe Aroma to Open New Spot on the Upper East Side: Time to rise and grind, Upper East Siders, as a new coffee shop and bakery is set to open at Avenues Equity Partners ’ 1410 Madison Avenue in Carnegie Hill. Family-owned coffee shop and bakery Cafe Aroma has taken 2,200 square feet of retail space at the base of the five-story residential building, according to.",
-    "cre_daily": "Why Premium Grocers Skew CMBS Delinquency Rankings: Headline CMBS delinquency rates overstate tenant risk for premium grocers due to property-level issues unrelated to supermarket performance. Large nonperforming loans are tied to urban retail condos and malls, not traditional grocery-anchored centers, distorting delinquency statistics.\n\nNYC Doubles Retail Lease Assistance Funding Amid Tight Market: New York City increased its commercial lease assistance program budget from $4M to $8M to support small business tenants. The program provides legal support for leases, renewals, and disputes, benefiting both tenants and landlords as retail rents and competition rise.\n\nRetail Investment Surges as Supply Tightens Across US: Retail transaction volume hit $15.3B in Q1 2026, rising 5% year-over-year, as buyers chase limited deals per JLL. Vacancy remains low and new supply trails the 10-year average, fueling stiff competition and rising rents in prime markets.\n\nGLP-1 Medications Shift US Retail Foot Traffic and Sales: GLP-1 medications are altering US shopping habits, cutting snack spending and boosting wellness-related retail activity. Fitness, fresh food, and athleisure retailers are seeing increased foot traffic and sales as consumers refocus on health.",
-    "new_york_post": "Newly minted millionaires raid LA real estate market after stock sale bonanza — as desired neighborhoods revealed: Fresh LA millionaires are eyeing homes across the city.\n\nRare $112M oceanfront California compound stands to break a local home sale record — again: The asking price could set a new residential sales record for both an affluent California city and all of Orange County.\n\nCalifornia’s first tiny home megaproject ignites fury in idyllic beach town: New plans for the controversial ADU housing project in Southern California were released in hopes of gaining community support today.\n\nNYC homeowners sue to stop co-op from evicting their son — whose viral feud with doorman spiraled into racial slurs, assault and arrest: A toxic, long-simmering feud at an East Side cooperative, 339 E. 58th St., has exploded into a new Manhattan Supreme Court lawsuit.",
-    "pincusco": "PGIM, Tribeca, Meadow, sign $228.9M construction loan to renovate Park Avenue South office: PGIM Real Estate, Tribeca Investment Group, and Meadow Partners through the entity 295 Fifth Ave.\n\nQiang Chen files plans for 12 units in Astoria: Qiang Chen submitted a new building construction project for a 12-unit, 11,812-square-foot residential (R-2) building.\n\nM. Melnick & Co. pays $8M to Stanford Hotels for office in Tremont: M. Melnick & Co.\n\nPrince Mario Max Schaumburg Lippe pays $12M to William Su for hotel in Chinatown: Prince Mario Max Schaumburg Lippe, who also uses the name Max Zu, through the entity."
+    "commercial_observer": "Meal Delivery Service CookUnity to Open Flagship Storefront at NoMad Hotel: CookUnity , a subscription-based meal delivery platform, has inked 4,721 square feet of ground-floor retail space at Lam Group ’s 1227 Broadway , also known as Virgin Hotel New York City , in Manhattan’s NoMad neighborhood, Commercial Observer has learned.\n\nMezcali Founders to Open New Fusion Concept in Financial District: The restaurateurs behind Mexican restaurant Mezcali and American tavern the Malt House have signed a lease for a new food concept in Manhattan’s Financial District. Eoin Foyle and Darren Shore signed a 20-year, 4,744-square-foot lease in the retail component of TF Cornerstone ’s 2 Gold Street , where they will launch.\n\nInfinium Wall Systems Takes 30K SF of Office, Retail Space at ESRT’s 1359 Broadway: If these walls could talk, they’d talk about all the new leasing in Midtown. Infinium Wall Syst ems , a company that designs, engineers and installs wall systems and doors for offices, has inked a new office and retail lease spanning 30,017 square feet at Empire State Realty Trust (ESRT)’s 1359 Broadway , the landlord.\n\nAI Firm Corgi to Open 24/7 Cafe at 121 East 27th Street: Alert the Queen, here come the corgis! OK, not exactly.",
+    "cre_daily": "Why Premium Grocers Skew CMBS Delinquency Rankings: Headline CMBS delinquency rates overstate tenant risk for premium grocers due to property-level issues unrelated to supermarket performance. Large nonperforming loans are tied to urban retail condos and malls, not traditional grocery-anchored centers, distorting delinquency statistics.\n\nNYC Doubles Retail Lease Assistance Funding Amid Tight Market: New York City increased its commercial lease assistance program budget from $4M to $8M to support small business tenants. The program provides legal support for leases, renewals, and disputes, benefiting both tenants and landlords as retail rents and competition rise.\n\nRetail Corridors Pivot to Nightlife as Office Traffic Lags: Nighttime and weekend activity now drives recovery in retail corridors as office traffic remains depressed, according to Placer.ai’s Q2 2026 report. Evening visits on Fridays and Saturdays have slightly surpassed pre-pandemic levels, but daytime foot traffic trails by 20–30%.\n\nGLP-1 Medications Shift US Retail Foot Traffic and Sales: GLP-1 medications are altering US shopping habits, cutting snack spending and boosting wellness-related retail activity. Fitness, fresh food, and athleisure retailers are seeing increased foot traffic and sales as consumers refocus on health.",
+    "new_york_post": "Drama explodes at Billionaires’ Row tower as wealthy homeowners sue for ‘chalky’ water coming from the faucets: A New York condo board is suing over alleged years of contaminated tap water at 220 Central Park South — the city's most prestigious building.\n\nWorld’s ‘first motel’ up for sale in sleepy California coastal city: The property that played a part in inventing the great American road trip has officially hit the market.",
+    "pincusco": "Riverside Developers signs $44.5M construction loan with Ponce for 97-unit project in Flatbush: Riverside Developers USA through the entity 545 Coney Island LLC as borrower signed a new.\n\nSabet Group signs $19.9M refi with Citizens Bank for mixed-use in SoHo: Sabet Group through the entity 457 Broome St LLC as borrower signed a refi loan.\n\nDelshah Capital acquires 5 UWS rentals from Quality Capital four years after $36.9M note buy: Delshah Capital through the entity JEZM Manhattan Valley III LLC acquired five Upper West Side.\n\nLE Capital NYC files plans for 28 units in Clinton Hill: LE Capital NYC submitted a new building construction project for a 28-unit, 43,070-square-foot residential (R-2)."
   },
   "items": [
     {
@@ -19,6 +19,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-07-22T20:55:51.000Z"
+    },
+    {
+      "headline": "Mezcali Founders to Open New Fusion Concept in Financial District",
+      "summary": "The restaurateurs behind Mexican restaurant Mezcali and American tavern the Malt House have signed a lease for a new food concept in Manhattan’s Financial District. Eoin Foyle and Darren Shore signed a 20-year, 4,744-square-foot lease in the retail component of TF Cornerstone ’s 2 Gold Street , where they will launch their latest brainchild, a Hawaiian-Caribbean-Asian fusion restaurant called Solerum , according to the landlord.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/solerum-lease-tf-cornerstone-2-gold-street/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-30T16:34:45.000Z"
     },
     {
       "headline": "Why Premium Grocers Skew CMBS Delinquency Rankings",
@@ -66,13 +75,13 @@
       "published_at": "2026-07-17T16:05:12.000Z"
     },
     {
-      "headline": "Retail Investment Surges as Supply Tightens Across US",
-      "summary": "Retail transaction volume hit $15.3B in Q1 2026, rising 5% year-over-year, as buyers chase limited deals per JLL. Vacancy remains low and new supply trails the 10-year average, fueling stiff competition and rising rents in prime markets. Institutional capital is increasing, shifting market dynamics as investors broaden their focus beyond grocery-anchored centers.…",
+      "headline": "Retail Corridors Pivot to Nightlife as Office Traffic Lags",
+      "summary": "Nighttime and weekend activity now drives recovery in retail corridors as office traffic remains depressed, according to Placer.ai’s Q2 2026 report. Evening visits on Fridays and Saturdays have slightly surpassed pre-pandemic levels, but daytime foot traffic trails by 20–30%. Experience-focused tenants like restaurants and entertainment venues are offsetting declines in midday shopping visits tied to hybrid work patterns.…",
       "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/retail-investment-surges-as-supply-tightens-across-us/",
+      "url": "https://www.credaily.com/briefs/retail-corridors-pivot-to-nightlife-as-office-traffic-lags/",
       "section": "cre_daily",
       "retail": true,
-      "published_at": "2026-07-17T04:37:39.000Z"
+      "published_at": "2026-07-31T06:03:48.000Z"
     },
     {
       "headline": "Whole Foods Signs 8K-SF Lease to Open Daily Shop at 1524 Second Avenue",
@@ -102,13 +111,13 @@
       "published_at": "2026-07-20T10:30:32.000Z"
     },
     {
-      "headline": "U.S. Department of Veterans Affairs Takes 5K SF at 1733 Eastchester Road in the Bronx",
-      "summary": "Simone Development Companies has brought its two-story, 27,275-square-foot medical and office building at 1733 Eastchester Road in the Bronx’s Morris Park neighborhood to full occupancy, according to the firm. The building’s last vacant space was leased in June, when the U.S. General Services Administration (GSA) inked a long-term, 5,234-square-foot lease to house the U.S. Department of Veterans Affairs ’ new Bronx Vet Center at the property. It was a direct lease between the GSA and Simone.…",
+      "headline": "NYC Taxi and Limousine Commission Takes 39K SF at AmTrustRE’s 250 Broadway",
+      "summary": "This TLC wasn’t exactly chasing waterfalls, just a new office . The New York City Taxi and Limousine Commission is relocating to AmTrustRE ’s 250 Broadway across the street from City Hall Park in Manhattan’s Financial District, the property owner announced Thursday. The TLC is relocating its headquarters from another FiDi office at 33 Beaver Street and will occupy 39,000 square feet on the entire fourth floor and a portion of the fifth floor of its new building.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/us-department-veterans-affairs-lease-1733-eastchester-road-bronx/",
+      "url": "https://commercialobserver.com/2026/07/nyc-taxi-and-limousine-commission-takes-39k-sf-at-amtrustres-250-broadway/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-07-28T19:54:44.000Z"
+      "published_at": "2026-07-30T20:37:40.000Z"
     },
     {
       "headline": "Gowanus Golf Club Secures 6K SF to Open Private Club in Brooklyn’s Dumbo",
@@ -118,6 +127,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-07-27T13:00:26.000Z"
+    },
+    {
+      "headline": "Rock Architecture & Engineering Expands to 4K SF at GFP’s 630 Ninth Avenue",
+      "summary": "Architecture firm Rock Architecture & Engineering has signed a 3,835-square-foot deal to extend and expand its presence at GFP Real Estate ’s 630 Ninth Avenue , the landlord announced Thursday. The firm, which specializes in building restoration projects and gets its name from a focus on solid foundations, will move from the sixth floor to the 10th floor of the 13-story office property. It’s a three-year lease amendment, according to GFP. The firm did not disclose the asking rent.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/rock-architecture-engineering-lease-gfp-630-ninth-avenue/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-30T16:10:50.000Z"
     },
     {
       "headline": "Selective Buyers Reshape US Retail Investment in 2026",
@@ -147,13 +165,13 @@
       "published_at": "2026-07-20T20:41:14.000Z"
     },
     {
-      "headline": "AI Infrastructure Firm Treeswift Signs 7K-SF Lease at 256 West 38th Street",
-      "summary": "An artificial intelligence-driven infrastructure technology company is relocating its offices to Midtown. Philadelphia-based Treeswift signed a four-year, 7,487-square-foot lease on the entire 11th floor of the Hakimian Organization ’s 256 West 38th Street in an expansion of its New York City operations, according to landlord broker Lee & Associates NYC . Asking rent was $39 per square foot.…",
+      "headline": "Brand Urban Hires Team of Six From Alvarez & Marsal to Expand Retail Services",
+      "summary": "Retail advisory firm Brand Urban is expanding its headcount with the addition of a team from another New York City brokerage, Commercial Observer has learned. Founded by Taryn Brandes , Brand Urban is bringing on Matthew Krell , Daniel Bodner and Lucas Kooyman as well as three others from Alvarez & Marsal Property Solutions in an effort to broaden the range and scale of its services, according to the two firms.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/treeswift-lease-256-west-38th-street/",
+      "url": "https://commercialobserver.com/2026/07/brand-urban-hires-alvarez-marsal-matthew-krell/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-07-29T19:14:34.000Z"
+      "published_at": "2026-07-30T12:00:27.000Z"
     },
     {
       "headline": "More Luxury Retailers Partner With Everyday Names to Lure Gen Z Shoppers",
@@ -174,22 +192,22 @@
       "published_at": "2026-07-20T13:00:02.000Z"
     },
     {
-      "headline": "South Florida Retail Markets Show Sub-5% Vacancy",
-      "summary": "Despite oft-repeated fears of retail’s pandemic-drive demise, South Florida’s retail sector is enjoying a combination of low vacancy rates, resilient rental rates and robust leasing and investment sales. That’s according to market reports released Thursday by commercial real estate brokerage Colliers .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/south-florida-miami-retail-leasing-vacancy-rent/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-16T21:45:48.000Z"
-    },
-    {
-      "headline": "PGIM, Tribeca, Meadow, sign $228.9M construction loan to renovate Park Avenue South office",
-      "summary": "PGIM Real Estate, Tribeca Investment Group, and Meadow Partners through the entity 295 Fifth Ave The post PGIM, Tribeca, Meadow, sign $228.9M construction loan to renovate Park Avenue South office appeared first on PincusCo .",
+      "headline": "Riverside Developers signs $44.5M construction loan with Ponce for 97-unit project in Flatbush",
+      "summary": "Riverside Developers USA through the entity 545 Coney Island LLC as borrower signed a new The post Riverside Developers signs $44.5M construction loan with Ponce for 97-unit project in Flatbush appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/pgim-tribeca-meadow-sign-228-9m-construction-loan-to-renovate-park-avenue-south-office/",
+      "url": "https://www.pincusco.com/riverside-developers-signs-44-5m-construction-loan-with-ponce-for-97-unit-project-in-flatbush/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-07-29T14:51:00.000Z"
+      "published_at": "2026-07-31T10:15:00.000Z"
+    },
+    {
+      "headline": "Sabet Group signs $19.9M refi with Citizens Bank for mixed-use in SoHo",
+      "summary": "Sabet Group through the entity 457 Broome St LLC as borrower signed a refi loan The post Sabet Group signs $19.9M refi with Citizens Bank for mixed-use in SoHo appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/sabet-group-signs-19-9m-refi-with-citizens-bank-for-mixed-use-in-soho/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-07-31T09:51:00.000Z"
     },
     {
       "headline": "Marx Realty CEO Craig Deitelzweig Spied the Office-Hospitality Connection Early",
@@ -201,85 +219,67 @@
       "published_at": "2026-07-21T14:00:22.000Z"
     },
     {
-      "headline": "Newly minted millionaires raid LA real estate market after stock sale bonanza — as desired neighborhoods revealed",
-      "summary": "Fresh LA millionaires are eyeing homes across the city.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/29/real-estate/newly-minted-millionaires-raid-la-real-estate-market-after-stock-sale-bonanza-as-desired-neighborhoods-revealed/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-07-29T21:05:16.000Z"
-    },
-    {
-      "headline": "Qiang Chen files plans for 12 units in Astoria",
-      "summary": "Qiang Chen submitted a new building construction project for a 12-unit, 11,812-square-foot residential (R-2) building The post Qiang Chen files plans for 12 units in Astoria appeared first on PincusCo .",
+      "headline": "Delshah Capital acquires 5 UWS rentals from Quality Capital four years after $36.9M note buy",
+      "summary": "Delshah Capital through the entity JEZM Manhattan Valley III LLC acquired five Upper West Side The post Delshah Capital acquires 5 UWS rentals from Quality Capital four years after $36.9M note buy appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/qiang-chen-files-plans-for-12-units-in-astoria/",
+      "url": "https://www.pincusco.com/delshah-capital-acquires-5-uws-rentals-from-quality-capital-four-years-after-36-9m-note-buy/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-07-29T15:20:00.000Z"
+      "published_at": "2026-07-31T10:38:00.000Z"
     },
     {
-      "headline": "M. Melnick & Co. pays $8M to Stanford Hotels for office in Tremont",
-      "summary": "M. Melnick & Co. through the entity 1940 Webster II LLC paid $8 million to The post M. Melnick & Co. pays $8M to Stanford Hotels for office in Tremont appeared first on PincusCo .",
+      "headline": "Drama explodes at Billionaires’ Row tower as wealthy homeowners sue for ‘chalky’ water coming from the faucets",
+      "summary": "A New York condo board is suing over alleged years of contaminated tap water at 220 Central Park South — the city's most prestigious building.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/30/real-estate/220-central-park-south-owner-sues-building-over-chaly-water/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-07-30T20:16:58.000Z"
+    },
+    {
+      "headline": "LE Capital NYC files plans for 28 units in Clinton Hill",
+      "summary": "LE Capital NYC submitted a new building construction project for a 28-unit, 43,070-square-foot residential (R-2) The post LE Capital NYC files plans for 28 units in Clinton Hill appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/m-melnick-co-pays-8m-to-stanford-hotels-for-office-in-tremont/",
+      "url": "https://www.pincusco.com/le-capital-nyc-files-plans-for-28-units-in-clinton-hill/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-07-29T14:28:00.000Z"
+      "published_at": "2026-07-30T15:50:00.000Z"
     },
     {
-      "headline": "Prince Mario Max Schaumburg Lippe pays $12M to William Su for hotel in Chinatown",
-      "summary": "Prince Mario Max Schaumburg Lippe, who also uses the name Max Zu, through the entity The post Prince Mario Max Schaumburg Lippe pays $12M to William Su for hotel in Chinatown appeared first on PincusCo .",
+      "headline": "Korman buys out CalSTRS, BlackRock at extended-stay hotels in Manhattan valued at $220M",
+      "summary": "Korman Communities bought out its partners CalSTRS and BlackRock at three high-end extended-stay hotel properties The post Korman buys out CalSTRS, BlackRock at extended-stay hotels in Manhattan valued at $220M appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/prince-mario-max-schaumburg-lippe-pays-12m-to-william-su-for-hotel-in-chinatown/",
+      "url": "https://www.pincusco.com/korman-buys-out-calstrs-blackrock-at-extended-stay-hotels-in-manhattan-valued-at-220m/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-07-29T12:59:00.000Z"
+      "published_at": "2026-07-30T15:31:00.000Z"
     },
     {
-      "headline": "Rare $112M oceanfront California compound stands to break a local home sale record — again",
-      "summary": "The asking price could set a new residential sales record for both an affluent California city and all of Orange County.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/29/real-estate/laguna-beach-compound-asks-a-record-112m/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-07-29T11:30:00.000Z"
-    },
-    {
-      "headline": "California’s first tiny home megaproject ignites fury in idyllic beach town",
-      "summary": "New plans for the controversial ADU housing project in Southern California were released in hopes of gaining community support today.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/27/real-estate/californias-first-tiny-home-megaproject-ignites-fury-in-idyllic-beach-town/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-07-28T03:30:00.000Z"
-    },
-    {
-      "headline": "NYC homeowners sue to stop co-op from evicting their son — whose viral feud with doorman spiraled into racial slurs, assault and arrest",
-      "summary": "A toxic, long-simmering feud at an East Side cooperative, 339 E. 58th St., has exploded into a new Manhattan Supreme Court lawsuit.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/29/real-estate/nyc-family-sues-to-block-emergency-eviction-of-son/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-07-29T17:28:26.000Z"
-    },
-    {
-      "headline": "Lightstone in contract to pay Pinnacle $88M for control of 172-unit UWS rental",
-      "summary": "David Lichtenstein’s Lightstone Group through the entity LREP Acquisitions XIV LLC, as buyer signed a The post Lightstone in contract to pay Pinnacle $88M for control of 172-unit UWS rental appeared first on PincusCo .",
+      "headline": "99-unit tower filed for Boerum Hill parcels controlled by Joseph Daskal",
+      "summary": "An individual, Chase Weber , submitted a new building construction project for a 99-unit, 107,467-square-foot The post 99-unit tower filed for Boerum Hill parcels controlled by Joseph Daskal appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/lightstone-in-contract-to-pay-pinnacle-88m-for-control-of-172-unit-uws-rental/",
+      "url": "https://www.pincusco.com/99-unit-tower-filed-for-boerum-hill-parcels-controlled-by-joseph-daskal/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-07-30T10:14:04.000Z"
+      "published_at": "2026-07-31T11:40:00.000Z"
     },
     {
-      "headline": "Astoria’s beloved Italian pastry shop La Guli closes for good after 89 years",
-      "summary": "Italian pastry shop La Guli, a beloved Astoria institution since 1937, has served its last gingerbread house.",
+      "headline": "World’s ‘first motel’ up for sale in sleepy California coastal city",
+      "summary": "The property that played a part in inventing the great American road trip has officially hit the market.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/07/30/business/astorias-beloved-italian-pastry-shop-la-guli-closes-for-good/",
+      "url": "https://nypost.com/2026/07/30/real-estate/californias-first-motel-site-the-historic-motel-inn-hits-the-market/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-07-30T10:00:00.000Z"
+      "published_at": "2026-07-31T00:15:04.000Z"
+    },
+    {
+      "headline": "Sabet Group pays $13.95M to BRM Development for 2 walkups in Greenwich Village",
+      "summary": "Sabet Group paid $13.95 million to BRM Development, formerly known as Barberry Rose Management Company, The post Sabet Group pays $13.95M to BRM Development for 2 walkups in Greenwich Village appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/sabet-group-pays-13-95m-to-brm-development-for-2-walkups-in-greenwich-village/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-07-30T19:43:15.000Z"
     }
   ]
 }
