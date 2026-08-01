@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-07-31",
-  "generated_at": "2026-07-31T12:06:29.392Z",
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T11:23:33.566Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Meal Delivery Service CookUnity to Open Flagship Storefront at NoMad Hotel: CookUnity , a subscription-based meal delivery platform, has inked 4,721 square feet of ground-floor retail space at Lam Group ’s 1227 Broadway , also known as Virgin Hotel New York City , in Manhattan’s NoMad neighborhood, Commercial Observer has learned.\n\nMezcali Founders to Open New Fusion Concept in Financial District: The restaurateurs behind Mexican restaurant Mezcali and American tavern the Malt House have signed a lease for a new food concept in Manhattan’s Financial District. Eoin Foyle and Darren Shore signed a 20-year, 4,744-square-foot lease in the retail component of TF Cornerstone ’s 2 Gold Street , where they will launch.\n\nInfinium Wall Systems Takes 30K SF of Office, Retail Space at ESRT’s 1359 Broadway: If these walls could talk, they’d talk about all the new leasing in Midtown. Infinium Wall Syst ems , a company that designs, engineers and installs wall systems and doors for offices, has inked a new office and retail lease spanning 30,017 square feet at Empire State Realty Trust (ESRT)’s 1359 Broadway , the landlord.\n\nAI Firm Corgi to Open 24/7 Cafe at 121 East 27th Street: Alert the Queen, here come the corgis! OK, not exactly.",
     "cre_daily": "Why Premium Grocers Skew CMBS Delinquency Rankings: Headline CMBS delinquency rates overstate tenant risk for premium grocers due to property-level issues unrelated to supermarket performance. Large nonperforming loans are tied to urban retail condos and malls, not traditional grocery-anchored centers, distorting delinquency statistics.\n\nNYC Doubles Retail Lease Assistance Funding Amid Tight Market: New York City increased its commercial lease assistance program budget from $4M to $8M to support small business tenants. The program provides legal support for leases, renewals, and disputes, benefiting both tenants and landlords as retail rents and competition rise.\n\nRetail Corridors Pivot to Nightlife as Office Traffic Lags: Nighttime and weekend activity now drives recovery in retail corridors as office traffic remains depressed, according to Placer.ai’s Q2 2026 report. Evening visits on Fridays and Saturdays have slightly surpassed pre-pandemic levels, but daytime foot traffic trails by 20–30%.\n\nGLP-1 Medications Shift US Retail Foot Traffic and Sales: GLP-1 medications are altering US shopping habits, cutting snack spending and boosting wellness-related retail activity. Fitness, fresh food, and athleisure retailers are seeing increased foot traffic and sales as consumers refocus on health.",
-    "new_york_post": "Drama explodes at Billionaires’ Row tower as wealthy homeowners sue for ‘chalky’ water coming from the faucets: A New York condo board is suing over alleged years of contaminated tap water at 220 Central Park South — the city's most prestigious building.\n\nWorld’s ‘first motel’ up for sale in sleepy California coastal city: The property that played a part in inventing the great American road trip has officially hit the market.",
-    "pincusco": "Riverside Developers signs $44.5M construction loan with Ponce for 97-unit project in Flatbush: Riverside Developers USA through the entity 545 Coney Island LLC as borrower signed a new.\n\nSabet Group signs $19.9M refi with Citizens Bank for mixed-use in SoHo: Sabet Group through the entity 457 Broome St LLC as borrower signed a refi loan.\n\nDelshah Capital acquires 5 UWS rentals from Quality Capital four years after $36.9M note buy: Delshah Capital through the entity JEZM Manhattan Valley III LLC acquired five Upper West Side.\n\nLE Capital NYC files plans for 28 units in Clinton Hill: LE Capital NYC submitted a new building construction project for a 28-unit, 43,070-square-foot residential (R-2)."
+    "new_york_post": "Drama explodes at Billionaires’ Row tower as wealthy homeowners sue for ‘chalky’ water coming from the faucets: A New York condo board is suing over alleged years of contaminated tap water at 220 Central Park South — the city's most prestigious building.\n\nWorld’s ‘first motel’ up for sale in sleepy California coastal city: The property that played a part in inventing the great American road trip has officially hit the market.\n\nNewly minted millionaires raid LA real estate market after stock sale bonanza — as desired neighborhoods revealed: Fresh LA millionaires are eyeing homes across the city.",
+    "pincusco": "Sharon Brintauch, Eric Brintauch signs $24M construction loan for mixed-use in Cypress Hills: Sharon Brintauch and Eric Brintauch through the entity 2929 Atlantic LLC as borrower signed a.\n\nIbrahim Eldomyati pays $4M to bar owners for mixed-use in Bay Ridge: Chef Ibrahim Eldomyati, through the entity 9406 4th Ave Brooklyn LLC paid $4 million to.\n\nLeon Hedvat pays $6.3M to Walter & Samuels for office in Chelsea: Leon Hedvat through the entity West 27 Group LLC paid $6.3 million to Walter &.\n\nMohamed Alawlaqi pays $1.9M for mixed-use in Sunset Park: Mohamed Alawlaqi through the entity 4612 Pinnacle Realty LLC paid $1.9 million to Eduardo Silva."
   },
   "items": [
     {
@@ -66,13 +66,22 @@
       "published_at": "2026-07-27T15:40:25.000Z"
     },
     {
-      "headline": "Bakery Shop Cafe Aroma to Open New Spot on the Upper East Side",
-      "summary": "Time to rise and grind, Upper East Siders, as a new coffee shop and bakery is set to open at Avenues Equity Partners ’ 1410 Madison Avenue in Carnegie Hill. Family-owned coffee shop and bakery Cafe Aroma has taken 2,200 square feet of retail space at the base of the five-story residential building, according to landlord broker Meridian Capital Group . The asking rent and the length of the lease were not disclosed.…",
+      "headline": "Schuckman Buys Northeast Queens Shopping Center for $56M",
+      "summary": "Punia & Marx Real Estate sold the Whitestone Shopping Center in Queens for $56 million. BTF Capital Fund , led by Kenneth Schuckman and Aaron Malinsky , purchased the Key Food -anchored property at 153-15 Cross Island Parkway , according to a deed transfer in property records filed Friday. The purchase could be a play for assets tied to grocery stores and other necessity-based retail. Schuckman’s brokerage firm, Schuckman Realty , will handle leasing for the shopping center, according to the buyer.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/cafe-aroma-lease-upper-east-side-madison-avenue/",
+      "url": "https://commercialobserver.com/2026/07/schuckman-realty-buys-153-15-cross-island-parkway-queens/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-07-17T16:05:12.000Z"
+      "published_at": "2026-07-31T16:16:53.000Z"
+    },
+    {
+      "headline": "Kimco Buys Two Broward Retail Centers for $109M",
+      "summary": "Kimco Realty , one of the biggest owners of grocery-anchored retail centers in the country, has acquired two more in Broward County for a combined $109 million from KPR Centers , property records show. In the largest transaction, the Jericho, N.Y.-based REIT paid $56 million for Sunshine Plaza , a 245,744-square-foot property between 4017 and 4299 West Commercial Boulevard in Tamarac, just east of the Florida’s Turnpike. Publix and Marshalls anchor the 19-acre shopping center.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/07/kimco-kpr-sunshine-plaza-pompano-marketplace-florida-retail/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-07-31T17:25:17.000Z"
     },
     {
       "headline": "Retail Corridors Pivot to Nightlife as Office Traffic Lags",
@@ -129,15 +138,6 @@
       "published_at": "2026-07-27T13:00:26.000Z"
     },
     {
-      "headline": "Rock Architecture & Engineering Expands to 4K SF at GFP’s 630 Ninth Avenue",
-      "summary": "Architecture firm Rock Architecture & Engineering has signed a 3,835-square-foot deal to extend and expand its presence at GFP Real Estate ’s 630 Ninth Avenue , the landlord announced Thursday. The firm, which specializes in building restoration projects and gets its name from a focus on solid foundations, will move from the sixth floor to the 10th floor of the 13-story office property. It’s a three-year lease amendment, according to GFP. The firm did not disclose the asking rent.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/rock-architecture-engineering-lease-gfp-630-ninth-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-30T16:10:50.000Z"
-    },
-    {
       "headline": "Selective Buyers Reshape US Retail Investment in 2026",
       "summary": "National retail transaction count dropped 13.8% and total dollar volume fell 21.6% from December 2025 to May 2026, according to DealGround’s new report. Cap rates increased to 6.75%, and buyers negotiated deeper discounts, with the average spread between asking and sale prices rising from 5.2% to 13.5%. The market remains active for prime properties, but increased selectivity and financing challenges are creating headwinds for B-quality assets.…",
       "source": "CRE Daily",
@@ -165,15 +165,6 @@
       "published_at": "2026-07-20T20:41:14.000Z"
     },
     {
-      "headline": "Brand Urban Hires Team of Six From Alvarez & Marsal to Expand Retail Services",
-      "summary": "Retail advisory firm Brand Urban is expanding its headcount with the addition of a team from another New York City brokerage, Commercial Observer has learned. Founded by Taryn Brandes , Brand Urban is bringing on Matthew Krell , Daniel Bodner and Lucas Kooyman as well as three others from Alvarez & Marsal Property Solutions in an effort to broaden the range and scale of its services, according to the two firms.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/brand-urban-hires-alvarez-marsal-matthew-krell/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-30T12:00:27.000Z"
-    },
-    {
       "headline": "More Luxury Retailers Partner With Everyday Names to Lure Gen Z Shoppers",
       "summary": "On May 16, watch brands Swatch and Audemars Piguet (AP) launched a collaborative line of eight pocket watches called Royal Pop, which, in addition to featuring designs that popped with vibrant colors, included a window into the inner workings of the watch. The intent of the Royal Pop watches, which retail for around $400 each, was to “invite a broader audience, including the younger generations, to experience mechanical watchmaking differently,” according to the AP website .…",
       "source": "Commercial Observer",
@@ -192,22 +183,13 @@
       "published_at": "2026-07-20T13:00:02.000Z"
     },
     {
-      "headline": "Riverside Developers signs $44.5M construction loan with Ponce for 97-unit project in Flatbush",
-      "summary": "Riverside Developers USA through the entity 545 Coney Island LLC as borrower signed a new The post Riverside Developers signs $44.5M construction loan with Ponce for 97-unit project in Flatbush appeared first on PincusCo .",
+      "headline": "Sharon Brintauch, Eric Brintauch signs $24M construction loan for mixed-use in Cypress Hills",
+      "summary": "Sharon Brintauch and Eric Brintauch through the entity 2929 Atlantic LLC as borrower signed a The post Sharon Brintauch, Eric Brintauch signs $24M construction loan for mixed-use in Cypress Hills appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/riverside-developers-signs-44-5m-construction-loan-with-ponce-for-97-unit-project-in-flatbush/",
+      "url": "https://www.pincusco.com/sharon-brintauch-eric-brintauch-signs-24m-construction-loan-for-mixed-use-in-cypress-hills/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-07-31T10:15:00.000Z"
-    },
-    {
-      "headline": "Sabet Group signs $19.9M refi with Citizens Bank for mixed-use in SoHo",
-      "summary": "Sabet Group through the entity 457 Broome St LLC as borrower signed a refi loan The post Sabet Group signs $19.9M refi with Citizens Bank for mixed-use in SoHo appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/sabet-group-signs-19-9m-refi-with-citizens-bank-for-mixed-use-in-soho/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-31T09:51:00.000Z"
+      "published_at": "2026-07-31T15:37:00.000Z"
     },
     {
       "headline": "Marx Realty CEO Craig Deitelzweig Spied the Office-Hospitality Connection Early",
@@ -219,13 +201,13 @@
       "published_at": "2026-07-21T14:00:22.000Z"
     },
     {
-      "headline": "Delshah Capital acquires 5 UWS rentals from Quality Capital four years after $36.9M note buy",
-      "summary": "Delshah Capital through the entity JEZM Manhattan Valley III LLC acquired five Upper West Side The post Delshah Capital acquires 5 UWS rentals from Quality Capital four years after $36.9M note buy appeared first on PincusCo .",
+      "headline": "Ibrahim Eldomyati pays $4M to bar owners for mixed-use in Bay Ridge",
+      "summary": "Chef Ibrahim Eldomyati, through the entity 9406 4th Ave Brooklyn LLC paid $4 million to The post Ibrahim Eldomyati pays $4M to bar owners for mixed-use in Bay Ridge appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/delshah-capital-acquires-5-uws-rentals-from-quality-capital-four-years-after-36-9m-note-buy/",
+      "url": "https://www.pincusco.com/ibrahim-eldomyati-pays-4m-to-bar-owners-for-mixed-use-in-bay-ridge/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-07-31T10:38:00.000Z"
+      "published_at": "2026-07-31T14:42:00.000Z"
     },
     {
       "headline": "Drama explodes at Billionaires’ Row tower as wealthy homeowners sue for ‘chalky’ water coming from the faucets",
@@ -237,31 +219,49 @@
       "published_at": "2026-07-30T20:16:58.000Z"
     },
     {
-      "headline": "LE Capital NYC files plans for 28 units in Clinton Hill",
-      "summary": "LE Capital NYC submitted a new building construction project for a 28-unit, 43,070-square-foot residential (R-2) The post LE Capital NYC files plans for 28 units in Clinton Hill appeared first on PincusCo .",
+      "headline": "Leon Hedvat pays $6.3M to Walter & Samuels for office in Chelsea",
+      "summary": "Leon Hedvat through the entity West 27 Group LLC paid $6.3 million to Walter & The post Leon Hedvat pays $6.3M to Walter & Samuels for office in Chelsea appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/le-capital-nyc-files-plans-for-28-units-in-clinton-hill/",
+      "url": "https://www.pincusco.com/leon-hedvat-pays-6-3m-to-walter-samuels-for-office-in-chelsea/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-07-30T15:50:00.000Z"
+      "published_at": "2026-07-31T15:18:00.000Z"
     },
     {
-      "headline": "Korman buys out CalSTRS, BlackRock at extended-stay hotels in Manhattan valued at $220M",
-      "summary": "Korman Communities bought out its partners CalSTRS and BlackRock at three high-end extended-stay hotel properties The post Korman buys out CalSTRS, BlackRock at extended-stay hotels in Manhattan valued at $220M appeared first on PincusCo .",
+      "headline": "Mohamed Alawlaqi pays $1.9M for mixed-use in Sunset Park",
+      "summary": "Mohamed Alawlaqi through the entity 4612 Pinnacle Realty LLC paid $1.9 million to Eduardo Silva The post Mohamed Alawlaqi pays $1.9M for mixed-use in Sunset Park appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/korman-buys-out-calstrs-blackrock-at-extended-stay-hotels-in-manhattan-valued-at-220m/",
+      "url": "https://www.pincusco.com/mohamed-alawlaqi-pays-1-9m-for-mixed-use-in-sunset-park/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-07-30T15:31:00.000Z"
+      "published_at": "2026-07-31T15:11:00.000Z"
     },
     {
-      "headline": "99-unit tower filed for Boerum Hill parcels controlled by Joseph Daskal",
-      "summary": "An individual, Chase Weber , submitted a new building construction project for a 99-unit, 107,467-square-foot The post 99-unit tower filed for Boerum Hill parcels controlled by Joseph Daskal appeared first on PincusCo .",
+      "headline": "Zeorya Gritsay pays $6M for office in Bay Ridge",
+      "summary": "Zeorya Gritsay through the entity 8710 5th Ave Management LLC paid $6 million to George The post Zeorya Gritsay pays $6M for office in Bay Ridge appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/99-unit-tower-filed-for-boerum-hill-parcels-controlled-by-joseph-daskal/",
+      "url": "https://www.pincusco.com/zeorya-gritsay-pays-6m-for-office-in-bay-ridge/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-07-31T11:40:00.000Z"
+      "published_at": "2026-07-31T14:32:00.000Z"
+    },
+    {
+      "headline": "Kostas Papadakis files plans for 54 units in Astoria",
+      "summary": "Kostas Papadakis submitted a new building construction project for a 54-unit, 64,650-square-foot residential (R-2) building The post Kostas Papadakis files plans for 54 units in Astoria appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/kostas-papadakis-files-plans-for-54-units-in-astoria/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-07-31T14:20:00.000Z"
+    },
+    {
+      "headline": "Yitzchok Katz files plans for 99 units in South Slope, of 396 total",
+      "summary": "Yitzchok Katz of Goose Property Management submitted a new building construction project for a 99-unit, The post Yitzchok Katz files plans for 99 units in South Slope, of 396 total appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/yitzchok-katz-files-plans-for-99-units-in-south-slope-of-396-total/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-07-31T14:01:00.000Z"
     },
     {
       "headline": "World’s ‘first motel’ up for sale in sleepy California coastal city",
@@ -273,13 +273,13 @@
       "published_at": "2026-07-31T00:15:04.000Z"
     },
     {
-      "headline": "Sabet Group pays $13.95M to BRM Development for 2 walkups in Greenwich Village",
-      "summary": "Sabet Group paid $13.95 million to BRM Development, formerly known as Barberry Rose Management Company, The post Sabet Group pays $13.95M to BRM Development for 2 walkups in Greenwich Village appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/sabet-group-pays-13-95m-to-brm-development-for-2-walkups-in-greenwich-village/",
-      "section": "pincusco",
+      "headline": "Newly minted millionaires raid LA real estate market after stock sale bonanza — as desired neighborhoods revealed",
+      "summary": "Fresh LA millionaires are eyeing homes across the city.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/29/real-estate/newly-minted-millionaires-raid-la-real-estate-market-after-stock-sale-bonanza-as-desired-neighborhoods-revealed/",
+      "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-07-30T19:43:15.000Z"
+      "published_at": "2026-07-29T21:05:16.000Z"
     }
   ]
 }
