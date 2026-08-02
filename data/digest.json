@@ -1,13 +1,13 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-08-01",
-  "generated_at": "2026-08-01T11:23:33.566Z",
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T11:21:49.748Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Meal Delivery Service CookUnity to Open Flagship Storefront at NoMad Hotel: CookUnity , a subscription-based meal delivery platform, has inked 4,721 square feet of ground-floor retail space at Lam Group ’s 1227 Broadway , also known as Virgin Hotel New York City , in Manhattan’s NoMad neighborhood, Commercial Observer has learned.\n\nMezcali Founders to Open New Fusion Concept in Financial District: The restaurateurs behind Mexican restaurant Mezcali and American tavern the Malt House have signed a lease for a new food concept in Manhattan’s Financial District. Eoin Foyle and Darren Shore signed a 20-year, 4,744-square-foot lease in the retail component of TF Cornerstone ’s 2 Gold Street , where they will launch.\n\nInfinium Wall Systems Takes 30K SF of Office, Retail Space at ESRT’s 1359 Broadway: If these walls could talk, they’d talk about all the new leasing in Midtown. Infinium Wall Syst ems , a company that designs, engineers and installs wall systems and doors for offices, has inked a new office and retail lease spanning 30,017 square feet at Empire State Realty Trust (ESRT)’s 1359 Broadway , the landlord.\n\nAI Firm Corgi to Open 24/7 Cafe at 121 East 27th Street: Alert the Queen, here come the corgis! OK, not exactly.",
     "cre_daily": "Why Premium Grocers Skew CMBS Delinquency Rankings: Headline CMBS delinquency rates overstate tenant risk for premium grocers due to property-level issues unrelated to supermarket performance. Large nonperforming loans are tied to urban retail condos and malls, not traditional grocery-anchored centers, distorting delinquency statistics.\n\nNYC Doubles Retail Lease Assistance Funding Amid Tight Market: New York City increased its commercial lease assistance program budget from $4M to $8M to support small business tenants. The program provides legal support for leases, renewals, and disputes, benefiting both tenants and landlords as retail rents and competition rise.\n\nRetail Corridors Pivot to Nightlife as Office Traffic Lags: Nighttime and weekend activity now drives recovery in retail corridors as office traffic remains depressed, according to Placer.ai’s Q2 2026 report. Evening visits on Fridays and Saturdays have slightly surpassed pre-pandemic levels, but daytime foot traffic trails by 20–30%.\n\nGLP-1 Medications Shift US Retail Foot Traffic and Sales: GLP-1 medications are altering US shopping habits, cutting snack spending and boosting wellness-related retail activity. Fitness, fresh food, and athleisure retailers are seeing increased foot traffic and sales as consumers refocus on health.",
-    "new_york_post": "Drama explodes at Billionaires’ Row tower as wealthy homeowners sue for ‘chalky’ water coming from the faucets: A New York condo board is suing over alleged years of contaminated tap water at 220 Central Park South — the city's most prestigious building.\n\nWorld’s ‘first motel’ up for sale in sleepy California coastal city: The property that played a part in inventing the great American road trip has officially hit the market.\n\nNewly minted millionaires raid LA real estate market after stock sale bonanza — as desired neighborhoods revealed: Fresh LA millionaires are eyeing homes across the city.",
+    "new_york_post": "It’s war at NYC’s Pierre — where billionaires could get evicted when shareholders vote on a $2B sale: Inside the tony halls of the posh Pierre, the next chapter of a war is raging between some of the wealthiest people in the country.\n\nDrama explodes at Billionaires’ Row tower as wealthy homeowners sue for ‘chalky’ water coming from the faucets: A New York condo board is suing over alleged years of contaminated tap water at 220 Central Park South — the city's most prestigious building.\n\nFlorida’s famed luxury ‘holdout house’ finally sold — but its next chapter a total mystery: The unique property, once listed for almost $7 million, was scooped up by JRP Property Group LLC after multiple price cuts.",
     "pincusco": "Sharon Brintauch, Eric Brintauch signs $24M construction loan for mixed-use in Cypress Hills: Sharon Brintauch and Eric Brintauch through the entity 2929 Atlantic LLC as borrower signed a.\n\nIbrahim Eldomyati pays $4M to bar owners for mixed-use in Bay Ridge: Chef Ibrahim Eldomyati, through the entity 9406 4th Ave Brooklyn LLC paid $4 million to.\n\nLeon Hedvat pays $6.3M to Walter & Samuels for office in Chelsea: Leon Hedvat through the entity West 27 Group LLC paid $6.3 million to Walter &.\n\nMohamed Alawlaqi pays $1.9M for mixed-use in Sunset Park: Mohamed Alawlaqi through the entity 4612 Pinnacle Realty LLC paid $1.9 million to Eduardo Silva."
   },
   "items": [
@@ -201,6 +201,15 @@
       "published_at": "2026-07-21T14:00:22.000Z"
     },
     {
+      "headline": "It’s war at NYC’s Pierre — where billionaires could get evicted when shareholders vote on a $2B sale",
+      "summary": "Inside the tony halls of the posh Pierre, the next chapter of a war is raging between some of the wealthiest people in the country.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/01/real-estate/inside-the-war-at-nycs-pierre-where-billionaires-may-be-evicted/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-08-01T12:00:00.000Z"
+    },
+    {
       "headline": "Ibrahim Eldomyati pays $4M to bar owners for mixed-use in Bay Ridge",
       "summary": "Chef Ibrahim Eldomyati, through the entity 9406 4th Ave Brooklyn LLC paid $4 million to The post Ibrahim Eldomyati pays $4M to bar owners for mixed-use in Bay Ridge appeared first on PincusCo .",
       "source": "PincusCo",
@@ -217,6 +226,15 @@
       "section": "new_york_post",
       "retail": false,
       "published_at": "2026-07-30T20:16:58.000Z"
+    },
+    {
+      "headline": "Florida’s famed luxury ‘holdout house’ finally sold — but its next chapter a total mystery",
+      "summary": "The unique property, once listed for almost $7 million, was scooped up by JRP Property Group LLC after multiple price cuts.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/01/real-estate/floridas-holdout-house-sold-next-chapter-is-mystery/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-08-01T17:02:46.000Z"
     },
     {
       "headline": "Leon Hedvat pays $6.3M to Walter & Samuels for office in Chelsea",
@@ -262,24 +280,6 @@
       "section": "pincusco",
       "retail": false,
       "published_at": "2026-07-31T14:01:00.000Z"
-    },
-    {
-      "headline": "World’s ‘first motel’ up for sale in sleepy California coastal city",
-      "summary": "The property that played a part in inventing the great American road trip has officially hit the market.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/30/real-estate/californias-first-motel-site-the-historic-motel-inn-hits-the-market/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-07-31T00:15:04.000Z"
-    },
-    {
-      "headline": "Newly minted millionaires raid LA real estate market after stock sale bonanza — as desired neighborhoods revealed",
-      "summary": "Fresh LA millionaires are eyeing homes across the city.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/29/real-estate/newly-minted-millionaires-raid-la-real-estate-market-after-stock-sale-bonanza-as-desired-neighborhoods-revealed/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-07-29T21:05:16.000Z"
     }
   ]
 }
