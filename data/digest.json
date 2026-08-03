@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-08-02",
-  "generated_at": "2026-08-02T11:21:49.748Z",
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T13:15:02.874Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Meal Delivery Service CookUnity to Open Flagship Storefront at NoMad Hotel: CookUnity , a subscription-based meal delivery platform, has inked 4,721 square feet of ground-floor retail space at Lam Group ’s 1227 Broadway , also known as Virgin Hotel New York City , in Manhattan’s NoMad neighborhood, Commercial Observer has learned.\n\nMezcali Founders to Open New Fusion Concept in Financial District: The restaurateurs behind Mexican restaurant Mezcali and American tavern the Malt House have signed a lease for a new food concept in Manhattan’s Financial District. Eoin Foyle and Darren Shore signed a 20-year, 4,744-square-foot lease in the retail component of TF Cornerstone ’s 2 Gold Street , where they will launch.\n\nInfinium Wall Systems Takes 30K SF of Office, Retail Space at ESRT’s 1359 Broadway: If these walls could talk, they’d talk about all the new leasing in Midtown. Infinium Wall Syst ems , a company that designs, engineers and installs wall systems and doors for offices, has inked a new office and retail lease spanning 30,017 square feet at Empire State Realty Trust (ESRT)’s 1359 Broadway , the landlord.\n\nAI Firm Corgi to Open 24/7 Cafe at 121 East 27th Street: Alert the Queen, here come the corgis! OK, not exactly.",
     "cre_daily": "Why Premium Grocers Skew CMBS Delinquency Rankings: Headline CMBS delinquency rates overstate tenant risk for premium grocers due to property-level issues unrelated to supermarket performance. Large nonperforming loans are tied to urban retail condos and malls, not traditional grocery-anchored centers, distorting delinquency statistics.\n\nNYC Doubles Retail Lease Assistance Funding Amid Tight Market: New York City increased its commercial lease assistance program budget from $4M to $8M to support small business tenants. The program provides legal support for leases, renewals, and disputes, benefiting both tenants and landlords as retail rents and competition rise.\n\nRetail Corridors Pivot to Nightlife as Office Traffic Lags: Nighttime and weekend activity now drives recovery in retail corridors as office traffic remains depressed, according to Placer.ai’s Q2 2026 report. Evening visits on Fridays and Saturdays have slightly surpassed pre-pandemic levels, but daytime foot traffic trails by 20–30%.\n\nGLP-1 Medications Shift US Retail Foot Traffic and Sales: GLP-1 medications are altering US shopping habits, cutting snack spending and boosting wellness-related retail activity. Fitness, fresh food, and athleisure retailers are seeing increased foot traffic and sales as consumers refocus on health.",
-    "new_york_post": "It’s war at NYC’s Pierre — where billionaires could get evicted when shareholders vote on a $2B sale: Inside the tony halls of the posh Pierre, the next chapter of a war is raging between some of the wealthiest people in the country.\n\nDrama explodes at Billionaires’ Row tower as wealthy homeowners sue for ‘chalky’ water coming from the faucets: A New York condo board is suing over alleged years of contaminated tap water at 220 Central Park South — the city's most prestigious building.\n\nFlorida’s famed luxury ‘holdout house’ finally sold — but its next chapter a total mystery: The unique property, once listed for almost $7 million, was scooped up by JRP Property Group LLC after multiple price cuts.",
-    "pincusco": "Sharon Brintauch, Eric Brintauch signs $24M construction loan for mixed-use in Cypress Hills: Sharon Brintauch and Eric Brintauch through the entity 2929 Atlantic LLC as borrower signed a.\n\nIbrahim Eldomyati pays $4M to bar owners for mixed-use in Bay Ridge: Chef Ibrahim Eldomyati, through the entity 9406 4th Ave Brooklyn LLC paid $4 million to.\n\nLeon Hedvat pays $6.3M to Walter & Samuels for office in Chelsea: Leon Hedvat through the entity West 27 Group LLC paid $6.3 million to Walter &.\n\nMohamed Alawlaqi pays $1.9M for mixed-use in Sunset Park: Mohamed Alawlaqi through the entity 4612 Pinnacle Realty LLC paid $1.9 million to Eduardo Silva."
+    "new_york_post": "Ken Griffin’s Park Ave. project with Vornado set for major update this week: Demolition of three buildings is underway on Park Avenue and East 52nd Street for the new skyscraper, where two Griffin-controlled Citadel companies are to be anchor tenants with at least a combined 850,000 square feet.\n\nIt’s war at NYC’s Pierre — where billionaires could get evicted when shareholders vote on a $2B sale: Inside the tony halls of the posh Pierre, the next chapter of a war is raging between some of the wealthiest people in the country.\n\nDrama explodes at Billionaires’ Row tower as wealthy homeowners sue for ‘chalky’ water coming from the faucets: A New York condo board is suing over alleged years of contaminated tap water at 220 Central Park South — the city's most prestigious building.\n\nFlorida’s famed luxury ‘holdout house’ finally sold — but its next chapter a total mystery: The unique property, once listed for almost $7 million, was scooped up by JRP Property Group LLC after multiple price cuts.",
+    "pincusco": "Parasuco USA Holding signs $7.2M refi with BankUnited for retail in Nolita: Parasuco USA Holding through the entity Parasuco USA Holding, Inc as borrower signed a refi.\n\nBXP signs $1.2B construction loan for office tower project in Grand Central: BXP through the entity BP 347 Madison Associates, LLC as borrower signed a new construction.\n\nHPD files plans for 80 units, 40 units in East New York: New York City’s Department of Housing Preservation and Development filed plans last week for two.\n\nAron Leifer files plans for 8 units in Borough Park: Aron Leifer submitted a new building construction project for a 8-unit, 15,586-square-foot residential (R-2) building."
   },
   "items": [
     {
@@ -111,22 +111,13 @@
       "published_at": "2026-07-22T03:52:30.000Z"
     },
     {
-      "headline": "Korean Grocery Sensation H Mart Wants to Conquer the Sun Belt",
-      "summary": "Shopping hauls are some of the Internet’s most popular videos , but some Gen Zers are sampling and sharing their impressions of an Asian supermarket’s products instead of their latest luxury splurge. In February, TikTok user Linda Vo (@itslindavo) posted a short clip of her emptying a paper bag of Korean salt bread, a triangle kimbap, vermicelli, pears and puffy rice cakes that she purchased at her local H Mart, a Lyndhurst, N.J.-based chain of grocery stores that specialize in Asian goods.…",
+      "headline": "Sapien AI Signs 11K-SF Lease at Kaufman’s 48 West 25th Street",
+      "summary": "A bipedal artificial intelligence firm is evolving into a new Midtown South office, Commercial Observer has learned. Financial and operations analytics firm Sapien AI signed a lease for approximately 10,500 square feet on the entire fifth floor of the Kaufman Organization ’s newly acquired 48 West 25th Street , according to tenant broker Nomad Group . The deal represents a relocation for the AI firm from its previous offices a few blocks south at 184 Fifth Avenue .…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/h-mart-expansion-sun-belt/",
+      "url": "https://commercialobserver.com/2026/08/sapien-ai-lease-kaufman-organization-48-west-25th-street/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-07-20T10:30:32.000Z"
-    },
-    {
-      "headline": "NYC Taxi and Limousine Commission Takes 39K SF at AmTrustRE’s 250 Broadway",
-      "summary": "This TLC wasn’t exactly chasing waterfalls, just a new office . The New York City Taxi and Limousine Commission is relocating to AmTrustRE ’s 250 Broadway across the street from City Hall Park in Manhattan’s Financial District, the property owner announced Thursday. The TLC is relocating its headquarters from another FiDi office at 33 Beaver Street and will occupy 39,000 square feet on the entire fourth floor and a portion of the fifth floor of its new building.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/nyc-taxi-and-limousine-commission-takes-39k-sf-at-amtrustres-250-broadway/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-30T20:37:40.000Z"
+      "published_at": "2026-08-03T11:00:18.000Z"
     },
     {
       "headline": "Gowanus Golf Club Secures 6K SF to Open Private Club in Brooklyn’s Dumbo",
@@ -136,6 +127,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-07-27T13:00:26.000Z"
+    },
+    {
+      "headline": "Ken Griffin’s Park Ave. project with Vornado set for major update this week",
+      "summary": "Demolition of three buildings is underway on Park Avenue and East 52nd Street for the new skyscraper, where two Griffin-controlled Citadel companies are to be anchor tenants with at least a combined 850,000 square feet.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/02/business/ken-griffins-park-ave-project-with-vornado-expects-major-update-this-week/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-08-02T17:29:53.000Z"
     },
     {
       "headline": "Selective Buyers Reshape US Retail Investment in 2026",
@@ -165,6 +165,15 @@
       "published_at": "2026-07-20T20:41:14.000Z"
     },
     {
+      "headline": "Parasuco USA Holding signs $7.2M refi with BankUnited for retail in Nolita",
+      "summary": "Parasuco USA Holding through the entity Parasuco USA Holding, Inc as borrower signed a refi The post Parasuco USA Holding signs $7.2M refi with BankUnited for retail in Nolita appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/parasuco-usa-holding-signs-7-2m-refi-with-bankunited-for-retail-in-nolita/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-08-03T12:07:00.000Z"
+    },
+    {
       "headline": "More Luxury Retailers Partner With Everyday Names to Lure Gen Z Shoppers",
       "summary": "On May 16, watch brands Swatch and Audemars Piguet (AP) launched a collaborative line of eight pocket watches called Royal Pop, which, in addition to featuring designs that popped with vibrant colors, included a window into the inner workings of the watch. The intent of the Royal Pop watches, which retail for around $400 each, was to “invite a broader audience, including the younger generations, to experience mechanical watchmaking differently,” according to the AP website .…",
       "source": "Commercial Observer",
@@ -174,22 +183,13 @@
       "published_at": "2026-07-22T10:00:51.000Z"
     },
     {
-      "headline": "GLP-1 Users Are Reshaping Retail With Every Pound They Shed",
-      "summary": "In 2024, according to a Gallup survey , just 3 percent of U.S. adults were using GLP-1 medications to lose weight. By July 2026, that share had soared to 11 percent, with 15 percent saying they had at some point tried a GLP-1 drug such as Ozempic or Wegovy for weight loss. This means that right now, around 1 in 8 American adults are making a serious attempt to eat healthier, live less destructive lifestyles, and transform into the idealized versions of themselves they had long been trying, but failing, to become.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/glp-1-retail-groceries-clothes/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-20T13:00:02.000Z"
-    },
-    {
-      "headline": "Sharon Brintauch, Eric Brintauch signs $24M construction loan for mixed-use in Cypress Hills",
-      "summary": "Sharon Brintauch and Eric Brintauch through the entity 2929 Atlantic LLC as borrower signed a The post Sharon Brintauch, Eric Brintauch signs $24M construction loan for mixed-use in Cypress Hills appeared first on PincusCo .",
+      "headline": "BXP signs $1.2B construction loan for office tower project in Grand Central",
+      "summary": "BXP through the entity BP 347 Madison Associates, LLC as borrower signed a new construction The post BXP signs $1.2B construction loan for office tower project in Grand Central appeared first on PincusCo .",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/sharon-brintauch-eric-brintauch-signs-24m-construction-loan-for-mixed-use-in-cypress-hills/",
+      "url": "https://www.pincusco.com/bxp-signs-1-2b-construction-loan-for-two-properties-in-grand-central/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-07-31T15:37:00.000Z"
+      "published_at": "2026-08-03T11:27:00.000Z"
     },
     {
       "headline": "Marx Realty CEO Craig Deitelzweig Spied the Office-Hospitality Connection Early",
@@ -201,6 +201,15 @@
       "published_at": "2026-07-21T14:00:22.000Z"
     },
     {
+      "headline": "HPD files plans for 80 units, 40 units in East New York",
+      "summary": "New York City’s Department of Housing Preservation and Development filed plans last week for two The post HPD files plans for 80 units, 40 units in East New York appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/hpd-files-plans-for-80-units-40-units-in-east-new-york/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-03T13:00:00.000Z"
+    },
+    {
       "headline": "It’s war at NYC’s Pierre — where billionaires could get evicted when shareholders vote on a $2B sale",
       "summary": "Inside the tony halls of the posh Pierre, the next chapter of a war is raging between some of the wealthiest people in the country.",
       "source": "New York Post",
@@ -208,15 +217,6 @@
       "section": "new_york_post",
       "retail": false,
       "published_at": "2026-08-01T12:00:00.000Z"
-    },
-    {
-      "headline": "Ibrahim Eldomyati pays $4M to bar owners for mixed-use in Bay Ridge",
-      "summary": "Chef Ibrahim Eldomyati, through the entity 9406 4th Ave Brooklyn LLC paid $4 million to The post Ibrahim Eldomyati pays $4M to bar owners for mixed-use in Bay Ridge appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/ibrahim-eldomyati-pays-4m-to-bar-owners-for-mixed-use-in-bay-ridge/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-31T14:42:00.000Z"
     },
     {
       "headline": "Drama explodes at Billionaires’ Row tower as wealthy homeowners sue for ‘chalky’ water coming from the faucets",
@@ -228,6 +228,33 @@
       "published_at": "2026-07-30T20:16:58.000Z"
     },
     {
+      "headline": "Aron Leifer files plans for 8 units in Borough Park",
+      "summary": "Aron Leifer submitted a new building construction project for a 8-unit, 15,586-square-foot residential (R-2) building The post Aron Leifer files plans for 8 units in Borough Park appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/aron-leifer-files-plans-for-8-units-in-borough-park/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-03T12:41:00.000Z"
+    },
+    {
+      "headline": "Mixed-use in Boerum Hill sells for $3.3M",
+      "summary": "The entity Smith 185 LLC paid $3.3 million to David Brodlie through the entity 185 The post Mixed-use in Boerum Hill sells for $3.3M appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/mixed-use-in-boerum-hill-sells-for-3-3m/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-03T12:36:00.000Z"
+    },
+    {
+      "headline": "Trans World Equities signs $7M refi with East West Bank for mixed-use in Flatiron District",
+      "summary": "Trans World Equities through the entity Central Area Equities Associates, LLC as borrower signed a The post Trans World Equities signs $7M refi with East West Bank for mixed-use in Flatiron District appeared first on PincusCo .",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/trans-world-equities-signs-7m-refi-with-east-west-bank-for-mixed-use-in-flatiron-district/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-03T12:32:00.000Z"
+    },
+    {
       "headline": "Florida’s famed luxury ‘holdout house’ finally sold — but its next chapter a total mystery",
       "summary": "The unique property, once listed for almost $7 million, was scooped up by JRP Property Group LLC after multiple price cuts.",
       "source": "New York Post",
@@ -237,49 +264,22 @@
       "published_at": "2026-08-01T17:02:46.000Z"
     },
     {
-      "headline": "Leon Hedvat pays $6.3M to Walter & Samuels for office in Chelsea",
-      "summary": "Leon Hedvat through the entity West 27 Group LLC paid $6.3 million to Walter & The post Leon Hedvat pays $6.3M to Walter & Samuels for office in Chelsea appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/leon-hedvat-pays-6-3m-to-walter-samuels-for-office-in-chelsea/",
-      "section": "pincusco",
+      "headline": "World’s ‘first motel’ up for sale in sleepy California coastal city",
+      "summary": "The property that played a part in inventing the great American road trip has officially hit the market.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/30/real-estate/californias-first-motel-site-the-historic-motel-inn-hits-the-market/",
+      "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-07-31T15:18:00.000Z"
+      "published_at": "2026-07-31T00:15:04.000Z"
     },
     {
-      "headline": "Mohamed Alawlaqi pays $1.9M for mixed-use in Sunset Park",
-      "summary": "Mohamed Alawlaqi through the entity 4612 Pinnacle Realty LLC paid $1.9 million to Eduardo Silva The post Mohamed Alawlaqi pays $1.9M for mixed-use in Sunset Park appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/mohamed-alawlaqi-pays-1-9m-for-mixed-use-in-sunset-park/",
-      "section": "pincusco",
+      "headline": "Believe it, you can buy a NYC apartment for $130K — but there’s 1 tiny catch",
+      "summary": "In a borough where the median price of an apartment hovers over $1 million, landing a Manhattan pad for just 10% of that sounds like a fever dream.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/03/real-estate/believe-it-you-can-buy-a-nyc-apartment-for-130k/",
+      "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-07-31T15:11:00.000Z"
-    },
-    {
-      "headline": "Zeorya Gritsay pays $6M for office in Bay Ridge",
-      "summary": "Zeorya Gritsay through the entity 8710 5th Ave Management LLC paid $6 million to George The post Zeorya Gritsay pays $6M for office in Bay Ridge appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/zeorya-gritsay-pays-6m-for-office-in-bay-ridge/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-31T14:32:00.000Z"
-    },
-    {
-      "headline": "Kostas Papadakis files plans for 54 units in Astoria",
-      "summary": "Kostas Papadakis submitted a new building construction project for a 54-unit, 64,650-square-foot residential (R-2) building The post Kostas Papadakis files plans for 54 units in Astoria appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/kostas-papadakis-files-plans-for-54-units-in-astoria/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-31T14:20:00.000Z"
-    },
-    {
-      "headline": "Yitzchok Katz files plans for 99 units in South Slope, of 396 total",
-      "summary": "Yitzchok Katz of Goose Property Management submitted a new building construction project for a 99-unit, The post Yitzchok Katz files plans for 99 units in South Slope, of 396 total appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/yitzchok-katz-files-plans-for-99-units-in-south-slope-of-396-total/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-07-31T14:01:00.000Z"
+      "published_at": "2026-08-03T11:30:00.000Z"
     }
   ]
 }
