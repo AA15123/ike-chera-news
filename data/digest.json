@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-08-04",
-  "generated_at": "2026-08-04T12:07:31.309Z",
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T12:05:09.247Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Meal Delivery Service CookUnity to Open Flagship Storefront at NoMad Hotel: CookUnity , a subscription-based meal delivery platform, has inked 4,721 square feet of ground-floor retail space at Lam Group ’s 1227 Broadway , also known as Virgin Hotel New York City , in Manhattan’s NoMad neighborhood, Commercial Observer has learned.\n\nMezcali Founders to Open New Fusion Concept in Financial District: The restaurateurs behind Mexican restaurant Mezcali and American tavern the Malt House have signed a lease for a new food concept in Manhattan’s Financial District. Eoin Foyle and Darren Shore signed a 20-year, 4,744-square-foot lease in the retail component of TF Cornerstone ’s 2 Gold Street , where they will launch.\n\nMuji, Daniel Eddy’s Winner Sign Retail Leases at Brooklyn’s Alloy Block: Two retail tenants have taken almost 13,000 square feet at a new development in Downtown Brooklyn. Japanese home goods and apparel brand Muji was the largest of the two, signing a 10-year, 10,000-square-foot lease at Alloy Development ’s 100 Flatbush Avenue , part of the larger five-building, mixed-use Alloy Block.\n\nFashion House Veronica Beard Expands HQ to 60K SF at 26 West 17th Street: Apparel retail brand Veronica Beard has expanded its office headquarters to approximately 60,000 square feet at the Winter Organization ’s 26 West 17th Street in Midtown South, according to landlord broker CBRE .",
-    "cre_daily": "Why Premium Grocers Skew CMBS Delinquency Rankings: Headline CMBS delinquency rates overstate tenant risk for premium grocers due to property-level issues unrelated to supermarket performance. Large nonperforming loans are tied to urban retail condos and malls, not traditional grocery-anchored centers, distorting delinquency statistics.\n\nNYC Doubles Retail Lease Assistance Funding Amid Tight Market: New York City increased its commercial lease assistance program budget from $4M to $8M to support small business tenants. The program provides legal support for leases, renewals, and disputes, benefiting both tenants and landlords as retail rents and competition rise.\n\nRetail Corridors Pivot to Nightlife as Office Traffic Lags: Nighttime and weekend activity now drives recovery in retail corridors as office traffic remains depressed, according to Placer.ai’s Q2 2026 report. Evening visits on Fridays and Saturdays have slightly surpassed pre-pandemic levels, but daytime foot traffic trails by 20–30%.\n\nGLP-1 Medications Shift US Retail Foot Traffic and Sales: GLP-1 medications are altering US shopping habits, cutting snack spending and boosting wellness-related retail activity. Fitness, fresh food, and athleisure retailers are seeing increased foot traffic and sales as consumers refocus on health.",
-    "new_york_post": "Ken Griffin’s Park Ave. project with Vornado set for major update this week: Demolition of three buildings is underway on Park Avenue and East 52nd Street for the new skyscraper, where two Griffin-controlled Citadel companies are to be anchor tenants with at least a combined 850,000 square feet.\n\nIt’s war at NYC’s Pierre — where billionaires could get evicted when shareholders vote on a $2B sale: Inside the tony halls of the posh Pierre, the next chapter of a war is raging between some of the wealthiest people in the country.\n\nPrice cuts creep back up as summer selling season stalls: By the end of June, the share of for-sale homes across the US with price cuts was 1.9 percentage points lower than the prior year.\n\nFlorida’s famed luxury ‘holdout house’ finally sold — but its next chapter a total mystery: The unique property, once listed for almost $7 million, was scooped up by JRP Property Group LLC after multiple price cuts.",
-    "pincusco": "Glass Gardens pays $40.6M to Leser Group for retail in Borough Park: Glass Gardens, which owns Shop-Rite grocery stores, through the entity Avenue I 1080 Realty Co.\n\nCape Advisors signs ground lease valued at $30.7M for office in Greenwich Village: Cape Advisors through the entity CA 70 West 10th Operating Company, LLC, as tenant signed.\n\nBTF Capital pays $56M to Punia & Marx, Manhattan Skyline for retail in Whitestone: UPDATED 1:30 p.m., August 3, 2026: BTF Capital through the entity BTF Whitestone Realty LLC.\n\nVital Infrastructure Property Trust pays $89.9M to Jonas Rudofsky for office in East New York: Vital Infrastructure Property Trust through the entity Vital Pennsylvania Ave LP paid $89.9 million to."
+    "commercial_observer": "Meal Delivery Service CookUnity to Open Flagship Storefront at NoMad Hotel: CookUnity , a subscription-based meal delivery platform, has inked 4,721 square feet of ground-floor retail space at Lam Group ’s 1227 Broadway , also known as Virgin Hotel New York City , in Manhattan’s NoMad neighborhood, Commercial Observer has learned.\n\nMezcali Founders to Open New Fusion Concept in Financial District: The restaurateurs behind Mexican restaurant Mezcali and American tavern the Malt House have signed a lease for a new food concept in Manhattan’s Financial District. Eoin Foyle and Darren Shore signed a 20-year, 4,744-square-foot lease in the retail component of TF Cornerstone ’s 2 Gold Street , where they will launch.\n\nMuji, Daniel Eddy’s Winner Sign Retail Leases at Brooklyn’s Alloy Block: Two retail tenants have taken almost 13,000 square feet at a new development in Downtown Brooklyn. Japanese home goods and apparel brand Muji was the largest of the two, signing a 10-year, 10,000-square-foot lease at Alloy Development ’s 100 Flatbush Avenue , part of the larger five-building, mixed-use Alloy Block.\n\nAI Firm Corgi to Open 24/7 Cafe at 121 East 27th Street: Alert the Queen, here come the corgis! OK, not exactly.",
+    "cre_daily": "Why Premium Grocers Skew CMBS Delinquency Rankings: Headline CMBS delinquency rates overstate tenant risk for premium grocers due to property-level issues unrelated to supermarket performance. Large nonperforming loans are tied to urban retail condos and malls, not traditional grocery-anchored centers, distorting delinquency statistics.\n\nOnyx Bids $934M for 117 J.C. Penney Stores in Portfolio Play: Onyx Partners has submitted a $934M offer for a 117-store J.C. Penney portfolio covering 15.7M SF across 35 states.\n\nNYC Doubles Retail Lease Assistance Funding Amid Tight Market: New York City increased its commercial lease assistance program budget from $4M to $8M to support small business tenants. The program provides legal support for leases, renewals, and disputes, benefiting both tenants and landlords as retail rents and competition rise.\n\nRetail Corridors Pivot to Nightlife as Office Traffic Lags: Nighttime and weekend activity now drives recovery in retail corridors as office traffic remains depressed, according to Placer.ai’s Q2 2026 report. Evening visits on Fridays and Saturdays have slightly surpassed pre-pandemic levels, but daytime foot traffic trails by 20–30%.",
+    "new_york_post": "Ken Griffin’s Park Ave. project with Vornado set for major update this week: Demolition of three buildings is underway on Park Avenue and East 52nd Street for the new skyscraper, where two Griffin-controlled Citadel companies are to be anchor tenants with at least a combined 850,000 square feet.\n\nNYC art gallery sues landlord for $1M and lease termination — for banning indoor cigar smoking: FineArt Fund, operating as Gallery 484, claims Lieberman Holdings knew and accepted its business model — which included a \"cigar-related guest experience.\"\n\nPrice cuts creep back up as summer selling season stalls: By the end of June, the share of for-sale homes across the US with price cuts was 1.9 percentage points lower than the prior year.\n\nSpider-Man’s NYC home would cost millions — more than even a superhero could afford: \"He would have to make $150,000,\" billionaire John Catsimatidis told The Post of Spider-Man living comfortably while he tries to make ends meet in between pro bono crime fighting across the city.",
+    "pincusco": "Joel Weiss files plans for 17 units in Ridgewood.\n\nMcSam Hotel Group signs $29M refi with Preferred for office in Times Square.\n\nRethink Capital signs $33.6M refi with First Citizens for office in Sheepshead Bay.\n\nJohn Arvanitis pays $5.3M for 3 walkups with 18 units in Astoria."
   },
   "items": [
     {
@@ -48,13 +48,13 @@
       "published_at": "2026-08-03T16:02:30.000Z"
     },
     {
-      "headline": "Fashion House Veronica Beard Expands HQ to 60K SF at 26 West 17th Street",
-      "summary": "Apparel retail brand Veronica Beard has expanded its office headquarters to approximately 60,000 square feet at the Winter Organization ’s 26 West 17th Street in Midtown South, according to landlord broker CBRE . The company, which has been in the building since about 2013, signed the new deal to renew its existing space at the building and also grow by 15,000 square feet.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/veronica-beard-lease-expansion-26-west-17th-street/",
-      "section": "commercial_observer",
+      "headline": "Onyx Bids $934M for 117 J.C. Penney Stores in Portfolio Play",
+      "summary": "Onyx Partners has submitted a $934M offer for a 117-store J.C. Penney portfolio covering 15.7M SF across 35 states. A prior deal between Onyx and the Copper Property trust failed, leading to litigation after the trust claimed the deadline was missed. This portfolio sale could gauge the appetite for legacy retail real estate, but will not disrupt J.C. Penney’s store operations due to long-term leases. Key Takeaways A Second Attempt at a Landmark Retail Deal Onyx Partners is pursuing a national J.C.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/onyx-bids-934m-for-117-j-c-penney-stores-in-portfolio-play/",
+      "section": "cre_daily",
       "retail": true,
-      "published_at": "2026-08-03T16:52:45.000Z"
+      "published_at": "2026-08-05T05:29:07.000Z"
     },
     {
       "headline": "NYC Doubles Retail Lease Assistance Funding Amid Tight Market",
@@ -84,13 +84,13 @@
       "published_at": "2026-07-31T06:03:48.000Z"
     },
     {
-      "headline": "Glass Gardens pays $40.6M to Leser Group for retail in Borough Park",
-      "summary": "Glass Gardens, which owns Shop-Rite grocery stores, through the entity Avenue I 1080 Realty Co. The post Glass Gardens pays $40.6M to Leser Group for retail in Borough Park appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/glass-gardens-pays-40-6m-to-leser-group-for-retail-in-borough-park/",
-      "section": "pincusco",
+      "headline": "New York City’s First El Pollo Loco Coming to Jackson Heights in Queens",
+      "summary": "Why did the chicken cross the continent? To get to new customers on the other side. Popular fast-casual grilled chicken restaurant El Pollo Loco has signed a lease to open its first-ever East Coast location in New York City, Commercial Observer has learned. El Pollo Loco signed a 10-year lease for 2,400 square feet at 37-07 82nd Street in Jackson Heights, Queens, according to tenant broker Ripco Real Estate . It is expected to open in 2027.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/08/el-pollo-loco-lease-jackson-heights-queens/",
+      "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-08-03T14:38:00.000Z"
+      "published_at": "2026-08-04T18:15:49.000Z"
     },
     {
       "headline": "Whole Foods Signs 8K-SF Lease to Open Daily Shop at 1524 Second Avenue",
@@ -100,42 +100,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-07-28T19:31:41.000Z"
-    },
-    {
-      "headline": "GLP-1 Medications Shift US Retail Foot Traffic and Sales",
-      "summary": "GLP-1 medications are altering US shopping habits, cutting snack spending and boosting wellness-related retail activity. Fitness, fresh food, and athleisure retailers are seeing increased foot traffic and sales as consumers refocus on health. Landlords and retailers are adapting to demand shifts, reflecting broader changes in size curves, inventory, and leasing activity.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/glp-1-medications-shift-us-retail-foot-traffic-and-sales/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-07-22T03:52:30.000Z"
-    },
-    {
-      "headline": "Snapchat Parent Company Subleases 199K SF From Verizon at Penn 2",
-      "summary": "Snap , the technology firm behind Snapchat , is taking over Verizon ’s three-floor office lease in Manhattan’s Penn District. The 198,983-square-foot sublease spans the eighth through and 10th floors of Vornado Realty Trust ’s 2 Pennsylvania Plaza , known as Penn 2 , according to sources familiar with the transaction. The long-term deal, struck at a premium to Verizon’s own rent obligation, runs through 2044.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/snapchat-sublease-verizon-office-penn-2/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-08-03T17:06:06.000Z"
-    },
-    {
-      "headline": "Visual Effects Studio Phosphene Takes 7K SF at 90 Broad Street",
-      "summary": "Emmy nominated visual effects studio Phosphene has inked a 7,383-square-foot lease at Princeton International ’s 90 Broad Street in Manhattan’s Financial District, according to tenant broker Avison Young . Phosphene will move from its current office at 5 Hanover Square , also in the Financial District, as the building is being converted from an office property into a residential tower. The asking rent and the length of the lease were not disclosed.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/phosphene-lease-90-broad-street/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-08-03T15:53:06.000Z"
-    },
-    {
-      "headline": "Mediation Firm JAMS to Relocate to 55K SF at Rudin’s 3 Times Square",
-      "summary": "Mediation firm JAMS — the name is an abbreviation of judicial arbitration and mediation services — is relocating its New York Resolution Center to the top two floors of Rudin ’s 3 Times Square . The global provider of alternative dispute resolution services plans to take up 55,335 square feet across the Midtown office tower’s 29th and 30th floors, Rudin announced Monday morning. The 11-year lease was first reported by the New York Post .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/jams-relocation-lease-rudin-3-times-square/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-08-03T15:19:15.000Z"
     },
     {
       "headline": "Gowanus Golf Club Secures 6K SF to Open Private Club in Brooklyn’s Dumbo",
@@ -154,15 +118,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-08-03T21:05:54.000Z"
-    },
-    {
-      "headline": "Cape Advisors signs ground lease valued at $30.7M for office in Greenwich Village",
-      "summary": "Cape Advisors through the entity CA 70 West 10th Operating Company, LLC, as tenant signed The post Cape Advisors signs ground lease valued at $30.7M for office in Greenwich Village appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/cape-advisors-signs-ground-lease-valued-at-30-7m-with-harran-holding-for-office-in-greenwich-village/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-08-03T14:37:00.000Z"
     },
     {
       "headline": "Ken Griffin’s Park Ave. project with Vornado set for major update this week",
@@ -192,67 +147,67 @@
       "published_at": "2026-07-24T06:06:29.000Z"
     },
     {
-      "headline": "BTF Capital pays $56M to Punia & Marx, Manhattan Skyline for retail in Whitestone",
-      "summary": "UPDATED 1:30 p.m., August 3, 2026: BTF Capital through the entity BTF Whitestone Realty LLC The post BTF Capital pays $56M to Punia & Marx, Manhattan Skyline for retail in Whitestone appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/btf-capital-pays-56m-to-punia-marx-manhattan-skyline-for-retail-in-whitestone/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-08-03T15:07:00.000Z"
-    },
-    {
-      "headline": "More Luxury Retailers Partner With Everyday Names to Lure Gen Z Shoppers",
-      "summary": "On May 16, watch brands Swatch and Audemars Piguet (AP) launched a collaborative line of eight pocket watches called Royal Pop, which, in addition to featuring designs that popped with vibrant colors, included a window into the inner workings of the watch. The intent of the Royal Pop watches, which retail for around $400 each, was to “invite a broader audience, including the younger generations, to experience mechanical watchmaking differently,” according to the AP website .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/luxury-retailers-partners-gen-z/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-22T10:00:51.000Z"
-    },
-    {
-      "headline": "Marx Realty CEO Craig Deitelzweig Spied the Office-Hospitality Connection Early",
-      "summary": "When he isn’t home tending to his alpacas — yes, he has alpacas — Craig Deitelzweig, the chief executive officer of owner Marx Realty, is working out ways to beautify the company’s office portfolio, intent on making where people go to work a destination, not a chore. Deitelzweig, a former lawyer who graduated from Fordham University’s law school, became CEO of Marx Realty in 2017 and set out to reposition the firm’s portfolio, grow the company, and improve the value of the office properties in the key markets…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/marx-realty-ceo-craig-deitelzweig-office-hospitality/",
-      "section": "commercial_observer",
-      "retail": false,
-      "published_at": "2026-07-21T14:00:22.000Z"
-    },
-    {
-      "headline": "Vital Infrastructure Property Trust pays $89.9M to Jonas Rudofsky for office in East New York",
-      "summary": "Vital Infrastructure Property Trust through the entity Vital Pennsylvania Ave LP paid $89.9 million to The post Vital Infrastructure Property Trust pays $89.9M to Jonas Rudofsky for office in East New York appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/vital-infrastructure-property-trust-pays-89-9m-to-jonas-rudofsky-for-office-in-east-new-york/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-03T14:56:00.000Z"
-    },
-    {
-      "headline": "HPD files plans for 80 units, 40 units in East New York",
-      "summary": "New York City’s Department of Housing Preservation and Development filed plans last week for two The post HPD files plans for 80 units, 40 units in East New York appeared first on PincusCo .",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/hpd-files-plans-for-80-units-40-units-in-east-new-york/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-03T13:00:00.000Z"
-    },
-    {
-      "headline": "It’s war at NYC’s Pierre — where billionaires could get evicted when shareholders vote on a $2B sale",
-      "summary": "Inside the tony halls of the posh Pierre, the next chapter of a war is raging between some of the wealthiest people in the country.",
+      "headline": "NYC art gallery sues landlord for $1M and lease termination — for banning indoor cigar smoking",
+      "summary": "FineArt Fund, operating as Gallery 484, claims Lieberman Holdings knew and accepted its business model — which included a \"cigar-related guest experience.\"",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/08/01/real-estate/inside-the-war-at-nycs-pierre-where-billionaires-may-be-evicted/",
+      "url": "https://nypost.com/2026/08/04/real-estate/nyc-gallery-and-venue-sues-landlord-over-unexpected-cigar-ban/",
       "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-08-01T12:00:00.000Z"
+      "retail": true,
+      "published_at": "2026-08-04T15:48:46.000Z"
     },
     {
-      "headline": "Mixed-use in Williamsburg sells for $3.3M",
-      "summary": "The entity Broadway 105 LLC paid $3.3 million to the entity 105 Broadway LLC for The post Mixed-use in Williamsburg sells for $3.3M appeared first on PincusCo .",
+      "headline": "Joel Weiss files plans for 17 units in Ridgewood",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/mixed-use-in-williamsburg-sells-for-3-3m/",
+      "url": "https://www.pincusco.com/joel-weiss-files-plans-for-17-units-in-ridgewood/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-08-04T11:32:00.000Z"
+      "published_at": "2026-08-05T11:11:00.000Z"
+    },
+    {
+      "headline": "McSam Hotel Group signs $29M refi with Preferred for office in Times Square",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/mcsam-hotel-group-signs-29m-refi-with-preferred-for-office-in-times-square/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-04T13:48:00.000Z"
+    },
+    {
+      "headline": "Rethink Capital signs $33.6M refi with First Citizens for office in Sheepshead Bay",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/rethink-capital-partners-signs-33-6m-refi-with-first-citizens-bank-for-office-in-sheepshead-bay/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-04T13:38:00.000Z"
+    },
+    {
+      "headline": "John Arvanitis pays $5.3M for 3 walkups with 18 units in Astoria",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/john-arvanitis-pays-5-3m-to-martin-keane-for-three-residential-walkup-properties-in-astoria/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-04T12:30:00.000Z"
+    },
+    {
+      "headline": "Mixed-use in Boerum Hill sells for $6M",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/mixed-use-in-boerum-hill-sells-for-6m/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-04T12:24:00.000Z"
+    },
+    {
+      "headline": "Sentry Realty, 60 Guilders pay $238.2M for office in Garment District",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/sentry-realty-60-guilders-pay-238-2m-for-office-in-garment-district/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-04T12:20:00.000Z"
     },
     {
       "headline": "Price cuts creep back up as summer selling season stalls",
@@ -264,22 +219,67 @@
       "published_at": "2026-08-04T02:57:53.000Z"
     },
     {
-      "headline": "Florida’s famed luxury ‘holdout house’ finally sold — but its next chapter a total mystery",
-      "summary": "The unique property, once listed for almost $7 million, was scooped up by JRP Property Group LLC after multiple price cuts.",
+      "headline": "Spider-Man’s NYC home would cost millions — more than even a superhero could afford",
+      "summary": "\"He would have to make $150,000,\" billionaire John Catsimatidis told The Post of Spider-Man living comfortably while he tries to make ends meet in between pro bono crime fighting across the city.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/08/01/real-estate/floridas-holdout-house-sold-next-chapter-is-mystery/",
+      "url": "https://nypost.com/2026/08/04/us-news/spider-mans-nyc-home-would-cost-millions-more-than-a-even-a-superhero-could-afford/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-08-01T17:02:46.000Z"
+      "published_at": "2026-08-04T10:30:00.000Z"
     },
     {
-      "headline": "Elite Properties NYC pays $3.2M for 2-family in Clinton Hill",
-      "summary": "Elite Properties NYC through the entity Elite Grand LLC paid $3.2 million for the two-unit The post Elite Properties NYC pays $3.2M for 2-family in Clinton Hill appeared first on PincusCo .",
+      "headline": "Believe it, you can buy a NYC apartment for $130K — but there’s 1 tiny catch",
+      "summary": "In a borough where the median price of an apartment hovers over $1 million, landing a Manhattan pad for just 10% of that sounds like a fever dream.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/03/real-estate/believe-it-you-can-buy-a-nyc-apartment-for-130k/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-08-03T11:30:00.000Z"
+    },
+    {
+      "headline": "MUJI opening another NYC location as Downtown Brooklyn keeps booming",
+      "summary": "The 10,000 square-foot store is the latest big name in the booming Downtown Brooklyn corridor astride and adjacent to Flatbush Avenue.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/02/business/muji-opening-another-nyc-location-as-downtown-brooklyn-keeps-booming/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-08-02T18:55:49.000Z"
+    },
+    {
+      "headline": "Real estate insiders reveal the real cost of Mamdani’s pied-à-terre tax — and what it’s really doing to NYC",
+      "summary": "\"The numbers are so beyond what people are interested in spending every year that many people are rethinking,\" one Compass agent told The Post.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/02/real-estate/real-estate-insiders-reveal-cost-of-mamdanis-pied-a-terre-tax/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-08-02T13:00:00.000Z"
+    },
+    {
+      "headline": "New 10,000-seat arena is coming to California — but first, officials want to solve the traffic nightmare",
+      "summary": "They're ready for the big leagues — but they just have to make sure fans can find a parking spot.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/04/real-estate/californias-new-10000-seat-arena-faces-traffic-test/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-08-04T18:32:23.000Z"
+    },
+    {
+      "headline": "Scharfman Org. signs $20.9M refi with Chase for two UWS rentals",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/elite-properties-nyc-pays-3-2m-for-2-family-in-clinton-hill/",
+      "url": "https://www.pincusco.com/scharfman-org-signs-20-9m-refi-with-chase-for-two-residential-elevator-properties-in-upper-west-side/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-08-04T11:13:00.000Z"
+      "published_at": "2026-08-04T14:00:00.000Z"
+    },
+    {
+      "headline": "KSR Capital buys $4.5M note secured by eight-unit walkup in Prospect Lefferts Gardens",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/ksr-capital-buys-4-5m-note-secured-by-eight-unit-walkup-in-prospect-lefferts-gardens/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-04T13:21:00.000Z"
     }
   ]
 }
