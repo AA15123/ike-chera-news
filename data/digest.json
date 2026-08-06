@@ -1,25 +1,16 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-08-05",
-  "generated_at": "2026-08-05T12:05:09.247Z",
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T12:07:58.843Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Meal Delivery Service CookUnity to Open Flagship Storefront at NoMad Hotel: CookUnity , a subscription-based meal delivery platform, has inked 4,721 square feet of ground-floor retail space at Lam Group ’s 1227 Broadway , also known as Virgin Hotel New York City , in Manhattan’s NoMad neighborhood, Commercial Observer has learned.\n\nMezcali Founders to Open New Fusion Concept in Financial District: The restaurateurs behind Mexican restaurant Mezcali and American tavern the Malt House have signed a lease for a new food concept in Manhattan’s Financial District. Eoin Foyle and Darren Shore signed a 20-year, 4,744-square-foot lease in the retail component of TF Cornerstone ’s 2 Gold Street , where they will launch.\n\nMuji, Daniel Eddy’s Winner Sign Retail Leases at Brooklyn’s Alloy Block: Two retail tenants have taken almost 13,000 square feet at a new development in Downtown Brooklyn. Japanese home goods and apparel brand Muji was the largest of the two, signing a 10-year, 10,000-square-foot lease at Alloy Development ’s 100 Flatbush Avenue , part of the larger five-building, mixed-use Alloy Block.\n\nAI Firm Corgi to Open 24/7 Cafe at 121 East 27th Street: Alert the Queen, here come the corgis! OK, not exactly.",
-    "cre_daily": "Why Premium Grocers Skew CMBS Delinquency Rankings: Headline CMBS delinquency rates overstate tenant risk for premium grocers due to property-level issues unrelated to supermarket performance. Large nonperforming loans are tied to urban retail condos and malls, not traditional grocery-anchored centers, distorting delinquency statistics.\n\nOnyx Bids $934M for 117 J.C. Penney Stores in Portfolio Play: Onyx Partners has submitted a $934M offer for a 117-store J.C. Penney portfolio covering 15.7M SF across 35 states.\n\nNYC Doubles Retail Lease Assistance Funding Amid Tight Market: New York City increased its commercial lease assistance program budget from $4M to $8M to support small business tenants. The program provides legal support for leases, renewals, and disputes, benefiting both tenants and landlords as retail rents and competition rise.\n\nRetail Corridors Pivot to Nightlife as Office Traffic Lags: Nighttime and weekend activity now drives recovery in retail corridors as office traffic remains depressed, according to Placer.ai’s Q2 2026 report. Evening visits on Fridays and Saturdays have slightly surpassed pre-pandemic levels, but daytime foot traffic trails by 20–30%.",
-    "new_york_post": "Ken Griffin’s Park Ave. project with Vornado set for major update this week: Demolition of three buildings is underway on Park Avenue and East 52nd Street for the new skyscraper, where two Griffin-controlled Citadel companies are to be anchor tenants with at least a combined 850,000 square feet.\n\nNYC art gallery sues landlord for $1M and lease termination — for banning indoor cigar smoking: FineArt Fund, operating as Gallery 484, claims Lieberman Holdings knew and accepted its business model — which included a \"cigar-related guest experience.\"\n\nPrice cuts creep back up as summer selling season stalls: By the end of June, the share of for-sale homes across the US with price cuts was 1.9 percentage points lower than the prior year.\n\nSpider-Man’s NYC home would cost millions — more than even a superhero could afford: \"He would have to make $150,000,\" billionaire John Catsimatidis told The Post of Spider-Man living comfortably while he tries to make ends meet in between pro bono crime fighting across the city.",
-    "pincusco": "Joel Weiss files plans for 17 units in Ridgewood.\n\nMcSam Hotel Group signs $29M refi with Preferred for office in Times Square.\n\nRethink Capital signs $33.6M refi with First Citizens for office in Sheepshead Bay.\n\nJohn Arvanitis pays $5.3M for 3 walkups with 18 units in Astoria."
+    "commercial_observer": "Mezcali Founders to Open New Fusion Concept in Financial District: The restaurateurs behind Mexican restaurant Mezcali and American tavern the Malt House have signed a lease for a new food concept in Manhattan’s Financial District. Eoin Foyle and Darren Shore signed a 20-year, 4,744-square-foot lease in the retail component of TF Cornerstone ’s 2 Gold Street , where they will launch.\n\nMuji, Daniel Eddy’s Winner Sign Retail Leases at Brooklyn’s Alloy Block: Two retail tenants have taken almost 13,000 square feet at a new development in Downtown Brooklyn. Japanese home goods and apparel brand Muji was the largest of the two, signing a 10-year, 10,000-square-foot lease at Alloy Development ’s 100 Flatbush Avenue , part of the larger five-building, mixed-use Alloy Block.\n\nAI Firm Corgi to Open 24/7 Cafe at 121 East 27th Street: Alert the Queen, here come the corgis! OK, not exactly.\n\nNew York City’s First El Pollo Loco Coming to Jackson Heights in Queens: Why did the chicken cross the continent? To get to new customers on the other side.",
+    "cre_daily": "Why Premium Grocers Skew CMBS Delinquency Rankings: Headline CMBS delinquency rates overstate tenant risk for premium grocers due to property-level issues unrelated to supermarket performance. Large nonperforming loans are tied to urban retail condos and malls, not traditional grocery-anchored centers, distorting delinquency statistics.\n\nTanger Raises Outlook as Travel and Back-to-School Drive Gains: Tanger upped its annual funds from operations guidance after Q2 tenant sales rose 5% year-over-year. World Cup tourism and early back-to-school demand fueled traffic, with core FFO and revenue beating Wall Street forecasts.\n\nOnyx Bids $934M for 117 J.C. Penney Stores in Portfolio Play: Onyx Partners has submitted a $934M offer for a 117-store J.C. Penney portfolio covering 15.7M SF across 35 states.\n\nNYC Doubles Retail Lease Assistance Funding Amid Tight Market: New York City increased its commercial lease assistance program budget from $4M to $8M to support small business tenants. The program provides legal support for leases, renewals, and disputes, benefiting both tenants and landlords as retail rents and competition rise.",
+    "new_york_post": "NYC art gallery sues landlord for $1M and lease termination — for banning indoor cigar smoking: FineArt Fund, operating as Gallery 484, claims Lieberman Holdings knew and accepted its business model — which included a \"cigar-related guest experience.\"\n\nLegendary NYC restaurant long frequented by power players dodges eviction over $89K in unpaid rent: The Big Apple hotspot was nearly evicted from its Central Park South home.\n\nScammers are targeting church land in latest twisted scheme to steal properties from their owners: A North Carolina church was fraudulently sold for $110,000 in what is becoming common among real estate fraud.\n\nPrice cuts creep back up as summer selling season stalls: By the end of June, the share of for-sale homes across the US with price cuts was 1.9 percentage points lower than the prior year.",
+    "pincusco": "Builders Group USA files plans for 90 units in East New York.\n\nEdison Properties sells Boerum Hill dev site for $58.1M, CW Realty filed plans for 99 units.\n\nPhoenix Realty, Nuveen buy 182-rental in Washington Heights for $80M from L+M Development.\n\nDaolin Hou files plans for 30 units in Astoria."
   },
   "items": [
-    {
-      "headline": "Meal Delivery Service CookUnity to Open Flagship Storefront at NoMad Hotel",
-      "summary": "CookUnity , a subscription-based meal delivery platform, has inked 4,721 square feet of ground-floor retail space at Lam Group ’s 1227 Broadway , also known as Virgin Hotel New York City , in Manhattan’s NoMad neighborhood, Commercial Observer has learned. The deal represents the chef-prepared meal service company’s first flagship storefront in New York City, a source close to the deal told CO. The store is expected to open in the first half of 2027.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/meal-delivery-cookunity-lease-store-nomad-hotel/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-22T20:55:51.000Z"
-    },
     {
       "headline": "Mezcali Founders to Open New Fusion Concept in Financial District",
       "summary": "The restaurateurs behind Mexican restaurant Mezcali and American tavern the Malt House have signed a lease for a new food concept in Manhattan’s Financial District. Eoin Foyle and Darren Shore signed a 20-year, 4,744-square-foot lease in the retail component of TF Cornerstone ’s 2 Gold Street , where they will launch their latest brainchild, a Hawaiian-Caribbean-Asian fusion restaurant called Solerum , according to the landlord.…",
@@ -46,6 +37,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-08-03T16:02:30.000Z"
+    },
+    {
+      "headline": "Tanger Raises Outlook as Travel and Back-to-School Drive Gains",
+      "summary": "Tanger upped its annual funds from operations guidance after Q2 tenant sales rose 5% year-over-year. World Cup tourism and early back-to-school demand fueled traffic, with core FFO and revenue beating Wall Street forecasts. The outlook improvement points to resilient brick-and-mortar retail fundamentals and renewed space demand as development slows. Key Takeaways Domestic Travel and Event Tailwinds Boost Retail Tanger Inc.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/tanger-raises-outlook-as-travel-and-back-to-school-drive-gains/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-08-06T05:41:38.000Z"
     },
     {
       "headline": "Onyx Bids $934M for 117 J.C. Penney Stores in Portfolio Play",
@@ -102,6 +102,15 @@
       "published_at": "2026-07-28T19:31:41.000Z"
     },
     {
+      "headline": "AI Song Maker Suno Takes 12K SF at 515 West 20th Street",
+      "summary": "We can discuss the ethics of artificial intelligence creating art all day long, but the fact is these companies aren’t going anywhere anytime soon, and they need office space. Generative AI music platform Suno has taken 12,048 square feet across the fifth floor of 515 West 20th Street for its first New York City office, Commercial Observer has learned. Michael Segerman at Current Real Estate Advisors represented the landlord, Justin Amirian ’s Eagle Point Properties , while Joseph Sipala from JLL represented Suno.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/08/ai-song-maker-suno-515-west-20th-street/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-08-05T16:27:09.000Z"
+    },
+    {
       "headline": "Gowanus Golf Club Secures 6K SF to Open Private Club in Brooklyn’s Dumbo",
       "summary": "A new golf club is being teed up for Brooklyn’s Dumbo neighborhood. Gowanus Golf Club , a Brooklyn-based private indoor golf club chain, has leased approximately 6,000 square feet along the Dumbo waterfront at 215 Water Street , Commercial Observer has learned. The five-story mixed-use building between Bridge and Jay streets is owned by Pearl Realty Management , according to broker Corey Cohen , principal of the Roebling Team at Compass .…",
       "source": "Commercial Observer",
@@ -109,24 +118,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-07-27T13:00:26.000Z"
-    },
-    {
-      "headline": "TekSynap Leases 27K SF at BXP’s Reston Town Center",
-      "summary": "Federal IT contractor TekSynap has signed a long-term lease for a 26,500-square-foot floor at BXP ’s Reston Town Center in Northern Virginia. TekSynap provides cloud integration, cybersecurity, software development and IT modernization services for civilian, defense and intelligence agencies. The Reston-based company will relocate less than a mile from 1900 Oracle Way to the second floor of 11921 Freedom Drive .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/teksynap-leases-27k-sf-at-bxps-reston-town-center/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-08-03T21:05:54.000Z"
-    },
-    {
-      "headline": "Ken Griffin’s Park Ave. project with Vornado set for major update this week",
-      "summary": "Demolition of three buildings is underway on Park Avenue and East 52nd Street for the new skyscraper, where two Griffin-controlled Citadel companies are to be anchor tenants with at least a combined 850,000 square feet.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/02/business/ken-griffins-park-ave-project-with-vornado-expects-major-update-this-week/",
-      "section": "new_york_post",
-      "retail": true,
-      "published_at": "2026-08-02T17:29:53.000Z"
     },
     {
       "headline": "Selective Buyers Reshape US Retail Investment in 2026",
@@ -138,15 +129,6 @@
       "published_at": "2026-07-27T18:42:01.000Z"
     },
     {
-      "headline": "Retail CRE Lenders Sharpen Pricing on 60–65% LTV Debt",
-      "summary": "Lenders have tightened credit spreads on 60–65% LTV retail CRE loans by 16 basis points over the past year, per Trepp. The cost of incremental debt in the 50–59% LTV tier is nearly unchanged in the same period, underscoring a shift in lender competition. Lenders prioritizing pricing competitiveness in the middle of the capital stack could alter borrower decisions and reshape risk distribution in retail loan origination.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/retail-cre-lenders-sharpen-pricing-on-60-65-ltv-debt/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-07-24T06:06:29.000Z"
-    },
-    {
       "headline": "NYC art gallery sues landlord for $1M and lease termination — for banning indoor cigar smoking",
       "summary": "FineArt Fund, operating as Gallery 484, claims Lieberman Holdings knew and accepted its business model — which included a \"cigar-related guest experience.\"",
       "source": "New York Post",
@@ -156,58 +138,103 @@
       "published_at": "2026-08-04T15:48:46.000Z"
     },
     {
-      "headline": "Joel Weiss files plans for 17 units in Ridgewood",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/joel-weiss-files-plans-for-17-units-in-ridgewood/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-05T11:11:00.000Z"
+      "headline": "Volastra Therapeutics Subleases 18K SF at Alexandria Center for Life Science",
+      "summary": "A biotechnology firm is relocating its lab space from West Harlem to Midtown South. Volastra Therapeutics signed an 18,120-square-foot sublease in the Alexandria Center for Life Science at 430 East 29th Street , owned by Alexandria Real Estate Equities , according to CBRE . Volastra is subleasing space on the 11th floor from Black Diamond Therapeutics and relocating from the Mink Building at 1361-1369 Amsterdam Avenue in Harlem.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/08/volastra-therapeutics-sublease-alexandria-center-for-life-science/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-08-05T14:06:15.000Z"
     },
     {
-      "headline": "McSam Hotel Group signs $29M refi with Preferred for office in Times Square",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/mcsam-hotel-group-signs-29m-refi-with-preferred-for-office-in-times-square/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-04T13:48:00.000Z"
+      "headline": "Mall Giant Macerich Narrows Losses in Q2 Amid Stronger Leasing",
+      "summary": "“No one is building new regional malls, and roughly 90 percent of our go-forward NOI comes from Class A assets and the best retailers of the world.” So said Jackson Hsieh , president and CEO of Macerich , early on during the mall-focused real estate investment trust’s second-quarter earnings call Tuesday afternoon. (He was referring to projected net operating income.) The observation goes a long way toward explaining the REIT’s continued turnaround.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/08/macerich-second-quarter-2026-leasing/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-08-05T13:49:02.000Z"
     },
     {
-      "headline": "Rethink Capital signs $33.6M refi with First Citizens for office in Sheepshead Bay",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/rethink-capital-partners-signs-33-6m-refi-with-first-citizens-bank-for-office-in-sheepshead-bay/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-04T13:38:00.000Z"
+      "headline": "Legendary NYC restaurant long frequented by power players dodges eviction over $89K in unpaid rent",
+      "summary": "The Big Apple hotspot was nearly evicted from its Central Park South home.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/05/real-estate/iconic-central-park-facing-gabriels-dodges-eviction/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-08-05T15:47:24.000Z"
     },
     {
-      "headline": "John Arvanitis pays $5.3M for 3 walkups with 18 units in Astoria",
+      "headline": "Builders Group USA files plans for 90 units in East New York",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/john-arvanitis-pays-5-3m-to-martin-keane-for-three-residential-walkup-properties-in-astoria/",
+      "url": "https://www.pincusco.com/builders-group-usa-files-plans-for-90-units-in-east-new-york/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-08-04T12:30:00.000Z"
+      "published_at": "2026-08-05T15:11:00.000Z"
     },
     {
-      "headline": "Mixed-use in Boerum Hill sells for $6M",
+      "headline": "Edison Properties sells Boerum Hill dev site for $58.1M, CW Realty filed plans for 99 units",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/mixed-use-in-boerum-hill-sells-for-6m/",
+      "url": "https://www.pincusco.com/edison-properties-sells-boerum-hill-dev-site-for-58-1m-cw-realty-filed-plans-for-99-units/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-08-04T12:24:00.000Z"
+      "published_at": "2026-08-06T11:50:00.000Z"
     },
     {
-      "headline": "Sentry Realty, 60 Guilders pay $238.2M for office in Garment District",
+      "headline": "Phoenix Realty, Nuveen buy 182-rental in Washington Heights for $80M from L+M Development",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/sentry-realty-60-guilders-pay-238-2m-for-office-in-garment-district/",
+      "url": "https://www.pincusco.com/phoenix-realty-nuveen-buy-182-rental-in-washington-heights-for-80m-from-lm-development/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-08-04T12:20:00.000Z"
+      "published_at": "2026-08-06T11:33:00.000Z"
+    },
+    {
+      "headline": "Daolin Hou files plans for 30 units in Astoria",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/daolin-hou-files-plans-for-30-units-in-astoria/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-06T11:16:00.000Z"
+    },
+    {
+      "headline": "Michael Naclerio seeks zoning change to facilitate 273-unit project in Jamaica",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/michael-naclerio-seeks-zoning-change-to-facilitate-273-unit-project-in-jamaica/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-06T09:33:17.000Z"
+    },
+    {
+      "headline": "Scammers are targeting church land in latest twisted scheme to steal properties from their owners",
+      "summary": "A North Carolina church was fraudulently sold for $110,000 in what is becoming common among real estate fraud.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/05/real-estate/real-estate-scammers-steal-church-land-in-north-carolina/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-08-05T16:09:09.000Z"
+    },
+    {
+      "headline": "Kostas Golfinopoulos files plans for 12 units in Astoria",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/kostas-golfinopoulos-files-plans-for-12-units-in-astoria/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-05T15:06:00.000Z"
+    },
+    {
+      "headline": "VRH Inc. pays $3.2M for mixed-use in Greenwich Village",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/vrh-inc-pays-3-2m-to-anna-murray-for-mixed-use-in-greenwich-village/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-05T14:59:00.000Z"
     },
     {
       "headline": "Price cuts creep back up as summer selling season stalls",
@@ -219,6 +246,15 @@
       "published_at": "2026-08-04T02:57:53.000Z"
     },
     {
+      "headline": "Former Victoria’s Secret angel Martha Hunt asks $3.75M for NYC home in a secret alley",
+      "summary": "She's now looking for bigger digs with her love, photographer Jason McDonald, and their daughter Emery.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/05/real-estate/model-martha-hunt-asks-3-75m-for-nyc-home/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-08-05T14:12:56.000Z"
+    },
+    {
       "headline": "Spider-Man’s NYC home would cost millions — more than even a superhero could afford",
       "summary": "\"He would have to make $150,000,\" billionaire John Catsimatidis told The Post of Spider-Man living comfortably while he tries to make ends meet in between pro bono crime fighting across the city.",
       "source": "New York Post",
@@ -228,58 +264,22 @@
       "published_at": "2026-08-04T10:30:00.000Z"
     },
     {
-      "headline": "Believe it, you can buy a NYC apartment for $130K — but there’s 1 tiny catch",
-      "summary": "In a borough where the median price of an apartment hovers over $1 million, landing a Manhattan pad for just 10% of that sounds like a fever dream.",
+      "headline": "Owning a rare Frank Lloyd Wright home often comes with headaches of constant and costly maintenance",
+      "summary": "Frank Lloyd Wright remains a major figure in the history of American architecture. But when it comes to maintaining his surviving homes — well, that remains a major pain in the neck.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/08/03/real-estate/believe-it-you-can-buy-a-nyc-apartment-for-130k/",
+      "url": "https://nypost.com/2026/08/06/real-estate/owning-a-rare-frank-lloyd-wright-home-often-comes-with-headaches-of-constant-and-costly-maintenance/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-08-03T11:30:00.000Z"
+      "published_at": "2026-08-06T11:30:00.000Z"
     },
     {
-      "headline": "MUJI opening another NYC location as Downtown Brooklyn keeps booming",
-      "summary": "The 10,000 square-foot store is the latest big name in the booming Downtown Brooklyn corridor astride and adjacent to Flatbush Avenue.",
+      "headline": "Crushing rents drive a shocking percentage of college grads to live with mom and dad",
+      "summary": "Soaring living costs, paying off debt and low job prospects are prompting college graduates to move back in with mom and dad, according to Clever Real Estate.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/08/02/business/muji-opening-another-nyc-location-as-downtown-brooklyn-keeps-booming/",
+      "url": "https://nypost.com/2026/08/05/real-estate/30-of-recent-college-grads-move-in-with-mom-and-dad/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-08-02T18:55:49.000Z"
-    },
-    {
-      "headline": "Real estate insiders reveal the real cost of Mamdani’s pied-à-terre tax — and what it’s really doing to NYC",
-      "summary": "\"The numbers are so beyond what people are interested in spending every year that many people are rethinking,\" one Compass agent told The Post.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/02/real-estate/real-estate-insiders-reveal-cost-of-mamdanis-pied-a-terre-tax/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-08-02T13:00:00.000Z"
-    },
-    {
-      "headline": "New 10,000-seat arena is coming to California — but first, officials want to solve the traffic nightmare",
-      "summary": "They're ready for the big leagues — but they just have to make sure fans can find a parking spot.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/04/real-estate/californias-new-10000-seat-arena-faces-traffic-test/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-08-04T18:32:23.000Z"
-    },
-    {
-      "headline": "Scharfman Org. signs $20.9M refi with Chase for two UWS rentals",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/scharfman-org-signs-20-9m-refi-with-chase-for-two-residential-elevator-properties-in-upper-west-side/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-04T14:00:00.000Z"
-    },
-    {
-      "headline": "KSR Capital buys $4.5M note secured by eight-unit walkup in Prospect Lefferts Gardens",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/ksr-capital-buys-4-5m-note-secured-by-eight-unit-walkup-in-prospect-lefferts-gardens/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-04T13:21:00.000Z"
+      "published_at": "2026-08-05T18:59:50.000Z"
     }
   ]
 }
