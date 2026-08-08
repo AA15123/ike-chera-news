@@ -1,16 +1,25 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-08-07",
-  "generated_at": "2026-08-07T11:00:07.654Z",
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T10:41:13.504Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Mezcali Founders to Open New Fusion Concept in Financial District: The restaurateurs behind Mexican restaurant Mezcali and American tavern the Malt House have signed a lease for a new food concept in Manhattan’s Financial District. Eoin Foyle and Darren Shore signed a 20-year, 4,744-square-foot lease in the retail component of TF Cornerstone ’s 2 Gold Street , where they will launch.\n\nMuji, Daniel Eddy’s Winner Sign Retail Leases at Brooklyn’s Alloy Block: Two retail tenants have taken almost 13,000 square feet at a new development in Downtown Brooklyn. Japanese home goods and apparel brand Muji was the largest of the two, signing a 10-year, 10,000-square-foot lease at Alloy Development ’s 100 Flatbush Avenue , part of the larger five-building, mixed-use Alloy Block.\n\nAI Firm Corgi to Open 24/7 Cafe at 121 East 27th Street: Alert the Queen, here come the corgis! OK, not exactly.\n\nNew York City’s First El Pollo Loco Coming to Jackson Heights in Queens: Why did the chicken cross the continent? To get to new customers on the other side.",
-    "cre_daily": "Why Premium Grocers Skew CMBS Delinquency Rankings: Headline CMBS delinquency rates overstate tenant risk for premium grocers due to property-level issues unrelated to supermarket performance. Large nonperforming loans are tied to urban retail condos and malls, not traditional grocery-anchored centers, distorting delinquency statistics.\n\nTanger Raises Outlook as Travel and Back-to-School Drive Gains: Tanger upped its annual funds from operations guidance after Q2 tenant sales rose 5% year-over-year. World Cup tourism and early back-to-school demand fueled traffic, with core FFO and revenue beating Wall Street forecasts.\n\nOnyx Bids $934M for 117 J.C. Penney Stores in Portfolio Play: Onyx Partners has submitted a $934M offer for a 117-store J.C. Penney portfolio covering 15.7M SF across 35 states.\n\nNYC Doubles Retail Lease Assistance Funding Amid Tight Market: New York City increased its commercial lease assistance program budget from $4M to $8M to support small business tenants. The program provides legal support for leases, renewals, and disputes, benefiting both tenants and landlords as retail rents and competition rise.",
-    "new_york_post": "Legendary NYC restaurant long frequented by power players dodges eviction over $89K in unpaid rent: The Big Apple hotspot was nearly evicted from its Central Park South home.\n\nOne Times Square offers panoramic views with ‘immersive’ attractions set to brighten plaza: Jamestown is opening One Times Square’s full array of “immersive” attractions to the public on Friday -- five years since the half-billion-dollar adaptive reuse of the iconic but empty former office tower was announced.\n\nScammers are targeting church land in latest twisted scheme to steal properties from their owners: A North Carolina church was fraudulently sold for $110,000 in what is becoming common among real estate fraud.\n\nThis shady feature makes some neighborhoods 15 degrees cooler: A single large tree can provide a cooling effect equivalent to 10 room-sized air conditioners operating for 20 hours per day, according to Forests News.",
-    "pincusco": "Bnos Chaya Draizy signs $7M loan with Windsor Federal for school in Borough Park.\n\nAbraham Stern, Yechiel Stern sign $40M refi for 324-unit, mixed-use rental in Bushwick.\n\nDuke Properties, Flatiron RE, Oceanica sign $7.9M refi for office-to-resi conversion in FiDi.\n\nWoodmont Development signs $18M refi with KeyBank for industrial in Sunset Park."
+    "cre_daily": "Private Investors Drive Surge in NNN-Leased Restaurant Deals: Transaction volume for single-tenant, triple-net retail rose 18% through Q3 2025, according to Marcus & Millichap. Fast-casual and quick-service restaurant properties are leading demand, offering investors reliable income with minimal management.\n\nWhy Premium Grocers Skew CMBS Delinquency Rankings: Headline CMBS delinquency rates overstate tenant risk for premium grocers due to property-level issues unrelated to supermarket performance. Large nonperforming loans are tied to urban retail condos and malls, not traditional grocery-anchored centers, distorting delinquency statistics.\n\nTanger Raises Outlook as Travel and Back-to-School Drive Gains: Tanger upped its annual funds from operations guidance after Q2 tenant sales rose 5% year-over-year. World Cup tourism and early back-to-school demand fueled traffic, with core FFO and revenue beating Wall Street forecasts.\n\nOnyx Bids $934M for 117 J.C. Penney Stores in Portfolio Play: Onyx Partners has submitted a $934M offer for a 117-store J.C. Penney portfolio covering 15.7M SF across 35 states.",
+    "new_york_post": "Elon Musk to build the biggest building in the world — spanning a colossal 100M square feet: It would beat out China's New Century Global Center, which spans 18.9 million square feet and comes with an indoor beach and ski slope inside.\n\nOne Times Square offers panoramic views with ‘immersive’ attractions set to brighten plaza: Jamestown is opening One Times Square’s full array of “immersive” attractions to the public on Friday -- five years since the half-billion-dollar adaptive reuse of the iconic but empty former office tower was announced.\n\nFormer Bloomberg commissioner blasts pied-à-terre tax with lawsuit filed against Mamdani: You’re guilty until you prove yourself innocent in Mayor Zohran Mamdani’s city.\n\nA whopping 79% of home buyers in this pandemic-era Texas boomtown are now selling at a loss: Asking prices are down nearly 25% since the 2022 peak.",
+    "pincusco": "Kiumarz Geula files plans for 64K sf school in Highbridge.\n\nMark Miller files plans for 57 units in Kingsbridge Heights.\n\nPaul Patafio pays $4M to Ivy Realty for office in Todt Hill.\n\nBenjamin Partners signs $11M refi with M&T for office in SoHo."
   },
   "items": [
+    {
+      "headline": "Private Investors Drive Surge in NNN-Leased Restaurant Deals",
+      "summary": "Transaction volume for single-tenant, triple-net retail rose 18% through Q3 2025, according to Marcus & Millichap. Fast-casual and quick-service restaurant properties are leading demand, offering investors reliable income with minimal management. Tax policy changes and Sun Belt market growth are fueling strategic shifts away from hands-on assets toward NNN-leased restaurants.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/private-investors-drive-surge-in-nnn-leased-restaurant-deals/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-08-07T06:05:12.000Z"
+    },
     {
       "headline": "Mezcali Founders to Open New Fusion Concept in Financial District",
       "summary": "The restaurateurs behind Mexican restaurant Mezcali and American tavern the Malt House have signed a lease for a new food concept in Manhattan’s Financial District. Eoin Foyle and Darren Shore signed a 20-year, 4,744-square-foot lease in the retail component of TF Cornerstone ’s 2 Gold Street , where they will launch their latest brainchild, a Hawaiian-Caribbean-Asian fusion restaurant called Solerum , according to the landlord.…",
@@ -120,13 +129,40 @@
       "published_at": "2026-07-27T13:00:26.000Z"
     },
     {
-      "headline": "Selective Buyers Reshape US Retail Investment in 2026",
-      "summary": "National retail transaction count dropped 13.8% and total dollar volume fell 21.6% from December 2025 to May 2026, according to DealGround’s new report. Cap rates increased to 6.75%, and buyers negotiated deeper discounts, with the average spread between asking and sale prices rising from 5.2% to 13.5%. The market remains active for prime properties, but increased selectivity and financing challenges are creating headwinds for B-quality assets.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/selective-buyers-reshape-us-retail-investment-in-2026/",
-      "section": "cre_daily",
+      "headline": "Elon Musk to build the biggest building in the world — spanning a colossal 100M square feet",
+      "summary": "It would beat out China's New Century Global Center, which spans 18.9 million square feet and comes with an indoor beach and ski slope inside.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/07/real-estate/elon-musk-set-to-build-the-largest-building-on-earth/",
+      "section": "new_york_post",
       "retail": true,
-      "published_at": "2026-07-27T18:42:01.000Z"
+      "published_at": "2026-08-07T17:38:33.000Z"
+    },
+    {
+      "headline": "Selldorf Architects Renews 14K-SF 860 Broadway Lease for 10 Years",
+      "summary": "Architecture firm Selldorf Architects has renewed its 10-year, 13,815-square-foot lease at Gordon Property Group ’s 860 Broadway . Selldorf has called the Flatiron District’s 860 Broadway home for the last two decades, according to landlord brokerage Colliers . The asking rent was not disclosed.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/08/selldorf-architects-renews-14k-sf-860-broadway-lease-for-10-years/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-08-07T17:36:42.000Z"
+    },
+    {
+      "headline": "Document Processing Platform Extend AI Signs 9K-SF Lease at 119 Fifth Avenue",
+      "summary": "An artificial intelligence-driven document processing firm is relocating within the Flatiron District, Commercial Observer has learned Extend AI signed an 8,750-square-foot lease across the entire sixth floor of 119 Fifth Avenue in a relocation from its current offices at 135 West 29th Street , according to the brokers at Nomad Group . Nomad did not disclose the length of the lease, but said asking rent for the building, which property records indicate is owned by the Haddad family, was $105 per square foot.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/08/extend-ai-lease-119-fifth-avenue/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-08-07T15:33:03.000Z"
+    },
+    {
+      "headline": "Kiumarz Geula files plans for 64K sf school in Highbridge",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/kiumarz-geula-files-plans-for-64k-sf-school-in-highbridge/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-08-07T15:25:00.000Z"
     },
     {
       "headline": "Mermaid Inn Restaurateurs Ink 2K SF at 61 West 74th Street for New Eatery",
@@ -147,15 +183,6 @@
       "published_at": "2026-08-06T18:02:25.000Z"
     },
     {
-      "headline": "Fintech Firm Maybern Grows to 30K SF at 10 Astor Place",
-      "summary": "Maybern , a financial technology company that specializes in fund management solutions for private markets, has signed a long-term lease renewal at 10 Astor Place , nearly tripling its footprint in the GFP Real Estate -owned building. As part of the deal, Maybern will grow from 11,000 square feet to 30,000 square feet, renewing its lease across the building’s entire third floor and adding the entire fourth floor to its footprint, GFP announced.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/fintech-firm-maybern-grows-to-30k-sf-at-10-astor-place/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-08-06T17:43:05.000Z"
-    },
-    {
       "headline": "Mall Giant Macerich Narrows Losses in Q2 Amid Stronger Leasing",
       "summary": "“No one is building new regional malls, and roughly 90 percent of our go-forward NOI comes from Class A assets and the best retailers of the world.” So said Jackson Hsieh , president and CEO of Macerich , early on during the mall-focused real estate investment trust’s second-quarter earnings call Tuesday afternoon. (He was referring to projected net operating income.) The observation goes a long way toward explaining the REIT’s continued turnaround.…",
       "source": "Commercial Observer",
@@ -165,13 +192,40 @@
       "published_at": "2026-08-05T13:49:02.000Z"
     },
     {
-      "headline": "Legendary NYC restaurant long frequented by power players dodges eviction over $89K in unpaid rent",
-      "summary": "The Big Apple hotspot was nearly evicted from its Central Park South home.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/05/real-estate/iconic-central-park-facing-gabriels-dodges-eviction/",
-      "section": "new_york_post",
-      "retail": true,
-      "published_at": "2026-08-05T15:47:24.000Z"
+      "headline": "Mark Miller files plans for 57 units in Kingsbridge Heights",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/mark-miller-files-plans-for-57-units-in-kingsbridge-heights/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-07T15:49:00.000Z"
+    },
+    {
+      "headline": "Paul Patafio pays $4M to Ivy Realty for office in Todt Hill",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/paul-patafio-pays-4m-to-ivy-realty-for-office-in-todt-hill/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-07T14:00:00.000Z"
+    },
+    {
+      "headline": "Benjamin Partners signs $11M refi with M&T for office in SoHo",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/benjamin-partners-signs-11m-refi-with-mt-for-office-in-soho/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-07T13:57:00.000Z"
+    },
+    {
+      "headline": "Allied Realty & Development pays $9.1M for adjacent walkups in Chelsea",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/allied-realty-development-pays-9-1m-for-adjacent-walkups-in-chelsea/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-07T13:34:00.000Z"
     },
     {
       "headline": "One Times Square offers panoramic views with ‘immersive’ attractions set to brighten plaza",
@@ -183,103 +237,49 @@
       "published_at": "2026-08-06T21:14:54.000Z"
     },
     {
-      "headline": "Bnos Chaya Draizy signs $7M loan with Windsor Federal for school in Borough Park",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/bnos-chaya-draizy-signs-7m-loan-with-windsor-federal-for-school-in-borough-park/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-06T14:10:00.000Z"
-    },
-    {
-      "headline": "Abraham Stern, Yechiel Stern sign $40M refi for 324-unit, mixed-use rental in Bushwick",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/abraham-stern-yechiel-stern-sign-40m-refi-for-324-unit-mixed-use-rental-in-bushwick/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-06T14:03:00.000Z"
-    },
-    {
-      "headline": "Duke Properties, Flatiron RE, Oceanica sign $7.9M refi for office-to-resi conversion in FiDi",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/duke-properties-flatiron-re-oceanica-sign-7-9m-refi-for-office-to-resi-conversion-in-fidi/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-06T13:55:00.000Z"
-    },
-    {
-      "headline": "Woodmont Development signs $18M refi with KeyBank for industrial in Sunset Park",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/woodmont-development-signs-18m-refi-with-keybank-for-industrial-in-sunset-park/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-06T13:34:00.000Z"
-    },
-    {
-      "headline": "Edison Properties sells Boerum Hill dev site for $58.1M, CW Realty filed plans for 99 units",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/edison-properties-sells-boerum-hill-dev-site-for-58-1m-cw-realty-filed-plans-for-99-units/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-06T11:50:00.000Z"
-    },
-    {
-      "headline": "Phoenix Realty, Nuveen buy 182-rental in Washington Heights for $80M from L+M Development",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/phoenix-realty-nuveen-buy-182-rental-in-washington-heights-for-80m-from-lm-development/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-06T11:33:00.000Z"
-    },
-    {
-      "headline": "Daolin Hou files plans for 30 units in Astoria",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/daolin-hou-files-plans-for-30-units-in-astoria/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-06T11:16:00.000Z"
-    },
-    {
-      "headline": "Michael Naclerio seeks zoning change to facilitate 273-unit project in Jamaica",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/michael-naclerio-seeks-zoning-change-to-facilitate-273-unit-project-in-jamaica/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-06T09:33:17.000Z"
-    },
-    {
-      "headline": "Scammers are targeting church land in latest twisted scheme to steal properties from their owners",
-      "summary": "A North Carolina church was fraudulently sold for $110,000 in what is becoming common among real estate fraud.",
+      "headline": "Former Bloomberg commissioner blasts pied-à-terre tax with lawsuit filed against Mamdani",
+      "summary": "You’re guilty until you prove yourself innocent in Mayor Zohran Mamdani’s city.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/08/05/real-estate/real-estate-scammers-steal-church-land-in-north-carolina/",
+      "url": "https://nypost.com/2026/08/07/real-estate/former-bloomberg-dof-commissioner-blasts-pied-a-terre-tax/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-08-05T16:09:09.000Z"
+      "published_at": "2026-08-07T20:42:41.000Z"
     },
     {
-      "headline": "This shady feature makes some neighborhoods 15 degrees cooler",
-      "summary": "A single large tree can provide a cooling effect equivalent to 10 room-sized air conditioners operating for 20 hours per day, according to Forests News.",
+      "headline": "A whopping 79% of home buyers in this pandemic-era Texas boomtown are now selling at a loss",
+      "summary": "Asking prices are down nearly 25% since the 2022 peak.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/08/06/real-estate/this-shady-feature-makes-some-neighborhoods-15-degrees-cooler/",
+      "url": "https://nypost.com/2026/08/07/real-estate/79-of-homebuyers-in-austin-are-now-selling-at-a-loss/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-08-06T21:10:26.000Z"
+      "published_at": "2026-08-07T20:03:30.000Z"
     },
     {
-      "headline": "British homebuyers are quietly flocking to one of Midwest’s most affordable states — here’s why",
-      "summary": "While coastal and Sun Belt states continue to dominate U.S. foreign real estate transactions, Michigan has quietly emerged as one of the top destinations for U.K. buyers drawn by an affordable lifestyle and a long-established job pipeline.",
+      "headline": "You need $450M and ‘a set of balls’ to buy this floating doomsday bunker in the Maldives",
+      "summary": "A zero-land island spanning 155 acres of deep-water lagoon in the Maldives — designed like an eco-conscious doomsday bunker for the 1% — asks $450 million.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/08/06/real-estate/british-homebuyers-are-quietly-flocking-to-michigan-heres-why/",
+      "url": "https://nypost.com/2026/08/07/real-estate/you-need-450m-to-buy-this-floating-doomsday-island/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-08-06T19:47:51.000Z"
+      "published_at": "2026-08-07T19:06:19.000Z"
+    },
+    {
+      "headline": "Princess Margaret’s famous country cottage lists for millions in ‘genuinely rare moment’",
+      "summary": "The late royal's property was purchased off-market in 2005.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/07/real-estate/princess-margarets-former-home-being-sold-for-5-3m/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-08-07T17:25:57.000Z"
+    },
+    {
+      "headline": "Trifecta Equities signs $7.9M refi for 8-unit rental in Bedford Stuyvesant",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/trifecta-equities-signs-7-9m-refi-for-8-unit-rental-in-bedford-stuyvesant/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-07T14:53:00.000Z"
     }
   ]
 }
