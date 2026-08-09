@@ -1,13 +1,13 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-08-08",
-  "generated_at": "2026-08-08T10:41:13.504Z",
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T10:42:41.742Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Mezcali Founders to Open New Fusion Concept in Financial District: The restaurateurs behind Mexican restaurant Mezcali and American tavern the Malt House have signed a lease for a new food concept in Manhattan’s Financial District. Eoin Foyle and Darren Shore signed a 20-year, 4,744-square-foot lease in the retail component of TF Cornerstone ’s 2 Gold Street , where they will launch.\n\nMuji, Daniel Eddy’s Winner Sign Retail Leases at Brooklyn’s Alloy Block: Two retail tenants have taken almost 13,000 square feet at a new development in Downtown Brooklyn. Japanese home goods and apparel brand Muji was the largest of the two, signing a 10-year, 10,000-square-foot lease at Alloy Development ’s 100 Flatbush Avenue , part of the larger five-building, mixed-use Alloy Block.\n\nAI Firm Corgi to Open 24/7 Cafe at 121 East 27th Street: Alert the Queen, here come the corgis! OK, not exactly.\n\nNew York City’s First El Pollo Loco Coming to Jackson Heights in Queens: Why did the chicken cross the continent? To get to new customers on the other side.",
     "cre_daily": "Private Investors Drive Surge in NNN-Leased Restaurant Deals: Transaction volume for single-tenant, triple-net retail rose 18% through Q3 2025, according to Marcus & Millichap. Fast-casual and quick-service restaurant properties are leading demand, offering investors reliable income with minimal management.\n\nWhy Premium Grocers Skew CMBS Delinquency Rankings: Headline CMBS delinquency rates overstate tenant risk for premium grocers due to property-level issues unrelated to supermarket performance. Large nonperforming loans are tied to urban retail condos and malls, not traditional grocery-anchored centers, distorting delinquency statistics.\n\nTanger Raises Outlook as Travel and Back-to-School Drive Gains: Tanger upped its annual funds from operations guidance after Q2 tenant sales rose 5% year-over-year. World Cup tourism and early back-to-school demand fueled traffic, with core FFO and revenue beating Wall Street forecasts.\n\nOnyx Bids $934M for 117 J.C. Penney Stores in Portfolio Play: Onyx Partners has submitted a $934M offer for a 117-store J.C. Penney portfolio covering 15.7M SF across 35 states.",
-    "new_york_post": "Elon Musk to build the biggest building in the world — spanning a colossal 100M square feet: It would beat out China's New Century Global Center, which spans 18.9 million square feet and comes with an indoor beach and ski slope inside.\n\nOne Times Square offers panoramic views with ‘immersive’ attractions set to brighten plaza: Jamestown is opening One Times Square’s full array of “immersive” attractions to the public on Friday -- five years since the half-billion-dollar adaptive reuse of the iconic but empty former office tower was announced.\n\nFormer Bloomberg commissioner blasts pied-à-terre tax with lawsuit filed against Mamdani: You’re guilty until you prove yourself innocent in Mayor Zohran Mamdani’s city.\n\nA whopping 79% of home buyers in this pandemic-era Texas boomtown are now selling at a loss: Asking prices are down nearly 25% since the 2022 peak.",
+    "new_york_post": "Historic Maine house selling for $1 — but under one condition or it’ll face demolition: The house is currently being used as office space, with tenants under lease through November 2027.\n\nElon Musk to build the biggest building in the world — spanning a colossal 100M square feet: It would beat out China's New Century Global Center, which spans 18.9 million square feet and comes with an indoor beach and ski slope inside.\n\nOne Times Square offers panoramic views with ‘immersive’ attractions set to brighten plaza: Jamestown is opening One Times Square’s full array of “immersive” attractions to the public on Friday -- five years since the half-billion-dollar adaptive reuse of the iconic but empty former office tower was announced.\n\nFormer Bloomberg commissioner blasts pied-à-terre tax with lawsuit filed against Mamdani: You’re guilty until you prove yourself innocent in Mayor Zohran Mamdani’s city.",
     "pincusco": "Kiumarz Geula files plans for 64K sf school in Highbridge.\n\nMark Miller files plans for 57 units in Kingsbridge Heights.\n\nPaul Patafio pays $4M to Ivy Realty for office in Todt Hill.\n\nBenjamin Partners signs $11M refi with M&T for office in SoHo."
   },
   "items": [
@@ -84,13 +84,13 @@
       "published_at": "2026-07-27T15:40:25.000Z"
     },
     {
-      "headline": "Retail Corridors Pivot to Nightlife as Office Traffic Lags",
-      "summary": "Nighttime and weekend activity now drives recovery in retail corridors as office traffic remains depressed, according to Placer.ai’s Q2 2026 report. Evening visits on Fridays and Saturdays have slightly surpassed pre-pandemic levels, but daytime foot traffic trails by 20–30%. Experience-focused tenants like restaurants and entertainment venues are offsetting declines in midday shopping visits tied to hybrid work patterns.…",
+      "headline": "Portillo’s Cuts 18% of HQ Staff After Texas Expansion",
+      "summary": "Portillo’s laid off 18% of corporate staff at its Oak Brook headquarters and some field managers, aiming to refocus on operational priorities. Aggressive recent expansion in Texas led to higher development costs and pressured store-level margins, prompting a slowdown in new restaurant openings. The company will pivot to smaller prototypes and measured growth, a sign that outsized expansion can backfire in today’s restaurant and retail real estate environment.…",
       "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/retail-corridors-pivot-to-nightlife-as-office-traffic-lags/",
+      "url": "https://www.credaily.com/briefs/portillos-cuts-18-of-hq-staff-after-texas-expansion/",
       "section": "cre_daily",
       "retail": true,
-      "published_at": "2026-07-31T06:03:48.000Z"
+      "published_at": "2026-08-07T16:32:58.000Z"
     },
     {
       "headline": "New York City’s First El Pollo Loco Coming to Jackson Heights in Queens",
@@ -127,6 +127,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-07-27T13:00:26.000Z"
+    },
+    {
+      "headline": "Historic Maine house selling for $1 — but under one condition or it’ll face demolition",
+      "summary": "The house is currently being used as office space, with tenants under lease through November 2027.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/09/real-estate/historic-maine-deering-house-selling-for-1-but-under-one-condition-or-itll-face-demolition/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-08-09T05:50:13.000Z"
     },
     {
       "headline": "Elon Musk to build the biggest building in the world — spanning a colossal 100M square feet",
@@ -271,15 +280,6 @@
       "section": "new_york_post",
       "retail": false,
       "published_at": "2026-08-07T17:25:57.000Z"
-    },
-    {
-      "headline": "Trifecta Equities signs $7.9M refi for 8-unit rental in Bedford Stuyvesant",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/trifecta-equities-signs-7-9m-refi-for-8-unit-rental-in-bedford-stuyvesant/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-07T14:53:00.000Z"
     }
   ]
 }
