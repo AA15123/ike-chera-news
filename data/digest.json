@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-08-09",
-  "generated_at": "2026-08-09T10:42:41.742Z",
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T11:14:57.149Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Mezcali Founders to Open New Fusion Concept in Financial District: The restaurateurs behind Mexican restaurant Mezcali and American tavern the Malt House have signed a lease for a new food concept in Manhattan’s Financial District. Eoin Foyle and Darren Shore signed a 20-year, 4,744-square-foot lease in the retail component of TF Cornerstone ’s 2 Gold Street , where they will launch.\n\nMuji, Daniel Eddy’s Winner Sign Retail Leases at Brooklyn’s Alloy Block: Two retail tenants have taken almost 13,000 square feet at a new development in Downtown Brooklyn. Japanese home goods and apparel brand Muji was the largest of the two, signing a 10-year, 10,000-square-foot lease at Alloy Development ’s 100 Flatbush Avenue , part of the larger five-building, mixed-use Alloy Block.\n\nAI Firm Corgi to Open 24/7 Cafe at 121 East 27th Street: Alert the Queen, here come the corgis! OK, not exactly.\n\nNew York City’s First El Pollo Loco Coming to Jackson Heights in Queens: Why did the chicken cross the continent? To get to new customers on the other side.",
-    "cre_daily": "Private Investors Drive Surge in NNN-Leased Restaurant Deals: Transaction volume for single-tenant, triple-net retail rose 18% through Q3 2025, according to Marcus & Millichap. Fast-casual and quick-service restaurant properties are leading demand, offering investors reliable income with minimal management.\n\nWhy Premium Grocers Skew CMBS Delinquency Rankings: Headline CMBS delinquency rates overstate tenant risk for premium grocers due to property-level issues unrelated to supermarket performance. Large nonperforming loans are tied to urban retail condos and malls, not traditional grocery-anchored centers, distorting delinquency statistics.\n\nTanger Raises Outlook as Travel and Back-to-School Drive Gains: Tanger upped its annual funds from operations guidance after Q2 tenant sales rose 5% year-over-year. World Cup tourism and early back-to-school demand fueled traffic, with core FFO and revenue beating Wall Street forecasts.\n\nOnyx Bids $934M for 117 J.C. Penney Stores in Portfolio Play: Onyx Partners has submitted a $934M offer for a 117-store J.C. Penney portfolio covering 15.7M SF across 35 states.",
-    "new_york_post": "Historic Maine house selling for $1 — but under one condition or it’ll face demolition: The house is currently being used as office space, with tenants under lease through November 2027.\n\nElon Musk to build the biggest building in the world — spanning a colossal 100M square feet: It would beat out China's New Century Global Center, which spans 18.9 million square feet and comes with an indoor beach and ski slope inside.\n\nOne Times Square offers panoramic views with ‘immersive’ attractions set to brighten plaza: Jamestown is opening One Times Square’s full array of “immersive” attractions to the public on Friday -- five years since the half-billion-dollar adaptive reuse of the iconic but empty former office tower was announced.\n\nFormer Bloomberg commissioner blasts pied-à-terre tax with lawsuit filed against Mamdani: You’re guilty until you prove yourself innocent in Mayor Zohran Mamdani’s city.",
-    "pincusco": "Kiumarz Geula files plans for 64K sf school in Highbridge.\n\nMark Miller files plans for 57 units in Kingsbridge Heights.\n\nPaul Patafio pays $4M to Ivy Realty for office in Todt Hill.\n\nBenjamin Partners signs $11M refi with M&T for office in SoHo."
+    "cre_daily": "Private Investors Drive Surge in NNN-Leased Restaurant Deals: Transaction volume for single-tenant, triple-net retail rose 18% through Q3 2025, according to Marcus & Millichap. Fast-casual and quick-service restaurant properties are leading demand, offering investors reliable income with minimal management.\n\nTanger Raises Outlook as Travel and Back-to-School Drive Gains: Tanger upped its annual funds from operations guidance after Q2 tenant sales rose 5% year-over-year. World Cup tourism and early back-to-school demand fueled traffic, with core FFO and revenue beating Wall Street forecasts.\n\nOnyx Bids $934M for 117 J.C. Penney Stores in Portfolio Play: Onyx Partners has submitted a $934M offer for a 117-store J.C. Penney portfolio covering 15.7M SF across 35 states.\n\nNYC Doubles Retail Lease Assistance Funding Amid Tight Market: New York City increased its commercial lease assistance program budget from $4M to $8M to support small business tenants. The program provides legal support for leases, renewals, and disputes, benefiting both tenants and landlords as retail rents and competition rise.",
+    "new_york_post": "State-of-the-art One Grand office tower to rise in Hudson Square: With a mere 12 million square feet, Hudson Square might be the city’s most in-demand subdistrict.\n\nHistoric Maine house selling for $1 — but under one condition or it’ll face demolition: The house is currently being used as office space, with tenants under lease through November 2027.\n\nElon Musk to build the biggest building in the world — spanning a colossal 100M square feet: It would beat out China's New Century Global Center, which spans 18.9 million square feet and comes with an indoor beach and ski slope inside.\n\nOceanSound expands at SL Green’s 450 Park Ave.: Other prominent tenants include Banco Bradesco, Blue Crest Capital Management and Steadfast Financial, as well as Aston Martin’s ground-floor showroom.",
+    "pincusco": "Kiumarz Geula files plans for 64K sf school in Highbridge.\n\nZD Jasper seeks zoning change to facilitate approximately 214-unit project in Astoria.\n\nMark Miller files plans for 57 units in Kingsbridge Heights.\n\nPaul Patafio pays $4M to Ivy Realty for office in Todt Hill."
   },
   "items": [
     {
@@ -28,15 +28,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-07-30T16:34:45.000Z"
-    },
-    {
-      "headline": "Why Premium Grocers Skew CMBS Delinquency Rankings",
-      "summary": "Headline CMBS delinquency rates overstate tenant risk for premium grocers due to property-level issues unrelated to supermarket performance. Large nonperforming loans are tied to urban retail condos and malls, not traditional grocery-anchored centers, distorting delinquency statistics. For CRE investors, evaluating property collateral is more useful than screening solely by grocery tenant names in CMBS analysis.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/why-premium-grocers-skew-cmbs-delinquency-rankings/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-07-27T06:43:40.000Z"
     },
     {
       "headline": "Muji, Daniel Eddy’s Winner Sign Retail Leases at Brooklyn’s Alloy Block",
@@ -93,6 +84,15 @@
       "published_at": "2026-08-07T16:32:58.000Z"
     },
     {
+      "headline": "Retail Corridors Pivot to Nightlife as Office Traffic Lags",
+      "summary": "Nighttime and weekend activity now drives recovery in retail corridors as office traffic remains depressed, according to Placer.ai’s Q2 2026 report. Evening visits on Fridays and Saturdays have slightly surpassed pre-pandemic levels, but daytime foot traffic trails by 20–30%. Experience-focused tenants like restaurants and entertainment venues are offsetting declines in midday shopping visits tied to hybrid work patterns.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/retail-corridors-pivot-to-nightlife-as-office-traffic-lags/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-07-31T06:03:48.000Z"
+    },
+    {
       "headline": "New York City’s First El Pollo Loco Coming to Jackson Heights in Queens",
       "summary": "Why did the chicken cross the continent? To get to new customers on the other side. Popular fast-casual grilled chicken restaurant El Pollo Loco has signed a lease to open its first-ever East Coast location in New York City, Commercial Observer has learned. El Pollo Loco signed a 10-year lease for 2,400 square feet at 37-07 82nd Street in Jackson Heights, Queens, according to tenant broker Ripco Real Estate . It is expected to open in 2027.…",
       "source": "Commercial Observer",
@@ -127,6 +127,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-07-27T13:00:26.000Z"
+    },
+    {
+      "headline": "State-of-the-art One Grand office tower to rise in Hudson Square",
+      "summary": "With a mere 12 million square feet, Hudson Square might be the city’s most in-demand subdistrict.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/09/business/one-grand-office-tower-to-rise-in-nycs-hudson-square/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-08-09T17:11:31.000Z"
     },
     {
       "headline": "Historic Maine house selling for $1 — but under one condition or it’ll face demolition",
@@ -174,24 +183,6 @@
       "published_at": "2026-08-07T15:25:00.000Z"
     },
     {
-      "headline": "Mermaid Inn Restaurateurs Ink 2K SF at 61 West 74th Street for New Eatery",
-      "summary": "Restaurateurs Danny Abrams and Cindy Smith are making a splash on the Upper West Side. The couple and co-founders of New England-style seafood spot Mermaid Inn have selected 61 West 74th Street for their next venture, Commercial Observer has learned. Abrams secured the 2,300-square-foot lease, plus a basement space, at $130 per square foot, according to broker Meridian Capital Group .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/mermaid-inn-restaurateurs-lease-61-west-74th-street/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-08-06T20:22:28.000Z"
-    },
-    {
-      "headline": "Immigration Law Firm Manifest Law Subleases 18K SF at 902 Broadway",
-      "summary": "The immigration attorneys at Manifest Law will be making some of their own moves, Commercial Observer has learned. The law firm signed a 18,200-square-foot sublease at Koeppel Rosen ’s 902 Broadway, where it will be taking over space previously occupied by Adaptive Security , according to tenant brokerage Nomad Group . Asking rent for the space was $75 per square foot.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/manifest-law-sublease-koeppel-rosen-902-broadway/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-08-06T18:02:25.000Z"
-    },
-    {
       "headline": "Mall Giant Macerich Narrows Losses in Q2 Amid Stronger Leasing",
       "summary": "“No one is building new regional malls, and roughly 90 percent of our go-forward NOI comes from Class A assets and the best retailers of the world.” So said Jackson Hsieh , president and CEO of Macerich , early on during the mall-focused real estate investment trust’s second-quarter earnings call Tuesday afternoon. (He was referring to projected net operating income.) The observation goes a long way toward explaining the REIT’s continued turnaround.…",
       "source": "Commercial Observer",
@@ -199,6 +190,24 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-08-05T13:49:02.000Z"
+    },
+    {
+      "headline": "OceanSound expands at SL Green’s 450 Park Ave.",
+      "summary": "Other prominent tenants include Banco Bradesco, Blue Crest Capital Management and Steadfast Financial, as well as Aston Martin’s ground-floor showroom.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/09/business/oceansound-expands-at-sl-greens-450-park-ave/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-08-09T18:32:14.000Z"
+    },
+    {
+      "headline": "ZD Jasper seeks zoning change to facilitate approximately 214-unit project in Astoria",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/zd-jasper-seeks-zoning-change-to-facilitate-approximately-214-unit-project-in-astoria/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-10T10:38:27.000Z"
     },
     {
       "headline": "Mark Miller files plans for 57 units in Kingsbridge Heights",
@@ -228,15 +237,6 @@
       "published_at": "2026-08-07T13:57:00.000Z"
     },
     {
-      "headline": "Allied Realty & Development pays $9.1M for adjacent walkups in Chelsea",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/allied-realty-development-pays-9-1m-for-adjacent-walkups-in-chelsea/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-07T13:34:00.000Z"
-    },
-    {
       "headline": "One Times Square offers panoramic views with ‘immersive’ attractions set to brighten plaza",
       "summary": "Jamestown is opening One Times Square’s full array of “immersive” attractions to the public on Friday -- five years since the half-billion-dollar adaptive reuse of the iconic but empty former office tower was announced.",
       "source": "New York Post",
@@ -244,6 +244,15 @@
       "section": "new_york_post",
       "retail": false,
       "published_at": "2026-08-06T21:14:54.000Z"
+    },
+    {
+      "headline": "High-speed trading founder in contract to pay $24M for two school townhouses in West Village",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/high-speed-trading-founder-in-contract-to-pay-24m-for-two-school-townhouses-in-west-village/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-10T09:22:23.000Z"
     },
     {
       "headline": "Former Bloomberg commissioner blasts pied-à-terre tax with lawsuit filed against Mamdani",
@@ -271,15 +280,6 @@
       "section": "new_york_post",
       "retail": false,
       "published_at": "2026-08-07T19:06:19.000Z"
-    },
-    {
-      "headline": "Princess Margaret’s famous country cottage lists for millions in ‘genuinely rare moment’",
-      "summary": "The late royal's property was purchased off-market in 2005.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/07/real-estate/princess-margarets-former-home-being-sold-for-5-3m/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-08-07T17:25:57.000Z"
     }
   ]
 }
