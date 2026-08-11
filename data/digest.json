@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-08-10",
-  "generated_at": "2026-08-10T11:14:57.149Z",
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T10:57:22.846Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Mezcali Founders to Open New Fusion Concept in Financial District: The restaurateurs behind Mexican restaurant Mezcali and American tavern the Malt House have signed a lease for a new food concept in Manhattan’s Financial District. Eoin Foyle and Darren Shore signed a 20-year, 4,744-square-foot lease in the retail component of TF Cornerstone ’s 2 Gold Street , where they will launch.\n\nMuji, Daniel Eddy’s Winner Sign Retail Leases at Brooklyn’s Alloy Block: Two retail tenants have taken almost 13,000 square feet at a new development in Downtown Brooklyn. Japanese home goods and apparel brand Muji was the largest of the two, signing a 10-year, 10,000-square-foot lease at Alloy Development ’s 100 Flatbush Avenue , part of the larger five-building, mixed-use Alloy Block.\n\nAI Firm Corgi to Open 24/7 Cafe at 121 East 27th Street: Alert the Queen, here come the corgis! OK, not exactly.\n\nNew York City’s First El Pollo Loco Coming to Jackson Heights in Queens: Why did the chicken cross the continent? To get to new customers on the other side.",
+    "commercial_observer": "Mezcali Founders to Open New Fusion Concept in Financial District: The restaurateurs behind Mexican restaurant Mezcali and American tavern the Malt House have signed a lease for a new food concept in Manhattan’s Financial District. Eoin Foyle and Darren Shore signed a 20-year, 4,744-square-foot lease in the retail component of TF Cornerstone ’s 2 Gold Street , where they will launch.\n\nMuji, Daniel Eddy’s Winner Sign Retail Leases at Brooklyn’s Alloy Block: Two retail tenants have taken almost 13,000 square feet at a new development in Downtown Brooklyn. Japanese home goods and apparel brand Muji was the largest of the two, signing a 10-year, 10,000-square-foot lease at Alloy Development ’s 100 Flatbush Avenue , part of the larger five-building, mixed-use Alloy Block.\n\nWestville To Open at 540 Third Avenue in Murray Hill: Westville is getting ready to open its 12th location in the U.S. and bring a selection of classic American foods to Manhattan’s Murray Hill neighborhood.\n\nNew York City’s First El Pollo Loco Coming to Jackson Heights in Queens: Why did the chicken cross the continent? To get to new customers on the other side.",
     "cre_daily": "Private Investors Drive Surge in NNN-Leased Restaurant Deals: Transaction volume for single-tenant, triple-net retail rose 18% through Q3 2025, according to Marcus & Millichap. Fast-casual and quick-service restaurant properties are leading demand, offering investors reliable income with minimal management.\n\nTanger Raises Outlook as Travel and Back-to-School Drive Gains: Tanger upped its annual funds from operations guidance after Q2 tenant sales rose 5% year-over-year. World Cup tourism and early back-to-school demand fueled traffic, with core FFO and revenue beating Wall Street forecasts.\n\nOnyx Bids $934M for 117 J.C. Penney Stores in Portfolio Play: Onyx Partners has submitted a $934M offer for a 117-store J.C. Penney portfolio covering 15.7M SF across 35 states.\n\nNYC Doubles Retail Lease Assistance Funding Amid Tight Market: New York City increased its commercial lease assistance program budget from $4M to $8M to support small business tenants. The program provides legal support for leases, renewals, and disputes, benefiting both tenants and landlords as retail rents and competition rise.",
-    "new_york_post": "State-of-the-art One Grand office tower to rise in Hudson Square: With a mere 12 million square feet, Hudson Square might be the city’s most in-demand subdistrict.\n\nHistoric Maine house selling for $1 — but under one condition or it’ll face demolition: The house is currently being used as office space, with tenants under lease through November 2027.\n\nElon Musk to build the biggest building in the world — spanning a colossal 100M square feet: It would beat out China's New Century Global Center, which spans 18.9 million square feet and comes with an indoor beach and ski slope inside.\n\nOceanSound expands at SL Green’s 450 Park Ave.: Other prominent tenants include Banco Bradesco, Blue Crest Capital Management and Steadfast Financial, as well as Aston Martin’s ground-floor showroom.",
-    "pincusco": "Kiumarz Geula files plans for 64K sf school in Highbridge.\n\nZD Jasper seeks zoning change to facilitate approximately 214-unit project in Astoria.\n\nMark Miller files plans for 57 units in Kingsbridge Heights.\n\nPaul Patafio pays $4M to Ivy Realty for office in Todt Hill."
+    "new_york_post": "State-of-the-art One Grand office tower to rise in Hudson Square: With a mere 12 million square feet, Hudson Square might be the city’s most in-demand subdistrict.\n\nHistoric Maine house selling for $1 — but under one condition or it’ll face demolition: The house is currently being used as office space, with tenants under lease through November 2027.\n\nLiving solo in NYC isn’t cheap — so these single women moved into tiny apartments under 200 square feet: Every night, Gail Schulman folds down her couch — and folds up her life to fit inside it.\n\nElon Musk to build the biggest building in the world — spanning a colossal 100M square feet: It would beat out China's New Century Global Center, which spans 18.9 million square feet and comes with an indoor beach and ski slope inside.",
+    "pincusco": "SYU Properties pays $20M for Midtown East retail, borrows $12.5M.\n\nKorman Communities signs $142.5M loan with Prime Finance for Midtown West hotel buyouts.\n\nHizar Mojahed files plans for 7 units in Prospect Lefferts Gardens.\n\nPearl Realty Management acquires Sculptor, Longfellow office in LIC in $86.9M transfer."
   },
   "items": [
     {
@@ -66,15 +66,6 @@
       "published_at": "2026-07-30T06:47:29.000Z"
     },
     {
-      "headline": "AI Firm Corgi to Open 24/7 Cafe at 121 East 27th Street",
-      "summary": "Alert the Queen, here come the corgis! OK, not exactly. Corgi Cafe , a 24/7 coffee shop from Corgi , an artificial intelligence-powered insurance company — no, really — is getting ready to open its first location in New York City, Commercial Observer can first report. The tenant, which will operate a round-the-clock cafe selling coffee, other drinks and snacks, took 1,223 square feet of retail space at the base of 121 East 27th Street in Manhattan’s NoMad neighborhood, according to broker Meridian Capital Group .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/corgi-cafe-lease-121-east-27th-street/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-07-27T15:40:25.000Z"
-    },
-    {
       "headline": "Portillo’s Cuts 18% of HQ Staff After Texas Expansion",
       "summary": "Portillo’s laid off 18% of corporate staff at its Oak Brook headquarters and some field managers, aiming to refocus on operational priorities. Aggressive recent expansion in Texas led to higher development costs and pressured store-level margins, prompting a slowdown in new restaurant openings. The company will pivot to smaller prototypes and measured growth, a sign that outsized expansion can backfire in today’s restaurant and retail real estate environment.…",
       "source": "CRE Daily",
@@ -91,6 +82,15 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-07-31T06:03:48.000Z"
+    },
+    {
+      "headline": "Westville To Open at 540 Third Avenue in Murray Hill",
+      "summary": "Westville is getting ready to open its 12th location in the U.S. and bring a selection of classic American foods to Manhattan’s Murray Hill neighborhood. The restaurant brand just signed a 4,148-square-foot lease at the base of 540 Third Avenue , also known as the Dian , a 22-story, 160-unit residential building at the corner of Third Avenue and East 36th Street, according to broker Meridian Capital Group . The lease comprises 2,739 square feet on the ground floor and 1,409 square feet on the lower level.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/08/westville-lease-540-third-avenue-murray-hill/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-08-10T16:07:33.000Z"
     },
     {
       "headline": "New York City’s First El Pollo Loco Coming to Jackson Heights in Queens",
@@ -120,13 +120,40 @@
       "published_at": "2026-07-28T19:31:41.000Z"
     },
     {
-      "headline": "Gowanus Golf Club Secures 6K SF to Open Private Club in Brooklyn’s Dumbo",
-      "summary": "A new golf club is being teed up for Brooklyn’s Dumbo neighborhood. Gowanus Golf Club , a Brooklyn-based private indoor golf club chain, has leased approximately 6,000 square feet along the Dumbo waterfront at 215 Water Street , Commercial Observer has learned. The five-story mixed-use building between Bridge and Jay streets is owned by Pearl Realty Management , according to broker Corey Cohen , principal of the Roebling Team at Compass .…",
+      "headline": "Law Firm Dunn Isaacson Rhee Leases 11K SF at 7 World Trade Center",
+      "summary": "Washington D.C.-based law firm Dunn Isaacson Rhee is establishing a new office in New York City. The firm, which specializes in high stakes trials, investigations and crisis management, has inked an 11,167-square-foot lease on the 34th floor of 7 World Trade Center , developer and landlord Silverstein Properties announced Monday. Silverstein did not disclose the length of the lease or the asking rent. However, a source close to the deal noted asking rents in the building range from $100 to $150 per square foot.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/07/gowanus-golf-club-lease-dumbo-215-water-street/",
+      "url": "https://commercialobserver.com/2026/08/dunn-isaacson-rhee-lease-7-world-trade-center/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-07-27T13:00:26.000Z"
+      "published_at": "2026-08-10T19:59:31.000Z"
+    },
+    {
+      "headline": "Alliance for Downtown New York Inks 14K SF at 42 Broadway",
+      "summary": "Nonprofit group Alliance For Downtown New York has expanded its Lower Manhattan footprint to 42 Broadway . The Downtown Alliance, which manages the area’s business improvement district, secured a 14,420-square-foot lease at the Financial District tower, according to a recent CBRE office market report. The Downtown Alliance plans to relocate its operations division to the 22-story office building, a spokesperson for the nonprofit told CO.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/08/alliance-for-downtown-new-york-lease-42-broadway/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-08-10T19:21:31.000Z"
+    },
+    {
+      "headline": "Private Equity Firm OceanSound Expands to 32K SF at SL Green’s 450 Park Avenue",
+      "summary": "New York-based private equity group OceanSound Partners has expanded by more than 10,000 square feet at SL Green Realty ’s 450 Park Avenue office tower in Midtown. A new five-year lease secured OceanSound 32,032 square feet across the entire eighth, 22nd and 23rd floors of the office tower at the corner of Park Avenue and East 57th Street, according to SL Green. OceanSound previously subleased 21,640 square feet across the 22nd and 23rd floors.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/08/oceansound-lease-expansion-sl-green-450-park-avenue/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-08-10T14:44:53.000Z"
+    },
+    {
+      "headline": "Law Firm Greenberg Traurig Takes 25K SF at Related Ross Dev in West Palm",
+      "summary": "Law firm Greenberg Traurig is relocating to another Related Ross building in Downtown West Palm Beach, Fla. The firm signed a 10-year lease to occupy about 25,000 square feet at the 15 CityPlace office development, which remains under construction, the tenant announced. The deal spans the entire 12th floor of the 25-story project. Move-in is scheduled for fall 2027.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/08/greenberg-traurig-related-ross-west-palm-beach-15-cityplace/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-08-10T21:05:38.000Z"
     },
     {
       "headline": "State-of-the-art One Grand office tower to rise in Hudson Square",
@@ -147,6 +174,24 @@
       "published_at": "2026-08-09T05:50:13.000Z"
     },
     {
+      "headline": "Living solo in NYC isn’t cheap — so these single women moved into tiny apartments under 200 square feet",
+      "summary": "Every night, Gail Schulman folds down her couch — and folds up her life to fit inside it.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/10/real-estate/these-single-women-live-in-new-york-citys-smallest-apartments/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-08-10T18:30:42.000Z"
+    },
+    {
+      "headline": "SYU Properties pays $20M for Midtown East retail, borrows $12.5M",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/syu-properties-pays-20m-for-midtown-east-retail-borrows-12-5m/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-08-10T15:28:00.000Z"
+    },
+    {
       "headline": "Elon Musk to build the biggest building in the world — spanning a colossal 100M square feet",
       "summary": "It would beat out China's New Century Global Center, which spans 18.9 million square feet and comes with an indoor beach and ski slope inside.",
       "source": "New York Post",
@@ -154,33 +199,6 @@
       "section": "new_york_post",
       "retail": true,
       "published_at": "2026-08-07T17:38:33.000Z"
-    },
-    {
-      "headline": "Selldorf Architects Renews 14K-SF 860 Broadway Lease for 10 Years",
-      "summary": "Architecture firm Selldorf Architects has renewed its 10-year, 13,815-square-foot lease at Gordon Property Group ’s 860 Broadway . Selldorf has called the Flatiron District’s 860 Broadway home for the last two decades, according to landlord brokerage Colliers . The asking rent was not disclosed.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/selldorf-architects-renews-14k-sf-860-broadway-lease-for-10-years/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-08-07T17:36:42.000Z"
-    },
-    {
-      "headline": "Document Processing Platform Extend AI Signs 9K-SF Lease at 119 Fifth Avenue",
-      "summary": "An artificial intelligence-driven document processing firm is relocating within the Flatiron District, Commercial Observer has learned Extend AI signed an 8,750-square-foot lease across the entire sixth floor of 119 Fifth Avenue in a relocation from its current offices at 135 West 29th Street , according to the brokers at Nomad Group . Nomad did not disclose the length of the lease, but said asking rent for the building, which property records indicate is owned by the Haddad family, was $105 per square foot.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/extend-ai-lease-119-fifth-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-08-07T15:33:03.000Z"
-    },
-    {
-      "headline": "Kiumarz Geula files plans for 64K sf school in Highbridge",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/kiumarz-geula-files-plans-for-64k-sf-school-in-highbridge/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-08-07T15:25:00.000Z"
     },
     {
       "headline": "Mall Giant Macerich Narrows Losses in Q2 Amid Stronger Leasing",
@@ -201,85 +219,67 @@
       "published_at": "2026-08-09T18:32:14.000Z"
     },
     {
-      "headline": "ZD Jasper seeks zoning change to facilitate approximately 214-unit project in Astoria",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/zd-jasper-seeks-zoning-change-to-facilitate-approximately-214-unit-project-in-astoria/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-10T10:38:27.000Z"
-    },
-    {
-      "headline": "Mark Miller files plans for 57 units in Kingsbridge Heights",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/mark-miller-files-plans-for-57-units-in-kingsbridge-heights/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-07T15:49:00.000Z"
-    },
-    {
-      "headline": "Paul Patafio pays $4M to Ivy Realty for office in Todt Hill",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/paul-patafio-pays-4m-to-ivy-realty-for-office-in-todt-hill/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-07T14:00:00.000Z"
-    },
-    {
-      "headline": "Benjamin Partners signs $11M refi with M&T for office in SoHo",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/benjamin-partners-signs-11m-refi-with-mt-for-office-in-soho/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-07T13:57:00.000Z"
-    },
-    {
-      "headline": "One Times Square offers panoramic views with ‘immersive’ attractions set to brighten plaza",
-      "summary": "Jamestown is opening One Times Square’s full array of “immersive” attractions to the public on Friday -- five years since the half-billion-dollar adaptive reuse of the iconic but empty former office tower was announced.",
+      "headline": "NYC Billionaire’s Row tower where it’s raining ‘chunks of concrete’ losing value fast: ‘It’s too dangerous’",
+      "summary": "As drones circle the 1,396-foot tower and repair work begins at 432 Park Avenue, the 94th floor skypad at the beleaguered building has sold for $22 million, Gimme Shelter has learned.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/08/06/business/one-times-square-offers-panoramic-views-shot-in-arm-to-struggling-area/",
+      "url": "https://nypost.com/2026/08/10/real-estate/nyc-billionaires-row-tower-loses-value-fast-as-condos-sell-after-huge-price-cuts/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-08-06T21:14:54.000Z"
+      "published_at": "2026-08-10T16:19:35.000Z"
     },
     {
-      "headline": "High-speed trading founder in contract to pay $24M for two school townhouses in West Village",
+      "headline": "Korman Communities signs $142.5M loan with Prime Finance for Midtown West hotel buyouts",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/high-speed-trading-founder-in-contract-to-pay-24m-for-two-school-townhouses-in-west-village/",
+      "url": "https://www.pincusco.com/korman-communities-signs-142-5m-loan-with-prime-finance-for-midtown-west-hotel-buyouts/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-08-10T09:22:23.000Z"
+      "published_at": "2026-08-10T15:12:00.000Z"
     },
     {
-      "headline": "Former Bloomberg commissioner blasts pied-à-terre tax with lawsuit filed against Mamdani",
-      "summary": "You’re guilty until you prove yourself innocent in Mayor Zohran Mamdani’s city.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/07/real-estate/former-bloomberg-dof-commissioner-blasts-pied-a-terre-tax/",
-      "section": "new_york_post",
+      "headline": "Hizar Mojahed files plans for 7 units in Prospect Lefferts Gardens",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/hizar-mojahed-files-plans-for-7-units-in-prospect-lefferts-gardens/",
+      "section": "pincusco",
       "retail": false,
-      "published_at": "2026-08-07T20:42:41.000Z"
+      "published_at": "2026-08-11T10:52:00.000Z"
     },
     {
-      "headline": "A whopping 79% of home buyers in this pandemic-era Texas boomtown are now selling at a loss",
-      "summary": "Asking prices are down nearly 25% since the 2022 peak.",
+      "headline": "Bruce Springsteen’s longtime drummer quietly sold $13M Palm Beach land in just days as tech bros race for a spot",
+      "summary": "E Street Band drummer Max Weinberg and his wife, Rebbecca Weinberg, just sold one of the largest remaining Intracoastal land assemblages in Ocean Ridge, a small Palm Beach County enclave that has...",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/08/07/real-estate/79-of-homebuyers-in-austin-are-now-selling-at-a-loss/",
+      "url": "https://nypost.com/2026/08/10/real-estate/bruce-springsteens-longtime-drummer-sells-palm-beach-land-for-13-million/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-08-07T20:03:30.000Z"
+      "published_at": "2026-08-10T19:17:44.000Z"
     },
     {
-      "headline": "You need $450M and ‘a set of balls’ to buy this floating doomsday bunker in the Maldives",
-      "summary": "A zero-land island spanning 155 acres of deep-water lagoon in the Maldives — designed like an eco-conscious doomsday bunker for the 1% — asks $450 million.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/07/real-estate/you-need-450m-to-buy-this-floating-doomsday-island/",
-      "section": "new_york_post",
+      "headline": "Pearl Realty Management acquires Sculptor, Longfellow office in LIC in $86.9M transfer",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/pearl-realty-management-acquires-sculptor-capital-office-in-lic-in-86-9m-transfer/",
+      "section": "pincusco",
       "retail": false,
-      "published_at": "2026-08-07T19:06:19.000Z"
+      "published_at": "2026-08-10T12:56:00.000Z"
+    },
+    {
+      "headline": "Maurice Setton pays $5M to RYCO, Alchemy for mixed-use in Park Slope",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/maurice-setton-pays-5m-to-ryco-alchemy-for-mixed-use-in-park-slope/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-10T12:42:00.000Z"
+    },
+    {
+      "headline": "Anthony Roussos files plans for 69 units in Astoria",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/anthony-roussos-files-plans-for-69-units-in-astoria/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-10T12:01:00.000Z"
     }
   ]
 }
