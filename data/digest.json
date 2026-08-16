@@ -1,7 +1,7 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-08-15",
-  "generated_at": "2026-08-15T10:30:06.460Z",
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T10:30:53.022Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
@@ -246,6 +246,24 @@
       "published_at": "2026-08-12T20:54:09.000Z"
     },
     {
+      "headline": "Florida’s historic rainbow beach cottages torn apart by Hurricane Ian in 2022 now being rebuilt as multimillion-dollar homes",
+      "summary": "The Category 5 hurricane destroyed the beloved structures—and finally, four years later, they are being restored, this time as luxury homes.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/15/real-estate/floridas-historic-rainbow-beach-cottages-torn-apart-by-hurricane-ian-in-2022-now-being-rebuilt-as-multimillion-dollar-homes/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-08-15T19:07:50.000Z"
+    },
+    {
+      "headline": "AI data center boom minting new class of 6-figure jobs — what it means for housing: Nvidia CEO",
+      "summary": "Blue-collar trades are booming, with tech giants like Nvidia’s Jensen Huang predicting six-figure jobs building data centers.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/15/real-estate/ai-data-center-boom-minting-new-class-of-6-figure-jobs-how-it-affects-housing/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-08-15T16:07:59.000Z"
+    },
+    {
       "headline": "Eden Ashourzadeh pays $2.6M for 5-unit walkup in Williamsburg",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
@@ -262,24 +280,6 @@
       "section": "pincusco",
       "retail": false,
       "published_at": "2026-08-14T14:33:00.000Z"
-    },
-    {
-      "headline": "Abraham Lebowitz pays $4.2M to Abraham Brach for in Williamsburg",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/abraham-lebowitz-pays-4-2m-to-abraham-brach-for-in-williamsburg/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-14T14:14:00.000Z"
-    },
-    {
-      "headline": "The worst time to sell a home is right now, dire figures show",
-      "summary": "It’s crickets out there for home sellers. The pool of active US homebuyers has dwindled so drastically due to affordability concerns pushing would-be house hunters onto the sidelines. The number of buyers in the market sunk to about 967,000 in July — the lowest level recorded since Redfin began tracking the metric in 2013. That...",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/14/real-estate/the-worst-time-to-sell-a-home-is-right-now-data-shows/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-08-14T11:34:00.000Z"
     }
   ]
 }
