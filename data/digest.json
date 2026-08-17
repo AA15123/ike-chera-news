@@ -1,13 +1,13 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-08-16",
-  "generated_at": "2026-08-16T10:30:53.022Z",
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T10:39:21.154Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Madewell To Open New Store at Tishman Speyer’s 1 Rockefeller Plaza: Famed denim and clothing brand Madewell is opening a new store at Tishman Speyer ’s 1 Rockefeller Plaza , the landlord announced Thursday. The retailer signed a 7,340-square-foot lease at the Midtown landmark, where its new space will open in 2027.\n\nMuji, Daniel Eddy’s Winner Sign Retail Leases at Brooklyn’s Alloy Block: Two retail tenants have taken almost 13,000 square feet at a new development in Downtown Brooklyn. Japanese home goods and apparel brand Muji was the largest of the two, signing a 10-year, 10,000-square-foot lease at Alloy Development ’s 100 Flatbush Avenue , part of the larger five-building, mixed-use Alloy Block.\n\nPodcast: How Landlords Can Solve the Tenant Visibility Problem – Sytes’ Rafael Weiss: Rafael Weiss is the co-founder of Sytes , a marketplace platform that connects commercial real estate landlords, developers, and brokers with tenants actively looking for space in real time.\n\nNationwide Life Insurance Company Provides $51M Refi for D.C.-Area Retail Center: Zuckerman Gravely has secured $50.75 million to refinance Potomac Place Shopping Center , an 80,000-square-foot, Class-A grocery anchored retail center in Potomac, Md., a suburb just outside of Washington, D.C., Commercial Observer can first report.",
     "cre_daily": "Private Investors Drive Surge in NNN-Leased Restaurant Deals: Transaction volume for single-tenant, triple-net retail rose 18% through Q3 2025, according to Marcus & Millichap. Fast-casual and quick-service restaurant properties are leading demand, offering investors reliable income with minimal management.\n\nSimon Property to More Than Double $18M in Lost Saks Rents: Simon Property Group is re-leasing more than 1 million square feet vacated by Saks Fifth Avenue at rents 144% above what the bankrupt retailer had been paying. The REIT projects replacing $18M in annual Saks base rents with $44M from new tenants — adding roughly $26M in net operating income as leases are executed and.\n\nBlackstone Buys Palm Beach Retail From Ken Griffin for $86M: Blackstone is acquiring a 49K SF Worth Avenue property from Ken Griffin’s Citadel entity for $86M. This deal marks another major transaction on Palm Beach’s premier retail corridor, which currently boasts less than 1% retail vacancy.\n\nFlex Retail Propels Triangle Region’s Retail Revival: Flex retail assets are seeing heightened leasing demand in Raleigh’s Triangle region, with single-story office conversions on the rise. Vacancy rates for retail spaces under 10K SF have dropped to 1.6% in Q2, per Colliers, outpacing larger format properties.",
-    "new_york_post": "Newly minted mega-millionaire unmasked as buyer of $70M estate at just 31 years old — see his stunning pad: The purchase of 3000 Ralston Ave. is Northern California’s biggest sale so far this year.\n\nLow-income tenants face eviction for $133M affordable housing project — backed by socialist mayoral hopeful Nithya Raman: Venice residents could soon be booted from their longtime homes to make way for a controversial affordable-housing project backed by mayoral candidate Nithya Raman.\n\nThird-oldest home in New York — visited by George Washington, King Philippe, and friendly ghosts — hits market for $8M: A slice of really cool New York history is up for grabs.\n\nThe Hamptons have competition and it’s a ‘secret’ NJ coastal town 45 minutes from NYC: Rumson, New Jersey has spent decades as Monmouth County’s best kept secret. Not anymore.",
+    "new_york_post": "Ark’s Bryant Park restaurant evictions are looming after lengthy legal battle: The nonprofit Bryant Park Corporation, Ark’s landlord, wants to replace Ark with a restaurant run by Jean-Georges Vongerichten.\n\nMajor update for Ken Griffin’s 350 Park Ave. tower plans as steel company takes on massive haul: The 62-story, 1469-foot tall cloudbuster is to be completed in 2032.\n\nCoastal SoCal enclave demands probe into California AG over housing development, campaign donations: Posh SoCal city Del Mar wants state AG Rob Bonta investigated over alleged campaign cash ties to a developer.\n\nNewly minted mega-millionaire unmasked as buyer of $70M estate at just 31 years old — see his stunning pad: The purchase of 3000 Ralston Ave. is Northern California’s biggest sale so far this year.",
     "pincusco": "Alembic Community Development signs $34.1M construction loan for specialty in Mott Haven.\n\nRubin Equities signs $65M refi loan with Goldman Sachs for 247-unit rental in Mt Eden.\n\nEmpty Gallery pays $6.2M to June Leaf Art Foundation for mixed-use in NoHo.\n\nMoshe Wosner pays $3.8M for dev site in Borough Park, plans 4 units."
   },
   "items": [
@@ -156,6 +156,15 @@
       "published_at": "2026-08-05T13:49:02.000Z"
     },
     {
+      "headline": "Ark’s Bryant Park restaurant evictions are looming after lengthy legal battle",
+      "summary": "The nonprofit Bryant Park Corporation, Ark’s landlord, wants to replace Ark with a restaurant run by Jean-Georges Vongerichten.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/16/business/arks-bryant-park-restaurant-evictions-are-looming-after-legal-battle/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-08-16T16:31:00.000Z"
+    },
+    {
       "headline": "Alembic Community Development signs $34.1M construction loan for specialty in Mott Haven",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
@@ -163,6 +172,24 @@
       "section": "pincusco",
       "retail": false,
       "published_at": "2026-08-14T14:08:00.000Z"
+    },
+    {
+      "headline": "Major update for Ken Griffin’s 350 Park Ave. tower plans as steel company takes on massive haul",
+      "summary": "The 62-story, 1469-foot tall cloudbuster is to be completed in 2032.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/16/business/major-update-for-ken-griffins-350-park-ave-tower-plans/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-08-16T16:15:27.000Z"
+    },
+    {
+      "headline": "Coastal SoCal enclave demands probe into California AG over housing development, campaign donations",
+      "summary": "Posh SoCal city Del Mar wants state AG Rob Bonta investigated over alleged campaign cash ties to a developer.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/16/us-news/del-mar-requests-probe-into-rob-bonta-over-housing-donations/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-08-16T14:00:00.000Z"
     },
     {
       "headline": "Newly minted mega-millionaire unmasked as buyer of $70M estate at just 31 years old — see his stunning pad",
@@ -210,15 +237,6 @@
       "published_at": "2026-08-14T12:50:00.000Z"
     },
     {
-      "headline": "Low-income tenants face eviction for $133M affordable housing project — backed by socialist mayoral hopeful Nithya Raman",
-      "summary": "Venice residents could soon be booted from their longtime homes to make way for a controversial affordable-housing project backed by mayoral candidate Nithya Raman.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/12/us-news/venice-residents-say-theyre-being-forced-out-as-nithya-raman-pushes-flawed-housing-plan/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-08-12T20:06:27.000Z"
-    },
-    {
       "headline": "Third-oldest home in New York — visited by George Washington, King Philippe, and friendly ghosts — hits market for $8M",
       "summary": "A slice of really cool New York history is up for grabs.",
       "source": "New York Post",
@@ -226,24 +244,6 @@
       "section": "new_york_post",
       "retail": false,
       "published_at": "2026-08-14T19:54:41.000Z"
-    },
-    {
-      "headline": "The Hamptons have competition and it’s a ‘secret’ NJ coastal town 45 minutes from NYC",
-      "summary": "Rumson, New Jersey has spent decades as Monmouth County’s best kept secret. Not anymore.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/13/real-estate/26-million-rumson-new-jersey-listing-rivals-hamptons-prices/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-08-13T15:51:21.000Z"
-    },
-    {
-      "headline": "I scour Manhattan’s trash for junk like broken $1K strollers and $20 coffee grinders — then fix and give them away for free",
-      "summary": "Darrick Lo’s neighbors throw out everything from broken strollers to coffee grinders to chairs. He’s the guy who digs through their trash and fixes it all himself.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/12/real-estate/man-scours-manhattans-trash-for-junk-then-fixes-and-gives-them-away-for-free/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-08-12T20:54:09.000Z"
     },
     {
       "headline": "Florida’s historic rainbow beach cottages torn apart by Hurricane Ian in 2022 now being rebuilt as multimillion-dollar homes",
