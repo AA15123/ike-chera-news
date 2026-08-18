@@ -1,16 +1,25 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-08-17",
-  "generated_at": "2026-08-17T10:39:21.154Z",
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T10:36:40.576Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Madewell To Open New Store at Tishman Speyer’s 1 Rockefeller Plaza: Famed denim and clothing brand Madewell is opening a new store at Tishman Speyer ’s 1 Rockefeller Plaza , the landlord announced Thursday. The retailer signed a 7,340-square-foot lease at the Midtown landmark, where its new space will open in 2027.\n\nMuji, Daniel Eddy’s Winner Sign Retail Leases at Brooklyn’s Alloy Block: Two retail tenants have taken almost 13,000 square feet at a new development in Downtown Brooklyn. Japanese home goods and apparel brand Muji was the largest of the two, signing a 10-year, 10,000-square-foot lease at Alloy Development ’s 100 Flatbush Avenue , part of the larger five-building, mixed-use Alloy Block.\n\nPodcast: How Landlords Can Solve the Tenant Visibility Problem – Sytes’ Rafael Weiss: Rafael Weiss is the co-founder of Sytes , a marketplace platform that connects commercial real estate landlords, developers, and brokers with tenants actively looking for space in real time.\n\nNationwide Life Insurance Company Provides $51M Refi for D.C.-Area Retail Center: Zuckerman Gravely has secured $50.75 million to refinance Potomac Place Shopping Center , an 80,000-square-foot, Class-A grocery anchored retail center in Potomac, Md., a suburb just outside of Washington, D.C., Commercial Observer can first report.",
-    "cre_daily": "Private Investors Drive Surge in NNN-Leased Restaurant Deals: Transaction volume for single-tenant, triple-net retail rose 18% through Q3 2025, according to Marcus & Millichap. Fast-casual and quick-service restaurant properties are leading demand, offering investors reliable income with minimal management.\n\nSimon Property to More Than Double $18M in Lost Saks Rents: Simon Property Group is re-leasing more than 1 million square feet vacated by Saks Fifth Avenue at rents 144% above what the bankrupt retailer had been paying. The REIT projects replacing $18M in annual Saks base rents with $44M from new tenants — adding roughly $26M in net operating income as leases are executed and.\n\nBlackstone Buys Palm Beach Retail From Ken Griffin for $86M: Blackstone is acquiring a 49K SF Worth Avenue property from Ken Griffin’s Citadel entity for $86M. This deal marks another major transaction on Palm Beach’s premier retail corridor, which currently boasts less than 1% retail vacancy.\n\nFlex Retail Propels Triangle Region’s Retail Revival: Flex retail assets are seeing heightened leasing demand in Raleigh’s Triangle region, with single-story office conversions on the rise. Vacancy rates for retail spaces under 10K SF have dropped to 1.6% in Q2, per Colliers, outpacing larger format properties.",
-    "new_york_post": "Ark’s Bryant Park restaurant evictions are looming after lengthy legal battle: The nonprofit Bryant Park Corporation, Ark’s landlord, wants to replace Ark with a restaurant run by Jean-Georges Vongerichten.\n\nMajor update for Ken Griffin’s 350 Park Ave. tower plans as steel company takes on massive haul: The 62-story, 1469-foot tall cloudbuster is to be completed in 2032.\n\nCoastal SoCal enclave demands probe into California AG over housing development, campaign donations: Posh SoCal city Del Mar wants state AG Rob Bonta investigated over alleged campaign cash ties to a developer.\n\nNewly minted mega-millionaire unmasked as buyer of $70M estate at just 31 years old — see his stunning pad: The purchase of 3000 Ralston Ave. is Northern California’s biggest sale so far this year.",
-    "pincusco": "Alembic Community Development signs $34.1M construction loan for specialty in Mott Haven.\n\nRubin Equities signs $65M refi loan with Goldman Sachs for 247-unit rental in Mt Eden.\n\nEmpty Gallery pays $6.2M to June Leaf Art Foundation for mixed-use in NoHo.\n\nMoshe Wosner pays $3.8M for dev site in Borough Park, plans 4 units."
+    "commercial_observer": "Madewell To Open New Store at Tishman Speyer’s 1 Rockefeller Plaza: Famed denim and clothing brand Madewell is opening a new store at Tishman Speyer ’s 1 Rockefeller Plaza , the landlord announced Thursday. The retailer signed a 7,340-square-foot lease at the Midtown landmark, where its new space will open in 2027.\n\nPodcast: How Landlords Can Solve the Tenant Visibility Problem – Sytes’ Rafael Weiss: Rafael Weiss is the co-founder of Sytes , a marketplace platform that connects commercial real estate landlords, developers, and brokers with tenants actively looking for space in real time.\n\nMotek Founders Sign NoMad Lease For New Offshoot Restaurant: Happy Corner Hospitality has signed a lease in Manhattan’s NoMad neighborhood for an offshoot of their Motek concept. Known as Yalla Motek , the restaurant group took 2,500 square feet at David and Jack Israel ’s 1147 Broadway , which will be the new Mediterranean restaurant’s first location in New York City and.\n\nWestville To Open at 540 Third Avenue in Murray Hill: Westville is getting ready to open its 12th location in the U.S. and bring a selection of classic American foods to Manhattan’s Murray Hill neighborhood.",
+    "cre_daily": "Fields West in Frisco Hits 75% Pre-Lease With New Tenants: Fields West, a Frisco mixed-use development, has pre-leased 75% of its retail and dining space with seven new tenants. The new leases include brands like Lululemon, Boll & Branch, and Flower Child, bringing the roster to 44 retail and restaurant tenants.\n\nPrivate Investors Drive Surge in NNN-Leased Restaurant Deals: Transaction volume for single-tenant, triple-net retail rose 18% through Q3 2025, according to Marcus & Millichap. Fast-casual and quick-service restaurant properties are leading demand, offering investors reliable income with minimal management.\n\nSimon Property to More Than Double $18M in Lost Saks Rents: Simon Property Group is re-leasing more than 1 million square feet vacated by Saks Fifth Avenue at rents 144% above what the bankrupt retailer had been paying. The REIT projects replacing $18M in annual Saks base rents with $44M from new tenants — adding roughly $26M in net operating income as leases are executed and.\n\nBlackstone Buys Palm Beach Retail From Ken Griffin for $86M: Blackstone is acquiring a 49K SF Worth Avenue property from Ken Griffin’s Citadel entity for $86M. This deal marks another major transaction on Palm Beach’s premier retail corridor, which currently boasts less than 1% retail vacancy.",
+    "new_york_post": "Ark’s Bryant Park restaurant evictions are looming after lengthy legal battle: The nonprofit Bryant Park Corporation, Ark’s landlord, wants to replace Ark with a restaurant run by Jean-Georges Vongerichten.\n\nFlatiron Building nears sellout as wealthy buyers race to claim a rare piece of NYC history: Only four apartments remain up for sale at the iconic Flatiron Building as its $380 million condo conversion nears a fall 2026 opening.\n\nRentals now allowed in historic water tower on King Charles’ Sandringham Estate where royals spend Christmas: The neo-Byzantine tower built in the 19th century to supply fresh water to the royal residence is now a romantic retreat for two.\n\nMajor update for Ken Griffin’s 350 Park Ave. tower plans as steel company takes on massive haul: The 62-story, 1469-foot tall cloudbuster is to be completed in 2032.",
+    "pincusco": "SCG Capital signs $22.8M construction loan with Popular Bank for 99-unit project in Bedford Park.\n\nBalkar Singh files plans for 40 units in East New York.\n\nVendome Property Management signs $40.5M refi loan with Principal for eight properties in Manhattan.\n\nDavis Companies files $73M pre-foreclosure at Chelsea office."
   },
   "items": [
+    {
+      "headline": "Fields West in Frisco Hits 75% Pre-Lease With New Tenants",
+      "summary": "Fields West, a Frisco mixed-use development, has pre-leased 75% of its retail and dining space with seven new tenants. The new leases include brands like Lululemon, Boll & Branch, and Flower Child, bringing the roster to 44 retail and restaurant tenants. This adds momentum to the 55-acre urban village, part of the 2,545-acre Fields master plan aiming for 11M SF of commercial and office space.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/fields-west-in-frisco-hits-75-pre-lease-with-new-tenants/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-08-18T04:51:10.000Z"
+    },
     {
       "headline": "Private Investors Drive Surge in NNN-Leased Restaurant Deals",
       "summary": "Transaction volume for single-tenant, triple-net retail rose 18% through Q3 2025, according to Marcus & Millichap. Fast-casual and quick-service restaurant properties are leading demand, offering investors reliable income with minimal management. Tax policy changes and Sun Belt market growth are fueling strategic shifts away from hands-on assets toward NNN-leased restaurants.…",
@@ -37,15 +46,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-08-13T15:29:08.000Z"
-    },
-    {
-      "headline": "Muji, Daniel Eddy’s Winner Sign Retail Leases at Brooklyn’s Alloy Block",
-      "summary": "Two retail tenants have taken almost 13,000 square feet at a new development in Downtown Brooklyn. Japanese home goods and apparel brand Muji was the largest of the two, signing a 10-year, 10,000-square-foot lease at Alloy Development ’s 100 Flatbush Avenue , part of the larger five-building, mixed-use Alloy Block complex, according to the landlord.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/muji-daniel-eddy-winner-leases-alloy-block-brooklyn/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-08-03T16:02:30.000Z"
     },
     {
       "headline": "Blackstone Buys Palm Beach Retail From Ken Griffin for $86M",
@@ -75,15 +75,6 @@
       "published_at": "2026-08-13T06:38:14.000Z"
     },
     {
-      "headline": "Tanger Raises Outlook as Travel and Back-to-School Drive Gains",
-      "summary": "Tanger upped its annual funds from operations guidance after Q2 tenant sales rose 5% year-over-year. World Cup tourism and early back-to-school demand fueled traffic, with core FFO and revenue beating Wall Street forecasts. The outlook improvement points to resilient brick-and-mortar retail fundamentals and renewed space demand as development slows. Key Takeaways Domestic Travel and Event Tailwinds Boost Retail Tanger Inc.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/tanger-raises-outlook-as-travel-and-back-to-school-drive-gains/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-08-06T05:41:38.000Z"
-    },
-    {
       "headline": "Podcast: How Landlords Can Solve the Tenant Visibility Problem – Sytes’ Rafael Weiss",
       "summary": "Rafael Weiss is the co-founder of Sytes , a marketplace platform that connects commercial real estate landlords, developers, and brokers with tenants actively looking for space in real time. Rafael came to the problem as a developer who lost a deal because tenant demand was invisible until it was too late, and built Sytes to fix the information asymmetry at the core of retail leasing.…",
       "source": "Commercial Observer",
@@ -91,15 +82,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-08-13T21:33:59.000Z"
-    },
-    {
-      "headline": "Nationwide Life Insurance Company Provides $51M Refi for D.C.-Area Retail Center",
-      "summary": "Zuckerman Gravely has secured $50.75 million to refinance Potomac Place Shopping Center , an 80,000-square-foot, Class-A grocery anchored retail center in Potomac, Md., a suburb just outside of Washington, D.C., Commercial Observer can first report. Nationwide Life Insurance Company provided the debt, structured as permanent fixed-rate financing with a seven-year term. Northmarq ’s Jason Smith and Kenneth Gentzel arranged the transaction.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/nationwide-life-51m-refi-potomac-place-shopping-center/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-08-14T13:28:09.000Z"
     },
     {
       "headline": "Motek Founders Sign NoMad Lease For New Offshoot Restaurant",
@@ -138,13 +120,13 @@
       "published_at": "2026-08-06T18:25:03.000Z"
     },
     {
-      "headline": "First Pioneer Properties Buys Queens Retail Center for $24M",
-      "summary": "New York-based real estate management and development firm First Pioneer Properties , along with ABS Partners Real Estate , has acquired a Queens retail center from Levy Properties for $23.5 million, property records made public Thursday show . The one-story property at 213-04 Northern Boulevard in Bayside is currently home to an urgent care medical office and Bebeang Baby Store .…",
+      "headline": "Payments Manager Corpay Cross-Border Relocates to 18K SF at 560 Lexington Avenue",
+      "summary": "An international payment and currency risk management firm is planning a headquarters relocation to Rudin ’s 560 Lexington Avenue . Corpay Cross-Border Solutions , which operates under corporate payments company Corpay , has signed an 11-year lease for 17,778 square feet at the Plaza District tower, Commercial Observer has learned. The landlord declined to provide the asking rent, but an April lease inside Rudin’s 22-story tower asked $84 per square foot, according to previous CO reports .…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/first-pioneer-abs-buy-213-04-northern-boulevard-queens/",
+      "url": "https://commercialobserver.com/2026/08/corpay-cross-border-lease-rudin-560-lexington-avenue/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-08-14T16:42:16.000Z"
+      "published_at": "2026-08-17T14:46:13.000Z"
     },
     {
       "headline": "Mall Giant Macerich Narrows Losses in Q2 Amid Stronger Leasing",
@@ -165,13 +147,94 @@
       "published_at": "2026-08-16T16:31:00.000Z"
     },
     {
-      "headline": "Alembic Community Development signs $34.1M construction loan for specialty in Mott Haven",
+      "headline": "SCG Capital signs $22.8M construction loan with Popular Bank for 99-unit project in Bedford Park",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/alembic-community-development-signs-34-1m-new-construction-loan-with-enterprise-community-partners-for-specialty-in-mott-haven/",
+      "url": "https://www.pincusco.com/scg-capital-signs-18-4m-construction-loan-with-popular-bank-for-99-unit-project-in-bedford-park/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-08-14T14:08:00.000Z"
+      "published_at": "2026-08-17T14:55:00.000Z"
+    },
+    {
+      "headline": "Flatiron Building nears sellout as wealthy buyers race to claim a rare piece of NYC history",
+      "summary": "Only four apartments remain up for sale at the iconic Flatiron Building as its $380 million condo conversion nears a fall 2026 opening.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/17/real-estate/nycs-flatiron-building-nears-sellout/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-08-17T20:22:16.000Z"
+    },
+    {
+      "headline": "Balkar Singh files plans for 40 units in East New York",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/balkar-singh-files-plans-for-40-units-in-east-new-york/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-17T19:07:00.000Z"
+    },
+    {
+      "headline": "Vendome Property Management signs $40.5M refi loan with Principal for eight properties in Manhattan",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/vendome-property-management-signs-40-5m-refi-loan-with-principal-for-eight-properties-in-manhattan/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-17T14:48:00.000Z"
+    },
+    {
+      "headline": "Davis Companies files $73M pre-foreclosure at Chelsea office",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/davis-companies-files-73m-pre-foreclosure-at-chelsea-office/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-18T08:30:08.000Z"
+    },
+    {
+      "headline": "Rentals now allowed in historic water tower on King Charles’ Sandringham Estate where royals spend Christmas",
+      "summary": "The neo-Byzantine tower built in the 19th century to supply fresh water to the royal residence is now a romantic retreat for two",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/17/real-estate/rentals-now-allowed-in-historic-water-tower-on-king-charles-sandringham-estate-where-royals-spend-christmas/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-08-17T22:44:26.000Z"
+    },
+    {
+      "headline": "Jian Yun Liu files plans for 30 units in Elmhurst",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/jian-yun-liu-files-plans-for-30-units-in-elmhurst/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-17T18:51:00.000Z"
+    },
+    {
+      "headline": "Gjovan Rroku files plans for 28 units in Allerton",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/gjovan-rroku-files-plans-for-28-units-in-allerton/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-17T18:36:00.000Z"
+    },
+    {
+      "headline": "Joel Landau of Emerald Developers files plans for 55 units in Gravesend",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/joel-landau-of-emerald-developers-files-plans-for-55-units-in-gravesend/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-17T14:42:00.000Z"
+    },
+    {
+      "headline": "Accounting firm Teitelbaum & Co pays $3.8M to Abraham Brach for office condo in Williamsburg",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/teitelbaum-co-pays-3-8m-to-abraham-brach-for-in-williamsburg/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-17T14:05:00.000Z"
     },
     {
       "headline": "Major update for Ken Griffin’s 350 Park Ave. tower plans as steel company takes on massive haul",
@@ -201,42 +264,6 @@
       "published_at": "2026-08-14T23:02:24.000Z"
     },
     {
-      "headline": "Rubin Equities signs $65M refi loan with Goldman Sachs for 247-unit rental in Mt Eden",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/rubin-equities-signs-65m-refi-loan-with-goldman-sachs-for-247-unit-rental-in-mt-eden/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-14T15:07:00.000Z"
-    },
-    {
-      "headline": "Empty Gallery pays $6.2M to June Leaf Art Foundation for mixed-use in NoHo",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/empty-gallery-pays-6-2m-to-june-leaf-art-foundation-for-mixed-use-in-noho/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-14T15:04:00.000Z"
-    },
-    {
-      "headline": "Moshe Wosner pays $3.8M for dev site in Borough Park, plans 4 units",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/moshe-wosner-pays-3-8m-for-dev-site-in-borough-park-plans-5-units/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-14T12:59:00.000Z"
-    },
-    {
-      "headline": "Infinity Management files plans for 19 units in Schuylerville",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/infinity-management-files-plans-for-19-units-in-schuylerville/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-14T12:50:00.000Z"
-    },
-    {
       "headline": "Third-oldest home in New York — visited by George Washington, King Philippe, and friendly ghosts — hits market for $8M",
       "summary": "A slice of really cool New York history is up for grabs.",
       "source": "New York Post",
@@ -246,40 +273,13 @@
       "published_at": "2026-08-14T19:54:41.000Z"
     },
     {
-      "headline": "Florida’s historic rainbow beach cottages torn apart by Hurricane Ian in 2022 now being rebuilt as multimillion-dollar homes",
-      "summary": "The Category 5 hurricane destroyed the beloved structures—and finally, four years later, they are being restored, this time as luxury homes.",
+      "headline": "California cities most exposed to wildfire risks in new analysis — LA takes the top spot",
+      "summary": "California dominated a new ranking of cities most exposed to wildfire risks, including LA in the top spot.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/08/15/real-estate/floridas-historic-rainbow-beach-cottages-torn-apart-by-hurricane-ian-in-2022-now-being-rebuilt-as-multimillion-dollar-homes/",
+      "url": "https://nypost.com/2026/08/17/real-estate/california-dominates-cities-most-exposed-to-wildfire-risks-ranking/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-08-15T19:07:50.000Z"
-    },
-    {
-      "headline": "AI data center boom minting new class of 6-figure jobs — what it means for housing: Nvidia CEO",
-      "summary": "Blue-collar trades are booming, with tech giants like Nvidia’s Jensen Huang predicting six-figure jobs building data centers.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/15/real-estate/ai-data-center-boom-minting-new-class-of-6-figure-jobs-how-it-affects-housing/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-08-15T16:07:59.000Z"
-    },
-    {
-      "headline": "Eden Ashourzadeh pays $2.6M for 5-unit walkup in Williamsburg",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/eden-ashourzadeh-pays-2-6m-for-5-unit-walkup-in-williamsburg-2/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-14T14:36:00.000Z"
-    },
-    {
-      "headline": "Shulem Herman pays $4.4M to Davis Management for 20-unit walkup in South Slope",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/shulem-herman-pays-4-4m-to-davis-management-for-20-unit-walkup-in-south-slope/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-14T14:33:00.000Z"
+      "published_at": "2026-08-17T19:17:32.000Z"
     }
   ]
 }
