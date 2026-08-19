@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-08-18",
-  "generated_at": "2026-08-18T10:36:40.576Z",
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T10:36:14.418Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Madewell To Open New Store at Tishman Speyer’s 1 Rockefeller Plaza: Famed denim and clothing brand Madewell is opening a new store at Tishman Speyer ’s 1 Rockefeller Plaza , the landlord announced Thursday. The retailer signed a 7,340-square-foot lease at the Midtown landmark, where its new space will open in 2027.\n\nPodcast: How Landlords Can Solve the Tenant Visibility Problem – Sytes’ Rafael Weiss: Rafael Weiss is the co-founder of Sytes , a marketplace platform that connects commercial real estate landlords, developers, and brokers with tenants actively looking for space in real time.\n\nMotek Founders Sign NoMad Lease For New Offshoot Restaurant: Happy Corner Hospitality has signed a lease in Manhattan’s NoMad neighborhood for an offshoot of their Motek concept. Known as Yalla Motek , the restaurant group took 2,500 square feet at David and Jack Israel ’s 1147 Broadway , which will be the new Mediterranean restaurant’s first location in New York City and.\n\nWestville To Open at 540 Third Avenue in Murray Hill: Westville is getting ready to open its 12th location in the U.S. and bring a selection of classic American foods to Manhattan’s Murray Hill neighborhood.",
     "cre_daily": "Fields West in Frisco Hits 75% Pre-Lease With New Tenants: Fields West, a Frisco mixed-use development, has pre-leased 75% of its retail and dining space with seven new tenants. The new leases include brands like Lululemon, Boll & Branch, and Flower Child, bringing the roster to 44 retail and restaurant tenants.\n\nPrivate Investors Drive Surge in NNN-Leased Restaurant Deals: Transaction volume for single-tenant, triple-net retail rose 18% through Q3 2025, according to Marcus & Millichap. Fast-casual and quick-service restaurant properties are leading demand, offering investors reliable income with minimal management.\n\nSimon Property to More Than Double $18M in Lost Saks Rents: Simon Property Group is re-leasing more than 1 million square feet vacated by Saks Fifth Avenue at rents 144% above what the bankrupt retailer had been paying. The REIT projects replacing $18M in annual Saks base rents with $44M from new tenants — adding roughly $26M in net operating income as leases are executed and.\n\nBlackstone Buys Palm Beach Retail From Ken Griffin for $86M: Blackstone is acquiring a 49K SF Worth Avenue property from Ken Griffin’s Citadel entity for $86M. This deal marks another major transaction on Palm Beach’s premier retail corridor, which currently boasts less than 1% retail vacancy.",
-    "new_york_post": "Ark’s Bryant Park restaurant evictions are looming after lengthy legal battle: The nonprofit Bryant Park Corporation, Ark’s landlord, wants to replace Ark with a restaurant run by Jean-Georges Vongerichten.\n\nFlatiron Building nears sellout as wealthy buyers race to claim a rare piece of NYC history: Only four apartments remain up for sale at the iconic Flatiron Building as its $380 million condo conversion nears a fall 2026 opening.\n\nRentals now allowed in historic water tower on King Charles’ Sandringham Estate where royals spend Christmas: The neo-Byzantine tower built in the 19th century to supply fresh water to the royal residence is now a romantic retreat for two.\n\nMajor update for Ken Griffin’s 350 Park Ave. tower plans as steel company takes on massive haul: The 62-story, 1469-foot tall cloudbuster is to be completed in 2032.",
-    "pincusco": "SCG Capital signs $22.8M construction loan with Popular Bank for 99-unit project in Bedford Park.\n\nBalkar Singh files plans for 40 units in East New York.\n\nVendome Property Management signs $40.5M refi loan with Principal for eight properties in Manhattan.\n\nDavis Companies files $73M pre-foreclosure at Chelsea office."
+    "new_york_post": "Iconic Fireman Hospitality files for bankruptcy — spurring NYC’s biggest restaurant-empire crisis since 2020: The COVID pandemic’s long shadow threatens the future of Fireman Hospitality Group, which runs some of Manhattan’s most iconic and venerable Italian restaurants.\n\nArk’s Bryant Park restaurant evictions are looming after lengthy legal battle: The nonprofit Bryant Park Corporation, Ark’s landlord, wants to replace Ark with a restaurant run by Jean-Georges Vongerichten.\n\nFlatiron Building nears sellout as wealthy buyers race to claim a rare piece of NYC history: Only four apartments remain up for sale at the iconic Flatiron Building as its $380 million condo conversion nears a fall 2026 opening.\n\nSprawling ‘Love Island’ estate quietly lists for sale in Hawaii: ‘Hard to beat’: The spread served as the Casa Amor villa during Season 3 of the hit show.",
+    "pincusco": "BLDG Management signs $5M refi loan with M&T Bank for retail in Harlem.\n\nSCG Capital signs $22.8M construction loan with Popular Bank for 99-unit project in Bedford Park.\n\nBalkar Singh files plans for 40 units in East New York.\n\nExtell Development pays $65M to Parkoff Organization for office in Midtown East."
   },
   "items": [
     {
@@ -102,13 +102,13 @@
       "published_at": "2026-08-10T16:07:33.000Z"
     },
     {
-      "headline": "New York City’s First El Pollo Loco Coming to Jackson Heights in Queens",
-      "summary": "Why did the chicken cross the continent? To get to new customers on the other side. Popular fast-casual grilled chicken restaurant El Pollo Loco has signed a lease to open its first-ever East Coast location in New York City, Commercial Observer has learned. El Pollo Loco signed a 10-year lease for 2,400 square feet at 37-07 82nd Street in Jackson Heights, Queens, according to tenant broker Ripco Real Estate . It is expected to open in 2027.…",
+      "headline": "Betting on South Beach Luxury Shopping, Vivienne Westwood Plans to Open Store",
+      "summary": "Vivienne Westwood is finally getting serious about opening a boutique in Miami’s South Beach. Almost two years after buying the three-story property at 736 Collins Avenue and letting it sit vacant, the luxury fashion brand has submitted an application to build out the property, which dates back to 1921. The 4,356-square-foot ground-floor space would feature a store with three fittings rooms and two storage rooms.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/el-pollo-loco-lease-jackson-heights-queens/",
+      "url": "https://commercialobserver.com/2026/08/miami-vivienne-westwood-736-collins-avenue/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-08-04T18:15:49.000Z"
+      "published_at": "2026-08-18T17:55:31.000Z"
     },
     {
       "headline": "Nordstrom Rack Takes 22K SF in Wellington, Fla.",
@@ -120,13 +120,22 @@
       "published_at": "2026-08-06T18:25:03.000Z"
     },
     {
-      "headline": "Payments Manager Corpay Cross-Border Relocates to 18K SF at 560 Lexington Avenue",
-      "summary": "An international payment and currency risk management firm is planning a headquarters relocation to Rudin ’s 560 Lexington Avenue . Corpay Cross-Border Solutions , which operates under corporate payments company Corpay , has signed an 11-year lease for 17,778 square feet at the Plaza District tower, Commercial Observer has learned. The landlord declined to provide the asking rent, but an April lease inside Rudin’s 22-story tower asked $84 per square foot, according to previous CO reports .…",
+      "headline": "BLDG Management signs $5M refi loan with M&T Bank for retail in Harlem",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/bldg-management-signs-5m-refi-loan-with-mt-bank-for-retail-in-harlem/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-08-18T17:52:00.000Z"
+    },
+    {
+      "headline": "Cybersecurity Tracker SecurityScorecard Renews 1140 Avenue of the Americas Lease",
+      "summary": "A cybersecurity risk management firm is renewing its Midtown office space, Commercial Observer has learned. SecurityScorecard signed a five-year renewal on its 8,475-square-foot space at 1140 Avenue of the Americas , owned by American Strategic Investment Company , where it has been since 2023, according to tenant broker JLL . The asking rent was not immediately disclosed, but the average office asking rent in Midtown in the second quarter of 2026 was $86.18 per square foot, according to a CBRE report.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/corpay-cross-border-lease-rudin-560-lexington-avenue/",
+      "url": "https://commercialobserver.com/2026/08/securityscorecard-lease-renewal-1140-avenue-of-the-americas/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-08-17T14:46:13.000Z"
+      "published_at": "2026-08-18T15:51:40.000Z"
     },
     {
       "headline": "Mall Giant Macerich Narrows Losses in Q2 Amid Stronger Leasing",
@@ -136,6 +145,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-08-05T13:49:02.000Z"
+    },
+    {
+      "headline": "Iconic Fireman Hospitality files for bankruptcy — spurring NYC’s biggest restaurant-empire crisis since 2020",
+      "summary": "The COVID pandemic’s long shadow threatens the future of Fireman Hospitality Group, which runs some of Manhattan’s most iconic and venerable Italian restaurants.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/18/business/iconic-fireman-hospitality-files-for-bankruptcy-spurring-nycs-biggest-restaurant-empire-crisis-since-2020/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-08-18T20:42:06.000Z"
     },
     {
       "headline": "Ark’s Bryant Park restaurant evictions are looming after lengthy legal battle",
@@ -174,13 +192,31 @@
       "published_at": "2026-08-17T19:07:00.000Z"
     },
     {
-      "headline": "Vendome Property Management signs $40.5M refi loan with Principal for eight properties in Manhattan",
+      "headline": "Sprawling ‘Love Island’ estate quietly lists for sale in Hawaii: ‘Hard to beat’",
+      "summary": "The spread served as the Casa Amor villa during Season 3 of the hit show.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/18/real-estate/love-island-estate-quietly-lists-for-sale-in-hawaii/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-08-18T20:03:33.000Z"
+    },
+    {
+      "headline": "Extell Development pays $65M to Parkoff Organization for office in Midtown East",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/vendome-property-management-signs-40-5m-refi-loan-with-principal-for-eight-properties-in-manhattan/",
+      "url": "https://www.pincusco.com/extell-development-pays-65m-to-parkoff-organization-for-office-in-midtown-east/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-08-17T14:48:00.000Z"
+      "published_at": "2026-08-18T18:19:00.000Z"
+    },
+    {
+      "headline": "$37.5M pre-foreclosure filed at Midtown South office building",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/37-5m-pre-foreclosure-filed-at-midtown-south-office-building/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-18T12:08:23.000Z"
     },
     {
       "headline": "Davis Companies files $73M pre-foreclosure at Chelsea office",
@@ -219,24 +255,6 @@
       "published_at": "2026-08-17T18:36:00.000Z"
     },
     {
-      "headline": "Joel Landau of Emerald Developers files plans for 55 units in Gravesend",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/joel-landau-of-emerald-developers-files-plans-for-55-units-in-gravesend/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-17T14:42:00.000Z"
-    },
-    {
-      "headline": "Accounting firm Teitelbaum & Co pays $3.8M to Abraham Brach for office condo in Williamsburg",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/teitelbaum-co-pays-3-8m-to-abraham-brach-for-in-williamsburg/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-17T14:05:00.000Z"
-    },
-    {
       "headline": "Major update for Ken Griffin’s 350 Park Ave. tower plans as steel company takes on massive haul",
       "summary": "The 62-story, 1469-foot tall cloudbuster is to be completed in 2032.",
       "source": "New York Post",
@@ -246,40 +264,22 @@
       "published_at": "2026-08-16T16:15:27.000Z"
     },
     {
-      "headline": "Coastal SoCal enclave demands probe into California AG over housing development, campaign donations",
-      "summary": "Posh SoCal city Del Mar wants state AG Rob Bonta investigated over alleged campaign cash ties to a developer.",
+      "headline": "Popular NYC brunch staple shutters 2 locations — as landlord sues another outpost for unpaid rent",
+      "summary": "The beloved brand closed the doors on two Manhattan locations, as the fate of a third appears to hang in the balance.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/08/16/us-news/del-mar-requests-probe-into-rob-bonta-over-housing-donations/",
+      "url": "https://nypost.com/2026/08/18/real-estate/popular-nyc-brunch-restaurant-sarabeths-closes-two-stores/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-08-16T14:00:00.000Z"
+      "published_at": "2026-08-18T17:55:44.000Z"
     },
     {
-      "headline": "Newly minted mega-millionaire unmasked as buyer of $70M estate at just 31 years old — see his stunning pad",
-      "summary": "The purchase of 3000 Ralston Ave. is Northern California’s biggest sale so far this year.",
+      "headline": "Neko Health opening first US clinic in NYC this September and already has a 25,000 person waitlist",
+      "summary": "Founded by Spotify executive chairman Daniel Ek, Neko pioneered an affordable ($499), non-invasive and radiation-free scan.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/08/14/real-estate/grok-co-founder-may-be-behind-bay-areas-biggest-home-sale/",
+      "url": "https://nypost.com/2026/08/18/business/neko-health-scan-opening-first-us-clinic-in-nyc-in-september/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-08-14T23:02:24.000Z"
-    },
-    {
-      "headline": "Third-oldest home in New York — visited by George Washington, King Philippe, and friendly ghosts — hits market for $8M",
-      "summary": "A slice of really cool New York history is up for grabs.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/14/real-estate/third-oldest-home-in-new-york-lists-for-sale/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-08-14T19:54:41.000Z"
-    },
-    {
-      "headline": "California cities most exposed to wildfire risks in new analysis — LA takes the top spot",
-      "summary": "California dominated a new ranking of cities most exposed to wildfire risks, including LA in the top spot.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/17/real-estate/california-dominates-cities-most-exposed-to-wildfire-risks-ranking/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-08-17T19:17:32.000Z"
+      "published_at": "2026-08-18T14:00:00.000Z"
     }
   ]
 }
