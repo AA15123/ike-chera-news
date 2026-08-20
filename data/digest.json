@@ -1,16 +1,25 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-08-19",
-  "generated_at": "2026-08-19T10:36:14.418Z",
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T10:38:10.671Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Madewell To Open New Store at Tishman Speyer’s 1 Rockefeller Plaza: Famed denim and clothing brand Madewell is opening a new store at Tishman Speyer ’s 1 Rockefeller Plaza , the landlord announced Thursday. The retailer signed a 7,340-square-foot lease at the Midtown landmark, where its new space will open in 2027.\n\nPodcast: How Landlords Can Solve the Tenant Visibility Problem – Sytes’ Rafael Weiss: Rafael Weiss is the co-founder of Sytes , a marketplace platform that connects commercial real estate landlords, developers, and brokers with tenants actively looking for space in real time.\n\nMotek Founders Sign NoMad Lease For New Offshoot Restaurant: Happy Corner Hospitality has signed a lease in Manhattan’s NoMad neighborhood for an offshoot of their Motek concept. Known as Yalla Motek , the restaurant group took 2,500 square feet at David and Jack Israel ’s 1147 Broadway , which will be the new Mediterranean restaurant’s first location in New York City and.\n\nWestville To Open at 540 Third Avenue in Murray Hill: Westville is getting ready to open its 12th location in the U.S. and bring a selection of classic American foods to Manhattan’s Murray Hill neighborhood.",
-    "cre_daily": "Fields West in Frisco Hits 75% Pre-Lease With New Tenants: Fields West, a Frisco mixed-use development, has pre-leased 75% of its retail and dining space with seven new tenants. The new leases include brands like Lululemon, Boll & Branch, and Flower Child, bringing the roster to 44 retail and restaurant tenants.\n\nPrivate Investors Drive Surge in NNN-Leased Restaurant Deals: Transaction volume for single-tenant, triple-net retail rose 18% through Q3 2025, according to Marcus & Millichap. Fast-casual and quick-service restaurant properties are leading demand, offering investors reliable income with minimal management.\n\nSimon Property to More Than Double $18M in Lost Saks Rents: Simon Property Group is re-leasing more than 1 million square feet vacated by Saks Fifth Avenue at rents 144% above what the bankrupt retailer had been paying. The REIT projects replacing $18M in annual Saks base rents with $44M from new tenants — adding roughly $26M in net operating income as leases are executed and.\n\nBlackstone Buys Palm Beach Retail From Ken Griffin for $86M: Blackstone is acquiring a 49K SF Worth Avenue property from Ken Griffin’s Citadel entity for $86M. This deal marks another major transaction on Palm Beach’s premier retail corridor, which currently boasts less than 1% retail vacancy.",
-    "new_york_post": "Iconic Fireman Hospitality files for bankruptcy — spurring NYC’s biggest restaurant-empire crisis since 2020: The COVID pandemic’s long shadow threatens the future of Fireman Hospitality Group, which runs some of Manhattan’s most iconic and venerable Italian restaurants.\n\nArk’s Bryant Park restaurant evictions are looming after lengthy legal battle: The nonprofit Bryant Park Corporation, Ark’s landlord, wants to replace Ark with a restaurant run by Jean-Georges Vongerichten.\n\nFlatiron Building nears sellout as wealthy buyers race to claim a rare piece of NYC history: Only four apartments remain up for sale at the iconic Flatiron Building as its $380 million condo conversion nears a fall 2026 opening.\n\nSprawling ‘Love Island’ estate quietly lists for sale in Hawaii: ‘Hard to beat’: The spread served as the Casa Amor villa during Season 3 of the hit show.",
-    "pincusco": "BLDG Management signs $5M refi loan with M&T Bank for retail in Harlem.\n\nSCG Capital signs $22.8M construction loan with Popular Bank for 99-unit project in Bedford Park.\n\nBalkar Singh files plans for 40 units in East New York.\n\nExtell Development pays $65M to Parkoff Organization for office in Midtown East."
+    "commercial_observer": "Burlington Takes 44K SF at Bay Ridge Retail Center Development: Off-price retailer Burlington has inked a 44,070-square-foot retail lease at Century Marketplace , a new retail development coming to 458 86th Street in Bay Ridge, Brooklyn, developer MCB Real Estate announced Tuesday.\n\nMadewell To Open New Store at Tishman Speyer’s 1 Rockefeller Plaza: Famed denim and clothing brand Madewell is opening a new store at Tishman Speyer ’s 1 Rockefeller Plaza , the landlord announced Thursday. The retailer signed a 7,340-square-foot lease at the Midtown landmark, where its new space will open in 2027.\n\nL3 Capital Secures 24K SF for Bylt Basics, Zara Flagships in Williamsburg: L3 Capital ’s 108 North Sixth Street and 184-192 Bedford Avenue are welcoming two retail flagships to Williamsburg, Brooklyn. Men’s apparel brand Bylt Basics has selected 108 North Sixth Street, between Berry Street and Wythe Avenue, to host its first permanent New York City storefront, Commercial Observer has.\n\nPodcast: How Landlords Can Solve the Tenant Visibility Problem – Sytes’ Rafael Weiss: Rafael Weiss is the co-founder of Sytes , a marketplace platform that connects commercial real estate landlords, developers, and brokers with tenants actively looking for space in real time.",
+    "cre_daily": "Fields West in Frisco Hits 75% Pre-Lease With New Tenants: Fields West, a Frisco mixed-use development, has pre-leased 75% of its retail and dining space with seven new tenants. The new leases include brands like Lululemon, Boll & Branch, and Flower Child, bringing the roster to 44 retail and restaurant tenants.\n\nSimon Property to More Than Double $18M in Lost Saks Rents: Simon Property Group is re-leasing more than 1 million square feet vacated by Saks Fifth Avenue at rents 144% above what the bankrupt retailer had been paying. The REIT projects replacing $18M in annual Saks base rents with $44M from new tenants — adding roughly $26M in net operating income as leases are executed and.\n\nBlackstone Buys Palm Beach Retail From Ken Griffin for $86M: Blackstone is acquiring a 49K SF Worth Avenue property from Ken Griffin’s Citadel entity for $86M. This deal marks another major transaction on Palm Beach’s premier retail corridor, which currently boasts less than 1% retail vacancy.\n\nFlex Retail Propels Triangle Region’s Retail Revival: Flex retail assets are seeing heightened leasing demand in Raleigh’s Triangle region, with single-story office conversions on the rise. Vacancy rates for retail spaces under 10K SF have dropped to 1.6% in Q2, per Colliers, outpacing larger format properties.",
+    "new_york_post": "Abandoned LA mall that spans 10 square blocks where ‘Fast and Furious’ was filmed is finally being demolished: The massive property was also in blockbuster hits like “The Fast and the Furious: Tokyo Drift” and “Gone Girl.”.\n\nIconic Fireman Hospitality files for bankruptcy — spurring NYC’s biggest restaurant-empire crisis since 2020: The COVID pandemic’s long shadow threatens the future of Fireman Hospitality Group, which runs some of Manhattan’s most iconic and venerable Italian restaurants.\n\nSprawling ‘Love Island’ estate quietly lists for sale in Hawaii: ‘Hard to beat’: The spread served as the Casa Amor villa during Season 3 of the hit show.\n\nUnique New York mirror house designed to reflect its natural surroundings listed for $15 million: At first glance, the four-bedroom estate appears almost like an optical illusion with its dazzling design.",
+    "pincusco": "Tavros signs $65.3M refi with Korea-based Mirae Asset Securities for retail, office in Chelsea.\n\nArmand Baklajian pays $3.8M for retail in Middle Village, owns adjacent.\n\nShie Lefkovits, Azimuth obtain $17.5M construction loan from Broadview to build school in Sunset Park.\n\nSimcha Singer files plans for 40 units in Arverne."
   },
   "items": [
+    {
+      "headline": "Burlington Takes 44K SF at Bay Ridge Retail Center Development",
+      "summary": "Off-price retailer Burlington has inked a 44,070-square-foot retail lease at Century Marketplace , a new retail development coming to 458 86th Street in Bay Ridge, Brooklyn, developer MCB Real Estate announced Tuesday. The site between Fourth and Fifth avenues is undergoing a $130 million mixed-use redevelopment to turn the former 14-lot Century 21 department store assemblage into a 95,000-square-foot retail center.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/08/burlington-lease-bay-ridge-retail-century-marketplace/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-08-19T16:54:13.000Z"
+    },
     {
       "headline": "Fields West in Frisco Hits 75% Pre-Lease With New Tenants",
       "summary": "Fields West, a Frisco mixed-use development, has pre-leased 75% of its retail and dining space with seven new tenants. The new leases include brands like Lululemon, Boll & Branch, and Flower Child, bringing the roster to 44 retail and restaurant tenants. This adds momentum to the 55-acre urban village, part of the 2,545-acre Fields master plan aiming for 11M SF of commercial and office space.…",
@@ -19,15 +28,6 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-08-18T04:51:10.000Z"
-    },
-    {
-      "headline": "Private Investors Drive Surge in NNN-Leased Restaurant Deals",
-      "summary": "Transaction volume for single-tenant, triple-net retail rose 18% through Q3 2025, according to Marcus & Millichap. Fast-casual and quick-service restaurant properties are leading demand, offering investors reliable income with minimal management. Tax policy changes and Sun Belt market growth are fueling strategic shifts away from hands-on assets toward NNN-leased restaurants.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/private-investors-drive-surge-in-nnn-leased-restaurant-deals/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-08-07T06:05:12.000Z"
     },
     {
       "headline": "Simon Property to More Than Double $18M in Lost Saks Rents",
@@ -75,6 +75,24 @@
       "published_at": "2026-08-13T06:38:14.000Z"
     },
     {
+      "headline": "L3 Capital Secures 24K SF for Bylt Basics, Zara Flagships in Williamsburg",
+      "summary": "L3 Capital ’s 108 North Sixth Street and 184-192 Bedford Avenue are welcoming two retail flagships to Williamsburg, Brooklyn. Men’s apparel brand Bylt Basics has selected 108 North Sixth Street, between Berry Street and Wythe Avenue, to host its first permanent New York City storefront, Commercial Observer has learned, in a bold signal of the retail corridor’s growing retail dominance.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/08/l3-capital-leases-bylt-basics-zara-williamsburg/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-08-19T17:47:46.000Z"
+    },
+    {
+      "headline": "Retail Store Closures Outpace Openings, Bigger Boxes Win",
+      "summary": "U.S. retailers posted a net loss of 144 stores through July 2026 as closures narrowly outpaced openings, but incoming locations averaged nearly double the square footage of closing ones, pushing net retail space up 26.1 million square feet, according to Coresight Research. IKEA, Publix, Bass Pro Shops, Meijer and Rural King led large-format expansion, while American Signature, Walgreens and Saks Fifth Avenue accounted for the year’s biggest footprint contractions.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/retail-store-closures-outpace-openings-bigger-boxes-win/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-08-14T19:04:43.000Z"
+    },
+    {
       "headline": "Podcast: How Landlords Can Solve the Tenant Visibility Problem – Sytes’ Rafael Weiss",
       "summary": "Rafael Weiss is the co-founder of Sytes , a marketplace platform that connects commercial real estate landlords, developers, and brokers with tenants actively looking for space in real time. Rafael came to the problem as a developer who lost a deal because tenant demand was invisible until it was too late, and built Sytes to fix the information asymmetry at the core of retail leasing.…",
       "source": "Commercial Observer",
@@ -102,15 +120,6 @@
       "published_at": "2026-08-10T16:07:33.000Z"
     },
     {
-      "headline": "Betting on South Beach Luxury Shopping, Vivienne Westwood Plans to Open Store",
-      "summary": "Vivienne Westwood is finally getting serious about opening a boutique in Miami’s South Beach. Almost two years after buying the three-story property at 736 Collins Avenue and letting it sit vacant, the luxury fashion brand has submitted an application to build out the property, which dates back to 1921. The 4,356-square-foot ground-floor space would feature a store with three fittings rooms and two storage rooms.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/miami-vivienne-westwood-736-collins-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-08-18T17:55:31.000Z"
-    },
-    {
       "headline": "Nordstrom Rack Takes 22K SF in Wellington, Fla.",
       "summary": "Nordstrom Rack has signed a 22,000-square-foot lease in Wellington, Fla., the Seattle-based retailer announced Thursday. Nordstrom Rack is the discount concept run by Nordstrom . The new store, set to open in spring 2027, will be at The Shoppes at Isla Verde at 800-1020 South State Road 7 . Other tenants include Best Buy, Homesense, Total Wine & More, Petco , Old Navy, Ulta and Rack Room Shoes . Terms of the lease were not disclosed.…",
       "source": "Commercial Observer",
@@ -120,31 +129,67 @@
       "published_at": "2026-08-06T18:25:03.000Z"
     },
     {
-      "headline": "BLDG Management signs $5M refi loan with M&T Bank for retail in Harlem",
+      "headline": "MNRK Music Group Inks 8K SF at Rosen’s 443 Park Avenue South",
+      "summary": "Independent music company MNRK Music Group has leased 7,629 square feet at the Rosen family’s 443 Park Avenue South office building, Commercial Observer has learned. The seven-year, seven-month office lease occupies the entire ninth floor of the 11-story tower, according to Koeppel Rosen , the leasing and management agent for the Rosen family portfolio. The building is at the corner of Park Avenue and East 30th Street near Manhattan’s Murray Hill neighborhood.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/08/mnrk-music-group-lease-rosen-443-park-avenue-south/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-08-19T18:32:25.000Z"
+    },
+    {
+      "headline": "Household Goods Seller Diamond Home Signs 7K-SF Lease at 20 West 36th Street",
+      "summary": "A household goods importer and distributor has signed a new office lease in Midtown South, Commercial Observer has learned. Diamond Home signed a 7,272-square-foot deal for the entire fifth floor of the Rosen family’s 20 West 36th Street with a term of ​​seven years and seven months in a relocation from 28 West 36th Street , according to the brokers. Asking rent for the building between Fifth Avenue and Avenue of the Americas was $46 per square foot, according to the landlord.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/08/diamond-home-lease-20-west-36th-street/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-08-19T20:03:46.000Z"
+    },
+    {
+      "headline": "Tavros signs $65.3M refi with Korea-based Mirae Asset Securities for retail, office in Chelsea",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/bldg-management-signs-5m-refi-loan-with-mt-bank-for-retail-in-harlem/",
+      "url": "https://www.pincusco.com/tavros-signs-65-3m-refi-with-korea-based-mirae-asset-securities-for-retail-office-in-chelsea/",
       "section": "pincusco",
       "retail": true,
-      "published_at": "2026-08-18T17:52:00.000Z"
+      "published_at": "2026-08-19T14:02:00.000Z"
     },
     {
-      "headline": "Cybersecurity Tracker SecurityScorecard Renews 1140 Avenue of the Americas Lease",
-      "summary": "A cybersecurity risk management firm is renewing its Midtown office space, Commercial Observer has learned. SecurityScorecard signed a five-year renewal on its 8,475-square-foot space at 1140 Avenue of the Americas , owned by American Strategic Investment Company , where it has been since 2023, according to tenant broker JLL . The asking rent was not immediately disclosed, but the average office asking rent in Midtown in the second quarter of 2026 was $86.18 per square foot, according to a CBRE report.…",
+      "headline": "Goodland Pickleball Takes 30K SF for New Indoor Clubs in Brooklyn, Queens",
+      "summary": "Indoor pickleball club operator Goodland Pickleball has secured two new club locations in New York City, Commercial Observer has learned. The long-term leases span a total of 30,100 square feet within Class A buildings in Williamsburg, Brooklyn, and Rego Park, Queens. Goodland, which secured its first indoor New York City club in Brooklyn’s Greenpoint neighborhood in 2024, reports more than 11,000 members across the city.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/securityscorecard-lease-renewal-1140-avenue-of-the-americas/",
+      "url": "https://commercialobserver.com/2026/08/goodland-pickleball-lease-williamsburg-rego-park-clubs/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-08-18T15:51:40.000Z"
+      "published_at": "2026-08-19T13:00:34.000Z"
     },
     {
-      "headline": "Mall Giant Macerich Narrows Losses in Q2 Amid Stronger Leasing",
-      "summary": "“No one is building new regional malls, and roughly 90 percent of our go-forward NOI comes from Class A assets and the best retailers of the world.” So said Jackson Hsieh , president and CEO of Macerich , early on during the mall-focused real estate investment trust’s second-quarter earnings call Tuesday afternoon. (He was referring to projected net operating income.) The observation goes a long way toward explaining the REIT’s continued turnaround.…",
+      "headline": "Abandoned LA mall that spans 10 square blocks where ‘Fast and Furious’ was filmed is finally being demolished",
+      "summary": "The massive property was also in blockbuster hits like “The Fast and the Furious: Tokyo Drift” and “Gone Girl.”",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/19/real-estate/abandoned-los-angeles-mall-hawthorne-plaza-to-be-demolished/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-08-19T18:35:11.000Z"
+    },
+    {
+      "headline": "Armand Baklajian pays $3.8M for retail in Middle Village, owns adjacent",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/armand-baklajian-pays-3-8m-to-gioacchino-digrigoli-for-mixed-use-in-middle-village/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-08-19T14:19:00.000Z"
+    },
+    {
+      "headline": "Mexican Restaurant Santo Taco Subleases Former West Village Dig Inn Space",
+      "summary": "Santo Taco is subleasing space formerly occupied by Dig Inn in Manhattan’s West Village, Commercial Observer has learned. The Mexican food concept launched by Santiago Perez in 2025 will take over the 2,800-square-foot, street-level and below-grade space at the Robert Jaffee -owned 232 Bleecker Street at the corner of Bleecker and Carmine streets, according to ManagRE . The sublease runs until 2041.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/macerich-second-quarter-2026-leasing/",
+      "url": "https://commercialobserver.com/2026/08/santo-taco-sublease-dig-inn-232-bleecker-street/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-08-05T13:49:02.000Z"
+      "published_at": "2026-08-19T13:34:52.000Z"
     },
     {
       "headline": "Iconic Fireman Hospitality files for bankruptcy — spurring NYC’s biggest restaurant-empire crisis since 2020",
@@ -156,40 +201,58 @@
       "published_at": "2026-08-18T20:42:06.000Z"
     },
     {
-      "headline": "Ark’s Bryant Park restaurant evictions are looming after lengthy legal battle",
-      "summary": "The nonprofit Bryant Park Corporation, Ark’s landlord, wants to replace Ark with a restaurant run by Jean-Georges Vongerichten.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/16/business/arks-bryant-park-restaurant-evictions-are-looming-after-legal-battle/",
-      "section": "new_york_post",
-      "retail": true,
-      "published_at": "2026-08-16T16:31:00.000Z"
-    },
-    {
-      "headline": "SCG Capital signs $22.8M construction loan with Popular Bank for 99-unit project in Bedford Park",
+      "headline": "Shie Lefkovits, Azimuth obtain $17.5M construction loan from Broadview to build school in Sunset Park",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/scg-capital-signs-18-4m-construction-loan-with-popular-bank-for-99-unit-project-in-bedford-park/",
+      "url": "https://www.pincusco.com/shie-lefkovits-azimuth-obtain-17-5m-construction-loan-from-broadview-capital-to-build-school-in-sunset-park/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-08-17T14:55:00.000Z"
+      "published_at": "2026-08-19T14:39:00.000Z"
     },
     {
-      "headline": "Flatiron Building nears sellout as wealthy buyers race to claim a rare piece of NYC history",
-      "summary": "Only four apartments remain up for sale at the iconic Flatiron Building as its $380 million condo conversion nears a fall 2026 opening.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/17/real-estate/nycs-flatiron-building-nears-sellout/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-08-17T20:22:16.000Z"
-    },
-    {
-      "headline": "Balkar Singh files plans for 40 units in East New York",
+      "headline": "Simcha Singer files plans for 40 units in Arverne",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/balkar-singh-files-plans-for-40-units-in-east-new-york/",
+      "url": "https://www.pincusco.com/simcha-singer-files-plans-for-40-units-in-arverne/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-08-17T19:07:00.000Z"
+      "published_at": "2026-08-19T14:48:00.000Z"
+    },
+    {
+      "headline": "Bruklyn Builders signs $8M refi with Societe Generale for mixed-use in Williamsburg",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/bruklyn-builders-signs-8m-refi-with-societe-generale-for-mixed-use-in-williamsburg/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-19T14:30:00.000Z"
+    },
+    {
+      "headline": "Stephan Tchorbajian signs $9.2M refi loan with Barclays for residential elevator in Bedford Stuyvesant",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/stephan-tchorbajian-signs-9-2m-refi-loan-with-barclays-for-residential-elevator-in-bedford-stuyvesant/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-19T13:48:00.000Z"
+    },
+    {
+      "headline": "Jerry Wang signs $10M refi with Provident for 10-unit, mixed-use in Flushing",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/jerry-wang-signs-10m-refi-with-provident-for-10-unit-mixed-use-in-flushing/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-19T13:31:00.000Z"
+    },
+    {
+      "headline": "Evenhar Development signs $12M refi with Chase for mixed-use in SoHo",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/evenhar-development-signs-12m-refi-with-chase-for-mixed-use-in-soho/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-19T13:25:00.000Z"
     },
     {
       "headline": "Sprawling ‘Love Island’ estate quietly lists for sale in Hawaii: ‘Hard to beat’",
@@ -201,67 +264,13 @@
       "published_at": "2026-08-18T20:03:33.000Z"
     },
     {
-      "headline": "Extell Development pays $65M to Parkoff Organization for office in Midtown East",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/extell-development-pays-65m-to-parkoff-organization-for-office-in-midtown-east/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-18T18:19:00.000Z"
-    },
-    {
-      "headline": "$37.5M pre-foreclosure filed at Midtown South office building",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/37-5m-pre-foreclosure-filed-at-midtown-south-office-building/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-18T12:08:23.000Z"
-    },
-    {
-      "headline": "Davis Companies files $73M pre-foreclosure at Chelsea office",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/davis-companies-files-73m-pre-foreclosure-at-chelsea-office/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-18T08:30:08.000Z"
-    },
-    {
-      "headline": "Rentals now allowed in historic water tower on King Charles’ Sandringham Estate where royals spend Christmas",
-      "summary": "The neo-Byzantine tower built in the 19th century to supply fresh water to the royal residence is now a romantic retreat for two",
+      "headline": "Unique New York mirror house designed to reflect its natural surroundings listed for $15 million",
+      "summary": "At first glance, the four-bedroom estate appears almost like an optical illusion with its dazzling design.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/08/17/real-estate/rentals-now-allowed-in-historic-water-tower-on-king-charles-sandringham-estate-where-royals-spend-christmas/",
+      "url": "https://nypost.com/2026/08/19/real-estate/unique-new-york-mirror-house-designed-to-reflect-its-natural-surroundings-listed-for-15-million/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-08-17T22:44:26.000Z"
-    },
-    {
-      "headline": "Jian Yun Liu files plans for 30 units in Elmhurst",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/jian-yun-liu-files-plans-for-30-units-in-elmhurst/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-17T18:51:00.000Z"
-    },
-    {
-      "headline": "Gjovan Rroku files plans for 28 units in Allerton",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/gjovan-rroku-files-plans-for-28-units-in-allerton/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-17T18:36:00.000Z"
-    },
-    {
-      "headline": "Major update for Ken Griffin’s 350 Park Ave. tower plans as steel company takes on massive haul",
-      "summary": "The 62-story, 1469-foot tall cloudbuster is to be completed in 2032.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/16/business/major-update-for-ken-griffins-350-park-ave-tower-plans/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-08-16T16:15:27.000Z"
+      "published_at": "2026-08-19T19:40:51.000Z"
     },
     {
       "headline": "Popular NYC brunch staple shutters 2 locations — as landlord sues another outpost for unpaid rent",
@@ -271,15 +280,6 @@
       "section": "new_york_post",
       "retail": false,
       "published_at": "2026-08-18T17:55:44.000Z"
-    },
-    {
-      "headline": "Neko Health opening first US clinic in NYC this September and already has a 25,000 person waitlist",
-      "summary": "Founded by Spotify executive chairman Daniel Ek, Neko pioneered an affordable ($499), non-invasive and radiation-free scan.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/18/business/neko-health-scan-opening-first-us-clinic-in-nyc-in-september/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-08-18T14:00:00.000Z"
     }
   ]
 }
