@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-08-20",
-  "generated_at": "2026-08-20T10:38:10.671Z",
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T10:37:48.720Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Burlington Takes 44K SF at Bay Ridge Retail Center Development: Off-price retailer Burlington has inked a 44,070-square-foot retail lease at Century Marketplace , a new retail development coming to 458 86th Street in Bay Ridge, Brooklyn, developer MCB Real Estate announced Tuesday.\n\nMadewell To Open New Store at Tishman Speyer’s 1 Rockefeller Plaza: Famed denim and clothing brand Madewell is opening a new store at Tishman Speyer ’s 1 Rockefeller Plaza , the landlord announced Thursday. The retailer signed a 7,340-square-foot lease at the Midtown landmark, where its new space will open in 2027.\n\nL3 Capital Secures 24K SF for Bylt Basics, Zara Flagships in Williamsburg: L3 Capital ’s 108 North Sixth Street and 184-192 Bedford Avenue are welcoming two retail flagships to Williamsburg, Brooklyn. Men’s apparel brand Bylt Basics has selected 108 North Sixth Street, between Berry Street and Wythe Avenue, to host its first permanent New York City storefront, Commercial Observer has.\n\nPodcast: How Landlords Can Solve the Tenant Visibility Problem – Sytes’ Rafael Weiss: Rafael Weiss is the co-founder of Sytes , a marketplace platform that connects commercial real estate landlords, developers, and brokers with tenants actively looking for space in real time.",
+    "commercial_observer": "Burlington Takes 44K SF at Bay Ridge Retail Center Development: Off-price retailer Burlington has inked a 44,070-square-foot retail lease at Century Marketplace , a new retail development coming to 458 86th Street in Bay Ridge, Brooklyn, developer MCB Real Estate announced Tuesday.\n\nMadewell To Open New Store at Tishman Speyer’s 1 Rockefeller Plaza: Famed denim and clothing brand Madewell is opening a new store at Tishman Speyer ’s 1 Rockefeller Plaza , the landlord announced Thursday. The retailer signed a 7,340-square-foot lease at the Midtown landmark, where its new space will open in 2027.\n\nPlanet Fitness Takes 15K SF at Coney Island Residential Development: Wake up, it’s time for a workout. Planet Fitness has inked a 14,500-square-foot retail lease at the base of a new residential tower in Coney Island, Brooklyn, with Cammeby’s International Group and Rybak Development .\n\nL3 Capital Secures 24K SF for Bylt Basics, Zara Flagships in Williamsburg: L3 Capital ’s 108 North Sixth Street and 184-192 Bedford Avenue are welcoming two retail flagships to Williamsburg, Brooklyn. Men’s apparel brand Bylt Basics has selected 108 North Sixth Street, between Berry Street and Wythe Avenue, to host its first permanent New York City storefront, Commercial Observer has.",
     "cre_daily": "Fields West in Frisco Hits 75% Pre-Lease With New Tenants: Fields West, a Frisco mixed-use development, has pre-leased 75% of its retail and dining space with seven new tenants. The new leases include brands like Lululemon, Boll & Branch, and Flower Child, bringing the roster to 44 retail and restaurant tenants.\n\nSimon Property to More Than Double $18M in Lost Saks Rents: Simon Property Group is re-leasing more than 1 million square feet vacated by Saks Fifth Avenue at rents 144% above what the bankrupt retailer had been paying. The REIT projects replacing $18M in annual Saks base rents with $44M from new tenants — adding roughly $26M in net operating income as leases are executed and.\n\nBlackstone Buys Palm Beach Retail From Ken Griffin for $86M: Blackstone is acquiring a 49K SF Worth Avenue property from Ken Griffin’s Citadel entity for $86M. This deal marks another major transaction on Palm Beach’s premier retail corridor, which currently boasts less than 1% retail vacancy.\n\nFlex Retail Propels Triangle Region’s Retail Revival: Flex retail assets are seeing heightened leasing demand in Raleigh’s Triangle region, with single-story office conversions on the rise. Vacancy rates for retail spaces under 10K SF have dropped to 1.6% in Q2, per Colliers, outpacing larger format properties.",
-    "new_york_post": "Abandoned LA mall that spans 10 square blocks where ‘Fast and Furious’ was filmed is finally being demolished: The massive property was also in blockbuster hits like “The Fast and the Furious: Tokyo Drift” and “Gone Girl.”.\n\nIconic Fireman Hospitality files for bankruptcy — spurring NYC’s biggest restaurant-empire crisis since 2020: The COVID pandemic’s long shadow threatens the future of Fireman Hospitality Group, which runs some of Manhattan’s most iconic and venerable Italian restaurants.\n\nSprawling ‘Love Island’ estate quietly lists for sale in Hawaii: ‘Hard to beat’: The spread served as the Casa Amor villa during Season 3 of the hit show.\n\nUnique New York mirror house designed to reflect its natural surroundings listed for $15 million: At first glance, the four-bedroom estate appears almost like an optical illusion with its dazzling design.",
-    "pincusco": "Tavros signs $65.3M refi with Korea-based Mirae Asset Securities for retail, office in Chelsea.\n\nArmand Baklajian pays $3.8M for retail in Middle Village, owns adjacent.\n\nShie Lefkovits, Azimuth obtain $17.5M construction loan from Broadview to build school in Sunset Park.\n\nSimcha Singer files plans for 40 units in Arverne."
+    "new_york_post": "Abandoned LA mall that spans 10 square blocks where ‘Fast and Furious’ was filmed is finally being demolished: The massive property was also in blockbuster hits like “The Fast and the Furious: Tokyo Drift” and “Gone Girl.”.\n\nIconic Fireman Hospitality files for bankruptcy — spurring NYC’s biggest restaurant-empire crisis since 2020: The COVID pandemic’s long shadow threatens the future of Fireman Hospitality Group, which runs some of Manhattan’s most iconic and venerable Italian restaurants.\n\nMarried couples are NYC’s largest homeowner group — except in 1 borough: Married couples still dominate NYC homeownership, but one island in particular tells a different story, new PropertyShark data shows.\n\nA comedian’s joke pied-à-terre tax workaround could actually go legit after struggling New Yorkers and homeowners flooded inbox: A satirical website pairing artists with vacant luxury apartments to skirt NYC's new pied-à-terre tax has drawn thousands of real applicants.",
+    "pincusco": "McSam Hotel Group signs $42M loan with Webster Bank for hotel in Times Square.\n\nShie Lefkovits, Azimuth obtain $17.5M construction loan from Broadview to build school in Sunset Park.\n\nGlobal One Investments signs $21M loan with Chase for 285-unit rental in Pelham Bay.\n\nLockhill Properties pays $9.4M for mixed-use in FiDi."
   },
   "items": [
     {
@@ -46,6 +46,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-08-13T15:29:08.000Z"
+    },
+    {
+      "headline": "Planet Fitness Takes 15K SF at Coney Island Residential Development",
+      "summary": "Wake up, it’s time for a workout. Planet Fitness has inked a 14,500-square-foot retail lease at the base of a new residential tower in Coney Island, Brooklyn, with Cammeby’s International Group and Rybak Development . Planet Fitness will move into the space at 532 Neptune Avenue next year on a 10-year lease with an asking rent of $65 per square foot, according to the New York Business Journal , which first reported the deal.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/08/planet-fitness-lease-coney-island-532-neptune-avenue/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-08-20T14:28:47.000Z"
     },
     {
       "headline": "Blackstone Buys Palm Beach Retail From Ken Griffin for $86M",
@@ -120,40 +129,13 @@
       "published_at": "2026-08-10T16:07:33.000Z"
     },
     {
-      "headline": "Nordstrom Rack Takes 22K SF in Wellington, Fla.",
-      "summary": "Nordstrom Rack has signed a 22,000-square-foot lease in Wellington, Fla., the Seattle-based retailer announced Thursday. Nordstrom Rack is the discount concept run by Nordstrom . The new store, set to open in spring 2027, will be at The Shoppes at Isla Verde at 800-1020 South State Road 7 . Other tenants include Best Buy, Homesense, Total Wine & More, Petco , Old Navy, Ulta and Rack Room Shoes . Terms of the lease were not disclosed.…",
+      "headline": "Principal Financial Group Loans $32M to Refi Queens Shopping Center",
+      "summary": "An affiliate of Mattone Investors secured $32 million to refinance Springnex Plaza , a 96,028-square-foot shopping center anchored by a Stop & Shop supermarket in the Queens neighborhood of Springfield Gardens. Principal Financial Group provided the debt, while Northmarq ’s Robert Delitsky and Charles Cotsalas arranged the transaction. Delitsky noted in a statement that Mattone Investors first developed Springnex Plaza six years ago and “have done a fabulous job maintaining very strong occupancy” since then.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/nordstrom-rack-retail-lease-florida-metlife/",
+      "url": "https://commercialobserver.com/2026/08/principal-financial-group-32m-refi-queens-springnex-plaza/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-08-06T18:25:03.000Z"
-    },
-    {
-      "headline": "MNRK Music Group Inks 8K SF at Rosen’s 443 Park Avenue South",
-      "summary": "Independent music company MNRK Music Group has leased 7,629 square feet at the Rosen family’s 443 Park Avenue South office building, Commercial Observer has learned. The seven-year, seven-month office lease occupies the entire ninth floor of the 11-story tower, according to Koeppel Rosen , the leasing and management agent for the Rosen family portfolio. The building is at the corner of Park Avenue and East 30th Street near Manhattan’s Murray Hill neighborhood.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/mnrk-music-group-lease-rosen-443-park-avenue-south/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-08-19T18:32:25.000Z"
-    },
-    {
-      "headline": "Household Goods Seller Diamond Home Signs 7K-SF Lease at 20 West 36th Street",
-      "summary": "A household goods importer and distributor has signed a new office lease in Midtown South, Commercial Observer has learned. Diamond Home signed a 7,272-square-foot deal for the entire fifth floor of the Rosen family’s 20 West 36th Street with a term of ​​seven years and seven months in a relocation from 28 West 36th Street , according to the brokers. Asking rent for the building between Fifth Avenue and Avenue of the Americas was $46 per square foot, according to the landlord.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/diamond-home-lease-20-west-36th-street/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-08-19T20:03:46.000Z"
-    },
-    {
-      "headline": "Tavros signs $65.3M refi with Korea-based Mirae Asset Securities for retail, office in Chelsea",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/tavros-signs-65-3m-refi-with-korea-based-mirae-asset-securities-for-retail-office-in-chelsea/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-08-19T14:02:00.000Z"
+      "published_at": "2026-08-20T18:53:50.000Z"
     },
     {
       "headline": "Goodland Pickleball Takes 30K SF for New Indoor Clubs in Brooklyn, Queens",
@@ -174,15 +156,6 @@
       "published_at": "2026-08-19T18:35:11.000Z"
     },
     {
-      "headline": "Armand Baklajian pays $3.8M for retail in Middle Village, owns adjacent",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/armand-baklajian-pays-3-8m-to-gioacchino-digrigoli-for-mixed-use-in-middle-village/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-08-19T14:19:00.000Z"
-    },
-    {
       "headline": "Mexican Restaurant Santo Taco Subleases Former West Village Dig Inn Space",
       "summary": "Santo Taco is subleasing space formerly occupied by Dig Inn in Manhattan’s West Village, Commercial Observer has learned. The Mexican food concept launched by Santiago Perez in 2025 will take over the 2,800-square-foot, street-level and below-grade space at the Robert Jaffee -owned 232 Bleecker Street at the corner of Bleecker and Carmine streets, according to ManagRE . The sublease runs until 2041.…",
       "source": "Commercial Observer",
@@ -201,6 +174,15 @@
       "published_at": "2026-08-18T20:42:06.000Z"
     },
     {
+      "headline": "McSam Hotel Group signs $42M loan with Webster Bank for hotel in Times Square",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/mcsam-hotel-group-signs-42m-loan-with-webster-bank-for-hotel-in-times-square/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-20T13:49:00.000Z"
+    },
+    {
       "headline": "Shie Lefkovits, Azimuth obtain $17.5M construction loan from Broadview to build school in Sunset Park",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
@@ -208,6 +190,24 @@
       "section": "pincusco",
       "retail": false,
       "published_at": "2026-08-19T14:39:00.000Z"
+    },
+    {
+      "headline": "Global One Investments signs $21M loan with Chase for 285-unit rental in Pelham Bay",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/global-one-investments-signs-21m-loan-with-jpmorgan-chase-for-residential-elevator-in-pelham-bay/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-20T13:45:00.000Z"
+    },
+    {
+      "headline": "Lockhill Properties pays $9.4M for mixed-use in FiDi",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/lockhill-properties-pays-9-4m-for-mixed-use-in-fidi/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-20T13:44:00.000Z"
     },
     {
       "headline": "Simcha Singer files plans for 40 units in Arverne",
@@ -219,49 +219,40 @@
       "published_at": "2026-08-19T14:48:00.000Z"
     },
     {
-      "headline": "Bruklyn Builders signs $8M refi with Societe Generale for mixed-use in Williamsburg",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/bruklyn-builders-signs-8m-refi-with-societe-generale-for-mixed-use-in-williamsburg/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-19T14:30:00.000Z"
-    },
-    {
-      "headline": "Stephan Tchorbajian signs $9.2M refi loan with Barclays for residential elevator in Bedford Stuyvesant",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/stephan-tchorbajian-signs-9-2m-refi-loan-with-barclays-for-residential-elevator-in-bedford-stuyvesant/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-19T13:48:00.000Z"
-    },
-    {
-      "headline": "Jerry Wang signs $10M refi with Provident for 10-unit, mixed-use in Flushing",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/jerry-wang-signs-10m-refi-with-provident-for-10-unit-mixed-use-in-flushing/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-19T13:31:00.000Z"
-    },
-    {
-      "headline": "Evenhar Development signs $12M refi with Chase for mixed-use in SoHo",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/evenhar-development-signs-12m-refi-with-chase-for-mixed-use-in-soho/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-19T13:25:00.000Z"
-    },
-    {
-      "headline": "Sprawling ‘Love Island’ estate quietly lists for sale in Hawaii: ‘Hard to beat’",
-      "summary": "The spread served as the Casa Amor villa during Season 3 of the hit show.",
+      "headline": "Married couples are NYC’s largest homeowner group — except in 1 borough",
+      "summary": "Married couples still dominate NYC homeownership, but one island in particular tells a different story, new PropertyShark data shows.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/08/18/real-estate/love-island-estate-quietly-lists-for-sale-in-hawaii/",
+      "url": "https://nypost.com/2026/08/20/real-estate/married-couples-are-nycs-largest-homeowner-group/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-08-18T20:03:33.000Z"
+      "published_at": "2026-08-20T18:55:59.000Z"
+    },
+    {
+      "headline": "A comedian’s joke pied-à-terre tax workaround could actually go legit after struggling New Yorkers and homeowners flooded inbox",
+      "summary": "A satirical website pairing artists with vacant luxury apartments to skirt NYC's new pied-à-terre tax has drawn thousands of real applicants.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/20/real-estate/a-joke-about-dodging-the-pied-a-terre-tax-just-might-go-legit/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-08-20T16:57:02.000Z"
+    },
+    {
+      "headline": "Robert F. Kennedy’s former NYC co-op sells for first time in 50-plus years following a bidding war",
+      "summary": "The 870 United Nations Plaza unit still features original details from the time that it was owned by the late Democratic presidential candidate.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/20/real-estate/rfks-nyc-co-op-sells-for-first-time-in-50-years-for-1-99m/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-08-20T14:50:16.000Z"
+    },
+    {
+      "headline": "NYC pre-foreclosure roundup: $110M in Midtown West, $32M in Murray Hill, $16.9M in Longwood, $10.45M in Bed Stuy",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/nyc-pre-foreclosure-roundup-110m-in-midtown-west-32m-in-murray-hill-16-9m-in-longwood-10-45m-in-bed-stuy/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-20T10:35:34.000Z"
     },
     {
       "headline": "Unique New York mirror house designed to reflect its natural surroundings listed for $15 million",
@@ -273,13 +264,22 @@
       "published_at": "2026-08-19T19:40:51.000Z"
     },
     {
-      "headline": "Popular NYC brunch staple shutters 2 locations — as landlord sues another outpost for unpaid rent",
-      "summary": "The beloved brand closed the doors on two Manhattan locations, as the fate of a third appears to hang in the balance.",
+      "headline": "California’s 10 cheapest cities to buy homes — charming mountain town with $325K homes takes top spot",
+      "summary": "The top 10 cities in California that won't make you flee that state.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/08/18/real-estate/popular-nyc-brunch-restaurant-sarabeths-closes-two-stores/",
+      "url": "https://nypost.com/2026/08/20/real-estate/10-cheapest-cities-to-buy-homes-in-california-revealed/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-08-18T17:55:44.000Z"
+      "published_at": "2026-08-20T21:22:44.000Z"
+    },
+    {
+      "headline": "Billionaire’s playground on California border gets secret weapon in fight against wildfires: ‘The worm’",
+      "summary": "Billionaire playgrounds get all the best toys.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/20/real-estate/wealthy-california-enclave-deploys-bots-to-create-wildfire-buffer-zone/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-08-20T18:12:25.000Z"
     }
   ]
 }
