@@ -1,13 +1,13 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-08-22",
-  "generated_at": "2026-08-22T10:31:10.668Z",
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T10:31:18.648Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Whole Foods to Open Daily Shop at Murray Hill’s 509 Third Avenue: Whole Foods Market has leased a 9,000-square-foot retail space in Manhattan’s Murray Hill neighborhood. The 15-year deal occupies a ground-floor space and outdoor terraces at 509 Third Avenue , according to a memorandum of lease filed in city records Friday morning.\n\nBurlington Takes 44K SF at Bay Ridge Retail Center Development: Off-price retailer Burlington has inked a 44,070-square-foot retail lease at Century Marketplace , a new retail development coming to 458 86th Street in Bay Ridge, Brooklyn, developer MCB Real Estate announced Tuesday.\n\nRetail Landlords Need to Underwrite Their Tenants’ Customer Base, Too: Landlords underwrite the retail tenant. But they almost never underwrite the tenant’s customer.\n\nMadewell To Open New Store at Tishman Speyer’s 1 Rockefeller Plaza: Famed denim and clothing brand Madewell is opening a new store at Tishman Speyer ’s 1 Rockefeller Plaza , the landlord announced Thursday. The retailer signed a 7,340-square-foot lease at the Midtown landmark, where its new space will open in 2027.",
     "cre_daily": "Fields West in Frisco Hits 75% Pre-Lease With New Tenants: Fields West, a Frisco mixed-use development, has pre-leased 75% of its retail and dining space with seven new tenants. The new leases include brands like Lululemon, Boll & Branch, and Flower Child, bringing the roster to 44 retail and restaurant tenants.\n\nSimon Property to More Than Double $18M in Lost Saks Rents: Simon Property Group is re-leasing more than 1 million square feet vacated by Saks Fifth Avenue at rents 144% above what the bankrupt retailer had been paying. The REIT projects replacing $18M in annual Saks base rents with $44M from new tenants — adding roughly $26M in net operating income as leases are executed and.\n\nBlackstone Buys Palm Beach Retail From Ken Griffin for $86M: Blackstone is acquiring a 49K SF Worth Avenue property from Ken Griffin’s Citadel entity for $86M. This deal marks another major transaction on Palm Beach’s premier retail corridor, which currently boasts less than 1% retail vacancy.\n\nFlex Retail Propels Triangle Region’s Retail Revival: Flex retail assets are seeing heightened leasing demand in Raleigh’s Triangle region, with single-story office conversions on the rise. Vacancy rates for retail spaces under 10K SF have dropped to 1.6% in Q2, per Colliers, outpacing larger format properties.",
-    "new_york_post": "Abandoned LA mall that spans 10 square blocks where ‘Fast and Furious’ was filmed is finally being demolished: The massive property was also in blockbuster hits like “The Fast and the Furious: Tokyo Drift” and “Gone Girl.”.\n\nNotoriously cramped NYC apartments are actually getting larger in 1 borough: The borough lands at fifth nationally for the biggest gains in living space, according to RentCafe.\n\nMarried couples are NYC’s largest homeowner group — except in 1 borough: Married couples still dominate NYC homeownership, but one island in particular tells a different story, new PropertyShark data shows.\n\nA comedian’s joke pied-à-terre tax workaround could actually go legit after struggling New Yorkers and homeowners flooded inbox: A satirical website pairing artists with vacant luxury apartments to skirt NYC's new pied-à-terre tax has drawn thousands of real applicants.",
+    "new_york_post": "Notoriously cramped NYC apartments are actually getting larger in 1 borough: The borough lands at fifth nationally for the biggest gains in living space, according to RentCafe.\n\nMarried couples are NYC’s largest homeowner group — except in 1 borough: Married couples still dominate NYC homeownership, but one island in particular tells a different story, new PropertyShark data shows.\n\nA comedian’s joke pied-à-terre tax workaround could actually go legit after struggling New Yorkers and homeowners flooded inbox: A satirical website pairing artists with vacant luxury apartments to skirt NYC's new pied-à-terre tax has drawn thousands of real applicants.\n\nRobert F. Kennedy’s former NYC co-op sells for first time in 50-plus years following a bidding war: The 870 United Nations Plaza unit still features original details from the time that it was owned by the late Democratic presidential candidate.",
     "pincusco": "Hung Pin Hung files plans for 10 units in Clinton Hill.\n\nPalwinder Singh files plans for 75 units in Long Island City.\n\nWilliam Xie of EliteX Enterprise files plans for 12 units in Astoria.\n\nGrun Group files plans for 37 units in Jamaica."
   },
   "items": [
@@ -111,13 +111,13 @@
       "published_at": "2026-08-19T17:47:46.000Z"
     },
     {
-      "headline": "Retail Store Closures Outpace Openings, Bigger Boxes Win",
-      "summary": "U.S. retailers posted a net loss of 144 stores through July 2026 as closures narrowly outpaced openings, but incoming locations averaged nearly double the square footage of closing ones, pushing net retail space up 26.1 million square feet, according to Coresight Research. IKEA, Publix, Bass Pro Shops, Meijer and Rural King led large-format expansion, while American Signature, Walgreens and Saks Fifth Avenue accounted for the year’s biggest footprint contractions.…",
+      "headline": "Nike Closes 15 Small Format Nike Live Retail Stores",
+      "summary": "Nike has permanently closed at least 15 Nike Live stores across 12 states, per Retail Dive. The concept launched in 2018 on Melrose Avenue with footprints planned at roughly 4K SF. The closures land during a punishing year that included a 12-year stock low and a JPMorgan downgrade. Key Takeaways According to Bisnow, Nike is closing at least 15 stores it opened under the Nike Live banner. The format was built to serve shoppers in their own neighborhoods.…",
       "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/retail-store-closures-outpace-openings-bigger-boxes-win/",
+      "url": "https://www.credaily.com/briefs/nike-closes-15-small-format-nike-live-retail-stores/",
       "section": "cre_daily",
       "retail": true,
-      "published_at": "2026-08-14T19:04:43.000Z"
+      "published_at": "2026-08-22T15:04:14.000Z"
     },
     {
       "headline": "Podcast: How Landlords Can Solve the Tenant Visibility Problem – Sytes’ Rafael Weiss",
@@ -172,15 +172,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-08-19T13:00:34.000Z"
-    },
-    {
-      "headline": "Abandoned LA mall that spans 10 square blocks where ‘Fast and Furious’ was filmed is finally being demolished",
-      "summary": "The massive property was also in blockbuster hits like “The Fast and the Furious: Tokyo Drift” and “Gone Girl.”",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/19/real-estate/abandoned-los-angeles-mall-hawthorne-plaza-to-be-demolished/",
-      "section": "new_york_post",
-      "retail": true,
-      "published_at": "2026-08-19T18:35:11.000Z"
     },
     {
       "headline": "Mexican Restaurant Santo Taco Subleases Former West Village Dig Inn Space",
@@ -280,6 +271,15 @@
       "section": "new_york_post",
       "retail": false,
       "published_at": "2026-08-20T14:50:16.000Z"
+    },
+    {
+      "headline": "Unique New York mirror house designed to reflect its natural surroundings listed for $15 million",
+      "summary": "At first glance, the four-bedroom estate appears almost like an optical illusion with its dazzling design.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/19/real-estate/unique-new-york-mirror-house-designed-to-reflect-its-natural-surroundings-listed-for-15-million/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-08-19T19:40:51.000Z"
     }
   ]
 }
