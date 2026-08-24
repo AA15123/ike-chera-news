@@ -1,14 +1,13 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-08-23",
-  "generated_at": "2026-08-23T10:31:18.648Z",
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T10:46:19.050Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Whole Foods to Open Daily Shop at Murray Hill’s 509 Third Avenue: Whole Foods Market has leased a 9,000-square-foot retail space in Manhattan’s Murray Hill neighborhood. The 15-year deal occupies a ground-floor space and outdoor terraces at 509 Third Avenue , according to a memorandum of lease filed in city records Friday morning.\n\nBurlington Takes 44K SF at Bay Ridge Retail Center Development: Off-price retailer Burlington has inked a 44,070-square-foot retail lease at Century Marketplace , a new retail development coming to 458 86th Street in Bay Ridge, Brooklyn, developer MCB Real Estate announced Tuesday.\n\nRetail Landlords Need to Underwrite Their Tenants’ Customer Base, Too: Landlords underwrite the retail tenant. But they almost never underwrite the tenant’s customer.\n\nMadewell To Open New Store at Tishman Speyer’s 1 Rockefeller Plaza: Famed denim and clothing brand Madewell is opening a new store at Tishman Speyer ’s 1 Rockefeller Plaza , the landlord announced Thursday. The retailer signed a 7,340-square-foot lease at the Midtown landmark, where its new space will open in 2027.",
-    "cre_daily": "Fields West in Frisco Hits 75% Pre-Lease With New Tenants: Fields West, a Frisco mixed-use development, has pre-leased 75% of its retail and dining space with seven new tenants. The new leases include brands like Lululemon, Boll & Branch, and Flower Child, bringing the roster to 44 retail and restaurant tenants.\n\nSimon Property to More Than Double $18M in Lost Saks Rents: Simon Property Group is re-leasing more than 1 million square feet vacated by Saks Fifth Avenue at rents 144% above what the bankrupt retailer had been paying. The REIT projects replacing $18M in annual Saks base rents with $44M from new tenants — adding roughly $26M in net operating income as leases are executed and.\n\nBlackstone Buys Palm Beach Retail From Ken Griffin for $86M: Blackstone is acquiring a 49K SF Worth Avenue property from Ken Griffin’s Citadel entity for $86M. This deal marks another major transaction on Palm Beach’s premier retail corridor, which currently boasts less than 1% retail vacancy.\n\nFlex Retail Propels Triangle Region’s Retail Revival: Flex retail assets are seeing heightened leasing demand in Raleigh’s Triangle region, with single-story office conversions on the rise. Vacancy rates for retail spaces under 10K SF have dropped to 1.6% in Q2, per Colliers, outpacing larger format properties.",
-    "new_york_post": "Notoriously cramped NYC apartments are actually getting larger in 1 borough: The borough lands at fifth nationally for the biggest gains in living space, according to RentCafe.\n\nMarried couples are NYC’s largest homeowner group — except in 1 borough: Married couples still dominate NYC homeownership, but one island in particular tells a different story, new PropertyShark data shows.\n\nA comedian’s joke pied-à-terre tax workaround could actually go legit after struggling New Yorkers and homeowners flooded inbox: A satirical website pairing artists with vacant luxury apartments to skirt NYC's new pied-à-terre tax has drawn thousands of real applicants.\n\nRobert F. Kennedy’s former NYC co-op sells for first time in 50-plus years following a bidding war: The 870 United Nations Plaza unit still features original details from the time that it was owned by the late Democratic presidential candidate.",
-    "pincusco": "Hung Pin Hung files plans for 10 units in Clinton Hill.\n\nPalwinder Singh files plans for 75 units in Long Island City.\n\nWilliam Xie of EliteX Enterprise files plans for 12 units in Astoria.\n\nGrun Group files plans for 37 units in Jamaica."
+    "new_york_post": "Popular NJ Indian restaurant to open at The Ellery tower: Samudhra signed a lease for about 10,000 square feet at the luxury tower.\n\nNYC’s Union Square seeing frenzy for office, retail space: Recent deals brought several prime buildings around the park to 100% full.\n\nNotoriously cramped NYC apartments are actually getting larger in 1 borough: The borough lands at fifth nationally for the biggest gains in living space, according to RentCafe.\n\nMarried couples are NYC’s largest homeowner group — except in 1 borough: Married couples still dominate NYC homeownership, but one island in particular tells a different story, new PropertyShark data shows.",
+    "pincusco": "United Construction & Development ups debt to $65M from $12.5M at possible dev site in LIC.\n\nHung Pin Hung files plans for 10 units in Clinton Hill.\n\nPalwinder Singh files plans for 75 units in Long Island City.\n\nWilliam Xie of EliteX Enterprise files plans for 12 units in Astoria."
   },
   "items": [
     {
@@ -30,15 +29,6 @@
       "published_at": "2026-08-19T16:54:13.000Z"
     },
     {
-      "headline": "Fields West in Frisco Hits 75% Pre-Lease With New Tenants",
-      "summary": "Fields West, a Frisco mixed-use development, has pre-leased 75% of its retail and dining space with seven new tenants. The new leases include brands like Lululemon, Boll & Branch, and Flower Child, bringing the roster to 44 retail and restaurant tenants. This adds momentum to the 55-acre urban village, part of the 2,545-acre Fields master plan aiming for 11M SF of commercial and office space.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/fields-west-in-frisco-hits-75-pre-lease-with-new-tenants/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-08-18T04:51:10.000Z"
-    },
-    {
       "headline": "Retail Landlords Need to Underwrite Their Tenants’ Customer Base, Too",
       "summary": "Landlords underwrite the retail tenant. But they almost never underwrite the tenant’s customer. They should. That gap costs landlords money, and it is fixable before a listing goes live. The standard leasing process is too reactive: Review comparable rents, post the space on Crexi and LoopNet, wait for responses, and then vet an operator’s finances. Mark Kvetkovskiy. None of that tells you whether enough of that retailer’s customers live near the space.…",
       "source": "Commercial Observer",
@@ -46,15 +36,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-08-21T12:15:18.000Z"
-    },
-    {
-      "headline": "Simon Property to More Than Double $18M in Lost Saks Rents",
-      "summary": "Simon Property Group is re-leasing more than 1 million square feet vacated by Saks Fifth Avenue at rents 144% above what the bankrupt retailer had been paying. The REIT projects replacing $18M in annual Saks base rents with $44M from new tenants — adding roughly $26M in net operating income as leases are executed and tenants open. The re-leasing spread signals that Saks’ Chapter 11 exit may be unlocking value for Class A mall landlords by clearing anchor rents that had been below market for years.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/simon-property-to-more-than-double-18m-in-lost-saks-rents/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-08-13T16:59:55.000Z"
     },
     {
       "headline": "Madewell To Open New Store at Tishman Speyer’s 1 Rockefeller Plaza",
@@ -75,33 +56,6 @@
       "published_at": "2026-08-20T14:28:47.000Z"
     },
     {
-      "headline": "Blackstone Buys Palm Beach Retail From Ken Griffin for $86M",
-      "summary": "Blackstone is acquiring a 49K SF Worth Avenue property from Ken Griffin’s Citadel entity for $86M. This deal marks another major transaction on Palm Beach’s premier retail corridor, which currently boasts less than 1% retail vacancy. The sale underscores investor demand and surging rents in South Florida’s luxury retail market, with county-level sales totaling $690M through H1 2026.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/blackstone-buys-palm-beach-retail-from-ken-griffin-for-86m/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-08-14T16:13:01.000Z"
-    },
-    {
-      "headline": "Flex Retail Propels Triangle Region’s Retail Revival",
-      "summary": "Flex retail assets are seeing heightened leasing demand in Raleigh’s Triangle region, with single-story office conversions on the rise. Vacancy rates for retail spaces under 10K SF have dropped to 1.6% in Q2, per Colliers, outpacing larger format properties. The surge in flex retail points to shifting consumer preferences and a regional uptick in both retail development and investment.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/flex-retail-propels-triangle-region-s-retail-revival/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-08-14T06:03:49.000Z"
-    },
-    {
-      "headline": "Simon Ups 2026 Outlook on Strong Leasing, New Projects",
-      "summary": "Simon Property Group raised its 2026 earnings guidance after posting strong Q2 leasing and revenue results. The REIT signed over 1,200 leases (4.8M SF), grew base rents, and ramped up development spending with a $4B+ pipeline. Stubbornly high occupancy and robust tenant sales suggest continued momentum in the core US mall sector. Key Takeaways Malls Sustain Momentum Post-Pandemic Simon Property Group shows that the US mall sector’s post-pandemic revival still has legs.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/simon-ups-2026-outlook-on-strong-leasing-new-projects/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-08-13T06:38:14.000Z"
-    },
-    {
       "headline": "L3 Capital Secures 24K SF for Bylt Basics, Zara Flagships in Williamsburg",
       "summary": "L3 Capital ’s 108 North Sixth Street and 184-192 Bedford Avenue are welcoming two retail flagships to Williamsburg, Brooklyn. Men’s apparel brand Bylt Basics has selected 108 North Sixth Street, between Berry Street and Wythe Avenue, to host its first permanent New York City storefront, Commercial Observer has learned, in a bold signal of the retail corridor’s growing retail dominance.…",
       "source": "Commercial Observer",
@@ -111,15 +65,6 @@
       "published_at": "2026-08-19T17:47:46.000Z"
     },
     {
-      "headline": "Nike Closes 15 Small Format Nike Live Retail Stores",
-      "summary": "Nike has permanently closed at least 15 Nike Live stores across 12 states, per Retail Dive. The concept launched in 2018 on Melrose Avenue with footprints planned at roughly 4K SF. The closures land during a punishing year that included a 12-year stock low and a JPMorgan downgrade. Key Takeaways According to Bisnow, Nike is closing at least 15 stores it opened under the Nike Live banner. The format was built to serve shoppers in their own neighborhoods.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/nike-closes-15-small-format-nike-live-retail-stores/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-08-22T15:04:14.000Z"
-    },
-    {
       "headline": "Podcast: How Landlords Can Solve the Tenant Visibility Problem – Sytes’ Rafael Weiss",
       "summary": "Rafael Weiss is the co-founder of Sytes , a marketplace platform that connects commercial real estate landlords, developers, and brokers with tenants actively looking for space in real time. Rafael came to the problem as a developer who lost a deal because tenant demand was invisible until it was too late, and built Sytes to fix the information asymmetry at the core of retail leasing.…",
       "source": "Commercial Observer",
@@ -127,6 +72,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-08-13T21:33:59.000Z"
+    },
+    {
+      "headline": "Popular NJ Indian restaurant to open at The Ellery tower",
+      "summary": "Samudhra signed a lease for about 10,000 square feet at the luxury tower.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/23/business/popular-nj-indian-restaurant-to-open-at-the-ellery-tower/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-08-23T18:49:42.000Z"
     },
     {
       "headline": "JBL Asset Management Buys Retail Condo Near Miami Design District",
@@ -156,13 +110,13 @@
       "published_at": "2026-08-10T16:07:33.000Z"
     },
     {
-      "headline": "Principal Financial Group Loans $32M to Refi Queens Shopping Center",
-      "summary": "An affiliate of Mattone Investors secured $32 million to refinance Springnex Plaza , a 96,028-square-foot shopping center anchored by a Stop & Shop supermarket in the Queens neighborhood of Springfield Gardens. Principal Financial Group provided the debt, while Northmarq ’s Robert Delitsky and Charles Cotsalas arranged the transaction. Delitsky noted in a statement that Mattone Investors first developed Springnex Plaza six years ago and “have done a fabulous job maintaining very strong occupancy” since then.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/principal-financial-group-32m-refi-queens-springnex-plaza/",
-      "section": "commercial_observer",
+      "headline": "NYC’s Union Square seeing frenzy for office, retail space",
+      "summary": "Recent deals brought several prime buildings around the park to 100% full.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/23/business/nycs-union-square-seeing-frenzy-for-office-retail/",
+      "section": "new_york_post",
       "retail": true,
-      "published_at": "2026-08-20T18:53:50.000Z"
+      "published_at": "2026-08-23T18:14:41.000Z"
     },
     {
       "headline": "Goodland Pickleball Takes 30K SF for New Indoor Clubs in Brooklyn, Queens",
@@ -174,6 +128,15 @@
       "published_at": "2026-08-19T13:00:34.000Z"
     },
     {
+      "headline": "Circle Realty Secures 38K SF of New Leases at 14 Penn Plaza",
+      "summary": "Circle Realty Group has closed on 37,600 square feet of new leases in Midtown, Commercial Observer has learned. The two largest deals at 225 West 34th Street , also known as 14 Penn Plaza , were for civil engineering company Bohler Engineering , which expanded from 8,000 square feet to 14,000 square feet, and cybersecurity firm T&M USA , which took 14,000 square feet, according to Circle Realty. Bohler signed a 10-year lease and asking rent in the building was $67 per square foot.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/08/circle-realty-leases-14-penn-plaza-bohler-engineering/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-08-24T10:00:14.000Z"
+    },
+    {
       "headline": "Mexican Restaurant Santo Taco Subleases Former West Village Dig Inn Space",
       "summary": "Santo Taco is subleasing space formerly occupied by Dig Inn in Manhattan’s West Village, Commercial Observer has learned. The Mexican food concept launched by Santiago Perez in 2025 will take over the 2,800-square-foot, street-level and below-grade space at the Robert Jaffee -owned 232 Bleecker Street at the corner of Bleecker and Carmine streets, according to ManagRE . The sublease runs until 2041.…",
       "source": "Commercial Observer",
@@ -181,6 +144,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-08-19T13:34:52.000Z"
+    },
+    {
+      "headline": "United Construction & Development ups debt to $65M from $12.5M at possible dev site in LIC",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/united-construction-development-ups-debt-to-65m-from-12-5m-at-possible-dev-site-in-lic/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-24T09:45:00.000Z"
     },
     {
       "headline": "Hung Pin Hung files plans for 10 units in Clinton Hill",
@@ -210,31 +182,13 @@
       "published_at": "2026-08-21T13:27:00.000Z"
     },
     {
-      "headline": "Grun Group files plans for 37 units in Jamaica",
+      "headline": "Mordechai Walter, David Silberstein pay $1.8M, borrow $6.8M for 29-unit dev site in East New York",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/grun-group-files-plans-for-37-units-in-jamaica/",
+      "url": "https://www.pincusco.com/mordechai-walter-david-silberstein-pay-1-8m-borrow-6-8m-for-29-unit-dev-site-in-east-new-york/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-08-21T12:19:00.000Z"
-    },
-    {
-      "headline": "6-unit mixed-use in Park Slope sells for $4.7M",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/6-unit-mixed-use-in-park-slope-sells-for-4-7m/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-21T12:07:00.000Z"
-    },
-    {
-      "headline": "Minerva Development pays $3.9M for 2-family in Park Slope",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/minerva-development-pays-3-9m-for-2-family-in-park-slope/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-21T11:58:00.000Z"
+      "published_at": "2026-08-24T10:31:00.000Z"
     },
     {
       "headline": "Notoriously cramped NYC apartments are actually getting larger in 1 borough",
@@ -280,6 +234,42 @@
       "section": "new_york_post",
       "retail": false,
       "published_at": "2026-08-19T19:40:51.000Z"
+    },
+    {
+      "headline": "$14M refi with 360 Capital for single-family conversion in Upper West Side",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/14m-refi-with-360-capital-for-single-family-conversion-in-upper-west-side/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-24T09:30:00.000Z"
+    },
+    {
+      "headline": "Earth-sheltered Ohio home that is built almost entirely underground comes with a roof you have to mow",
+      "summary": "This one-of-a-kind earth-sheltered pad, listed at $850,000, has real estate pros scratching their heads over its price.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/23/real-estate/earth-sheltered-ohio-home-that-is-built-almost-entirely-underground-comes-with-a-roof-you-have-to-mow/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-08-24T02:48:28.000Z"
+    },
+    {
+      "headline": "Electra America Hospitality Group signs $34M refi with Maxim for AKA NoMad",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/electra-america-hospitality-group-signs-34m-refi-with-maxim-for-aka-nomad/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-21T14:07:00.000Z"
+    },
+    {
+      "headline": "Kayvan Hakim, Hakim Organization sign $11.3M refi with Amalgamated for 2 walkups in NoMad",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/kayvan-hakim-hakim-organization-signs-11-3m-refi-loan-with-amalgamated-bank-for-two-properties-in-nomad/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-21T13:45:00.000Z"
     }
   ]
 }
