@@ -1,13 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-08-24",
-  "generated_at": "2026-08-24T10:46:19.050Z",
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T10:40:44.712Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Whole Foods to Open Daily Shop at Murray Hill’s 509 Third Avenue: Whole Foods Market has leased a 9,000-square-foot retail space in Manhattan’s Murray Hill neighborhood. The 15-year deal occupies a ground-floor space and outdoor terraces at 509 Third Avenue , according to a memorandum of lease filed in city records Friday morning.\n\nBurlington Takes 44K SF at Bay Ridge Retail Center Development: Off-price retailer Burlington has inked a 44,070-square-foot retail lease at Century Marketplace , a new retail development coming to 458 86th Street in Bay Ridge, Brooklyn, developer MCB Real Estate announced Tuesday.\n\nRetail Landlords Need to Underwrite Their Tenants’ Customer Base, Too: Landlords underwrite the retail tenant. But they almost never underwrite the tenant’s customer.\n\nMadewell To Open New Store at Tishman Speyer’s 1 Rockefeller Plaza: Famed denim and clothing brand Madewell is opening a new store at Tishman Speyer ’s 1 Rockefeller Plaza , the landlord announced Thursday. The retailer signed a 7,340-square-foot lease at the Midtown landmark, where its new space will open in 2027.",
-    "new_york_post": "Popular NJ Indian restaurant to open at The Ellery tower: Samudhra signed a lease for about 10,000 square feet at the luxury tower.\n\nNYC’s Union Square seeing frenzy for office, retail space: Recent deals brought several prime buildings around the park to 100% full.\n\nNotoriously cramped NYC apartments are actually getting larger in 1 borough: The borough lands at fifth nationally for the biggest gains in living space, according to RentCafe.\n\nMarried couples are NYC’s largest homeowner group — except in 1 borough: Married couples still dominate NYC homeownership, but one island in particular tells a different story, new PropertyShark data shows.",
-    "pincusco": "United Construction & Development ups debt to $65M from $12.5M at possible dev site in LIC.\n\nHung Pin Hung files plans for 10 units in Clinton Hill.\n\nPalwinder Singh files plans for 75 units in Long Island City.\n\nWilliam Xie of EliteX Enterprise files plans for 12 units in Astoria."
+    "cre_daily": "Fields West in Frisco Hits 75% Pre-Lease With New Tenants: Fields West, a Frisco mixed-use development, has pre-leased 75% of its retail and dining space with seven new tenants. The new leases include brands like Lululemon, Boll & Branch, and Flower Child, bringing the roster to 44 retail and restaurant tenants.\n\nSimon Property to More Than Double $18M in Lost Saks Rents: Simon Property Group is re-leasing more than 1 million square feet vacated by Saks Fifth Avenue at rents 144% above what the bankrupt retailer had been paying. The REIT projects replacing $18M in annual Saks base rents with $44M from new tenants — adding roughly $26M in net operating income as leases are executed and.\n\nBlackstone Buys Palm Beach Retail From Ken Griffin for $86M: Blackstone is acquiring a 49K SF Worth Avenue property from Ken Griffin’s Citadel entity for $86M. This deal marks another major transaction on Palm Beach’s premier retail corridor, which currently boasts less than 1% retail vacancy.\n\nFlex Retail Propels Triangle Region’s Retail Revival: Flex retail assets are seeing heightened leasing demand in Raleigh’s Triangle region, with single-story office conversions on the rise. Vacancy rates for retail spaces under 10K SF have dropped to 1.6% in Q2, per Colliers, outpacing larger format properties.",
+    "new_york_post": "Popular NJ Indian restaurant to open at The Ellery tower: Samudhra signed a lease for about 10,000 square feet at the luxury tower.\n\nNYC’s Union Square seeing frenzy for office, retail space: Recent deals brought several prime buildings around the park to 100% full.\n\nPopular NYC Chabad congregation facing eviction in brutal fight with landlord over lease dispute: For six years, Chabad Loft has served as a hub for Jewish life in Greenwich Village, operating from the bottom of a quaint rowhouse at 10 E. Eighth Street.\n\nNotoriously cramped NYC apartments are actually getting larger in 1 borough: The borough lands at fifth nationally for the biggest gains in living space, according to RentCafe.",
+    "pincusco": "CAVU signs $45.6M construction loan with Ponce for 87-unit project in LIC.\n\nCohabs pays $3.5M for mixed-use in Williamsburg.\n\nDalan Real Estate pays $7.5M to RYCO Capital for mixed-use in Carroll Gardens.\n\nKen Huang buys $34.4M note from Maverick, secured by Xin Development site in Flushing."
   },
   "items": [
     {
@@ -29,6 +30,15 @@
       "published_at": "2026-08-19T16:54:13.000Z"
     },
     {
+      "headline": "Fields West in Frisco Hits 75% Pre-Lease With New Tenants",
+      "summary": "Fields West, a Frisco mixed-use development, has pre-leased 75% of its retail and dining space with seven new tenants. The new leases include brands like Lululemon, Boll & Branch, and Flower Child, bringing the roster to 44 retail and restaurant tenants. This adds momentum to the 55-acre urban village, part of the 2,545-acre Fields master plan aiming for 11M SF of commercial and office space.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/fields-west-in-frisco-hits-75-pre-lease-with-new-tenants/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-08-18T04:51:10.000Z"
+    },
+    {
       "headline": "Retail Landlords Need to Underwrite Their Tenants’ Customer Base, Too",
       "summary": "Landlords underwrite the retail tenant. But they almost never underwrite the tenant’s customer. They should. That gap costs landlords money, and it is fixable before a listing goes live. The standard leasing process is too reactive: Review comparable rents, post the space on Crexi and LoopNet, wait for responses, and then vet an operator’s finances. Mark Kvetkovskiy. None of that tells you whether enough of that retailer’s customers live near the space.…",
       "source": "Commercial Observer",
@@ -36,6 +46,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-08-21T12:15:18.000Z"
+    },
+    {
+      "headline": "Simon Property to More Than Double $18M in Lost Saks Rents",
+      "summary": "Simon Property Group is re-leasing more than 1 million square feet vacated by Saks Fifth Avenue at rents 144% above what the bankrupt retailer had been paying. The REIT projects replacing $18M in annual Saks base rents with $44M from new tenants — adding roughly $26M in net operating income as leases are executed and tenants open. The re-leasing spread signals that Saks’ Chapter 11 exit may be unlocking value for Class A mall landlords by clearing anchor rents that had been below market for years.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/simon-property-to-more-than-double-18m-in-lost-saks-rents/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-08-13T16:59:55.000Z"
     },
     {
       "headline": "Madewell To Open New Store at Tishman Speyer’s 1 Rockefeller Plaza",
@@ -56,6 +75,33 @@
       "published_at": "2026-08-20T14:28:47.000Z"
     },
     {
+      "headline": "Blackstone Buys Palm Beach Retail From Ken Griffin for $86M",
+      "summary": "Blackstone is acquiring a 49K SF Worth Avenue property from Ken Griffin’s Citadel entity for $86M. This deal marks another major transaction on Palm Beach’s premier retail corridor, which currently boasts less than 1% retail vacancy. The sale underscores investor demand and surging rents in South Florida’s luxury retail market, with county-level sales totaling $690M through H1 2026.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/blackstone-buys-palm-beach-retail-from-ken-griffin-for-86m/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-08-14T16:13:01.000Z"
+    },
+    {
+      "headline": "Flex Retail Propels Triangle Region’s Retail Revival",
+      "summary": "Flex retail assets are seeing heightened leasing demand in Raleigh’s Triangle region, with single-story office conversions on the rise. Vacancy rates for retail spaces under 10K SF have dropped to 1.6% in Q2, per Colliers, outpacing larger format properties. The surge in flex retail points to shifting consumer preferences and a regional uptick in both retail development and investment.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/flex-retail-propels-triangle-region-s-retail-revival/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-08-14T06:03:49.000Z"
+    },
+    {
+      "headline": "Simon Ups 2026 Outlook on Strong Leasing, New Projects",
+      "summary": "Simon Property Group raised its 2026 earnings guidance after posting strong Q2 leasing and revenue results. The REIT signed over 1,200 leases (4.8M SF), grew base rents, and ramped up development spending with a $4B+ pipeline. Stubbornly high occupancy and robust tenant sales suggest continued momentum in the core US mall sector. Key Takeaways Malls Sustain Momentum Post-Pandemic Simon Property Group shows that the US mall sector’s post-pandemic revival still has legs.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/simon-ups-2026-outlook-on-strong-leasing-new-projects/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-08-13T06:38:14.000Z"
+    },
+    {
       "headline": "L3 Capital Secures 24K SF for Bylt Basics, Zara Flagships in Williamsburg",
       "summary": "L3 Capital ’s 108 North Sixth Street and 184-192 Bedford Avenue are welcoming two retail flagships to Williamsburg, Brooklyn. Men’s apparel brand Bylt Basics has selected 108 North Sixth Street, between Berry Street and Wythe Avenue, to host its first permanent New York City storefront, Commercial Observer has learned, in a bold signal of the retail corridor’s growing retail dominance.…",
       "source": "Commercial Observer",
@@ -63,6 +109,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-08-19T17:47:46.000Z"
+    },
+    {
+      "headline": "Nike Closes 15 Small Format Nike Live Retail Stores",
+      "summary": "Nike has permanently closed at least 15 Nike Live stores across 12 states, per Retail Dive. The concept launched in 2018 on Melrose Avenue with footprints planned at roughly 4K SF. The closures land during a punishing year that included a 12-year stock low and a JPMorgan downgrade. Key Takeaways According to Bisnow, Nike is closing at least 15 stores it opened under the Nike Live banner. The format was built to serve shoppers in their own neighborhoods.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/nike-closes-15-small-format-nike-live-retail-stores/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-08-22T15:04:14.000Z"
     },
     {
       "headline": "Podcast: How Landlords Can Solve the Tenant Visibility Problem – Sytes’ Rafael Weiss",
@@ -83,15 +138,6 @@
       "published_at": "2026-08-23T18:49:42.000Z"
     },
     {
-      "headline": "JBL Asset Management Buys Retail Condo Near Miami Design District",
-      "summary": "Alta Developers sold off a retail condo near the Miami Design District for $17.3 million, property records show. JBL Asset Management purchased the 25,504-square-foot asset on the ground floor of the Quadro condo building. The property at 3900 Biscayne Boulevard faces train tracks, just east of the Miami Design District, an open-air, luxury mall. Quadro’s retail tenants include The Shade Store , 7th Avenue furniture store and Waterworks plumbing supply store.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/jbl-miami-design-district-quadro-alta/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-08-21T17:00:32.000Z"
-    },
-    {
       "headline": "Motek Founders Sign NoMad Lease For New Offshoot Restaurant",
       "summary": "Happy Corner Hospitality has signed a lease in Manhattan’s NoMad neighborhood for an offshoot of their Motek concept. Known as Yalla Motek , the restaurant group took 2,500 square feet at David and Jack Israel ’s 1147 Broadway , which will be the new Mediterranean restaurant’s first location in New York City and second in the U.S. after opening in Aventura, Fla., in 2022, according to Happy Corner.…",
       "source": "Commercial Observer",
@@ -101,13 +147,13 @@
       "published_at": "2026-08-13T14:37:11.000Z"
     },
     {
-      "headline": "Westville To Open at 540 Third Avenue in Murray Hill",
-      "summary": "Westville is getting ready to open its 12th location in the U.S. and bring a selection of classic American foods to Manhattan’s Murray Hill neighborhood. The restaurant brand just signed a 4,148-square-foot lease at the base of 540 Third Avenue , also known as the Dian , a 22-story, 160-unit residential building at the corner of Third Avenue and East 36th Street, according to broker Meridian Capital Group . The lease comprises 2,739 square feet on the ground floor and 1,409 square feet on the lower level.…",
+      "headline": "Indian Restaurant Samudhra Takes 10K SF at 312 West 43rd Street",
+      "summary": "New Jersey-based Indian restaurant Samudhra is establishing a presence across the Hudson River in Hell’s Kitchen. The eatery signed a 10,000-square-foot lease on the ground level of the Ellery at 312 West 43rd Street , owned by Taconic Partners and National Real Estate Advisors , for its second location in the U.S. following its first restaurant in Franklin Park, N.J., according to the landlords.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/westville-lease-540-third-avenue-murray-hill/",
+      "url": "https://commercialobserver.com/2026/08/samudhra-restaurant-lease-312-west-43rd-street/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-08-10T16:07:33.000Z"
+      "published_at": "2026-08-24T18:47:08.000Z"
     },
     {
       "headline": "NYC’s Union Square seeing frenzy for office, retail space",
@@ -117,6 +163,15 @@
       "section": "new_york_post",
       "retail": true,
       "published_at": "2026-08-23T18:14:41.000Z"
+    },
+    {
+      "headline": "Popular NYC Chabad congregation facing eviction in brutal fight with landlord over lease dispute",
+      "summary": "For six years, Chabad Loft has served as a hub for Jewish life in Greenwich Village, operating from the bottom of a quaint rowhouse at 10 E. Eighth Street.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/24/real-estate/popular-nyc-chabad-congregation-facing-eviction/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-08-24T16:50:00.000Z"
     },
     {
       "headline": "Goodland Pickleball Takes 30K SF for New Indoor Clubs in Brooklyn, Queens",
@@ -146,49 +201,58 @@
       "published_at": "2026-08-19T13:34:52.000Z"
     },
     {
-      "headline": "United Construction & Development ups debt to $65M from $12.5M at possible dev site in LIC",
+      "headline": "CAVU signs $45.6M construction loan with Ponce for 87-unit project in LIC",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/united-construction-development-ups-debt-to-65m-from-12-5m-at-possible-dev-site-in-lic/",
+      "url": "https://www.pincusco.com/cavu-property-group-signs-45-6m-new-construction-loan-with-ponce-bank-for-industrial-in-long-island-city/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-08-24T09:45:00.000Z"
+      "published_at": "2026-08-24T16:10:00.000Z"
     },
     {
-      "headline": "Hung Pin Hung files plans for 10 units in Clinton Hill",
+      "headline": "Cohabs pays $3.5M for mixed-use in Williamsburg",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/hung-pin-hung-files-plans-for-10-units-in-clinton-hill/",
+      "url": "https://www.pincusco.com/cohabs-pays-3-5m-for-mixed-use-in-williamsburg/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-08-21T14:19:00.000Z"
+      "published_at": "2026-08-24T14:31:00.000Z"
     },
     {
-      "headline": "Palwinder Singh files plans for 75 units in Long Island City",
+      "headline": "Dalan Real Estate pays $7.5M to RYCO Capital for mixed-use in Carroll Gardens",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/palwinder-singh-files-plans-for-75-units-in-long-island-city/",
+      "url": "https://www.pincusco.com/dalan-real-estate-pays-7-5m-to-ryco-capital-for-mixed-use-in-carroll-gardens/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-08-21T13:51:00.000Z"
+      "published_at": "2026-08-24T14:16:00.000Z"
     },
     {
-      "headline": "William Xie of EliteX Enterprise files plans for 12 units in Astoria",
+      "headline": "Ken Huang buys $34.4M note from Maverick, secured by Xin Development site in Flushing",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/william-xie-of-elitex-enterprise-files-plans-for-12-units-in-astoria/",
+      "url": "https://www.pincusco.com/ken-huang-buys-34-4m-note-from-maverick-secured-by-xin-development-site-in-flushing/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-08-21T13:27:00.000Z"
+      "published_at": "2026-08-24T11:58:00.000Z"
     },
     {
-      "headline": "Mordechai Walter, David Silberstein pay $1.8M, borrow $6.8M for 29-unit dev site in East New York",
+      "headline": "Kings Capital, partner, pay $30.1M to NewYork-Presbyterian in FiDi, plan 108 units",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/mordechai-walter-david-silberstein-pay-1-8m-borrow-6-8m-for-29-unit-dev-site-in-east-new-york/",
+      "url": "https://www.pincusco.com/kings-capital-partner-pay-30-1m-to-newyork-presbyterian-for-residential-elevator-in-financial-district/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-08-24T10:31:00.000Z"
+      "published_at": "2026-08-24T11:50:00.000Z"
+    },
+    {
+      "headline": "HPD expands size of proposed East Harlem affordable complex from 700 units to 762 units",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/hpd-expands-size-of-proposed-east-harlem-affordable-complex-from-700-units-to-762-units/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-24T11:39:08.000Z"
     },
     {
       "headline": "Notoriously cramped NYC apartments are actually getting larger in 1 borough",
@@ -209,67 +273,13 @@
       "published_at": "2026-08-20T18:55:59.000Z"
     },
     {
-      "headline": "A comedian’s joke pied-à-terre tax workaround could actually go legit after struggling New Yorkers and homeowners flooded inbox",
-      "summary": "A satirical website pairing artists with vacant luxury apartments to skirt NYC's new pied-à-terre tax has drawn thousands of real applicants.",
+      "headline": "Logan Paul’s infamous ex-psychedelic retreat hits the market for $3 million — and it comes with a wild hippie backstory",
+      "summary": "Influencer turned boxing star Logan Paul has listed his storied, psychedelic California ranch.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/08/20/real-estate/a-joke-about-dodging-the-pied-a-terre-tax-just-might-go-legit/",
+      "url": "https://nypost.com/2026/08/24/real-estate/logan-pauls-infamous-ex-psychedelic-retreat-hits-the-market-for-3-million/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-08-20T16:57:02.000Z"
-    },
-    {
-      "headline": "Robert F. Kennedy’s former NYC co-op sells for first time in 50-plus years following a bidding war",
-      "summary": "The 870 United Nations Plaza unit still features original details from the time that it was owned by the late Democratic presidential candidate.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/20/real-estate/rfks-nyc-co-op-sells-for-first-time-in-50-years-for-1-99m/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-08-20T14:50:16.000Z"
-    },
-    {
-      "headline": "Unique New York mirror house designed to reflect its natural surroundings listed for $15 million",
-      "summary": "At first glance, the four-bedroom estate appears almost like an optical illusion with its dazzling design.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/19/real-estate/unique-new-york-mirror-house-designed-to-reflect-its-natural-surroundings-listed-for-15-million/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-08-19T19:40:51.000Z"
-    },
-    {
-      "headline": "$14M refi with 360 Capital for single-family conversion in Upper West Side",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/14m-refi-with-360-capital-for-single-family-conversion-in-upper-west-side/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-24T09:30:00.000Z"
-    },
-    {
-      "headline": "Earth-sheltered Ohio home that is built almost entirely underground comes with a roof you have to mow",
-      "summary": "This one-of-a-kind earth-sheltered pad, listed at $850,000, has real estate pros scratching their heads over its price.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/23/real-estate/earth-sheltered-ohio-home-that-is-built-almost-entirely-underground-comes-with-a-roof-you-have-to-mow/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-08-24T02:48:28.000Z"
-    },
-    {
-      "headline": "Electra America Hospitality Group signs $34M refi with Maxim for AKA NoMad",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/electra-america-hospitality-group-signs-34m-refi-with-maxim-for-aka-nomad/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-21T14:07:00.000Z"
-    },
-    {
-      "headline": "Kayvan Hakim, Hakim Organization sign $11.3M refi with Amalgamated for 2 walkups in NoMad",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/kayvan-hakim-hakim-organization-signs-11-3m-refi-loan-with-amalgamated-bank-for-two-properties-in-nomad/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-21T13:45:00.000Z"
+      "published_at": "2026-08-24T20:47:29.000Z"
     }
   ]
 }
