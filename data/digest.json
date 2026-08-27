@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-08-26",
-  "generated_at": "2026-08-26T10:41:55.866Z",
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T20:17:06.514Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Whole Foods to Open Daily Shop at Murray Hill’s 509 Third Avenue: Whole Foods Market has leased a 9,000-square-foot retail space in Manhattan’s Murray Hill neighborhood. The 15-year deal occupies a ground-floor space and outdoor terraces at 509 Third Avenue , according to a memorandum of lease filed in city records Friday morning.\n\nBurlington Takes 44K SF at Bay Ridge Retail Center Development: Off-price retailer Burlington has inked a 44,070-square-foot retail lease at Century Marketplace , a new retail development coming to 458 86th Street in Bay Ridge, Brooklyn, developer MCB Real Estate announced Tuesday.\n\nMac Cosmetics’ SoHo Flagship Relocates to 5K SF at 579 Broadway: Mac Cosmetics has selected a new foundation in Manhattan’s SoHo neighborhood. The global makeup brand signed a 5,325-square-foot lease at 579 Broadway between Prince and East Houston streets to host its next flagship location in the trendy shopping corridor, according to an announcement from landlord broker Newmark .\n\nRetail Landlords Need to Underwrite Their Tenants’ Customer Base, Too: Landlords underwrite the retail tenant. But they almost never underwrite the tenant’s customer.",
-    "cre_daily": "Fields West in Frisco Hits 75% Pre-Lease With New Tenants: Fields West, a Frisco mixed-use development, has pre-leased 75% of its retail and dining space with seven new tenants. The new leases include brands like Lululemon, Boll & Branch, and Flower Child, bringing the roster to 44 retail and restaurant tenants.\n\nSimon Property to More Than Double $18M in Lost Saks Rents: Simon Property Group is re-leasing more than 1 million square feet vacated by Saks Fifth Avenue at rents 144% above what the bankrupt retailer had been paying. The REIT projects replacing $18M in annual Saks base rents with $44M from new tenants — adding roughly $26M in net operating income as leases are executed and.\n\nBlackstone Buys Palm Beach Retail From Ken Griffin for $86M: Blackstone is acquiring a 49K SF Worth Avenue property from Ken Griffin’s Citadel entity for $86M. This deal marks another major transaction on Palm Beach’s premier retail corridor, which currently boasts less than 1% retail vacancy.\n\nFlex Retail Propels Triangle Region’s Retail Revival: Flex retail assets are seeing heightened leasing demand in Raleigh’s Triangle region, with single-story office conversions on the rise. Vacancy rates for retail spaces under 10K SF have dropped to 1.6% in Q2, per Colliers, outpacing larger format properties.",
-    "new_york_post": "Popular NJ Indian restaurant to open at The Ellery tower: Samudhra signed a lease for about 10,000 square feet at the luxury tower.\n\nNYC’s Union Square seeing frenzy for office, retail space: Recent deals brought several prime buildings around the park to 100% full.\n\nPopular NYC Chabad congregation facing eviction in brutal fight with landlord over lease dispute: For six years, Chabad Loft has served as a hub for Jewish life in Greenwich Village, operating from the bottom of a quaint rowhouse at 10 E. Eighth Street.\n\n$13.9M NYC townhouse at center of ‘squatting’ lawsuit sells — months after live-in housekeeper evicted: The townhouse at 111 E. 81st St., which hit the market in May for $15 million, has entered into contract after most recently asking $13.99 million.",
-    "pincusco": "Karpen, Fridman get $72M construction loan with Valley for two 99-unit projects in East Flatbush.\n\nCAVU signs $45.6M construction loan with Ponce for 87-unit project in LIC.\n\nIsaac Rosenberg files plans for 99 units in two-tower building in Brownsville.\n\nWoodmont Partners pays $4M for mixed-use in Lower East Side."
+    "cre_daily": "Fields West in Frisco Hits 75% Pre-Lease With New Tenants: Fields West, a Frisco mixed-use development, has pre-leased 75% of its retail and dining space with seven new tenants. The new leases include brands like Lululemon, Boll & Branch, and Flower Child, bringing the roster to 44 retail and restaurant tenants.\n\nBlackstone Buys Palm Beach Retail From Ken Griffin for $86M: Blackstone is acquiring a 49K SF Worth Avenue property from Ken Griffin’s Citadel entity for $86M. This deal marks another major transaction on Palm Beach’s premier retail corridor, which currently boasts less than 1% retail vacancy.\n\nFlex Retail Propels Triangle Region’s Retail Revival: Flex retail assets are seeing heightened leasing demand in Raleigh’s Triangle region, with single-story office conversions on the rise. Vacancy rates for retail spaces under 10K SF have dropped to 1.6% in Q2, per Colliers, outpacing larger format properties.\n\nNike Closes 15 Small Format Nike Live Retail Stores: Nike has permanently closed at least 15 Nike Live stores across 12 states, per Retail Dive. The concept launched in 2018 on Melrose Avenue with footprints planned at roughly 4K SF.",
+    "new_york_post": "Yayoi Kusama wasn’t only displayed in museums — but also in other unexpected buildings across NYC: Yayoi Kusama’s iconic art lives on across NYC, from a colorful mosaic at Grand Central Madison to works once displayed at a luxury rental tower.",
+    "pincusco": "Taub Development signs $65M loan for retail at Woodside center following new tenant lease.\n\nF&T Group signs $123M construction loan with Maxim Capital for retail, office in Flushing.\n\nSix pre-foreclosures totaling $81.5M filed at Crown Acquisitions Brooklyn retail.\n\nMattone Investors signs $32M refi with Principal Real Estate for retail in St. Albans."
   },
   "items": [
     {
@@ -57,22 +57,13 @@
       "published_at": "2026-08-21T12:15:18.000Z"
     },
     {
-      "headline": "Simon Property to More Than Double $18M in Lost Saks Rents",
-      "summary": "Simon Property Group is re-leasing more than 1 million square feet vacated by Saks Fifth Avenue at rents 144% above what the bankrupt retailer had been paying. The REIT projects replacing $18M in annual Saks base rents with $44M from new tenants — adding roughly $26M in net operating income as leases are executed and tenants open. The re-leasing spread signals that Saks’ Chapter 11 exit may be unlocking value for Class A mall landlords by clearing anchor rents that had been below market for years.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/simon-property-to-more-than-double-18m-in-lost-saks-rents/",
-      "section": "cre_daily",
+      "headline": "Taub Development signs $65M loan for retail at Woodside center following new tenant lease",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/taub-development-signs-65m-loan-for-retail-at-woodside-center-following-new-tenant-lease/",
+      "section": "pincusco",
       "retail": true,
-      "published_at": "2026-08-13T16:59:55.000Z"
-    },
-    {
-      "headline": "Madewell To Open New Store at Tishman Speyer’s 1 Rockefeller Plaza",
-      "summary": "Famed denim and clothing brand Madewell is opening a new store at Tishman Speyer ’s 1 Rockefeller Plaza , the landlord announced Thursday. The retailer signed a 7,340-square-foot lease at the Midtown landmark, where its new space will open in 2027. The asking rent and the length of the lease were not disclosed, but the average asking rent for retail space in Midtown Plaza District was $2,540 per square foot during the second quarter of 2026, according to CBRE data .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/madewell-lease-store-tishman-speyer-1-rockefeller-plaza/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-08-13T15:29:08.000Z"
+      "published_at": "2026-08-27T12:02:00.000Z"
     },
     {
       "headline": "Planet Fitness Takes 15K SF at Coney Island Residential Development",
@@ -102,15 +93,6 @@
       "published_at": "2026-08-14T06:03:49.000Z"
     },
     {
-      "headline": "Simon Ups 2026 Outlook on Strong Leasing, New Projects",
-      "summary": "Simon Property Group raised its 2026 earnings guidance after posting strong Q2 leasing and revenue results. The REIT signed over 1,200 leases (4.8M SF), grew base rents, and ramped up development spending with a $4B+ pipeline. Stubbornly high occupancy and robust tenant sales suggest continued momentum in the core US mall sector. Key Takeaways Malls Sustain Momentum Post-Pandemic Simon Property Group shows that the US mall sector’s post-pandemic revival still has legs.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/simon-ups-2026-outlook-on-strong-leasing-new-projects/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-08-13T06:38:14.000Z"
-    },
-    {
       "headline": "L3 Capital Secures 24K SF for Bylt Basics, Zara Flagships in Williamsburg",
       "summary": "L3 Capital ’s 108 North Sixth Street and 184-192 Bedford Avenue are welcoming two retail flagships to Williamsburg, Brooklyn. Men’s apparel brand Bylt Basics has selected 108 North Sixth Street, between Berry Street and Wythe Avenue, to host its first permanent New York City storefront, Commercial Observer has learned, in a bold signal of the retail corridor’s growing retail dominance.…",
       "source": "Commercial Observer",
@@ -129,6 +111,15 @@
       "published_at": "2026-08-22T15:04:14.000Z"
     },
     {
+      "headline": "Retail Store Closures Outpace Openings, Bigger Boxes Win",
+      "summary": "U.S. retailers posted a net loss of 144 stores through July 2026 as closures narrowly outpaced openings, but incoming locations averaged nearly double the square footage of closing ones, pushing net retail space up 26.1 million square feet, according to Coresight Research. IKEA, Publix, Bass Pro Shops, Meijer and Rural King led large-format expansion, while American Signature, Walgreens and Saks Fifth Avenue accounted for the year’s biggest footprint contractions.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/retail-store-closures-outpace-openings-bigger-boxes-win/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-08-14T19:04:43.000Z"
+    },
+    {
       "headline": "Podcast: How Landlords Can Solve the Tenant Visibility Problem – Sytes’ Rafael Weiss",
       "summary": "Rafael Weiss is the co-founder of Sytes , a marketplace platform that connects commercial real estate landlords, developers, and brokers with tenants actively looking for space in real time. Rafael came to the problem as a developer who lost a deal because tenant demand was invisible until it was too late, and built Sytes to fix the information asymmetry at the core of retail leasing.…",
       "source": "Commercial Observer",
@@ -138,22 +129,13 @@
       "published_at": "2026-08-13T21:33:59.000Z"
     },
     {
-      "headline": "Popular NJ Indian restaurant to open at The Ellery tower",
-      "summary": "Samudhra signed a lease for about 10,000 square feet at the luxury tower.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/23/business/popular-nj-indian-restaurant-to-open-at-the-ellery-tower/",
-      "section": "new_york_post",
+      "headline": "Developers Land $75M Loan for Queens Shopping Center Redo",
+      "summary": "BTF Whitestone LLC secured a $75 million loan from Acadia Realty Trust, arranged by Northmarq, to acquire and redevelop Whitestone Shopping Center in Queens. The 119,584-square-foot, Key Food-anchored center was acquired for $56 million earlier this month and includes tenants like JPMorgan Chase and Webster Bank. The deal reflects strong lender appetite for grocery-anchored retail even as broader financing conditions tighten across other property types.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/developers-land-75m-loan-for-queens-shopping-center-redo/",
+      "section": "cre_daily",
       "retail": true,
-      "published_at": "2026-08-23T18:49:42.000Z"
-    },
-    {
-      "headline": "Motek Founders Sign NoMad Lease For New Offshoot Restaurant",
-      "summary": "Happy Corner Hospitality has signed a lease in Manhattan’s NoMad neighborhood for an offshoot of their Motek concept. Known as Yalla Motek , the restaurant group took 2,500 square feet at David and Jack Israel ’s 1147 Broadway , which will be the new Mediterranean restaurant’s first location in New York City and second in the U.S. after opening in Aventura, Fla., in 2022, according to Happy Corner.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/yalla-motek-lease-1147-broadway/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-08-13T14:37:11.000Z"
+      "published_at": "2026-08-19T15:27:06.000Z"
     },
     {
       "headline": "Indian Restaurant Samudhra Takes 10K SF at 312 West 43rd Street",
@@ -165,40 +147,76 @@
       "published_at": "2026-08-24T18:47:08.000Z"
     },
     {
-      "headline": "KeyBank Expands to 113K SF at Elecor’s 1301 Avenue of the Americas",
-      "summary": "A major banking institution has added 15,292 square feet to its Manhattan office footprint, Commercial Observer has learned. Keybank signed a 15-year deal to renew its existing space and expand to 112,924 square feet at Elecor Properties ’ 1301 Avenue of the Americas across the entire 35th, 36th and 37th floors, as well as portions of the 28th and 38th floors, according to the landlord.…",
+      "headline": "F&T Group signs $123M construction loan with Maxim Capital for retail, office in Flushing",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/ft-group-signs-123m-construction-loan-with-maxim-capital-for-retail-in-flushing/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-08-27T15:31:00.000Z"
+    },
+    {
+      "headline": "Savills Inks 20K-SF Deal at Rudin’s 560 Lexington Avenue",
+      "summary": "The deal-makers at Savills have struck a lease of their own. The global real estate advisory firm is expanding its New York City presence by 20,481 square feet at Rudin ’s 560 Lexington Avenue , according to a Thursday announcement by the landlord. Savills will occupy the entire third floor at the 22-story Midtown East tower for a five-year term. Asking rent for the deal was not disclosed, but the average asking rent for Midtown office space was $84.88 per square foot in July, according to Colliers .…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/keybank-lease-expansion-elecor-1301-avenue-of-the-americas/",
+      "url": "https://commercialobserver.com/2026/08/savills-rudin-560-lexington-avenue-lease/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-08-25T17:16:54.000Z"
+      "published_at": "2026-08-27T18:10:26.000Z"
     },
     {
-      "headline": "NYC’s Union Square seeing frenzy for office, retail space",
-      "summary": "Recent deals brought several prime buildings around the park to 100% full.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/23/business/nycs-union-square-seeing-frenzy-for-office-retail/",
-      "section": "new_york_post",
-      "retail": true,
-      "published_at": "2026-08-23T18:14:41.000Z"
-    },
-    {
-      "headline": "Sheppard Takes 107K SF at In-Rel’s D.C. Redevelopment",
-      "summary": "One of the 50 highest-grossing law firms in the U.S. has signed an anchor lease at a planned Washington, D.C., trophy office redevelopment three years before its anticipated completion. Law firm Sheppard signed for 107,224 square feet at In-Rel Properties ’ 2033 K Street NW , CBRE announced Tuesday. The firm, which has more than 1,200 attorneys across 16 offices, will move in after the building’s expected completion in July 2029. The brokerage did not disclose the value of the lease or the asking rent.…",
+      "headline": "Arca Financial Group Takes 8K SF at Moinian’s 60 Madison Avenue",
+      "summary": "A wealth management firm is moving into a new office north of Manhattan’s Madison Square Park . Arca Financial Group signed a five-year, 7,500-square-foot lease for a prebuilt space on the 10th floor at the Moinian Group ’s 60 Madison Avenue , according to the landlord. The deal was signed this month. Moinian did not immediately disclose the exact asking rent, but the average asking rent for office space in Midtown South was $85.73 per square foot in the second quarter of 2026, according to a report from CBRE .…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/sheppard-in-rel-dc-office/",
+      "url": "https://commercialobserver.com/2026/08/arca-financial-lease-60-madison-avenue-moinian/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-08-25T21:25:00.000Z"
+      "published_at": "2026-08-27T12:40:41.000Z"
     },
     {
-      "headline": "Popular NYC Chabad congregation facing eviction in brutal fight with landlord over lease dispute",
-      "summary": "For six years, Chabad Loft has served as a hub for Jewish life in Greenwich Village, operating from the bottom of a quaint rowhouse at 10 E. Eighth Street.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/24/real-estate/popular-nyc-chabad-congregation-facing-eviction/",
-      "section": "new_york_post",
+      "headline": "AI Startup Thinking Machines Lab Takes 22K SF at 79 Fifth Avenue for First NYC Office",
+      "summary": "Artificial intelligence research startup Thinking Machines Lab is coming to New York. Just a year and a half after launching in San Francisco, the company has inked a 21,500-square-foot lease at Kalimian Properties ’ 79 Fifth Avenue just one block west of Union Square , Commercial Observer has learned. The terms of the deal were not disclosed, but asking rents in the 18-story office building hover slightly above $100 per square foot, according to a source familiar with the deal.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/08/thinking-machines-lab-79-fifth-avenue-lease/",
+      "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-08-24T16:50:00.000Z"
+      "published_at": "2026-08-26T20:30:00.000Z"
+    },
+    {
+      "headline": "Nonprofit Biohub, Software Firm Fundraise Up Lease 20K SF at 100-104 Fifth Avenue",
+      "summary": "Two nonprofit-related tenants are moving to an office just west of Manhattan’s Union Square . In the largest deal, the Chan Zuckerberg Biohub , better known simply as Biohub , secured a 10,666-square-foot lease at Sovereign Partners ’ 100-104 Fifth Avenue , Commercial Observer has learned. The nonprofit biomedical research organization will occupy the entire ninth floor of the 20-story tower at the southwest corner of Fifth Avenue and West 15th Street, according to sources.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/08/biohub-fundraise-up-leases-100-104-fifth-avenue/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-08-26T18:09:57.000Z"
+    },
+    {
+      "headline": "Global Wellness Network Havas Health Expands to 254K SF at 200 Madison Avenue",
+      "summary": "Havas Health , a global health and wellness communications network, is expanding its Midtown headquarters, Commercial Observer has learned. Havas, which creates advertising, public relations and marketing campaigns for health care brands, signed a 15-year deal to renew its existing 189,461-square-foot office at George Comfort & Sons ’ 200 Madison Avenue and tack on an additional 64,657 square feet, according to the landlord.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/08/havas-health-lease-expansion-200-madison-avenue/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-08-27T19:35:23.000Z"
+    },
+    {
+      "headline": "KCI Technologies Moves Headquarters in Maryland With 54K SF Lease",
+      "summary": "KCI Technologies is relocating its corporate headquarters within Maryland, moving about 300 employees from Sparks to Hunt Valley. The engineering, consulting and construction firm signed a 53,344-square-foot lease at St. John Properties ’ 23-acre North Park business complex, and will occupy two and a half floors at 6 North Park Drive. The firm will make the move in the second quarter of 2027.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/08/kci-hq-office-maryland-st-john-north-park/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-08-26T22:10:53.000Z"
+    },
+    {
+      "headline": "Six pre-foreclosures totaling $81.5M filed at Crown Acquisitions Brooklyn retail",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/six-pre-foreclosure-totaling-81-5m-at-crown-acquisitions-brooklyn-retail/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-08-27T16:44:24.000Z"
     },
     {
       "headline": "Goodland Pickleball Takes 30K SF for New Indoor Clubs in Brooklyn, Queens",
@@ -210,6 +228,24 @@
       "published_at": "2026-08-19T13:00:34.000Z"
     },
     {
+      "headline": "Mattone Investors signs $32M refi with Principal Real Estate for retail in St. Albans",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/mattone-investors-signs-32m-refi-with-principal-real-estate-for-retail-in-st-albans/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-08-27T15:40:00.000Z"
+    },
+    {
+      "headline": "Pizza Napoli to Open in 3K SF at 383 Fifth Avenue",
+      "summary": "As one pizzeria shuts down, another is growing in its place, Commercial Observer has learned. Pizza Napoli has signed a 2,500-square-foot lease at Jonathan and Jan Soleimani ’s 383 Fifth Avenue just off East 36th Street in Midtown, where asking rent started at $25,000 per month, according to landlord broker Meridian Capital Group . The tenant signed a 15-year lease for the space, Meridian said. The site was previously the home of Famous Italian Pizza.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/08/pizza-napoli-lease-383-fifth-avenue/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-08-26T19:16:12.000Z"
+    },
+    {
       "headline": "Mexican Restaurant Santo Taco Subleases Former West Village Dig Inn Space",
       "summary": "Santo Taco is subleasing space formerly occupied by Dig Inn in Manhattan’s West Village, Commercial Observer has learned. The Mexican food concept launched by Santiago Perez in 2025 will take over the 2,800-square-foot, street-level and below-grade space at the Robert Jaffee -owned 232 Bleecker Street at the corner of Bleecker and Carmine streets, according to ManagRE . The sublease runs until 2041.…",
       "source": "Commercial Observer",
@@ -219,67 +255,31 @@
       "published_at": "2026-08-19T13:34:52.000Z"
     },
     {
-      "headline": "Karpen, Fridman get $72M construction loan with Valley for two 99-unit projects in East Flatbush",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/shlomo-karpen-anshel-fridman-sign-72m-construction-loan-with-valley-for-two-99-unit-projects-in-brooklyn/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-25T12:04:00.000Z"
-    },
-    {
-      "headline": "CAVU signs $45.6M construction loan with Ponce for 87-unit project in LIC",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/cavu-property-group-signs-45-6m-new-construction-loan-with-ponce-bank-for-industrial-in-long-island-city/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-24T16:10:00.000Z"
-    },
-    {
-      "headline": "Isaac Rosenberg files plans for 99 units in two-tower building in Brownsville",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/isaac-rosenberg-files-plans-for-99-units-in-brownsville/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-25T16:34:00.000Z"
-    },
-    {
-      "headline": "Woodmont Partners pays $4M for mixed-use in Lower East Side",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/woodmont-partners-pays-4m-for-mixed-use-in-lower-east-side/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-25T11:36:00.000Z"
-    },
-    {
-      "headline": "$13.9M NYC townhouse at center of ‘squatting’ lawsuit sells — months after live-in housekeeper evicted",
-      "summary": "The townhouse at 111 E. 81st St., which hit the market in May for $15 million, has entered into contract after most recently asking $13.99 million",
+      "headline": "Yayoi Kusama wasn’t only displayed in museums — but also in other unexpected buildings across NYC",
+      "summary": "Yayoi Kusama’s iconic art lives on across NYC, from a colorful mosaic at Grand Central Madison to works once displayed at a luxury rental tower.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/08/25/real-estate/13-9m-nyc-townhouse-at-center-of-squatting-lawsuit-sells/",
+      "url": "https://nypost.com/2026/08/27/real-estate/where-to-see-yayoi-kusamas-art-in-nyc-outside-museums/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-08-25T17:16:07.000Z"
+      "published_at": "2026-08-27T19:07:30.000Z"
     },
     {
-      "headline": "California’s last cheap-housing haven has a $250K median home price",
-      "summary": "California's housing market has become synonymous with eye-watering prices, but it turns out you can still find a bargain.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/25/real-estate/rural-northern-california-county-where-250k-still-buys-a-home/",
-      "section": "new_york_post",
+      "headline": "Lin Ye files plans for 21 units in Briarwood",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/lin-ye-files-plans-for-21-units-in-briarwood/",
+      "section": "pincusco",
       "retail": false,
-      "published_at": "2026-08-25T21:06:05.000Z"
+      "published_at": "2026-08-27T15:01:00.000Z"
     },
     {
-      "headline": "California city goes rogue, plots 1,200 new homes at high-speed rail site",
-      "summary": "Lennar Homes, one of the Central Valley’s largest builders, is planning housing that could collide with the pathway of the state's high-speed rail.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/25/real-estate/california-high-speed-rail-might-be-derailed-by-plans-for-new-homes/",
-      "section": "new_york_post",
+      "headline": "Yidel Wienberger files plans for 53 units in Morris Heights",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/yidel-wienberger-files-plans-for-53-units-in-morris-heights/",
+      "section": "pincusco",
       "retail": false,
-      "published_at": "2026-08-25T20:53:18.000Z"
+      "published_at": "2026-08-27T14:09:00.000Z"
     }
   ]
 }
