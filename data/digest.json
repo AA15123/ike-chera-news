@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-08-27",
-  "generated_at": "2026-08-27T20:17:06.514Z",
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T21:09:43.943Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Whole Foods to Open Daily Shop at Murray Hill’s 509 Third Avenue: Whole Foods Market has leased a 9,000-square-foot retail space in Manhattan’s Murray Hill neighborhood. The 15-year deal occupies a ground-floor space and outdoor terraces at 509 Third Avenue , according to a memorandum of lease filed in city records Friday morning.\n\nBurlington Takes 44K SF at Bay Ridge Retail Center Development: Off-price retailer Burlington has inked a 44,070-square-foot retail lease at Century Marketplace , a new retail development coming to 458 86th Street in Bay Ridge, Brooklyn, developer MCB Real Estate announced Tuesday.\n\nMac Cosmetics’ SoHo Flagship Relocates to 5K SF at 579 Broadway: Mac Cosmetics has selected a new foundation in Manhattan’s SoHo neighborhood. The global makeup brand signed a 5,325-square-foot lease at 579 Broadway between Prince and East Houston streets to host its next flagship location in the trendy shopping corridor, according to an announcement from landlord broker Newmark .\n\nRetail Landlords Need to Underwrite Their Tenants’ Customer Base, Too: Landlords underwrite the retail tenant. But they almost never underwrite the tenant’s customer.",
-    "cre_daily": "Fields West in Frisco Hits 75% Pre-Lease With New Tenants: Fields West, a Frisco mixed-use development, has pre-leased 75% of its retail and dining space with seven new tenants. The new leases include brands like Lululemon, Boll & Branch, and Flower Child, bringing the roster to 44 retail and restaurant tenants.\n\nBlackstone Buys Palm Beach Retail From Ken Griffin for $86M: Blackstone is acquiring a 49K SF Worth Avenue property from Ken Griffin’s Citadel entity for $86M. This deal marks another major transaction on Palm Beach’s premier retail corridor, which currently boasts less than 1% retail vacancy.\n\nFlex Retail Propels Triangle Region’s Retail Revival: Flex retail assets are seeing heightened leasing demand in Raleigh’s Triangle region, with single-story office conversions on the rise. Vacancy rates for retail spaces under 10K SF have dropped to 1.6% in Q2, per Colliers, outpacing larger format properties.\n\nNike Closes 15 Small Format Nike Live Retail Stores: Nike has permanently closed at least 15 Nike Live stores across 12 states, per Retail Dive. The concept launched in 2018 on Melrose Avenue with footprints planned at roughly 4K SF.",
-    "new_york_post": "Yayoi Kusama wasn’t only displayed in museums — but also in other unexpected buildings across NYC: Yayoi Kusama’s iconic art lives on across NYC, from a colorful mosaic at Grand Central Madison to works once displayed at a luxury rental tower.",
-    "pincusco": "Taub Development signs $65M loan for retail at Woodside center following new tenant lease.\n\nF&T Group signs $123M construction loan with Maxim Capital for retail, office in Flushing.\n\nSix pre-foreclosures totaling $81.5M filed at Crown Acquisitions Brooklyn retail.\n\nMattone Investors signs $32M refi with Principal Real Estate for retail in St. Albans."
+    "cre_daily": "Fields West in Frisco Hits 75% Pre-Lease With New Tenants: Fields West, a Frisco mixed-use development, has pre-leased 75% of its retail and dining space with seven new tenants. The new leases include brands like Lululemon, Boll & Branch, and Flower Child, bringing the roster to 44 retail and restaurant tenants.\n\nJuly Retail Sales Dip as Online Spending Pulls Back: Marcus & Millichap Research Services reported core retail sales fell 0.2% in July but remained 4.8% above year-earlier levels. Online spending dropped 2.3%, its largest monthly decline since January 2025.\n\nNike Closes 15 Small Format Nike Live Retail Stores: Nike has permanently closed at least 15 Nike Live stores across 12 states, per Retail Dive. The concept launched in 2018 on Melrose Avenue with footprints planned at roughly 4K SF.\n\nDevelopers Land $75M Loan for Queens Shopping Center Redo: BTF Whitestone LLC secured a $75 million loan from Acadia Realty Trust, arranged by Northmarq, to acquire and redevelop Whitestone Shopping Center in Queens. The 119,584-square-foot, Key Food-anchored center was acquired for $56 million earlier this month and includes tenants like JPMorgan Chase and Webster Bank.",
+    "new_york_post": "Yayoi Kusama wasn’t only displayed in museums — but also in other unexpected buildings across NYC: Yayoi Kusama’s iconic art lives on across NYC, from a colorful mosaic at Grand Central Madison to works once displayed at a luxury rental tower.\n\nLongtime NYC staple Barzini’s to be evicted after falling over $1M behind on rent: ‘I’m in tears’: Barzini's -- plastered with liquidation signs for weeks -- will be booted from its Broadway space next week after owners ignored an initial June deadline to vacate the premises, Joseph Cervini, an attorney representing the landlord, told The Post.\n\nHow Floyd Mayweather landed a $100K/month NYC apartment in 1 day — before he allegedly stopped paying rent: Mayweather's former landlords at the Baccarat are suing him in New York State Supreme Court for breach of contract over allegations of unpaid rent.\n\nAmerica’s pandemic-era cash-buying boom is fading — but it’s still king for certain home sales: All-cash home sales are declining across the US in 2026, but cash still dominates luxury homes and markets like Miami.",
+    "pincusco": "Discount, used clothing retailer pays $5.2M to Foremost Real Estate for industrial in Mt Hope.\n\nAntonia Batalias signs $21.5M refi with Alma Bank for Boro Hotel in LIC.\n\nUnion pension fund pays $5.2M for Korea Daily office building in Sunnyside.\n\nHolliswood Development pays $6.5M to R.A. Cohen & Associates for residential walkup in Lower East Side."
   },
   "items": [
     {
@@ -57,15 +57,6 @@
       "published_at": "2026-08-21T12:15:18.000Z"
     },
     {
-      "headline": "Taub Development signs $65M loan for retail at Woodside center following new tenant lease",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/taub-development-signs-65m-loan-for-retail-at-woodside-center-following-new-tenant-lease/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-08-27T12:02:00.000Z"
-    },
-    {
       "headline": "Planet Fitness Takes 15K SF at Coney Island Residential Development",
       "summary": "Wake up, it’s time for a workout. Planet Fitness has inked a 14,500-square-foot retail lease at the base of a new residential tower in Coney Island, Brooklyn, with Cammeby’s International Group and Rybak Development . Planet Fitness will move into the space at 532 Neptune Avenue next year on a 10-year lease with an asking rent of $65 per square foot, according to the New York Business Journal , which first reported the deal.…",
       "source": "Commercial Observer",
@@ -73,24 +64,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-08-20T14:28:47.000Z"
-    },
-    {
-      "headline": "Blackstone Buys Palm Beach Retail From Ken Griffin for $86M",
-      "summary": "Blackstone is acquiring a 49K SF Worth Avenue property from Ken Griffin’s Citadel entity for $86M. This deal marks another major transaction on Palm Beach’s premier retail corridor, which currently boasts less than 1% retail vacancy. The sale underscores investor demand and surging rents in South Florida’s luxury retail market, with county-level sales totaling $690M through H1 2026.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/blackstone-buys-palm-beach-retail-from-ken-griffin-for-86m/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-08-14T16:13:01.000Z"
-    },
-    {
-      "headline": "Flex Retail Propels Triangle Region’s Retail Revival",
-      "summary": "Flex retail assets are seeing heightened leasing demand in Raleigh’s Triangle region, with single-story office conversions on the rise. Vacancy rates for retail spaces under 10K SF have dropped to 1.6% in Q2, per Colliers, outpacing larger format properties. The surge in flex retail points to shifting consumer preferences and a regional uptick in both retail development and investment.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/flex-retail-propels-triangle-region-s-retail-revival/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-08-14T06:03:49.000Z"
     },
     {
       "headline": "L3 Capital Secures 24K SF for Bylt Basics, Zara Flagships in Williamsburg",
@@ -102,6 +75,15 @@
       "published_at": "2026-08-19T17:47:46.000Z"
     },
     {
+      "headline": "July Retail Sales Dip as Online Spending Pulls Back",
+      "summary": "Marcus & Millichap Research Services reported core retail sales fell 0.2% in July but remained 4.8% above year-earlier levels. Online spending dropped 2.3%, its largest monthly decline since January 2025. Seven of 10 retail categories still posted gains. Apparel sales rose 1.9%. Off-price retailers signed more than 100 leases totaling roughly 3M SF during the 12 months through July.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/july-retail-sales-dip-as-online-spending-pulls-back/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-08-28T07:40:07.000Z"
+    },
+    {
       "headline": "Nike Closes 15 Small Format Nike Live Retail Stores",
       "summary": "Nike has permanently closed at least 15 Nike Live stores across 12 states, per Retail Dive. The concept launched in 2018 on Melrose Avenue with footprints planned at roughly 4K SF. The closures land during a punishing year that included a 12-year stock low and a JPMorgan downgrade. Key Takeaways According to Bisnow, Nike is closing at least 15 stores it opened under the Nike Live banner. The format was built to serve shoppers in their own neighborhoods.…",
       "source": "CRE Daily",
@@ -109,24 +91,6 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-08-22T15:04:14.000Z"
-    },
-    {
-      "headline": "Retail Store Closures Outpace Openings, Bigger Boxes Win",
-      "summary": "U.S. retailers posted a net loss of 144 stores through July 2026 as closures narrowly outpaced openings, but incoming locations averaged nearly double the square footage of closing ones, pushing net retail space up 26.1 million square feet, according to Coresight Research. IKEA, Publix, Bass Pro Shops, Meijer and Rural King led large-format expansion, while American Signature, Walgreens and Saks Fifth Avenue accounted for the year’s biggest footprint contractions.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/retail-store-closures-outpace-openings-bigger-boxes-win/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-08-14T19:04:43.000Z"
-    },
-    {
-      "headline": "Podcast: How Landlords Can Solve the Tenant Visibility Problem – Sytes’ Rafael Weiss",
-      "summary": "Rafael Weiss is the co-founder of Sytes , a marketplace platform that connects commercial real estate landlords, developers, and brokers with tenants actively looking for space in real time. Rafael came to the problem as a developer who lost a deal because tenant demand was invisible until it was too late, and built Sytes to fix the information asymmetry at the core of retail leasing.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/podcast-how-landlords-can-solve-the-tenant-visibility-problem-sytes-rafael-weiss/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-08-13T21:33:59.000Z"
     },
     {
       "headline": "Developers Land $75M Loan for Queens Shopping Center Redo",
@@ -138,6 +102,24 @@
       "published_at": "2026-08-19T15:27:06.000Z"
     },
     {
+      "headline": "Pilates Studio Sancta Selects Tribeca’s 124 Hudson Street for First Location",
+      "summary": "A high-end Pilates studio has found its center in Manhattan’s Tribeca neighborhood. Sancta , a studio specializing in reformer Pilates, has inked a 2,350-square-foot lease for its debut location at 124 Hudson Street , Commercial Observer has learned. The studio agreed to a seven-year term with landlord Marx Realty for the ground-floor lease, with an asking rent of $150 per square foot.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/08/pilates-sancta-lease-124-hudson-street-tribeca/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-08-28T17:09:08.000Z"
+    },
+    {
+      "headline": "NYC Grocery Lawsuit Puts Subsidized Retail Space at Risk",
+      "summary": "The Multicultural Business Coalition, representing roughly 65 grocer organizations, sued New York City over Mayor Zohran Mamdani’s plan for city-owned, subsidized municipal grocery stores. Under the proposal, the city would own five grocery locations while outside operators run them rent-free, a structure the coalition argues independent grocers cannot match.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/nyc-grocery-lawsuit-puts-subsidized-retail-space-at-risk/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-08-26T16:05:02.000Z"
+    },
+    {
       "headline": "Indian Restaurant Samudhra Takes 10K SF at 312 West 43rd Street",
       "summary": "New Jersey-based Indian restaurant Samudhra is establishing a presence across the Hudson River in Hell’s Kitchen. The eatery signed a 10,000-square-foot lease on the ground level of the Ellery at 312 West 43rd Street , owned by Taconic Partners and National Real Estate Advisors , for its second location in the U.S. following its first restaurant in Franklin Park, N.J., according to the landlords.…",
       "source": "Commercial Observer",
@@ -147,49 +129,22 @@
       "published_at": "2026-08-24T18:47:08.000Z"
     },
     {
-      "headline": "F&T Group signs $123M construction loan with Maxim Capital for retail, office in Flushing",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/ft-group-signs-123m-construction-loan-with-maxim-capital-for-retail-in-flushing/",
-      "section": "pincusco",
+      "headline": "Harrison Street, Meridian Buy 431K-SF NoVA Office Portfolio",
+      "summary": "Meridian Group and Harrison Street Asset Management have acquired a five-building office portfolio in Chantilly, Va., as part of a broader push to attract national security, defense and intelligence firms as tenants. The joint venture, which also includes HLM Associates , acquired the Stoneleigh and Newbrook campuses totaling 431,000 square feet in the Westfields submarket of Fairfax County.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/08/meridian-harrison-street-virginia-office/",
+      "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-08-27T15:31:00.000Z"
+      "published_at": "2026-08-27T22:15:54.000Z"
     },
     {
       "headline": "Savills Inks 20K-SF Deal at Rudin’s 560 Lexington Avenue",
-      "summary": "The deal-makers at Savills have struck a lease of their own. The global real estate advisory firm is expanding its New York City presence by 20,481 square feet at Rudin ’s 560 Lexington Avenue , according to a Thursday announcement by the landlord. Savills will occupy the entire third floor at the 22-story Midtown East tower for a five-year term. Asking rent for the deal was not disclosed, but the average asking rent for Midtown office space was $84.88 per square foot in July, according to Colliers .…",
+      "summary": "The deal-makers at Savills have struck a lease of their own. The global real estate advisory firm is expanding its New York City presence by taking 20,481 square feet for a satellite office at Rudin ’s 560 Lexington Avenue , according to a Thursday announcement by the landlord. Savills will occupy the entire third floor at the 22-story Midtown East tower for a five-year term.…",
       "source": "Commercial Observer",
       "url": "https://commercialobserver.com/2026/08/savills-rudin-560-lexington-avenue-lease/",
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-08-27T18:10:26.000Z"
-    },
-    {
-      "headline": "Arca Financial Group Takes 8K SF at Moinian’s 60 Madison Avenue",
-      "summary": "A wealth management firm is moving into a new office north of Manhattan’s Madison Square Park . Arca Financial Group signed a five-year, 7,500-square-foot lease for a prebuilt space on the 10th floor at the Moinian Group ’s 60 Madison Avenue , according to the landlord. The deal was signed this month. Moinian did not immediately disclose the exact asking rent, but the average asking rent for office space in Midtown South was $85.73 per square foot in the second quarter of 2026, according to a report from CBRE .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/arca-financial-lease-60-madison-avenue-moinian/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-08-27T12:40:41.000Z"
-    },
-    {
-      "headline": "AI Startup Thinking Machines Lab Takes 22K SF at 79 Fifth Avenue for First NYC Office",
-      "summary": "Artificial intelligence research startup Thinking Machines Lab is coming to New York. Just a year and a half after launching in San Francisco, the company has inked a 21,500-square-foot lease at Kalimian Properties ’ 79 Fifth Avenue just one block west of Union Square , Commercial Observer has learned. The terms of the deal were not disclosed, but asking rents in the 18-story office building hover slightly above $100 per square foot, according to a source familiar with the deal.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/thinking-machines-lab-79-fifth-avenue-lease/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-08-26T20:30:00.000Z"
-    },
-    {
-      "headline": "Nonprofit Biohub, Software Firm Fundraise Up Lease 20K SF at 100-104 Fifth Avenue",
-      "summary": "Two nonprofit-related tenants are moving to an office just west of Manhattan’s Union Square . In the largest deal, the Chan Zuckerberg Biohub , better known simply as Biohub , secured a 10,666-square-foot lease at Sovereign Partners ’ 100-104 Fifth Avenue , Commercial Observer has learned. The nonprofit biomedical research organization will occupy the entire ninth floor of the 20-story tower at the southwest corner of Fifth Avenue and West 15th Street, according to sources.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/biohub-fundraise-up-leases-100-104-fifth-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-08-26T18:09:57.000Z"
     },
     {
       "headline": "Global Wellness Network Havas Health Expands to 254K SF at 200 Madison Avenue",
@@ -201,22 +156,22 @@
       "published_at": "2026-08-27T19:35:23.000Z"
     },
     {
-      "headline": "KCI Technologies Moves Headquarters in Maryland With 54K SF Lease",
-      "summary": "KCI Technologies is relocating its corporate headquarters within Maryland, moving about 300 employees from Sparks to Hunt Valley. The engineering, consulting and construction firm signed a 53,344-square-foot lease at St. John Properties ’ 23-acre North Park business complex, and will occupy two and a half floors at 6 North Park Drive. The firm will make the move in the second quarter of 2027.…",
+      "headline": "Launch Expeditionary Learning Signs 77K-SF Lease for High School in Sunset Park",
+      "summary": "A public charter school is leasing space from an independent Catholic order to create a new high school in Sunset Park, Brooklyn. Launch Expeditionary Learning Charter School has signed a 15-year, 77,000-square-foot lease with Redemptorist Fathers of New York at 5902 Sixth Avenue , where it will begin growing its student body in fall of 2027, according to tenant broker Open Impact Real Estate .…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/kci-hq-office-maryland-st-john-north-park/",
+      "url": "https://commercialobserver.com/2026/08/launch-expeditionary-learning-lease-5902-sixth-avenue-sunset-park/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-08-26T22:10:53.000Z"
+      "published_at": "2026-08-28T16:38:19.000Z"
     },
     {
-      "headline": "Six pre-foreclosures totaling $81.5M filed at Crown Acquisitions Brooklyn retail",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/six-pre-foreclosure-totaling-81-5m-at-crown-acquisitions-brooklyn-retail/",
-      "section": "pincusco",
+      "headline": "Why Buc-ee’s Is Expanding South, Not the Northeast",
+      "summary": "Buc-ee’s is concentrating growth in Southern, business-friendly, car-dependent markets, with 37 of its stores in home-state Texas. Its travel centers can span 73,000 SF with up to 120 fuel pumps. None yet operate in New York, Illinois, or New England. Studies tie chain-heavy foodscapes to rural, car-dependent, lower-income areas, aligning with the chain’s Southern site strategy.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/why-buc-ees-is-expanding-south-not-the-northeast/",
+      "section": "cre_daily",
       "retail": true,
-      "published_at": "2026-08-27T16:44:24.000Z"
+      "published_at": "2026-08-27T05:13:58.000Z"
     },
     {
       "headline": "Goodland Pickleball Takes 30K SF for New Indoor Clubs in Brooklyn, Queens",
@@ -226,15 +181,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-08-19T13:00:34.000Z"
-    },
-    {
-      "headline": "Mattone Investors signs $32M refi with Principal Real Estate for retail in St. Albans",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/mattone-investors-signs-32m-refi-with-principal-real-estate-for-retail-in-st-albans/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-08-27T15:40:00.000Z"
     },
     {
       "headline": "Pizza Napoli to Open in 3K SF at 383 Fifth Avenue",
@@ -255,6 +201,15 @@
       "published_at": "2026-08-19T13:34:52.000Z"
     },
     {
+      "headline": "Discount, used clothing retailer pays $5.2M to Foremost Real Estate for industrial in Mt Hope",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/discount-used-clothing-retailer-pays-5-2m-to-foremost-real-estate-for-industrial-in-mt-hope/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-08-28T16:15:00.000Z"
+    },
+    {
       "headline": "Yayoi Kusama wasn’t only displayed in museums — but also in other unexpected buildings across NYC",
       "summary": "Yayoi Kusama’s iconic art lives on across NYC, from a colorful mosaic at Grand Central Madison to works once displayed at a luxury rental tower.",
       "source": "New York Post",
@@ -264,22 +219,67 @@
       "published_at": "2026-08-27T19:07:30.000Z"
     },
     {
-      "headline": "Lin Ye files plans for 21 units in Briarwood",
+      "headline": "Antonia Batalias signs $21.5M refi with Alma Bank for Boro Hotel in LIC",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/lin-ye-files-plans-for-21-units-in-briarwood/",
+      "url": "https://www.pincusco.com/antonia-batalias-signs-21-5m-refi-with-alma-bank-for-boro-hotel-in-lic/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-08-27T15:01:00.000Z"
+      "published_at": "2026-08-28T16:40:00.000Z"
     },
     {
-      "headline": "Yidel Wienberger files plans for 53 units in Morris Heights",
+      "headline": "Union pension fund pays $5.2M for Korea Daily office building in Sunnyside",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/yidel-wienberger-files-plans-for-53-units-in-morris-heights/",
+      "url": "https://www.pincusco.com/union-pension-fund-pays-5-2m-to-joongang-group-for-office-in-sunnyside/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-08-27T14:09:00.000Z"
+      "published_at": "2026-08-28T16:34:00.000Z"
+    },
+    {
+      "headline": "Holliswood Development pays $6.5M to R.A. Cohen & Associates for residential walkup in Lower East Side",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/holliswood-development-pays-6-5m-to-r-a-cohen-associates-for-residential-walkup-in-lower-east-side/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-28T15:49:00.000Z"
+    },
+    {
+      "headline": "Acadia Realty Trust pays $10M for mixed-use in West Village",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/acadia-realty-trust-pays-10m-to-amber-velletta-for-mixed-use-in-west-village/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-28T15:46:00.000Z"
+    },
+    {
+      "headline": "Longtime NYC staple Barzini’s to be evicted after falling over $1M behind on rent: ‘I’m in tears’",
+      "summary": "Barzini's -- plastered with liquidation signs for weeks -- will be booted from its Broadway space next week after owners ignored an initial June deadline to vacate the premises, Joseph Cervini, an attorney representing the landlord, told The Post.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/28/us-news/barzinis-on-broadway-to-be-evicted-after-failing-to-pay-1m-in-overdue-rent/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-08-28T18:25:02.000Z"
+    },
+    {
+      "headline": "How Floyd Mayweather landed a $100K/month NYC apartment in 1 day — before he allegedly stopped paying rent",
+      "summary": "Mayweather's former landlords at the Baccarat are suing him in New York State Supreme Court for breach of contract over allegations of unpaid rent.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/27/real-estate/floyd-mayweather-landed-a-100k-month-nyc-apartment-in-1-day/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-08-27T19:34:16.000Z"
+    },
+    {
+      "headline": "America’s pandemic-era cash-buying boom is fading — but it’s still king for certain home sales",
+      "summary": "All-cash home sales are declining across the US in 2026, but cash still dominates luxury homes and markets like Miami.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/28/real-estate/all-cash-home-sales-fall-in-2026-but-still-rule-luxury/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-08-28T20:42:12.000Z"
     }
   ]
 }
