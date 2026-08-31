@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-08-30",
-  "generated_at": "2026-08-30T14:47:02.602Z",
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T17:31:09.755Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Whole Foods to Open Daily Shop at Murray Hill’s 509 Third Avenue: Whole Foods Market has leased a 9,000-square-foot retail space in Manhattan’s Murray Hill neighborhood. The 15-year deal occupies a ground-floor space and outdoor terraces at 509 Third Avenue , according to a memorandum of lease filed in city records Friday morning.\n\nBurlington Takes 44K SF at Bay Ridge Retail Center Development: Off-price retailer Burlington has inked a 44,070-square-foot retail lease at Century Marketplace , a new retail development coming to 458 86th Street in Bay Ridge, Brooklyn, developer MCB Real Estate announced Tuesday.\n\nMac Cosmetics’ SoHo Flagship Relocates to 5K SF at 579 Broadway: Mac Cosmetics has selected a new foundation in Manhattan’s SoHo neighborhood. The global makeup brand signed a 5,325-square-foot lease at 579 Broadway between Prince and East Houston streets to host its next flagship location in the trendy shopping corridor, according to an announcement from landlord broker Newmark .\n\nRetail Landlords Need to Underwrite Their Tenants’ Customer Base, Too: Landlords underwrite the retail tenant. But they almost never underwrite the tenant’s customer.",
     "cre_daily": "Fields West in Frisco Hits 75% Pre-Lease With New Tenants: Fields West, a Frisco mixed-use development, has pre-leased 75% of its retail and dining space with seven new tenants. The new leases include brands like Lululemon, Boll & Branch, and Flower Child, bringing the roster to 44 retail and restaurant tenants.\n\nJuly Retail Sales Dip as Online Spending Pulls Back: Marcus & Millichap Research Services reported core retail sales fell 0.2% in July but remained 4.8% above year-earlier levels. Online spending dropped 2.3%, its largest monthly decline since January 2025.\n\nNike Closes 15 Small Format Nike Live Retail Stores: Nike has permanently closed at least 15 Nike Live stores across 12 states, per Retail Dive. The concept launched in 2018 on Melrose Avenue with footprints planned at roughly 4K SF.\n\nDevelopers Land $75M Loan for Queens Shopping Center Redo: BTF Whitestone LLC secured a $75 million loan from Acadia Realty Trust, arranged by Northmarq, to acquire and redevelop Whitestone Shopping Center in Queens. The 119,584-square-foot, Key Food-anchored center was acquired for $56 million earlier this month and includes tenants like JPMorgan Chase and Webster Bank.",
-    "new_york_post": "Yayoi Kusama wasn’t only displayed in museums — but also in other unexpected buildings across NYC: Yayoi Kusama’s iconic art lives on across NYC, from a colorful mosaic at Grand Central Madison to works once displayed at a luxury rental tower.\n\nTexas is welcoming cheaper homes — but some cities are pushing back: In Texas, 33% of cities don't explicitly allow manufactured housing and an additional 11% subject it to a special permit or public hearing, according to a recent analysis from the National Zoning Atlas.\n\nLongtime NYC staple Barzini’s to be evicted after falling over $1M behind on rent: ‘I’m in tears’: Barzini's -- plastered with liquidation signs for weeks -- will be booted from its Broadway space next week after owners ignored an initial June deadline to vacate the premises, Joseph Cervini, an attorney representing the landlord, told The Post.\n\nHow Floyd Mayweather landed a $100K/month NYC apartment in 1 day — before he allegedly stopped paying rent: Mayweather's former landlords at the Baccarat are suing him in New York State Supreme Court for breach of contract over allegations of unpaid rent.",
-    "pincusco": "Discount, used clothing retailer pays $5.2M to Foremost Real Estate for industrial in Mt Hope.\n\nAntonia Batalias signs $21.5M refi with Alma Bank for Boro Hotel in LIC.\n\nUnion pension fund pays $5.2M for Korea Daily office building in Sunnyside.\n\nHolliswood Development pays $6.5M to R.A. Cohen & Associates for residential walkup in Lower East Side."
+    "new_york_post": "American Brasserie The Smith, Slice shop Parla taking over Red Lobster’s former Times Square location: Corner Table Restaurants signed a 17,000 square-foot lease to house a fifth location of popular American brasserie The Smith and a slice-shop outpost of Corner Table’s Upper West Side pizza brand, Parla.\n\nYayoi Kusama wasn’t only displayed in museums — but also in other unexpected buildings across NYC: Yayoi Kusama’s iconic art lives on across NYC, from a colorful mosaic at Grand Central Madison to works once displayed at a luxury rental tower.\n\nStatus of Roosevelt Hotel murkier than ever as $1.4M contract hangs in the balance: A sidewalk bridge recently popped up around the entire property. Its purpose?\n\nTexas is welcoming cheaper homes — but some cities are pushing back: In Texas, 33% of cities don't explicitly allow manufactured housing and an additional 11% subject it to a special permit or public hearing, according to a recent analysis from the National Zoning Atlas.",
+    "pincusco": "Domain, BLDG, Canyon sign $175.6M construction loan with Wells Fargo for 429 units in Astoria.\n\nA. Williams Construction signs $38.5M construction loan with Madison for 80-unit project in Gowanus.\n\nMichael Calabrese pays $10.5M for office in Brooklyn Heights.\n\nGreenbrook Partners pays $2.7M for mixed-use in Clinton Hill."
   },
   "items": [
     {
@@ -138,31 +138,13 @@
       "published_at": "2026-08-24T18:47:08.000Z"
     },
     {
-      "headline": "Harrison Street, Meridian Buy 431K-SF NoVA Office Portfolio",
-      "summary": "Meridian Group and Harrison Street Asset Management have acquired a five-building office portfolio in Chantilly, Va., as part of a broader push to attract national security, defense and intelligence firms as tenants. The joint venture, which also includes HLM Associates , acquired the Stoneleigh and Newbrook campuses totaling 431,000 square feet in the Westfields submarket of Fairfax County.…",
+      "headline": "Republic Clothing Commits to 81K SF at 1411 Broadway",
+      "summary": "Republic Clothing has swapped its sublease for full tenancy at 1411 Broadway . The international apparel manufacturer and wholesaler signed a 15-year direct lease for 81,000 square feet with building co-owners La Caisse , formerly Ivanhoe Cambridge, and the Swig Company , according to the landlord brokers. The deal is part of a trio of recent office leases totaling 182,044 square feet at the Midtown office tower.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/meridian-harrison-street-virginia-office/",
+      "url": "https://commercialobserver.com/2026/08/republic-clothing-lease-1411-broadway-swig-la-caisse-hines/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-08-27T22:15:54.000Z"
-    },
-    {
-      "headline": "Global Wellness Network Havas Health Expands to 254K SF at 200 Madison Avenue",
-      "summary": "Havas Health , a global health and wellness communications network, is expanding its Midtown headquarters, Commercial Observer has learned. Havas, which creates advertising, public relations and marketing campaigns for health care brands, signed a 15-year deal to renew its existing 189,461-square-foot office at George Comfort & Sons ’ 200 Madison Avenue and tack on an additional 64,657 square feet, according to the landlord.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/havas-health-lease-expansion-200-madison-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-08-27T19:35:23.000Z"
-    },
-    {
-      "headline": "Launch Expeditionary Learning Signs 77K-SF Lease for High School in Sunset Park",
-      "summary": "A public charter school is leasing space from an independent Catholic order to create a new high school in Sunset Park, Brooklyn. Launch Expeditionary Learning Charter School has signed a 15-year, 77,000-square-foot lease with Redemptorist Fathers of New York at 5902 Sixth Avenue , where it will begin growing its student body in fall of 2027, according to tenant broker Open Impact Real Estate .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/launch-expeditionary-learning-lease-5902-sixth-avenue-sunset-park/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-08-28T16:38:19.000Z"
+      "published_at": "2026-08-31T16:08:43.000Z"
     },
     {
       "headline": "Goodland Pickleball Takes 30K SF for New Indoor Clubs in Brooklyn, Queens",
@@ -172,6 +154,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-08-19T13:00:34.000Z"
+    },
+    {
+      "headline": "American Brasserie The Smith, Slice shop Parla taking over Red Lobster’s former Times Square location",
+      "summary": "Corner Table Restaurants signed a 17,000 square-foot lease to house a fifth location of popular American brasserie The Smith and a slice-shop outpost of Corner Table’s Upper West Side pizza brand, Parla.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/30/business/american-brasserie-the-smith-slice-shop-parla-taking-over-red-lobsters-former-times-square-location/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-08-30T17:23:05.000Z"
     },
     {
       "headline": "Pizza Napoli to Open in 3K SF at 383 Fifth Avenue",
@@ -192,13 +183,31 @@
       "published_at": "2026-08-19T13:34:52.000Z"
     },
     {
-      "headline": "Discount, used clothing retailer pays $5.2M to Foremost Real Estate for industrial in Mt Hope",
+      "headline": "Domain, BLDG, Canyon sign $175.6M construction loan with Wells Fargo for 429 units in Astoria",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/discount-used-clothing-retailer-pays-5-2m-to-foremost-real-estate-for-industrial-in-mt-hope/",
+      "url": "https://www.pincusco.com/domain-bldg-canyon-sign-175-6m-construction-loan-with-wells-fargo-for-429-units-in-astoria/",
       "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-08-28T16:15:00.000Z"
+      "retail": false,
+      "published_at": "2026-08-31T12:33:00.000Z"
+    },
+    {
+      "headline": "A. Williams Construction signs $38.5M construction loan with Madison for 80-unit project in Gowanus",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/a-williams-construction-signs-38-5m-construction-loan-with-madison-for-80-unit-project-in-gowanus/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-31T11:39:00.000Z"
+    },
+    {
+      "headline": "Michael Calabrese pays $10.5M for office in Brooklyn Heights",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/michael-calabrese-pays-10-5m-for-office-in-brooklyn-heights/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-31T11:15:00.000Z"
     },
     {
       "headline": "Yayoi Kusama wasn’t only displayed in museums — but also in other unexpected buildings across NYC",
@@ -210,6 +219,42 @@
       "published_at": "2026-08-27T19:07:30.000Z"
     },
     {
+      "headline": "Greenbrook Partners pays $2.7M for mixed-use in Clinton Hill",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/greenbrook-partners-pays-2-7m-for-mixed-use-in-clinton-hill/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-31T12:11:00.000Z"
+    },
+    {
+      "headline": "My Sunny Laundry pays $5.9M for mixed-use in Alphabet City",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/my-sunny-laundry-pays-5-9m-for-mixed-use-in-alphabet-city/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-31T11:22:00.000Z"
+    },
+    {
+      "headline": "Wesley Shiau files plans for 23 units in Gowanus",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/wesley-shiau-files-plans-for-23-units-in-gowanus/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-08-31T11:00:00.000Z"
+    },
+    {
+      "headline": "Status of Roosevelt Hotel murkier than ever as $1.4M contract hangs in the balance",
+      "summary": "A sidewalk bridge recently popped up around the entire property. Its purpose? “Installation of temporary sidewalk shed,” the Department of Buildings none too helpfully says.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/30/business/status-of-roosevelt-hotel-murkier-than-ever-as-1-4m-contract-hangs-in-the-balance/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-08-30T16:47:53.000Z"
+    },
+    {
       "headline": "Texas is welcoming cheaper homes — but some cities are pushing back",
       "summary": "In Texas, 33% of cities don't explicitly allow manufactured housing and an additional 11% subject it to a special permit or public hearing, according to a recent analysis from the National Zoning Atlas.",
       "source": "New York Post",
@@ -219,67 +264,22 @@
       "published_at": "2026-08-29T17:44:06.000Z"
     },
     {
-      "headline": "Antonia Batalias signs $21.5M refi with Alma Bank for Boro Hotel in LIC",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/antonia-batalias-signs-21-5m-refi-with-alma-bank-for-boro-hotel-in-lic/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-28T16:40:00.000Z"
-    },
-    {
-      "headline": "Union pension fund pays $5.2M for Korea Daily office building in Sunnyside",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/union-pension-fund-pays-5-2m-to-joongang-group-for-office-in-sunnyside/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-28T16:34:00.000Z"
-    },
-    {
-      "headline": "Holliswood Development pays $6.5M to R.A. Cohen & Associates for residential walkup in Lower East Side",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/holliswood-development-pays-6-5m-to-r-a-cohen-associates-for-residential-walkup-in-lower-east-side/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-28T15:49:00.000Z"
-    },
-    {
-      "headline": "Acadia Realty Trust pays $10M for mixed-use in West Village",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/acadia-realty-trust-pays-10m-to-amber-velletta-for-mixed-use-in-west-village/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-28T15:46:00.000Z"
-    },
-    {
-      "headline": "Longtime NYC staple Barzini’s to be evicted after falling over $1M behind on rent: ‘I’m in tears’",
-      "summary": "Barzini's -- plastered with liquidation signs for weeks -- will be booted from its Broadway space next week after owners ignored an initial June deadline to vacate the premises, Joseph Cervini, an attorney representing the landlord, told The Post.",
+      "headline": "NYC landlord sues sanitation department over trash-placement fines — because there’s nowhere to put it",
+      "summary": "A clash over trash is playing out in Tribeca — where several small buildings have no choice but to set out their garbage in plastic bags rather than bulky bins.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/08/28/us-news/barzinis-on-broadway-to-be-evicted-after-failing-to-pay-1m-in-overdue-rent/",
+      "url": "https://nypost.com/2026/08/31/real-estate/3-nyc-buildings-sue-dsny-over-trash-placement-fines/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-08-28T18:25:02.000Z"
+      "published_at": "2026-08-31T17:17:21.000Z"
     },
     {
-      "headline": "How Floyd Mayweather landed a $100K/month NYC apartment in 1 day — before he allegedly stopped paying rent",
-      "summary": "Mayweather's former landlords at the Baccarat are suing him in New York State Supreme Court for breach of contract over allegations of unpaid rent.",
+      "headline": "Leases ARE the news amid frenzy for space in Manhattan",
+      "summary": "Manhattan’s space-gobbling frenzy is a thing to behold.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/08/27/real-estate/floyd-mayweather-landed-a-100k-month-nyc-apartment-in-1-day/",
+      "url": "https://nypost.com/2026/08/30/business/leases-are-the-news-amid-frenzy-for-space-in-manhattan/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-08-27T19:34:16.000Z"
-    },
-    {
-      "headline": "America’s pandemic-era cash-buying boom is fading — but it’s still king for certain home sales",
-      "summary": "All-cash home sales are declining across the US in 2026, but cash still dominates luxury homes and markets like Miami.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/28/real-estate/all-cash-home-sales-fall-in-2026-but-still-rule-luxury/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-08-28T20:42:12.000Z"
+      "published_at": "2026-08-30T17:41:54.000Z"
     }
   ]
 }
