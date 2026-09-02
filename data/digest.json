@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-09-01",
-  "generated_at": "2026-09-01T14:43:15.121Z",
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T14:18:26.330Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Whole Foods to Open Daily Shop at Murray Hill’s 509 Third Avenue: Whole Foods Market has leased a 9,000-square-foot retail space in Manhattan’s Murray Hill neighborhood. The 15-year deal occupies a ground-floor space and outdoor terraces at 509 Third Avenue , according to a memorandum of lease filed in city records Friday morning.\n\nBurlington Takes 44K SF at Bay Ridge Retail Center Development: Off-price retailer Burlington has inked a 44,070-square-foot retail lease at Century Marketplace , a new retail development coming to 458 86th Street in Bay Ridge, Brooklyn, developer MCB Real Estate announced Tuesday.\n\nMac Cosmetics’ SoHo Flagship Relocates to 5K SF at 579 Broadway: Mac Cosmetics has selected a new foundation in Manhattan’s SoHo neighborhood. The global makeup brand signed a 5,325-square-foot lease at 579 Broadway between Prince and East Houston streets to host its next flagship location in the trendy shopping corridor, according to an announcement from landlord broker Newmark .\n\nRetail Landlords Need to Underwrite Their Tenants’ Customer Base, Too: Landlords underwrite the retail tenant. But they almost never underwrite the tenant’s customer.",
     "cre_daily": "July Retail Sales Dip as Online Spending Pulls Back: Marcus & Millichap Research Services reported core retail sales fell 0.2% in July but remained 4.8% above year-earlier levels. Online spending dropped 2.3%, its largest monthly decline since January 2025.\n\nNike Closes 15 Small Format Nike Live Retail Stores: Nike has permanently closed at least 15 Nike Live stores across 12 states, per Retail Dive. The concept launched in 2018 on Melrose Avenue with footprints planned at roughly 4K SF.\n\nDevelopers Land $75M Loan for Queens Shopping Center Redo: BTF Whitestone LLC secured a $75 million loan from Acadia Realty Trust, arranged by Northmarq, to acquire and redevelop Whitestone Shopping Center in Queens. The 119,584-square-foot, Key Food-anchored center was acquired for $56 million earlier this month and includes tenants like JPMorgan Chase and Webster Bank.\n\nNYC Grocery Lawsuit Puts Subsidized Retail Space at Risk: The Multicultural Business Coalition, representing roughly 65 grocer organizations, sued New York City over Mayor Zohran Mamdani’s plan for city-owned, subsidized municipal grocery stores.",
-    "new_york_post": "American Brasserie The Smith, Slice shop Parla taking over Red Lobster’s former Times Square location: Corner Table Restaurants signed a 17,000 square-foot lease to house a fifth location of popular American brasserie The Smith and a slice-shop outpost of Corner Table’s Upper West Side pizza brand, Parla.\n\nEntire California town with 35 buildings goes on the market: The town has its own local Post Office, a Border Patrol facility, a church, a VFW post, and multiple specialized workshops such as a cabinet shop and metal shop.\n\nStatus of Roosevelt Hotel murkier than ever as $1.4M contract hangs in the balance: A sidewalk bridge recently popped up around the entire property. Its purpose?\n\nTexas is welcoming cheaper homes — but some cities are pushing back: In Texas, 33% of cities don't explicitly allow manufactured housing and an additional 11% subject it to a special permit or public hearing, according to a recent analysis from the National Zoning Atlas.",
-    "pincusco": "Domain, BLDG, Canyon sign $175.6M construction loan with Wells Fargo for 429 units in Astoria.\n\nManga Hotel Group pays $50M to Lam Group for hotel in Chelsea, borrows $50M.\n\nRoget Lerner, Jean-Marc Donics, Michael Chetrit take title to office in SoHo, through $40M foreclosure.\n\nDeveloper files land use applications for 128-unit project in Astoria."
+    "new_york_post": "General Atlantic signs 625 Madison Ave. lease, getting long-awaited project off the ground: The 625 Madison tower, in the heart of the avenue’s most glamorous shopping stretch, is the latest planned Manhattan tower to sign an anchor tenant before ground was even broken.\n\nNYC’s biggest builders are circling a $360M vacant lot that could become the city’s next supertall tower: A $360 million Upper East Side development site once envisioned for a 1,240-foot supertall skyscraper is back on the market after more than a decade.\n\nEntire California town with 35 buildings goes on the market: The town has its own local Post Office, a Border Patrol facility, a church, a VFW post, and multiple specialized workshops such as a cabinet shop and metal shop.\n\nManhattan’s luxury rental market skyrockets — reaching $100K a month amid pied-à-terre tax: “The $100,000-a-month number is almost normal now,” one broker said.",
+    "pincusco": "Acadia Realty Trust pays Status Capital $10M for retail co-op in West Village.\n\nJTRE buys $11.9M note secured by its own retail building in NoMad.\n\nHappier Grocery in care of 99c pays $21.5M for mixed-use, vacant lot, in Carroll Gardens.\n\nRXR Realty signs $110.1M refi with Macquarie Group for office in Midtown West."
   },
   "items": [
     {
@@ -48,6 +48,15 @@
       "published_at": "2026-08-21T12:15:18.000Z"
     },
     {
+      "headline": "General Atlantic signs 625 Madison Ave. lease, getting long-awaited project off the ground",
+      "summary": "The 625 Madison tower, in the heart of the avenue’s most glamorous shopping stretch, is the latest planned Manhattan tower to sign an anchor tenant before ground was even broken.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/01/business/general-atlantic-signs-625-madison-ave-lease-getting-long-awaited-project-off-the-ground/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-09-01T20:40:53.000Z"
+    },
+    {
       "headline": "Planet Fitness Takes 15K SF at Coney Island Residential Development",
       "summary": "Wake up, it’s time for a workout. Planet Fitness has inked a 14,500-square-foot retail lease at the base of a new residential tower in Coney Island, Brooklyn, with Cammeby’s International Group and Rybak Development . Planet Fitness will move into the space at 532 Neptune Avenue next year on a 10-year lease with an asking rent of $65 per square foot, according to the New York Business Journal , which first reported the deal.…",
       "source": "Commercial Observer",
@@ -82,6 +91,15 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-08-22T15:04:14.000Z"
+    },
+    {
+      "headline": "Dermatology Chain LaserAway Adds 15th NYC Location on the Upper East Side",
+      "summary": "Skin care, hair removal and body wellness services provider LaserAway is getting ready to open its 15th New York City location on Manhattan’s Upper East Side, Commercial Observer has learned. LaserAway signed a 10-year lease for 1,800 square feet on the ground floor of a mixed-use property at 242 East 86th Street , according to a source close to the deal. Asking rent was $165 per square foot.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/dermatology-laseraway-lease-upper-east-side/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-01T19:37:26.000Z"
     },
     {
       "headline": "Developers Land $75M Loan for Queens Shopping Center Redo",
@@ -138,31 +156,40 @@
       "published_at": "2026-09-01T08:10:41.000Z"
     },
     {
-      "headline": "Financial Services Firm Aegon Takes 21K SF at 125 West 57th Street",
-      "summary": "International financial services firm Aegon is moving its office kingdom to New York City. Aegon, which was founded in the Netherlands and specializes in life insurance, pensions and retirement plans, has decided on 125 West 57th Street for its new headquarters, inking a 20,600-square-foot lease at the property in Manhattan’s Plaza District owned by Alchemy-ABR Investment Partners and Cain International .…",
+      "headline": "Investor General Atlantic to Anchor Related’s 625 Madison Avenue in 150K-SF Deal",
+      "summary": "Related Companies just nabbed an anchor tenant for its under-construction office tower at 625 Madison Avenue in Manhattan’s Plaza District, the developer announced Tuesday. General Atlantic , a global investment firm, has inked a long-term lease to occupy more than 150,000 square feet across five floors at the planned 53-story office tower, which is slated to open in 2029. The firm will use the space for its more than 330 New York-based employees, who represent about one-third of the company’s global workforce.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/aegon-lease-125-west-57th-street/",
+      "url": "https://commercialobserver.com/2026/09/general-atlantic-anchor-lease-related-625-madison-avenue/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-08-31T19:18:27.000Z"
+      "published_at": "2026-09-01T18:29:27.000Z"
     },
     {
-      "headline": "Republic Clothing Commits to 81K SF at 1411 Broadway",
-      "summary": "Republic Clothing has swapped its sublease for full tenancy at 1411 Broadway . The international apparel manufacturer and wholesaler signed a 15-year direct lease for 81,000 square feet with building co-owners La Caisse , formerly Ivanhoe Cambridge, and the Swig Company , according to the landlord brokers. The deal is part of a trio of recent office leases totaling 182,044 square feet at the Midtown office tower.…",
+      "headline": "Cricket Training Facility Takes 14K SF Near Bryant Park for First U.S. Location",
+      "summary": "Anyone fancy a game of cricket? Century Cricket Centre , an Australia-based indoor cricket and sports-tech concept, will open its first U.S. location in New York City, having inked a 14,000-square-foot lease at Thor Equities ’ 25 West 39th Street a block south of Bryant Park , tenant broker Lee & Associates NYC announced Tuesday.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/republic-clothing-lease-1411-broadway-swig-la-caisse-hines/",
+      "url": "https://commercialobserver.com/2026/09/century-cricket-centre-lease-25-west-39th-street/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-08-31T16:08:43.000Z"
+      "published_at": "2026-09-01T16:40:58.000Z"
     },
     {
-      "headline": "Goodland Pickleball Takes 30K SF for New Indoor Clubs in Brooklyn, Queens",
-      "summary": "Indoor pickleball club operator Goodland Pickleball has secured two new club locations in New York City, Commercial Observer has learned. The long-term leases span a total of 30,100 square feet within Class A buildings in Williamsburg, Brooklyn, and Rego Park, Queens. Goodland, which secured its first indoor New York City club in Brooklyn’s Greenpoint neighborhood in 2024, reports 11,000 visitors to date across the city.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/goodland-pickleball-lease-williamsburg-rego-park-clubs/",
-      "section": "commercial_observer",
+      "headline": "Acadia Realty Trust pays Status Capital $10M for retail co-op in West Village",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/acadia-realty-trust-pays-status-capital-10m-for-retail-co-op-in-west-village/",
+      "section": "pincusco",
       "retail": true,
-      "published_at": "2026-08-19T13:00:34.000Z"
+      "published_at": "2026-09-02T12:25:00.000Z"
+    },
+    {
+      "headline": "JTRE buys $11.9M note secured by its own retail building in NoMad",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/jtre-buys-11-9m-note-secured-by-its-own-retail-building-in-nomad/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-09-01T16:51:00.000Z"
     },
     {
       "headline": "Retail Location Intelligence Grows in Sophistication and Usage",
@@ -174,15 +201,6 @@
       "published_at": "2026-09-01T14:00:35.000Z"
     },
     {
-      "headline": "American Brasserie The Smith, Slice shop Parla taking over Red Lobster’s former Times Square location",
-      "summary": "Corner Table Restaurants signed a 17,000 square-foot lease to house a fifth location of popular American brasserie The Smith and a slice-shop outpost of Corner Table’s Upper West Side pizza brand, Parla.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/30/business/american-brasserie-the-smith-slice-shop-parla-taking-over-red-lobsters-former-times-square-location/",
-      "section": "new_york_post",
-      "retail": true,
-      "published_at": "2026-08-30T17:23:05.000Z"
-    },
-    {
       "headline": "Pizza Napoli to Open in 3K SF at 383 Fifth Avenue",
       "summary": "As one pizzeria shuts down, another is growing in its place, Commercial Observer has learned. Pizza Napoli has signed a 2,500-square-foot lease at Jonathan and Jan Soleimani ’s 383 Fifth Avenue just off East 36th Street in Midtown, where asking rent started at $25,000 per month, according to landlord broker Meridian Capital Group . The tenant signed a 15-year lease for the space, Meridian said. The site was previously the home of Famous Italian Pizza.…",
       "source": "Commercial Observer",
@@ -192,58 +210,49 @@
       "published_at": "2026-08-26T19:16:12.000Z"
     },
     {
-      "headline": "Mexican Restaurant Santo Taco Subleases Former West Village Dig Inn Space",
-      "summary": "Santo Taco is subleasing space formerly occupied by Dig Inn in Manhattan’s West Village, Commercial Observer has learned. The Mexican food concept launched by Santiago Perez in 2025 will take over the 2,800-square-foot, street-level and below-grade space at the Robert Jaffee -owned 232 Bleecker Street at the corner of Bleecker and Carmine streets, according to ManagRE . The sublease runs until 2041.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/santo-taco-sublease-dig-inn-232-bleecker-street/",
-      "section": "commercial_observer",
+      "headline": "Happier Grocery in care of 99c pays $21.5M for mixed-use, vacant lot, in Carroll Gardens",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/happier-grocery-in-care-of-99c-pays-21-5m-for-three-properties-in-carroll-gardens/",
+      "section": "pincusco",
       "retail": true,
-      "published_at": "2026-08-19T13:34:52.000Z"
+      "published_at": "2026-09-02T13:32:00.000Z"
     },
     {
-      "headline": "Domain, BLDG, Canyon sign $175.6M construction loan with Wells Fargo for 429 units in Astoria",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/domain-bldg-canyon-sign-175-6m-construction-loan-with-wells-fargo-for-429-units-in-astoria/",
-      "section": "pincusco",
+      "headline": "NYC’s biggest builders are circling a $360M vacant lot that could become the city’s next supertall tower",
+      "summary": "A $360 million Upper East Side development site once envisioned for a 1,240-foot supertall skyscraper is back on the market after more than a decade.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/01/real-estate/nycs-biggest-builders-are-circling-a-360m-vacant-lot/",
+      "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-08-31T12:33:00.000Z"
+      "published_at": "2026-09-01T16:03:10.000Z"
     },
     {
-      "headline": "Manga Hotel Group pays $50M to Lam Group for hotel in Chelsea, borrows $50M",
+      "headline": "RXR Realty signs $110.1M refi with Macquarie Group for office in Midtown West",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/manga-hotel-group-pays-50m-to-lam-group-for-hotel-in-chelsea-borrows-50m/",
+      "url": "https://www.pincusco.com/rxr-realty-signs-110-1m-refi-with-macquarie-group-for-office-in-midtown-west/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-01T13:27:00.000Z"
+      "published_at": "2026-09-02T13:53:00.000Z"
     },
     {
-      "headline": "Roget Lerner, Jean-Marc Donics, Michael Chetrit take title to office in SoHo, through $40M foreclosure",
+      "headline": "David Goldberger files plans for 57 units in Olinville",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/roget-lerner-jean-marc-donics-michael-chetrit-take-title-to-office-in-soho-through-40m-foreclosure/",
+      "url": "https://www.pincusco.com/david-goldberger-files-plans-for-57-units-in-olinville/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-01T13:10:23.000Z"
+      "published_at": "2026-09-01T17:03:00.000Z"
     },
     {
-      "headline": "Developer files land use applications for 128-unit project in Astoria",
+      "headline": "Double U Realty signs $15.4M refi with Crestline for mixed-use in Williamsburg",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/developer-files-land-use-applications-for-128-unit-project-in-astoria/",
+      "url": "https://www.pincusco.com/double-u-realty-signs-15-4m-refi-with-crestline-for-mixed-use-in-williamsburg/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-01T10:41:21.000Z"
-    },
-    {
-      "headline": "Rubin Equities files plans for 94 units in Mt Eden",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/rubin-equities-files-plans-for-94-units-in-mt-eden/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-08-31T19:35:00.000Z"
+      "published_at": "2026-09-01T16:29:00.000Z"
     },
     {
       "headline": "Entire California town with 35 buildings goes on the market",
@@ -255,31 +264,22 @@
       "published_at": "2026-08-31T18:16:09.000Z"
     },
     {
-      "headline": "Greenbrook Partners pays $2.7M for mixed-use in Clinton Hill",
+      "headline": "Fannie Mae takes title to 5 foreclosed rentals in Upper Manhattan, valued at $16.6M",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/greenbrook-partners-pays-2-7m-for-mixed-use-in-clinton-hill/",
+      "url": "https://www.pincusco.com/fannie-mae-takes-title-to-5-foreclosed-rentals-in-harlem-valued-at-16-6m/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-08-31T12:11:00.000Z"
+      "published_at": "2026-09-02T13:03:00.000Z"
     },
     {
-      "headline": "Status of Roosevelt Hotel murkier than ever as $1.4M contract hangs in the balance",
-      "summary": "A sidewalk bridge recently popped up around the entire property. Its purpose? “Installation of temporary sidewalk shed,” the Department of Buildings none too helpfully says.",
+      "headline": "Manhattan’s luxury rental market skyrockets — reaching $100K a month amid pied-à-terre tax",
+      "summary": "“The $100,000-a-month number is almost normal now,” one broker said.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/08/30/business/status-of-roosevelt-hotel-murkier-than-ever-as-1-4m-contract-hangs-in-the-balance/",
+      "url": "https://nypost.com/2026/09/01/real-estate/manhattans-luxury-rents-reach-100k-a-month/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-08-30T16:47:53.000Z"
-    },
-    {
-      "headline": "Texas is welcoming cheaper homes — but some cities are pushing back",
-      "summary": "In Texas, 33% of cities don't explicitly allow manufactured housing and an additional 11% subject it to a special permit or public hearing, according to a recent analysis from the National Zoning Atlas.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/29/real-estate/texas-is-welcoming-cheaper-homes-but-some-cities-are-pushing-back/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-08-29T17:44:06.000Z"
+      "published_at": "2026-09-01T19:12:25.000Z"
     }
   ]
 }
