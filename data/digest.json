@@ -1,14 +1,13 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-09-02",
-  "generated_at": "2026-09-02T14:18:26.330Z",
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T14:21:46.222Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Whole Foods to Open Daily Shop at Murray Hill’s 509 Third Avenue: Whole Foods Market has leased a 9,000-square-foot retail space in Manhattan’s Murray Hill neighborhood. The 15-year deal occupies a ground-floor space and outdoor terraces at 509 Third Avenue , according to a memorandum of lease filed in city records Friday morning.\n\nBurlington Takes 44K SF at Bay Ridge Retail Center Development: Off-price retailer Burlington has inked a 44,070-square-foot retail lease at Century Marketplace , a new retail development coming to 458 86th Street in Bay Ridge, Brooklyn, developer MCB Real Estate announced Tuesday.\n\nMac Cosmetics’ SoHo Flagship Relocates to 5K SF at 579 Broadway: Mac Cosmetics has selected a new foundation in Manhattan’s SoHo neighborhood. The global makeup brand signed a 5,325-square-foot lease at 579 Broadway between Prince and East Houston streets to host its next flagship location in the trendy shopping corridor, according to an announcement from landlord broker Newmark .\n\nRetail Landlords Need to Underwrite Their Tenants’ Customer Base, Too: Landlords underwrite the retail tenant. But they almost never underwrite the tenant’s customer.",
-    "cre_daily": "July Retail Sales Dip as Online Spending Pulls Back: Marcus & Millichap Research Services reported core retail sales fell 0.2% in July but remained 4.8% above year-earlier levels. Online spending dropped 2.3%, its largest monthly decline since January 2025.\n\nNike Closes 15 Small Format Nike Live Retail Stores: Nike has permanently closed at least 15 Nike Live stores across 12 states, per Retail Dive. The concept launched in 2018 on Melrose Avenue with footprints planned at roughly 4K SF.\n\nDevelopers Land $75M Loan for Queens Shopping Center Redo: BTF Whitestone LLC secured a $75 million loan from Acadia Realty Trust, arranged by Northmarq, to acquire and redevelop Whitestone Shopping Center in Queens. The 119,584-square-foot, Key Food-anchored center was acquired for $56 million earlier this month and includes tenants like JPMorgan Chase and Webster Bank.\n\nNYC Grocery Lawsuit Puts Subsidized Retail Space at Risk: The Multicultural Business Coalition, representing roughly 65 grocer organizations, sued New York City over Mayor Zohran Mamdani’s plan for city-owned, subsidized municipal grocery stores.",
-    "new_york_post": "General Atlantic signs 625 Madison Ave. lease, getting long-awaited project off the ground: The 625 Madison tower, in the heart of the avenue’s most glamorous shopping stretch, is the latest planned Manhattan tower to sign an anchor tenant before ground was even broken.\n\nNYC’s biggest builders are circling a $360M vacant lot that could become the city’s next supertall tower: A $360 million Upper East Side development site once envisioned for a 1,240-foot supertall skyscraper is back on the market after more than a decade.\n\nEntire California town with 35 buildings goes on the market: The town has its own local Post Office, a Border Patrol facility, a church, a VFW post, and multiple specialized workshops such as a cabinet shop and metal shop.\n\nManhattan’s luxury rental market skyrockets — reaching $100K a month amid pied-à-terre tax: “The $100,000-a-month number is almost normal now,” one broker said.",
-    "pincusco": "Acadia Realty Trust pays Status Capital $10M for retail co-op in West Village.\n\nJTRE buys $11.9M note secured by its own retail building in NoMad.\n\nHappier Grocery in care of 99c pays $21.5M for mixed-use, vacant lot, in Carroll Gardens.\n\nRXR Realty signs $110.1M refi with Macquarie Group for office in Midtown West."
+    "commercial_observer": "Whole Foods to Open Daily Shop at Murray Hill’s 509 Third Avenue: Whole Foods Market has leased a 9,000-square-foot retail space in Manhattan’s Murray Hill neighborhood. The 15-year deal occupies a ground-floor space and outdoor terraces at 509 Third Avenue , according to a memorandum of lease filed in city records Friday morning.\n\nMac Cosmetics’ SoHo Flagship Relocates to 5K SF at 579 Broadway: Mac Cosmetics has selected a new foundation in Manhattan’s SoHo neighborhood. The global makeup brand signed a 5,325-square-foot lease at 579 Broadway between Prince and East Houston streets to host its next flagship location in the trendy shopping corridor, according to an announcement from landlord broker Newmark .\n\nRetail Landlords Need to Underwrite Their Tenants’ Customer Base, Too: Landlords underwrite the retail tenant. But they almost never underwrite the tenant’s customer.\n\nPlanet Fitness Takes 15K SF at Coney Island Residential Development: Wake up, it’s time for a workout. Planet Fitness has inked a 14,500-square-foot retail lease at the base of a new residential tower in Coney Island, Brooklyn, with Cammeby’s International Group and Rybak Development .",
+    "cre_daily": "July Retail Sales Dip as Online Spending Pulls Back: Marcus & Millichap Research Services reported core retail sales fell 0.2% in July but remained 4.8% above year-earlier levels. Online spending dropped 2.3%, its largest monthly decline since January 2025.\n\nNike Closes 15 Small Format Nike Live Retail Stores: Nike has permanently closed at least 15 Nike Live stores across 12 states, per Retail Dive. The concept launched in 2018 on Melrose Avenue with footprints planned at roughly 4K SF.\n\nNYC Grocery Lawsuit Puts Subsidized Retail Space at Risk: The Multicultural Business Coalition, representing roughly 65 grocer organizations, sued New York City over Mayor Zohran Mamdani’s plan for city-owned, subsidized municipal grocery stores.\n\nRetail Location Intelligence Sharpens Site Selection: Retail location intelligence platforms can model revenue, cash-on-cash returns, and store cannibalization down to specific streets and sites. Bain’s Vantage combines global data sets and machine learning with demographic, competitive, and retailer-specific information.",
+    "new_york_post": "General Atlantic signs 625 Madison Ave. lease, getting long-awaited project off the ground: The 625 Madison tower, in the heart of the avenue’s most glamorous shopping stretch, is the latest planned Manhattan tower to sign an anchor tenant before ground was even broken.\n\nNYC’s biggest builders are circling a $360M vacant lot that could become the city’s next supertall tower: A $360 million Upper East Side development site once envisioned for a 1,240-foot supertall skyscraper is back on the market after more than a decade.\n\nChris Evans fetches $5.38M for the LA home where he trained to become Captain America: Chris Evans sold his Hollywood Hills home for $1.6 million below its original asking price.\n\nManhattan’s luxury rental market skyrockets — reaching $100K a month amid pied-à-terre tax: “The $100,000-a-month number is almost normal now,” one broker said."
   },
   "items": [
     {
@@ -19,15 +18,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-08-21T15:24:50.000Z"
-    },
-    {
-      "headline": "Burlington Takes 44K SF at Bay Ridge Retail Center Development",
-      "summary": "Off-price retailer Burlington has inked a 44,070-square-foot retail lease at Century Marketplace , a new retail development coming to 458 86th Street in Bay Ridge, Brooklyn, developer MCB Real Estate announced Tuesday. The site between Fourth and Fifth avenues is undergoing a $130 million mixed-use redevelopment to turn the former 14-lot Century 21 department store assemblage into a 95,000-square-foot retail center.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/burlington-lease-bay-ridge-retail-century-marketplace/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-08-19T16:54:13.000Z"
     },
     {
       "headline": "Mac Cosmetics’ SoHo Flagship Relocates to 5K SF at 579 Broadway",
@@ -66,13 +56,31 @@
       "published_at": "2026-08-20T14:28:47.000Z"
     },
     {
-      "headline": "L3 Capital Secures 24K SF for Bylt Basics, Zara Flagships in Williamsburg",
-      "summary": "L3 Capital ’s 108 North Sixth Street and 184-192 Bedford Avenue are welcoming two retail flagships to Williamsburg, Brooklyn. Men’s apparel brand Bylt Basics has selected 108 North Sixth Street, between Berry Street and Wythe Avenue, to host its first permanent New York City storefront, Commercial Observer has learned, in a bold signal of the retail corridor’s growing retail dominance.…",
+      "headline": "Westfield Montgomery Owner Pays Off $350M Loan on Bethesda, Md., Mall",
+      "summary": "Unibail-Rodamco-Westfield (URW) has paid off a $350 million loan tied to the Westfield Montgomery shopping mall in Bethesda, Md., more than two years after the debt was transferred to special servicing. The 1.2 million-square-foot mall’s loan had been scheduled to mature Aug. 1, Bisnow reported. Morningstar Credit described the payoff as a “rarity in a cycle” in which many mall loans continue to receive extensions. URW secured the 10-year loan in 2014, with the debt tied to 836,000 square feet of the property.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/l3-capital-leases-bylt-basics-zara-williamsburg/",
+      "url": "https://commercialobserver.com/2026/09/westfield-montgomery-maryland/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-08-19T17:47:46.000Z"
+      "published_at": "2026-09-02T20:35:36.000Z"
+    },
+    {
+      "headline": "Fashion Boutique Atelier Secures Retail Space at 181 MacDougal Street",
+      "summary": "Fashion boutique Atelier New York is upgrading its retail footprint in Manhattan’s Greenwich Village. The multi-brand luxury boutique will be the inaugural tenant in the commercial component of the Straus Group ’s newly constructed 181 MacDougal Street luxury condominium building, Commercial Observer has learned. Asking rent for the 2,130-square-foot retail space was $250 per square foot, according to landlord broker Newmark .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/atelier-lease-straus-group-181-macdougal-street-retail/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-02T18:25:17.000Z"
+    },
+    {
+      "headline": "AI Is Turning Retail Leasing Into an Underwriting Business",
+      "summary": "Retail real estate has never lacked data. It has lacked a reliable way to connect that data to the health of an individual store. A rent roll shows what a tenant is obligated to pay. Demographics describe the households surrounding a property. Traffic counts estimate the number of cars passing a site. None of those measures, on its own, answers the questions that increasingly matter to shopping center owners and brokers: Is this store productive? Does its customer actually shop this trade area?…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/ai-retail-leasing-underwriting/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-02T15:03:44.000Z"
     },
     {
       "headline": "July Retail Sales Dip as Online Spending Pulls Back",
@@ -102,13 +110,13 @@
       "published_at": "2026-09-01T19:37:26.000Z"
     },
     {
-      "headline": "Developers Land $75M Loan for Queens Shopping Center Redo",
-      "summary": "BTF Whitestone LLC secured a $75 million loan from Acadia Realty Trust, arranged by Northmarq, to acquire and redevelop Whitestone Shopping Center in Queens. The 119,584-square-foot, Key Food-anchored center was acquired for $56 million earlier this month and includes tenants like JPMorgan Chase and Webster Bank. The deal reflects strong lender appetite for grocery-anchored retail even as broader financing conditions tighten across other property types.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/developers-land-75m-loan-for-queens-shopping-center-redo/",
-      "section": "cre_daily",
+      "headline": "Seafood Restaurant Crab House Takes 7K SF at 11 East 13th Street",
+      "summary": "It’s the catch of the day! All-you-can-eat seafood chain Crab House has secured its fourth New York City location at 11 East 13th Street in Manhattan’s Greenwich Village neighborhood, Commercial Observer has learned. The 6,500-square-foot space between Fifth Avenue and University Place went fishing for a new proprietor in early August, following the departure of Mediterranean tapas restaurant Reyna New York.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/crab-house-11-east-13th-street-lease/",
+      "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-08-19T15:27:06.000Z"
+      "published_at": "2026-09-02T15:55:05.000Z"
     },
     {
       "headline": "Pilates Studio Sancta Selects Tribeca’s 124 Hudson Street for First Location",
@@ -127,6 +135,15 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-08-26T16:05:02.000Z"
+    },
+    {
+      "headline": "Retail Location Intelligence Sharpens Site Selection",
+      "summary": "Retail location intelligence platforms can model revenue, cash-on-cash returns, and store cannibalization down to specific streets and sites. Bain’s Vantage combines global data sets and machine learning with demographic, competitive, and retailer-specific information. Industry executives say technology improves site selection, but local sales knowledge and street-level context remain essential.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/retail-location-intelligence-sharpens-site-selection/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-09-03T05:19:11.000Z"
     },
     {
       "headline": "Westfield Topanga Tests Pop-Ups to Revive Food Hall",
@@ -156,13 +173,40 @@
       "published_at": "2026-09-01T08:10:41.000Z"
     },
     {
-      "headline": "Investor General Atlantic to Anchor Related’s 625 Madison Avenue in 150K-SF Deal",
-      "summary": "Related Companies just nabbed an anchor tenant for its under-construction office tower at 625 Madison Avenue in Manhattan’s Plaza District, the developer announced Tuesday. General Atlantic , a global investment firm, has inked a long-term lease to occupy more than 150,000 square feet across five floors at the planned 53-story office tower, which is slated to open in 2029. The firm will use the space for its more than 330 New York-based employees, who represent about one-third of the company’s global workforce.…",
+      "headline": "Vestal Point Capital Takes 12K SF at Rockrose Development’s 11 East 26th Street",
+      "summary": "Investment firm and hedge fund manager Vestal Point Capital is relocating its offices within New York City. The company has inked a long-term, 12,139-square-foot lease on the entire 12th floor of Rockrose Development ’s 11 East 26th Street across the street from Manhattan’s Madison Square Park , Commercial Observer has learned. The company’s current address is listed on its website as 632 Broadway in NoHo. It is unclear when the firm will move. The exact length of the lease was unclear.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/general-atlantic-anchor-lease-related-625-madison-avenue/",
+      "url": "https://commercialobserver.com/2026/09/vestal-point-capital-lease-rockrose-development-11-east-26th-street/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-09-01T18:29:27.000Z"
+      "published_at": "2026-09-02T20:25:51.000Z"
+    },
+    {
+      "headline": "Fintech Firm Stash Financial Leases 12K SF at 641 Avenue of the Americas",
+      "summary": "This fintech firm is stashing away some new office space. Stash Financial , a digital personal finance and micro-investing company offering financial advice, has inked a 12,322-square-foot office lease at Spear Street Capital ’s 641 Avenue of the Americas , Commercial Observer has learned. The lease was signed in mid-August, according to a source close to the deal.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/stash-financial-lease-641-avenue-of-the-americas/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-02T18:17:41.000Z"
+    },
+    {
+      "headline": "Reforming Pilates to Open New Studio at 233 East 34th Street in Murray Hill",
+      "summary": "Almost started this story with a workout pun, but that would have been too much of a stretch. Fitness brand Reforming Pilates , which offers reformer equipment classes and heated mat workouts, has signed a 10-year, 2,500-square-foot lease to open a new location at 233 East 34th Street , according to landlord broker Meridian Capital Group . “Murray Hill is the heartbeat of Manhattan,” Genevieve Ross , founder of Reforming Pilates, said in a statement.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/reforming-pilates-lease-studio-233-east-34th-street-murray-hill/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-03T14:21:14.000Z"
+    },
+    {
+      "headline": "NYC Human Resources Administration Extends 174K-SF Lease in Midtown",
+      "summary": "The New York City Department of Citywide Administrative Services (DCAS) extended the lease for a government agency in Midtown South. The New York City Human Resources Administration (HRA) will get an extra 18 months at Vornado Realty Trust ’s 260 11th Avenue , where it occupies 174,186 square feet, according to a source close to the deal.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/nyc-human-resources-administration-lease-extension-260-11th-avenue/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-02T20:11:46.000Z"
     },
     {
       "headline": "Cricket Training Facility Takes 14K SF Near Bryant Park for First U.S. Location",
@@ -174,24 +218,6 @@
       "published_at": "2026-09-01T16:40:58.000Z"
     },
     {
-      "headline": "Acadia Realty Trust pays Status Capital $10M for retail co-op in West Village",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/acadia-realty-trust-pays-status-capital-10m-for-retail-co-op-in-west-village/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-09-02T12:25:00.000Z"
-    },
-    {
-      "headline": "JTRE buys $11.9M note secured by its own retail building in NoMad",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/jtre-buys-11-9m-note-secured-by-its-own-retail-building-in-nomad/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-09-01T16:51:00.000Z"
-    },
-    {
       "headline": "Retail Location Intelligence Grows in Sophistication and Usage",
       "summary": "In the late 1960s, science fiction writer Arthur C. Clarke posited a now-famous law of the universe: “Any sufficiently advanced technology is indistinguishable from magic.” As the rapid advancement of technology, especially given the ongoing progress of artificial intelligence, often makes this seem truer by the day, its implications in commercial real estate are often of a type that would have seemed like pure voodoo to CRE professionals when Clarke put forth this statement.…",
       "source": "Commercial Observer",
@@ -199,24 +225,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-09-01T14:00:35.000Z"
-    },
-    {
-      "headline": "Pizza Napoli to Open in 3K SF at 383 Fifth Avenue",
-      "summary": "As one pizzeria shuts down, another is growing in its place, Commercial Observer has learned. Pizza Napoli has signed a 2,500-square-foot lease at Jonathan and Jan Soleimani ’s 383 Fifth Avenue just off East 36th Street in Midtown, where asking rent started at $25,000 per month, according to landlord broker Meridian Capital Group . The tenant signed a 15-year lease for the space, Meridian said. The site was previously the home of Famous Italian Pizza.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/pizza-napoli-lease-383-fifth-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-08-26T19:16:12.000Z"
-    },
-    {
-      "headline": "Happier Grocery in care of 99c pays $21.5M for mixed-use, vacant lot, in Carroll Gardens",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/happier-grocery-in-care-of-99c-pays-21-5m-for-three-properties-in-carroll-gardens/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-09-02T13:32:00.000Z"
     },
     {
       "headline": "NYC’s biggest builders are circling a $360M vacant lot that could become the city’s next supertall tower",
@@ -228,49 +236,13 @@
       "published_at": "2026-09-01T16:03:10.000Z"
     },
     {
-      "headline": "RXR Realty signs $110.1M refi with Macquarie Group for office in Midtown West",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/rxr-realty-signs-110-1m-refi-with-macquarie-group-for-office-in-midtown-west/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-02T13:53:00.000Z"
-    },
-    {
-      "headline": "David Goldberger files plans for 57 units in Olinville",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/david-goldberger-files-plans-for-57-units-in-olinville/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-01T17:03:00.000Z"
-    },
-    {
-      "headline": "Double U Realty signs $15.4M refi with Crestline for mixed-use in Williamsburg",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/double-u-realty-signs-15-4m-refi-with-crestline-for-mixed-use-in-williamsburg/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-01T16:29:00.000Z"
-    },
-    {
-      "headline": "Entire California town with 35 buildings goes on the market",
-      "summary": "The town has its own local Post Office, a Border Patrol facility, a church, a VFW post, and multiple specialized workshops such as a cabinet shop and metal shop.",
+      "headline": "Chris Evans fetches $5.38M for the LA home where he trained to become Captain America",
+      "summary": "Chris Evans sold his Hollywood Hills home for $1.6 million below its original asking price.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/08/31/real-estate/entire-california-town-with-28-buildings-goes-on-the-market/",
+      "url": "https://nypost.com/2026/09/02/real-estate/chris-evans-sells-la-home-with-captain-america-gym-for-5-4m/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-08-31T18:16:09.000Z"
-    },
-    {
-      "headline": "Fannie Mae takes title to 5 foreclosed rentals in Upper Manhattan, valued at $16.6M",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/fannie-mae-takes-title-to-5-foreclosed-rentals-in-harlem-valued-at-16-6m/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-02T13:03:00.000Z"
+      "published_at": "2026-09-02T18:01:53.000Z"
     },
     {
       "headline": "Manhattan’s luxury rental market skyrockets — reaching $100K a month amid pied-à-terre tax",
@@ -280,6 +252,33 @@
       "section": "new_york_post",
       "retail": false,
       "published_at": "2026-09-01T19:12:25.000Z"
+    },
+    {
+      "headline": "I live above a noisy NYC laundromat whose vibrations and fumes are ruining my life — and I have nowhere to go",
+      "summary": "“I feel like a zombie,” Dorian Solomon told The Post of Miss Bubble directly below her home. “In a small studio, there is nowhere to escape.”",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/01/real-estate/the-nyc-laundromat-below-me-is-runing-my-life/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-09-01T16:18:12.000Z"
+    },
+    {
+      "headline": "Lou Dobbs’ 283-acre NJ farm asks $6M — where the late anchor hosted his storied July 4th parties",
+      "summary": "Hickory Hollow Farm hosted those all-day celebrations, where media stars and political consultants mixed with locals and newsroom staff.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/03/real-estate/lou-dobbs-283-acre-nj-farm-asks-6m/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-09-03T11:00:00.000Z"
+    },
+    {
+      "headline": "Marin County finance bros charged over massive $100M Ponzi scheme",
+      "summary": "Two Marin County men were indicted Tuesday on federal charges of wire fraud conspiracy in an alleged Ponzi scheme.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/02/us-news/bay-area-executives-indicted-in-alleged-103m-ponzi-scheme/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-09-02T22:52:01.000Z"
     }
   ]
 }
