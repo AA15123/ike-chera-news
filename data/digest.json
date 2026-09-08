@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-09-07",
-  "generated_at": "2026-09-07T15:43:24.668Z",
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T14:21:54.052Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Mac Cosmetics’ SoHo Flagship Relocates to 5K SF at 579 Broadway: Mac Cosmetics has selected a new foundation in Manhattan’s SoHo neighborhood. The global makeup brand signed a 5,325-square-foot lease at 579 Broadway between Prince and East Houston streets to host its next flagship location in the trendy shopping corridor, according to an announcement from landlord broker Newmark .\n\nFashion Boutique Atelier Secures Retail Space at 181 MacDougal Street: Fashion boutique Atelier New York is upgrading its retail footprint in Manhattan’s Greenwich Village. The multi-brand luxury boutique will be the inaugural tenant in the commercial component of the Straus Group ’s newly constructed 181 MacDougal Street luxury condominium building, Commercial Observer has learned.\n\nDermatology Chain LaserAway Adds 15th NYC Location on the Upper East Side: Skin care, hair removal and body wellness services provider LaserAway is getting ready to open its 15th New York City location on Manhattan’s Upper East Side, Commercial Observer has learned.\n\nSeafood Restaurant Crab House Takes 7K SF at 11 East 13th Street: It’s the catch of the day! All-you-can-eat seafood chain Crab House has secured its fourth New York City location at 11 East 13th Street in Manhattan’s Greenwich Village neighborhood, Commercial Observer has learned.",
+    "commercial_observer": "Mac Cosmetics’ SoHo Flagship Relocates to 5K SF at 579 Broadway: Mac Cosmetics has selected a new foundation in Manhattan’s SoHo neighborhood. The global makeup brand signed a 5,325-square-foot lease at 579 Broadway between Prince and East Houston streets to host its next flagship location in the trendy shopping corridor, according to an announcement from landlord broker Newmark .\n\nFashion Boutique Atelier Secures Retail Space at 181 MacDougal Street: Fashion boutique Atelier New York is upgrading its retail footprint in Manhattan’s Greenwich Village. The multi-brand luxury boutique will be the inaugural tenant in the commercial component of the Straus Group ’s newly constructed 181 MacDougal Street luxury condominium building, Commercial Observer has learned.\n\nDermatology Chain LaserAway Adds 15th NYC Location on the Upper East Side: Skin care, hair removal and body wellness services provider LaserAway is getting ready to open its 15th New York City location on Manhattan’s Upper East Side, Commercial Observer has learned.\n\nDongbei Chinese Restaurant & Bar Inks Deal at 63 Cooper Square: Dongbei Chinese Restaurant & Bar is opening its fourth location in New York City and its fifth overall, Commercial Observer has learned. The growing Northern Chinese dining concept signed a 2,000-square-foot lease at 63 Cooper Square , an East Village property owned by Matthew Rettner , according to landlord broker.",
     "cre_daily": "July Retail Sales Dip as Online Spending Pulls Back: Marcus & Millichap Research Services reported core retail sales fell 0.2% in July but remained 4.8% above year-earlier levels. Online spending dropped 2.3%, its largest monthly decline since January 2025.\n\nNYC Grocery Lawsuit Puts Subsidized Retail Space at Risk: The Multicultural Business Coalition, representing roughly 65 grocer organizations, sued New York City over Mayor Zohran Mamdani’s plan for city-owned, subsidized municipal grocery stores.\n\nSpirit Halloween Turns Retail Vacancies into Seasonal Wins: Spirit Halloween opens roughly 1,500 temporary stores annually through a specialized leasing operation targeting vacant retail space. Flexible termination clauses let landlords collect temporary rent while preserving opportunities to sign permanent tenants.\n\nRetail Location Intelligence Sharpens Site Selection: Retail location intelligence platforms can model revenue, cash-on-cash returns, and store cannibalization down to specific streets and sites. Bain’s Vantage combines global data sets and machine learning with demographic, competitive, and retailer-specific information.",
-    "new_york_post": "‘Morbidly obese’ NYC man takes co-op to court over new rules threatening his prime parking spot: Steven Andruseaski's suit comes as the VIllage View Housing Corporation board moves to sell Parking Lot 7 for residential development.\n\nPrivate Mediterranean island boasting its own Napoleonic fort on sale for $7.5M: A private island from Venice with a Napoleonic fort is on sale for $7.5 million.\n\nNobody wants to live in our nation’s capital, dire figures show: DC home sellers are bleeding out, and buyers still won’t bite. Washington’s housing market has hit a grim milestone.\n\nThe RealReal’s Julie Wainwright wants $7.88M for her NYC home in the world’s first skyscraper: The RealReal founder Julie Wainwright has relisted her 34th-floor condo inside Manhattan's landmark Woolworth Building for $7.88 million.",
-    "pincusco": "Shimon Brach signs $14.5M construction loan with BridgeCity for 16-unit project in Bedford Stuyvesant.\n\nAMTD Group signs $50.4M refi loan with East West Bank for hotel in Tribeca.\n\nAron Harfenes files plans for 45 units in East New York.\n\nHikari Power Z Co. signs $8.7M initial loan with SBI Shinsei Bank for 20-unit walkup in Midtown East."
+    "new_york_post": "Charles Cohen’s Park Avenue South tower signs deals: The 400,000 square-foot building just completed five deals totaling 46,000 square feet.\n\nAcadia Retail Trust has big presence on NYC’s Bleecker Street: Realty Check has learned that publicly traded Acadia just closed on the $10 million purchase of the retail co-op at 371-373 Bleecker, home to sportswear apparel brand Redvanly.\n\nCipriani tops off Miami’s tallest tower south of Manhattan with $53M penthouses and a black book to match: Cipriani Residences Miami is putting the finishing touch on its Brickell skyscraper with a pair of penthouses so lavish they come with their own zip code in the sky, The Post has learned.\n\nPrivate Mediterranean island boasting its own Napoleonic fort on sale for $7.5M: A private island from Venice with a Napoleonic fort is on sale for $7.5 million.",
+    "pincusco": "Joel Teitelbaum, Shimon Brach pay $28.5M to Mitsubishi for office, retail in Williamsburg.\n\nYousef Althkefati pays $5.1M for retail in Sheepshead Bay.\n\nShimon Brach signs $14.5M construction loan with BridgeCity for 16-unit project in Bedford Stuyvesant.\n\nAron Harfenes files plans for 45 units in East New York."
   },
   "items": [
     {
@@ -46,6 +46,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-09-01T19:37:26.000Z"
+    },
+    {
+      "headline": "Dongbei Chinese Restaurant & Bar Inks Deal at 63 Cooper Square",
+      "summary": "Dongbei Chinese Restaurant & Bar is opening its fourth location in New York City and its fifth overall, Commercial Observer has learned. The growing Northern Chinese dining concept signed a 2,000-square-foot lease at 63 Cooper Square , an East Village property owned by Matthew Rettner , according to landlord broker Meridian Capital Group . Asking rent for the space was $21,600 per month, and the tenant signed a 15-year lease.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/dongbei-chinese-restaurant-bar-lease-63-cooper-square/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-07T16:00:14.000Z"
     },
     {
       "headline": "Seafood Restaurant Crab House Takes 7K SF at 11 East 13th Street",
@@ -102,15 +111,6 @@
       "published_at": "2026-08-30T10:10:19.000Z"
     },
     {
-      "headline": "Indian Restaurant Samudhra Takes 10K SF at 312 West 43rd Street",
-      "summary": "New Jersey-based Indian restaurant Samudhra is establishing a presence across the Hudson River in Hell’s Kitchen. The eatery signed a 10,000-square-foot lease on the ground level of the Ellery at 312 West 43rd Street , owned by Taconic Partners and National Real Estate Advisors , for its second location in the U.S. following its first restaurant in Franklin Park, N.J., according to the landlords.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/samudhra-restaurant-lease-312-west-43rd-street/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-08-24T18:47:08.000Z"
-    },
-    {
       "headline": "Greater LA Retail Demand Holds Firm as Supply Stays Tight",
       "summary": "Greater LA retail vacancy remained stable at 6.2% in Q2 2026, according to Colliers. Limited construction and scarce high-quality space continue to support demand from local and international brands seeking expansion opportunities. A vacant West Hollywood retail building sold for $12.96M in under 48 hours, underscoring demand for well-located assets. Key Takeaways Greater LA retail fundamentals remain resilient as limited availability supports demand for established properties.…",
       "source": "CRE Daily",
@@ -120,13 +120,31 @@
       "published_at": "2026-09-01T08:10:41.000Z"
     },
     {
-      "headline": "Ares Buys Two Fully Leased Miami Warehouses for $109M",
-      "summary": "Ares Management has acquired two fully leased warehouses in Miami-Dade County from BGRE for a combined $108.7 million, property records show. In the larger transaction, the L.A.-based asset manager paid $65.3 million for a 230,147-square-foot, 15-acre distribution center at 3811 West 108th Street , located between Florida Turnpike and Interstate 75 in Hialeah.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/ares-miami-bgre-brookfield-target/",
-      "section": "commercial_observer",
+      "headline": "Joel Teitelbaum, Shimon Brach pay $28.5M to Mitsubishi for office, retail in Williamsburg",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/joel-teitelbaum-shimon-brach-pay-28-5m-to-mitsubishi-for-office-retail-in-williamsburg/",
+      "section": "pincusco",
       "retail": true,
-      "published_at": "2026-09-04T16:40:46.000Z"
+      "published_at": "2026-09-08T10:34:00.000Z"
+    },
+    {
+      "headline": "Charles Cohen’s Park Avenue South tower signs deals",
+      "summary": "The 400,000 square-foot building just completed five deals totaling 46,000 square feet.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/07/business/charles-cohens-park-avenue-south-tower-signs-deals/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-09-07T19:18:50.000Z"
+    },
+    {
+      "headline": "Acadia Retail Trust has big presence on NYC’s Bleecker Street",
+      "summary": "Realty Check has learned that publicly traded Acadia just closed on the $10 million purchase of the retail co-op at 371-373 Bleecker, home to sportswear apparel brand Redvanly.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/07/business/acadia-retail-trust-has-big-presence-on-bleecker-street/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-09-07T21:00:00.000Z"
     },
     {
       "headline": "Reforming Pilates to Open New Studio at 233 East 34th Street in Murray Hill",
@@ -145,6 +163,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-09-01T16:40:58.000Z"
+    },
+    {
+      "headline": "Yousef Althkefati pays $5.1M for retail in Sheepshead Bay",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/yousef-althkefati-pays-5-1m-for-retail-in-sheepshead-bay/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-09-08T11:35:00.000Z"
     },
     {
       "headline": "Retail Location Intelligence Grows in Sophistication and Usage",
@@ -174,13 +201,13 @@
       "published_at": "2026-09-04T15:03:00.000Z"
     },
     {
-      "headline": "AMTD Group signs $50.4M refi loan with East West Bank for hotel in Tribeca",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/amtd-group-signs-50-4m-refi-loan-with-east-west-bank-for-hotel-in-tribeca/",
-      "section": "pincusco",
+      "headline": "Cipriani tops off Miami’s tallest tower south of Manhattan with $53M penthouses and a black book to match",
+      "summary": "Cipriani Residences Miami is putting the finishing touch on its Brickell skyscraper with a pair of penthouses so lavish they come with their own zip code in the sky, The Post has learned.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/07/real-estate/cipriani-tops-off-tallest-tower-south-of-manhattan-with-53m-penthouses-and-a-global-perks-book/",
+      "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-09-04T14:26:00.000Z"
+      "published_at": "2026-09-07T16:40:49.000Z"
     },
     {
       "headline": "Aron Harfenes files plans for 45 units in East New York",
@@ -192,13 +219,13 @@
       "published_at": "2026-09-04T14:51:00.000Z"
     },
     {
-      "headline": "‘Morbidly obese’ NYC man takes co-op to court over new rules threatening his prime parking spot",
-      "summary": "Steven Andruseaski's suit comes as the VIllage View Housing Corporation board moves to sell Parking Lot 7 for residential development.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/04/real-estate/morbidly-obese-nyc-man-sues-co-op-over-new-parking-rules/",
-      "section": "new_york_post",
+      "headline": "Henry Koon pays $3.8M for mixed-use in Park Slope",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/henry-koon-pays-3-8m-for-mixed-use-in-park-slope/",
+      "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-04T14:30:35.000Z"
+      "published_at": "2026-09-08T11:29:00.000Z"
     },
     {
       "headline": "Private Mediterranean island boasting its own Napoleonic fort on sale for $7.5M",
@@ -210,49 +237,22 @@
       "published_at": "2026-09-05T23:54:43.000Z"
     },
     {
-      "headline": "Hikari Power Z Co. signs $8.7M initial loan with SBI Shinsei Bank for 20-unit walkup in Midtown East",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/hikari-power-z-co-signs-8-7m-initial-loan-with-sbi-shinsei-bank-for-20-unit-walkup-in-midtown-east/",
-      "section": "pincusco",
+      "headline": "Lower Manhattan Has Become a Model for Other Urban Hubs — Including Midtown",
+      "summary": "The transformation of Lower Manhattan was underway even before the Sept. 11 attacks 25 years ago. Still, given the scale of the tragedy, the area’s commercial real estate and demographic shifts are often defined with 9/11 as the starting point. Not so. The Financial District in particular was already undergoing a huge transformation, and industry leaders would follow through with creating what would become a diversified local economy, rather than one that simply served the needs of global trade, regardless of the…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/lower-manhattan-resurgence-post-911/",
+      "section": "commercial_observer",
       "retail": false,
-      "published_at": "2026-09-04T14:28:00.000Z"
+      "published_at": "2026-09-08T10:15:14.000Z"
     },
     {
-      "headline": "Beer distributor buys Hunts Point industrial for $7.8M, sold industrial across street to seller for $21.6M",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/beer-distributor-buys-hunts-point-industrial-for-7-8m-sold-industrial-across-street-to-seller-for-21-6m/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-04T14:03:00.000Z"
-    },
-    {
-      "headline": "T&E Development pays $33.5M to PPHE Hotel, Largo for dev site in Chelsea",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/te-development-pays-33-5m-to-pphe-hotel-largo-for-dev-site-in-chelsea/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-04T13:34:00.000Z"
-    },
-    {
-      "headline": "Sagehall Partners pays $47M for office in SoHo, in flip after bankruptcy",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/sagehall-partners-pays-47m-for-office-in-soho-in-flip-after-bankruptcy/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-04T13:00:00.000Z"
-    },
-    {
-      "headline": "Nobody wants to live in our nation’s capital, dire figures show",
-      "summary": "DC home sellers are bleeding out, and buyers still won’t bite. Washington’s housing market has hit a grim milestone. Nearly one in five homes for sale in the nation’s capital is listed for less than the owner originally paid, the worst mark in the country, according to fresh data from real estate analytics firm Parcl...",
+      "headline": "New York town named one of America’s worst places to live — and no, it’s not the overpriced Apple",
+      "summary": "The unlucky far-Upstate burg is battling more than its share of challenges.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/09/03/real-estate/nobody-wants-to-live-in-washington-dc-data-shows/",
+      "url": "https://nypost.com/2026/09/07/lifestyle/new-york-town-le-ray-named-one-of-americas-worst-places-to-live/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-09-03T19:11:56.000Z"
+      "published_at": "2026-09-07T20:35:20.000Z"
     },
     {
       "headline": "Sunday Summary: Sharp Left",
@@ -264,22 +264,22 @@
       "published_at": "2026-09-06T13:00:56.000Z"
     },
     {
-      "headline": "The RealReal’s Julie Wainwright wants $7.88M for her NYC home in the world’s first skyscraper",
-      "summary": "The RealReal founder Julie Wainwright has relisted her 34th-floor condo inside Manhattan's landmark Woolworth Building for $7.88 million.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/03/real-estate/realreal-founder-julie-wainwright-asks-7-88m-for-nyc-home/",
-      "section": "new_york_post",
+      "headline": "Nathan Obstfeld pays $7.3M to Birchwood Properties for 30-unit walkup in East Village",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/nathan-obstfeld-pays-7-3m-to-birchwood-properties-for-30-unit-walkup-in-east-village/",
+      "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-03T20:08:23.000Z"
+      "published_at": "2026-09-08T13:36:00.000Z"
     },
     {
-      "headline": "Amanda Seyfried asks $3.19M for longtime LA home — after moving to a New York farm with her family",
-      "summary": "Seyfried purchased the 110-year-old property for $1.85 million from her 2009 \"Jennifer's Body\" comedy/horror film co-star, Adam Brody, in 2011.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/03/real-estate/amanda-seyfriend-asks-3-19m-for-longtime-la-home/",
-      "section": "new_york_post",
+      "headline": "Silver Hill Capital acquires 15-unit walkup in Crown Heights through $3.2M foreclosure",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/silver-hill-capital-acquires-15-unit-walkup-in-crown-heights-through-3-2m-foreclosure/",
+      "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-03T16:54:56.000Z"
+      "published_at": "2026-09-08T11:40:00.000Z"
     }
   ]
 }
