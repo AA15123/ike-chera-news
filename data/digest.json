@@ -1,24 +1,33 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-09-08",
-  "generated_at": "2026-09-08T14:21:54.052Z",
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T14:22:45.765Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Mac Cosmetics’ SoHo Flagship Relocates to 5K SF at 579 Broadway: Mac Cosmetics has selected a new foundation in Manhattan’s SoHo neighborhood. The global makeup brand signed a 5,325-square-foot lease at 579 Broadway between Prince and East Houston streets to host its next flagship location in the trendy shopping corridor, according to an announcement from landlord broker Newmark .\n\nFashion Boutique Atelier Secures Retail Space at 181 MacDougal Street: Fashion boutique Atelier New York is upgrading its retail footprint in Manhattan’s Greenwich Village. The multi-brand luxury boutique will be the inaugural tenant in the commercial component of the Straus Group ’s newly constructed 181 MacDougal Street luxury condominium building, Commercial Observer has learned.\n\nDermatology Chain LaserAway Adds 15th NYC Location on the Upper East Side: Skin care, hair removal and body wellness services provider LaserAway is getting ready to open its 15th New York City location on Manhattan’s Upper East Side, Commercial Observer has learned.\n\nDongbei Chinese Restaurant & Bar Inks Deal at 63 Cooper Square: Dongbei Chinese Restaurant & Bar is opening its fourth location in New York City and its fifth overall, Commercial Observer has learned. The growing Northern Chinese dining concept signed a 2,000-square-foot lease at 63 Cooper Square , an East Village property owned by Matthew Rettner , according to landlord broker.",
-    "cre_daily": "July Retail Sales Dip as Online Spending Pulls Back: Marcus & Millichap Research Services reported core retail sales fell 0.2% in July but remained 4.8% above year-earlier levels. Online spending dropped 2.3%, its largest monthly decline since January 2025.\n\nNYC Grocery Lawsuit Puts Subsidized Retail Space at Risk: The Multicultural Business Coalition, representing roughly 65 grocer organizations, sued New York City over Mayor Zohran Mamdani’s plan for city-owned, subsidized municipal grocery stores.\n\nSpirit Halloween Turns Retail Vacancies into Seasonal Wins: Spirit Halloween opens roughly 1,500 temporary stores annually through a specialized leasing operation targeting vacant retail space. Flexible termination clauses let landlords collect temporary rent while preserving opportunities to sign permanent tenants.\n\nRetail Location Intelligence Sharpens Site Selection: Retail location intelligence platforms can model revenue, cash-on-cash returns, and store cannibalization down to specific streets and sites. Bain’s Vantage combines global data sets and machine learning with demographic, competitive, and retailer-specific information.",
-    "new_york_post": "Charles Cohen’s Park Avenue South tower signs deals: The 400,000 square-foot building just completed five deals totaling 46,000 square feet.\n\nAcadia Retail Trust has big presence on NYC’s Bleecker Street: Realty Check has learned that publicly traded Acadia just closed on the $10 million purchase of the retail co-op at 371-373 Bleecker, home to sportswear apparel brand Redvanly.\n\nCipriani tops off Miami’s tallest tower south of Manhattan with $53M penthouses and a black book to match: Cipriani Residences Miami is putting the finishing touch on its Brickell skyscraper with a pair of penthouses so lavish they come with their own zip code in the sky, The Post has learned.\n\nPrivate Mediterranean island boasting its own Napoleonic fort on sale for $7.5M: A private island from Venice with a Napoleonic fort is on sale for $7.5 million.",
-    "pincusco": "Joel Teitelbaum, Shimon Brach pay $28.5M to Mitsubishi for office, retail in Williamsburg.\n\nYousef Althkefati pays $5.1M for retail in Sheepshead Bay.\n\nShimon Brach signs $14.5M construction loan with BridgeCity for 16-unit project in Bedford Stuyvesant.\n\nAron Harfenes files plans for 45 units in East New York."
+    "commercial_observer": "Women’s Clothing Store Esti’s Takes 8K SF at 2263 Nostrand Avenue in Midwood: High-end women’s clothing store Esti’s is relocating to a new mixed-use development in Midwood, Brooklyn, Commercial Observer has learned. The longtime retailer’s 7,800-square-foot lease at 2263 Nostrand Avenue was signed on Tuesday.\n\nFashion Boutique Atelier Secures Retail Space at 181 MacDougal Street: Fashion boutique Atelier New York is upgrading its retail footprint in Manhattan’s Greenwich Village. The multi-brand luxury boutique will be the inaugural tenant in the commercial component of the Straus Group ’s newly constructed 181 MacDougal Street luxury condominium building, Commercial Observer has learned.\n\nDermatology Chain LaserAway Adds 15th NYC Location on the Upper East Side: Skin care, hair removal and body wellness services provider LaserAway is getting ready to open its 15th New York City location on Manhattan’s Upper East Side, Commercial Observer has learned.\n\nDongbei Chinese Restaurant & Bar Inks Deal at 63 Cooper Square: Dongbei Chinese Restaurant & Bar is opening its fourth location in New York City and its fifth overall, Commercial Observer has learned. The growing Northern Chinese dining concept signed a 2,000-square-foot lease at 63 Cooper Square , an East Village property owned by Matthew Rettner , according to landlord broker.",
+    "cre_daily": "San Francisco Centre Returns to Market at Deep Discount: San Francisco Centre is back for sale after closing earlier this year and losing a proposed redevelopment buyer in July. Brokers expect bids of no more than $130M, far below the mall’s $1.2B valuation from a decade ago.\n\nJuly Retail Sales Dip as Online Spending Pulls Back: Marcus & Millichap Research Services reported core retail sales fell 0.2% in July but remained 4.8% above year-earlier levels. Online spending dropped 2.3%, its largest monthly decline since January 2025.\n\nFlorida Retail Leaders Put AI and Data at Center: AI and real-time data are becoming everyday tools for site selection, leasing, marketing, research, and operations. High construction costs and tight vacancy are increasing the focus on adaptive reuse, second-generation space, and flexible activation strategies.\n\nNYC Grocery Lawsuit Puts Subsidized Retail Space at Risk: The Multicultural Business Coalition, representing roughly 65 grocer organizations, sued New York City over Mayor Zohran Mamdani’s plan for city-owned, subsidized municipal grocery stores.",
+    "new_york_post": "Acadia Retail Trust has big presence on NYC’s Bleecker Street: Realty Check has learned that publicly traded Acadia just closed on the $10 million purchase of the retail co-op at 371-373 Bleecker, home to sportswear apparel brand Redvanly.\n\nTheir condos burned down 5 years ago — but the pricey HOA bills never stopped: ‘Unconscionable’: Houston-area condo owners whose homes burned down five years ago are still paying nearly $800 a month in HOA fees as they wait for their units to be rebuilt.\n\nNASCAR legend spills on grand plans for $400M luxe California race track resort — reveals what membership will cost: The SoCal city of Lake Elsinore is fully behind the project, the developer told the California Post.\n\nFirst town ever sold on eBay will return to market: It’s been quite a journey to find an ideal owner for Bridgeville.",
+    "pincusco": "Blank Property Group files plans for 38 units in Williamsburg, property records don’t reflect recent sale.\n\nL+M Development Partners files plans for 329 units in East New York.\n\nShimshon Grunstein files plans for 69 units in University Heights.\n\nElmhurst Christian Gospel Church pays $6.5M for mixed-use in Kew Garden Hills."
   },
   "items": [
     {
-      "headline": "Mac Cosmetics’ SoHo Flagship Relocates to 5K SF at 579 Broadway",
-      "summary": "Mac Cosmetics has selected a new foundation in Manhattan’s SoHo neighborhood. The global makeup brand signed a 5,325-square-foot lease at 579 Broadway between Prince and East Houston streets to host its next flagship location in the trendy shopping corridor, according to an announcement from landlord broker Newmark . The deal represents a relocation of just two blocks from Mac’s current perch alongside Bloomingdale’s at 506 Broadway .…",
+      "headline": "Women’s Clothing Store Esti’s Takes 8K SF at 2263 Nostrand Avenue in Midwood",
+      "summary": "High-end women’s clothing store Esti’s is relocating to a new mixed-use development in Midwood, Brooklyn, Commercial Observer has learned. The longtime retailer’s 7,800-square-foot lease at 2263 Nostrand Avenue was signed on Tuesday. Asking rent for the 10-year deal was $65 per square foot. The retail space at the corner of Nostrand Avenue and Avenue I occupies a large slice of the newly constructed property’s retail component, leaving just 2,700 square feet available.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/mac-cosmetics-579-broadway-lease-relocation/",
+      "url": "https://commercialobserver.com/2026/09/estis-2263-nostrand-avenue-midwood-retail-lease/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-08-25T16:22:03.000Z"
+      "published_at": "2026-09-08T21:03:26.000Z"
+    },
+    {
+      "headline": "San Francisco Centre Returns to Market at Deep Discount",
+      "summary": "San Francisco Centre is back for sale after closing earlier this year and losing a proposed redevelopment buyer in July. Brokers expect bids of no more than $130M, far below the mall’s $1.2B valuation from a decade ago. The WSJ reported the property is 93% vacant, with an ownership and ground-lease structure that has already derailed one deal. Key Takeaways The Wall Street Journal reports that San Francisco Centre is back on the market after closing earlier this year. A proposed buyer walked away in July.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/san-francisco-centre-returns-to-market-at-deep-discount/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-09-09T08:22:50.000Z"
     },
     {
       "headline": "Fashion Boutique Atelier Secures Retail Space at 181 MacDougal Street",
@@ -46,6 +55,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-09-01T19:37:26.000Z"
+    },
+    {
+      "headline": "Florida Retail Leaders Put AI and Data at Center",
+      "summary": "AI and real-time data are becoming everyday tools for site selection, leasing, marketing, research, and operations. High construction costs and tight vacancy are increasing the focus on adaptive reuse, second-generation space, and flexible activation strategies. Well-located Florida retail continues to attract capital, especially grocery-anchored, necessity-based, and service-oriented properties. Key Takeaways Florida retail real estate is leaning harder on data, AI, and physical experience.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/florida-retail-leaders-put-ai-and-data-at-center/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-09-08T08:54:04.000Z"
     },
     {
       "headline": "Dongbei Chinese Restaurant & Bar Inks Deal at 63 Cooper Square",
@@ -102,40 +120,31 @@
       "published_at": "2026-09-03T05:19:11.000Z"
     },
     {
-      "headline": "Westfield Topanga Tests Pop-Ups to Revive Food Hall",
-      "summary": "URW is bringing Chain to Topanga Social for a six-month residency beginning September 2, 2026. The food hall has lost most of its original 25-plus vendors since opening at Westfield Topanga in 2023. The test reflects a broader push to use rotating dining and entertainment concepts to generate repeat mall visits. Key Takeaways CoStar reports that Westfield Topanga is trying a new food hall strategy after Topanga Social lost most of its original vendors.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/westfield-topanga-tests-pop-ups-to-revive-food-hall/",
-      "section": "cre_daily",
+      "headline": "Electrical Contractor L.K. Comstock Signs 14K-SF Lease at Dumbo Heights Campus",
+      "summary": "This Dumbo, Brooklyn, office property is about to light up with a new tenant. L.K. Comstock , a specialty electrical contractor focused on transit rail systems, has signed a 13,566-square-foot lease at 55 Prospect Street in the office and mixed-use campus known as Dumbo Heights , Commercial Observer has learned.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/lk-comstock-lease-dumbo-heights-55-prospect-street/",
+      "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-08-30T10:10:19.000Z"
+      "published_at": "2026-09-08T20:35:28.000Z"
     },
     {
-      "headline": "Greater LA Retail Demand Holds Firm as Supply Stays Tight",
-      "summary": "Greater LA retail vacancy remained stable at 6.2% in Q2 2026, according to Colliers. Limited construction and scarce high-quality space continue to support demand from local and international brands seeking expansion opportunities. A vacant West Hollywood retail building sold for $12.96M in under 48 hours, underscoring demand for well-located assets. Key Takeaways Greater LA retail fundamentals remain resilient as limited availability supports demand for established properties.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/greater-la-retail-demand-holds-firm-as-supply-stays-tight/",
-      "section": "cre_daily",
+      "headline": "Investment Firm 26 North Relocates to 84K SF at LeFrak’s 40 West 57th Street",
+      "summary": "Alternative investment management firm 26 North is relocating its New York City offices to LeFrak ’s Midtown office tower at 40 West 57th Street , Commercial Observer has learned. The company has inked an 84,000-square-foot lease at the 36-story property, where it will occupy four full floors following its move from 600 Madison Avenue , according to landlord broker CBRE . 26 North’s deal spans 13 years.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/26-north-lease-lefrak-40-west-57th-street/",
+      "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-09-01T08:10:41.000Z"
+      "published_at": "2026-09-08T19:51:17.000Z"
     },
     {
-      "headline": "Joel Teitelbaum, Shimon Brach pay $28.5M to Mitsubishi for office, retail in Williamsburg",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/joel-teitelbaum-shimon-brach-pay-28-5m-to-mitsubishi-for-office-retail-in-williamsburg/",
-      "section": "pincusco",
+      "headline": "Coworking Firm IWG Takes 22K SF at Cohen Brothers’ 475 Park Avenue South",
+      "summary": "Cohen Brothers Realty has signed lease deals for a coworking provider and four other tenants at one of its Midtown South office buildings. In the largest deal, International Workplace Group (IWG), which owns flexible workspace brand Regus , signed a lease for 22,000 square feet on the entire 26th and 27th floors of Charles Cohen ’s 475 Park Avenue South , according to the landlord. Cohen Brothers did not immediately disclose the length of the lease.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/international-workplace-group-lease-475-park-avenue-south/",
+      "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-09-08T10:34:00.000Z"
-    },
-    {
-      "headline": "Charles Cohen’s Park Avenue South tower signs deals",
-      "summary": "The 400,000 square-foot building just completed five deals totaling 46,000 square feet.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/07/business/charles-cohens-park-avenue-south-tower-signs-deals/",
-      "section": "new_york_post",
-      "retail": true,
-      "published_at": "2026-09-07T19:18:50.000Z"
+      "published_at": "2026-09-08T18:38:24.000Z"
     },
     {
       "headline": "Acadia Retail Trust has big presence on NYC’s Bleecker Street",
@@ -165,15 +174,6 @@
       "published_at": "2026-09-01T16:40:58.000Z"
     },
     {
-      "headline": "Yousef Althkefati pays $5.1M for retail in Sheepshead Bay",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/yousef-althkefati-pays-5-1m-for-retail-in-sheepshead-bay/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-09-08T11:35:00.000Z"
-    },
-    {
       "headline": "Retail Location Intelligence Grows in Sophistication and Usage",
       "summary": "In the late 1960s, science fiction writer Arthur C. Clarke posited a now-famous law of the universe: “Any sufficiently advanced technology is indistinguishable from magic.” As the rapid advancement of technology, especially given the ongoing progress of artificial intelligence, often makes this seem truer by the day, its implications in commercial real estate are often of a type that would have seemed like pure voodoo to CRE professionals when Clarke put forth this statement.…",
       "source": "Commercial Observer",
@@ -192,49 +192,76 @@
       "published_at": "2026-08-26T19:16:12.000Z"
     },
     {
-      "headline": "Shimon Brach signs $14.5M construction loan with BridgeCity for 16-unit project in Bedford Stuyvesant",
+      "headline": "Blank Property Group files plans for 38 units in Williamsburg, property records don’t reflect recent sale",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/shimon-brach-signs-14-5m-new-construction-loan-with-bridgecity-capital-for-in-bedford-stuyvesant/",
+      "url": "https://www.pincusco.com/blank-property-group-files-plans-for-38-units-in-williamsburg-property-records-dont-reflect-recent-sale/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-04T15:03:00.000Z"
+      "published_at": "2026-09-09T13:47:00.000Z"
     },
     {
-      "headline": "Cipriani tops off Miami’s tallest tower south of Manhattan with $53M penthouses and a black book to match",
-      "summary": "Cipriani Residences Miami is putting the finishing touch on its Brickell skyscraper with a pair of penthouses so lavish they come with their own zip code in the sky, The Post has learned.",
+      "headline": "L+M Development Partners files plans for 329 units in East New York",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/lm-development-partners-files-plans-for-329-units-in-east-new-york/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-09T13:20:00.000Z"
+    },
+    {
+      "headline": "Shimshon Grunstein files plans for 69 units in University Heights",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/__trashed-9/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-09T14:10:00.000Z"
+    },
+    {
+      "headline": "Elmhurst Christian Gospel Church pays $6.5M for mixed-use in Kew Garden Hills",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/elmhurst-christian-gospel-church-pays-6-5m-for-mixed-use-in-kew-garden-hills/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-09T12:31:00.000Z"
+    },
+    {
+      "headline": "Their condos burned down 5 years ago — but the pricey HOA bills never stopped: ‘Unconscionable’",
+      "summary": "Houston-area condo owners whose homes burned down five years ago are still paying nearly $800 a month in HOA fees as they wait for their units to be rebuilt.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/09/07/real-estate/cipriani-tops-off-tallest-tower-south-of-manhattan-with-53m-penthouses-and-a-global-perks-book/",
+      "url": "https://nypost.com/2026/09/08/real-estate/houston-condo-owners-still-paying-hoa-fees-5-years-after-fire/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-09-07T16:40:49.000Z"
+      "published_at": "2026-09-08T17:42:41.000Z"
     },
     {
-      "headline": "Aron Harfenes files plans for 45 units in East New York",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/aron-harfenes-files-plans-for-45-units-in-east-new-york/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-04T14:51:00.000Z"
-    },
-    {
-      "headline": "Henry Koon pays $3.8M for mixed-use in Park Slope",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/henry-koon-pays-3-8m-for-mixed-use-in-park-slope/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-08T11:29:00.000Z"
-    },
-    {
-      "headline": "Private Mediterranean island boasting its own Napoleonic fort on sale for $7.5M",
-      "summary": "A private island from Venice with a Napoleonic fort is on sale for $7.5 million.",
+      "headline": "NASCAR legend spills on grand plans for $400M luxe California race track resort — reveals what membership will cost",
+      "summary": "The SoCal city of Lake Elsinore is fully behind the project, the developer told the California Post.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/09/05/real-estate/private-mediterranean-island-boasting-its-own-napoleonic-fort-goes-up-for-sale-for-7-5m/",
+      "url": "https://nypost.com/2026/09/08/lifestyle/nascar-legend-details-plans-for-400m-california-racetrack-resort/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-09-05T23:54:43.000Z"
+      "published_at": "2026-09-08T17:07:04.000Z"
+    },
+    {
+      "headline": "First town ever sold on eBay will return to market",
+      "summary": "It’s been quite a journey to find an ideal owner for Bridgeville.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/08/real-estate/first-town-ever-sold-on-ebay-will-return-to-market/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-09-08T16:50:54.000Z"
+    },
+    {
+      "headline": "William Gottlieb Real Estate signs $25.7M refi with Webster for 5 walkups in Manhattan",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/william-gottlieb-real-estate-signs-25-7m-refi-with-webster-for-5-walkups-in-manhattan/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-09T14:14:00.000Z"
     },
     {
       "headline": "Lower Manhattan Has Become a Model for Other Urban Hubs — Including Midtown",
@@ -253,33 +280,6 @@
       "section": "new_york_post",
       "retail": false,
       "published_at": "2026-09-07T20:35:20.000Z"
-    },
-    {
-      "headline": "Sunday Summary: Sharp Left",
-      "summary": "Summer’s done, and the hustle of fall will soon be upon us. Part of the background noise of the season will be the elections for state and federal legislatures. That includes the New York State Senate and Assembly. Those august Albany chambers are about to absorb a relatively large number of Democratic Socialists — and their allies — in the same vein as New York Mayor Zohran Mamdani. That could have serious ramifications for commercial real estate .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/sunday-summary-sharp-left/",
-      "section": "commercial_observer",
-      "retail": false,
-      "published_at": "2026-09-06T13:00:56.000Z"
-    },
-    {
-      "headline": "Nathan Obstfeld pays $7.3M to Birchwood Properties for 30-unit walkup in East Village",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/nathan-obstfeld-pays-7-3m-to-birchwood-properties-for-30-unit-walkup-in-east-village/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-08T13:36:00.000Z"
-    },
-    {
-      "headline": "Silver Hill Capital acquires 15-unit walkup in Crown Heights through $3.2M foreclosure",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/silver-hill-capital-acquires-15-unit-walkup-in-crown-heights-through-3-2m-foreclosure/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-08T11:40:00.000Z"
     }
   ]
 }
