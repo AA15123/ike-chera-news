@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-09-10",
-  "generated_at": "2026-09-10T14:15:29.161Z",
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T14:15:34.596Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Women’s Clothing Store Esti’s Takes 8K SF at 2263 Nostrand Avenue in Midwood: High-end women’s clothing store Esti’s is relocating to a new mixed-use development in Midwood, Brooklyn, Commercial Observer has learned. The longtime retailer’s 7,800-square-foot lease at 2263 Nostrand Avenue was signed on Tuesday.\n\nFashion Boutique Atelier Secures Retail Space at 181 MacDougal Street: Fashion boutique Atelier New York is upgrading its retail footprint in Manhattan’s Greenwich Village. The multi-brand luxury boutique will be the inaugural tenant in the commercial component of the Straus Group ’s newly constructed 181 MacDougal Street luxury condominium building, Commercial Observer has learned.\n\nFriedman’s Restaurant Ownership Buys Upper West Side Retail Space to Open New Spot: The ownership group behind famed New York City restaurants Friedman’s Restaurant and Pastrami Queen has acquired a retail co-op on Manhattan’s Upper West Side to open a new eatery, Commercial Observer has learned.\n\nHibachi Eatery Bijin Omakase Signs 5K-SF Lease in Long Island City: A hibachi restaurant is igniting the burner in Long Island City, Queens. Bijin Omakase signed a 15-year, 5,077-square-foot lease at the base of Trio , a nine-story, 34-unit residential development owned by ZD Jasper Realty at 27-19 Thomson Avenue near where the thoroughfare meets popular Jackson Avenue, according to.",
-    "cre_daily": "San Francisco Centre Returns to Market at Deep Discount: San Francisco Centre is back for sale after closing earlier this year and losing a proposed redevelopment buyer in July. Brokers expect bids of no more than $130M, far below the mall’s $1.2B valuation from a decade ago.\n\nJuly Retail Sales Dip as Online Spending Pulls Back: Marcus & Millichap Research Services reported core retail sales fell 0.2% in July but remained 4.8% above year-earlier levels. Online spending dropped 2.3%, its largest monthly decline since January 2025.\n\nFlorida Retail Leaders Put AI and Data at Center: AI and real-time data are becoming everyday tools for site selection, leasing, marketing, research, and operations. High construction costs and tight vacancy are increasing the focus on adaptive reuse, second-generation space, and flexible activation strategies.\n\nLululemon Slows US Store Growth as New CEO Takes Helm: Lululemon plans to open a net 35 new stores in 2026, down from its previous target of 40, while cutting 25 planned pop-ups. North American sales fell 12%, and global profit declined 1% to $1.5B, including roughly $135M in tariff refunds.",
-    "new_york_post": "San Francisco’s deserted shopping palace heads for sale with staggering fall in value: New proposals for the space include a mixed-use project or massive sports complex.\n\nSteph Curry offloads massive SF property as speculation swirls over future with Warriors: Curry appears to have scored millions after offloading a massive property in the Bay Area.\n\n25 years after 9/11, the World Trade Center’s last tower finally rises: “After 9/11, I made a promise to New Yorkers that we would rebuild the World Trade Center, commemorate those we lost [and] restore commerce to Lower Manhattan,\" developer Larry Silverstein told The Post.",
-    "pincusco": "Terra Holdings exec David Burris pays $28.1M for retail in Lenox Hill.\n\nJohn LaRocca pays $3.1M for retail in Bay Ridge.\n\nEmpire Management & Construction signs $27.6M construction loan for 99-unit project in Cypress Hills.\n\nBlank Property Group files plans for 38 units in Williamsburg, property records don’t reflect recent sale."
+    "cre_daily": "San Francisco Centre Returns to Market at Deep Discount: San Francisco Centre is back for sale after closing earlier this year and losing a proposed redevelopment buyer in July. Brokers expect bids of no more than $130M, far below the mall’s $1.2B valuation from a decade ago.\n\nFlorida Retail Leaders Put AI and Data at Center: AI and real-time data are becoming everyday tools for site selection, leasing, marketing, research, and operations. High construction costs and tight vacancy are increasing the focus on adaptive reuse, second-generation space, and flexible activation strategies.\n\nLululemon Slows US Store Growth as New CEO Takes Helm: Lululemon plans to open a net 35 new stores in 2026, down from its previous target of 40, while cutting 25 planned pop-ups. North American sales fell 12%, and global profit declined 1% to $1.5B, including roughly $135M in tariff refunds.\n\nSpirit Halloween Turns Retail Vacancies into Seasonal Wins: Spirit Halloween opens roughly 1,500 temporary stores annually through a specialized leasing operation targeting vacant retail space. Flexible termination clauses let landlords collect temporary rent while preserving opportunities to sign permanent tenants.",
+    "new_york_post": "San Francisco’s deserted shopping palace heads for sale with staggering fall in value: New proposals for the space include a mixed-use project or massive sports complex.\n\nSteph Curry offloads massive SF property as speculation swirls over future with Warriors: Curry appears to have scored millions after offloading a massive property in the Bay Area.\n\nNYC penthouse forged from a famed copper roof finds its first-ever owner for a fraction of its $40M ask: A raw triplex beneath an iconic copper roof overlooking Central Park, once asking $40M, is now pending sale for $6.765M after auction.\n\n25 years after 9/11, the World Trade Center’s last tower finally rises: “After 9/11, I made a promise to New Yorkers that we would rebuild the World Trade Center, commemorate those we lost [and] restore commerce to Lower Manhattan,\" developer Larry Silverstein told The Post.",
+    "pincusco": "Kosher grocery Bingo Wholesale signs $38.1M loan with Valley in Bedford Stuyvesant.\n\nMixed-use in SoHo sells for $8.8M.\n\nLCOR pays $73.1M to Taconic Partners for office in Yorkville."
   },
   "items": [
     {
@@ -37,15 +37,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-09-02T18:25:17.000Z"
-    },
-    {
-      "headline": "July Retail Sales Dip as Online Spending Pulls Back",
-      "summary": "Marcus & Millichap Research Services reported core retail sales fell 0.2% in July but remained 4.8% above year-earlier levels. Online spending dropped 2.3%, its largest monthly decline since January 2025. Seven of 10 retail categories still posted gains. Apparel sales rose 1.9%. Off-price retailers signed more than 100 leases totaling roughly 3M SF during the 12 months through July.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/july-retail-sales-dip-as-online-spending-pulls-back/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-08-28T07:40:07.000Z"
     },
     {
       "headline": "Friedman’s Restaurant Ownership Buys Upper West Side Retail Space to Open New Spot",
@@ -138,6 +129,15 @@
       "published_at": "2026-09-03T05:19:11.000Z"
     },
     {
+      "headline": "Westfield Topanga Tests Pop-Ups to Revive Food Hall",
+      "summary": "URW is bringing Chain to Topanga Social for a six-month residency beginning September 2, 2026. The food hall has lost most of its original 25-plus vendors since opening at Westfield Topanga in 2023. The test reflects a broader push to use rotating dining and entertainment concepts to generate repeat mall visits. Key Takeaways CoStar reports that Westfield Topanga is trying a new food hall strategy after Topanga Social lost most of its original vendors.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/westfield-topanga-tests-pop-ups-to-revive-food-hall/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-08-30T10:10:19.000Z"
+    },
+    {
       "headline": "San Francisco’s deserted shopping palace heads for sale with staggering fall in value",
       "summary": "New proposals for the space include a mixed-use project or massive sports complex.",
       "source": "New York Post",
@@ -145,6 +145,15 @@
       "section": "new_york_post",
       "retail": true,
       "published_at": "2026-09-09T22:55:08.000Z"
+    },
+    {
+      "headline": "Coney Island Prep Inks 45K-SF Deal to Relocate to 773 Neptune Avenue",
+      "summary": "Coney Island Preparatory Public Charter School is moving from its Gravesend, Brooklyn, location to none other than Coney Island. The school signed a 39-year condominium leasehold agreement to build a 45,190-square-foot high school at Elie Fouerti ’s 773 Neptune Avenue , where it will grow to accommodate 500 students when it opens for enrollment in summer 2027, according to tenant broker Open Impact Real Estate . The new school is being developed by Rybak Development .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/coney-island-prep-lease-773-neptune-avenue/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-10T16:41:58.000Z"
     },
     {
       "headline": "Law Firm Thompson Relocates to 4K SF at Cohen Brothers’ 622 Third Avenue",
@@ -156,13 +165,22 @@
       "published_at": "2026-09-09T20:56:30.000Z"
     },
     {
-      "headline": "AI Real Estate Platform Orbital Leases 11K SF at 40 West 25th Street",
-      "summary": "An artificial intelligence platform used to aid real estate attorneys is relocating its Manhattan office just a few blocks north, Commercial Observer has learned. Orbital signed an 11,185-square-foot lease for the entire sixth floor of the Kaufman Organization ’s 40 West 25th Street in a move from 18 West 18th Street , which has served as a temporary office, according to tenant broker JLL .…",
+      "headline": "RFR Buys Prada-Anchored Retail Condo at 841 Madison Avenue for $57M",
+      "summary": "An Upper East Side retail condominium at 841 Madison Avenue has traded hands for $57 million, Commercial Observer has learned. JSRE Acquisitions , which is associated with the Safra family and Status Capital , sold the East 70th Street unit occupied by luxury fashion house Prada to Aby Rosen and Michael Fuchs ‘s RFR Holding , according to the brokers. Global Advisory founder Ross Mezzo and Ezra Saffati from Majestic Acquisitions represented the buyer and the seller.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/orbital-ai-lease-kaufman-organization-40-west-25th-street/",
+      "url": "https://commercialobserver.com/2026/09/rfr-holding-acquisition-841-madison-avenue/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-09-09T14:52:39.000Z"
+      "published_at": "2026-09-10T20:19:35.000Z"
+    },
+    {
+      "headline": "Apparel Manufacturer Bagatelle International Takes 24K SF at 463 Seventh Avenue",
+      "summary": "Canadian fashion brand and apparel manufacturer Bagatelle International is relocating to a full-floor lease at 463 Seventh Avenue . The 23,785-square-foot deal is the largest of two new office leases at the Arsenal Company ’s Garment District tower between West 35th and West 36th streets. The transactions span a collective 33,083 square feet and bring the 22-story building to full occupancy, according to landlord brokers Adams & Company . Asking rent for both deals was $59 per square foot.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/bagatelle-international-lease-relocation-463-seventh-avenue/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-10T18:07:22.000Z"
     },
     {
       "headline": "Law Firm O’Melveny Renews 100K SF at 1625 Eye Street in D.C.",
@@ -174,13 +192,13 @@
       "published_at": "2026-09-09T20:40:47.000Z"
     },
     {
-      "headline": "CBRE Investment Management Acquires $1.6B Net-Lease Portfolio",
-      "summary": "CBRE Investment Management is placing a big bet on the net-lease business. CBRE Investment Management — the $155 billion global investment arm of CBRE — announced Wednesday that it acquired Tenet Equity ’s $1.6 billion net-lease platform that includes 208 assets in 39 states encompassing 12 million square feet of commercial real estate.…",
+      "headline": "Two Supermarkets Ink Deals Along Brooklyn’s Atlantic Avenue",
+      "summary": "Two new supermarkets are coming to Atlantic Avenue in Prospect Heights, Brooklyn. The grocers will arrive at two of EMP Capital Group ’s newly developed residential projects two blocks apart at 880 Atlantic Avenue and 1042 Atlantic Avenue , Commercial Observer has learned. In the largest deal, CTown Supermarkets signed a 20-year lease for 8,400 square feet at the base of the 19-story, 237-unit 1042 Atlantic Avenue, also known as Prosper Brooklyn , which was completed this year.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/cbre-investment-management-acquires-1-6b-net-lease-portfolio/",
+      "url": "https://commercialobserver.com/2026/09/supermarket-leases-880-1042-atlantic-avenue-brooklyn/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-09-09T17:05:54.000Z"
+      "published_at": "2026-09-10T17:19:54.000Z"
     },
     {
       "headline": "Reforming Pilates to Open New Studio at 233 East 34th Street in Murray Hill",
@@ -201,15 +219,6 @@
       "published_at": "2026-09-01T16:40:58.000Z"
     },
     {
-      "headline": "Terra Holdings exec David Burris pays $28.1M for retail in Lenox Hill",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/terra-holdings-affiliate-pays-28-1m-for-likely-dev-site-in-lenox-hill/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-09-10T11:48:00.000Z"
-    },
-    {
       "headline": "Steph Curry offloads massive SF property as speculation swirls over future with Warriors",
       "summary": "Curry appears to have scored millions after offloading a massive property in the Bay Area.",
       "source": "New York Post",
@@ -217,15 +226,6 @@
       "section": "new_york_post",
       "retail": true,
       "published_at": "2026-09-10T01:17:00.000Z"
-    },
-    {
-      "headline": "John LaRocca pays $3.1M for retail in Bay Ridge",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/john-larocca-pays-3-1m-for-retail-in-bay-ridge/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-09-09T14:48:00.000Z"
     },
     {
       "headline": "Retail Location Intelligence Grows in Sophistication and Usage",
@@ -237,22 +237,22 @@
       "published_at": "2026-09-01T14:00:35.000Z"
     },
     {
-      "headline": "Empire Management & Construction signs $27.6M construction loan for 99-unit project in Cypress Hills",
+      "headline": "Kosher grocery Bingo Wholesale signs $38.1M loan with Valley in Bedford Stuyvesant",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/empire-management-construction-signs-27-6m-construction-loan-for-99-unit-project-in-cypress-hills/",
+      "url": "https://www.pincusco.com/kosher-grocery-bingo-wholesale-signs-38-1m-loan-with-valley-in-bedford-stuyvesant/",
       "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-09T14:37:00.000Z"
+      "retail": true,
+      "published_at": "2026-09-11T13:28:00.000Z"
     },
     {
-      "headline": "Blank Property Group files plans for 38 units in Williamsburg, property records don’t reflect recent sale",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/blank-property-group-files-plans-for-38-units-in-williamsburg-property-records-dont-reflect-recent-sale/",
-      "section": "pincusco",
+      "headline": "NYC penthouse forged from a famed copper roof finds its first-ever owner for a fraction of its $40M ask",
+      "summary": "A raw triplex beneath an iconic copper roof overlooking Central Park, once asking $40M, is now pending sale for $6.765M after auction.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/10/real-estate/former-40m-billionaires-row-penthouse-lands-6-76m-buyer/",
+      "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-09-09T13:47:00.000Z"
+      "published_at": "2026-09-10T20:14:38.000Z"
     },
     {
       "headline": "25 years after 9/11, the World Trade Center’s last tower finally rises",
@@ -264,22 +264,22 @@
       "published_at": "2026-09-10T13:00:00.000Z"
     },
     {
-      "headline": "L+M Development Partners files plans for 329 units in East New York",
+      "headline": "Mixed-use in SoHo sells for $8.8M",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/lm-development-partners-files-plans-for-329-units-in-east-new-york/",
+      "url": "https://www.pincusco.com/mixed-use-in-soho-sells-for-8-8m/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-09T13:20:00.000Z"
+      "published_at": "2026-09-11T12:57:00.000Z"
     },
     {
-      "headline": "Guan Yu Li seeks zoning changes to build 168-unit project in College Point",
+      "headline": "LCOR pays $73.1M to Taconic Partners for office in Yorkville",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/guan-yu-li-seeks-zoning-changes-to-build-168-unit-project-in-college-point/",
+      "url": "https://www.pincusco.com/lcor-pays-73-1m-to-taconic-partners-for-office-in-yorkville/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-10T09:33:27.000Z"
+      "published_at": "2026-09-11T12:38:00.000Z"
     }
   ]
 }
