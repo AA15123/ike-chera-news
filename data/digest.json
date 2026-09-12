@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-09-11",
-  "generated_at": "2026-09-11T14:15:34.596Z",
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T13:30:46.759Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Women’s Clothing Store Esti’s Takes 8K SF at 2263 Nostrand Avenue in Midwood: High-end women’s clothing store Esti’s is relocating to a new mixed-use development in Midwood, Brooklyn, Commercial Observer has learned. The longtime retailer’s 7,800-square-foot lease at 2263 Nostrand Avenue was signed on Tuesday.\n\nFashion Boutique Atelier Secures Retail Space at 181 MacDougal Street: Fashion boutique Atelier New York is upgrading its retail footprint in Manhattan’s Greenwich Village. The multi-brand luxury boutique will be the inaugural tenant in the commercial component of the Straus Group ’s newly constructed 181 MacDougal Street luxury condominium building, Commercial Observer has learned.\n\nFriedman’s Restaurant Ownership Buys Upper West Side Retail Space to Open New Spot: The ownership group behind famed New York City restaurants Friedman’s Restaurant and Pastrami Queen has acquired a retail co-op on Manhattan’s Upper West Side to open a new eatery, Commercial Observer has learned.\n\nHibachi Eatery Bijin Omakase Signs 5K-SF Lease in Long Island City: A hibachi restaurant is igniting the burner in Long Island City, Queens. Bijin Omakase signed a 15-year, 5,077-square-foot lease at the base of Trio , a nine-story, 34-unit residential development owned by ZD Jasper Realty at 27-19 Thomson Avenue near where the thoroughfare meets popular Jackson Avenue, according to.",
+    "commercial_observer": "Women’s Clothing Store Esti’s Takes 8K SF at 2263 Nostrand Avenue in Midwood: High-end women’s clothing store Esti’s is relocating to a new mixed-use development in Midwood, Brooklyn, Commercial Observer has learned. The longtime retailer’s 7,800-square-foot lease at 2263 Nostrand Avenue was signed on Tuesday.\n\nMunicipal Credit Union Signs 6K-SF Lease for New Branch at 162-15 Jamaica Avenue: Municipal Credit Union (MCU) has signed a lease to open a new retail branch in Jamaica, Queens, Commercial Observer has learned. The not-for-profit credit union, which has locations citywide and caters only to New York City residents, signed a 15-year, roughly 6,000-square-foot lease at Michael Rosilio ’s 162-15.\n\nFashion Boutique Atelier Secures Retail Space at 181 MacDougal Street: Fashion boutique Atelier New York is upgrading its retail footprint in Manhattan’s Greenwich Village. The multi-brand luxury boutique will be the inaugural tenant in the commercial component of the Straus Group ’s newly constructed 181 MacDougal Street luxury condominium building, Commercial Observer has learned.\n\nHibachi Eatery Bijin Omakase Signs 5K-SF Lease in Long Island City: A hibachi restaurant is igniting the burner in Long Island City, Queens. Bijin Omakase signed a 15-year, 5,077-square-foot lease at the base of Trio , a nine-story, 34-unit residential development owned by ZD Jasper Realty at 27-19 Thomson Avenue near where the thoroughfare meets popular Jackson Avenue, according to.",
     "cre_daily": "San Francisco Centre Returns to Market at Deep Discount: San Francisco Centre is back for sale after closing earlier this year and losing a proposed redevelopment buyer in July. Brokers expect bids of no more than $130M, far below the mall’s $1.2B valuation from a decade ago.\n\nFlorida Retail Leaders Put AI and Data at Center: AI and real-time data are becoming everyday tools for site selection, leasing, marketing, research, and operations. High construction costs and tight vacancy are increasing the focus on adaptive reuse, second-generation space, and flexible activation strategies.\n\nLululemon Slows US Store Growth as New CEO Takes Helm: Lululemon plans to open a net 35 new stores in 2026, down from its previous target of 40, while cutting 25 planned pop-ups. North American sales fell 12%, and global profit declined 1% to $1.5B, including roughly $135M in tariff refunds.\n\nSpirit Halloween Turns Retail Vacancies into Seasonal Wins: Spirit Halloween opens roughly 1,500 temporary stores annually through a specialized leasing operation targeting vacant retail space. Flexible termination clauses let landlords collect temporary rent while preserving opportunities to sign permanent tenants.",
-    "new_york_post": "San Francisco’s deserted shopping palace heads for sale with staggering fall in value: New proposals for the space include a mixed-use project or massive sports complex.\n\nSteph Curry offloads massive SF property as speculation swirls over future with Warriors: Curry appears to have scored millions after offloading a massive property in the Bay Area.\n\nNYC penthouse forged from a famed copper roof finds its first-ever owner for a fraction of its $40M ask: A raw triplex beneath an iconic copper roof overlooking Central Park, once asking $40M, is now pending sale for $6.765M after auction.\n\n25 years after 9/11, the World Trade Center’s last tower finally rises: “After 9/11, I made a promise to New Yorkers that we would rebuild the World Trade Center, commemorate those we lost [and] restore commerce to Lower Manhattan,\" developer Larry Silverstein told The Post.",
-    "pincusco": "Kosher grocery Bingo Wholesale signs $38.1M loan with Valley in Bedford Stuyvesant.\n\nMixed-use in SoHo sells for $8.8M.\n\nLCOR pays $73.1M to Taconic Partners for office in Yorkville."
+    "new_york_post": "NYC penthouse forged from a famed copper roof finds its first-ever owner for a fraction of its $40M ask: A raw triplex beneath an iconic copper roof overlooking Central Park, once asking $40M, is now pending sale for $6.765M after auction.\n\nSan Francisco declares ‘rent emergency’ as prices for dingy one-bedrooms top $5,000: Rents are spiking more than anywhere else in the country, according to the mayor’s office.\n\nNYC suburb is now the toughest place in America to buy a house: Not far from Manhattan, this area is seeing a whopping 36% fewer sellers than buyers, according to a new Redfin study.\n\nDonald Trump’s NYC childhood home sells for $1.93M after a $500K, 8-month renovation: Donald Trump’s childhood home in Jamaica Estates is now in the hands of a new owner.",
+    "pincusco": "Kosher grocery Bingo Wholesale signs $38.1M loan with Valley in Bedford Stuyvesant.\n\nMixed-use in SoHo sells for $8.8M.\n\nLCOR pays $73.1M to Taconic Partners for office in Yorkville.\n\nBlank Property Group pays $4.3M for mixed-use in Greenpoint."
   },
   "items": [
     {
@@ -19,6 +19,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-09-08T21:03:26.000Z"
+    },
+    {
+      "headline": "Municipal Credit Union Signs 6K-SF Lease for New Branch at 162-15 Jamaica Avenue",
+      "summary": "Municipal Credit Union (MCU) has signed a lease to open a new retail branch in Jamaica, Queens, Commercial Observer has learned. The not-for-profit credit union, which has locations citywide and caters only to New York City residents, signed a 15-year, roughly 6,000-square-foot lease at Michael Rosilio ’s 162-15 Jamaica Avenue , according to landlord broker Augenbaum Realty . Asking rent for the ground-floor space in Jamaica’s business district was more than $100 per square foot, according to the brokerage.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/municipal-credit-union-lease-162-15-jamaica-avenue/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-11T15:26:00.000Z"
     },
     {
       "headline": "San Francisco Centre Returns to Market at Deep Discount",
@@ -37,15 +46,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-09-02T18:25:17.000Z"
-    },
-    {
-      "headline": "Friedman’s Restaurant Ownership Buys Upper West Side Retail Space to Open New Spot",
-      "summary": "The ownership group behind famed New York City restaurants Friedman’s Restaurant and Pastrami Queen has acquired a retail co-op on Manhattan’s Upper West Side to open a new eatery, Commercial Observer has learned. The restaurant group, using the LLC Mountain View Acquisition , bought the 5,000-square-foot retail unit at 541-555 Amsterdam Avenue for $4.1 million, according to buyer representative Lee & Associates NYC .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/friedmans-restaurant-buys-upper-west-side-retail-541-amsterdam-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-09T21:04:30.000Z"
     },
     {
       "headline": "Hibachi Eatery Bijin Omakase Signs 5K-SF Lease in Long Island City",
@@ -93,15 +93,6 @@
       "published_at": "2026-09-02T15:55:05.000Z"
     },
     {
-      "headline": "Pilates Studio Sancta Selects Tribeca’s 124 Hudson Street for First Location",
-      "summary": "A high-end Pilates studio has found its center in Manhattan’s Tribeca neighborhood. Sancta , a studio specializing in reformer Pilates, has inked a 2,350-square-foot lease for its debut location at 124 Hudson Street , Commercial Observer has learned. The studio agreed to a seven-year term with landlord Marx Realty for the ground-floor lease, with an asking rent of $150 per square foot.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/08/pilates-sancta-lease-124-hudson-street-tribeca/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-08-28T17:09:08.000Z"
-    },
-    {
       "headline": "Lululemon Slows US Store Growth as New CEO Takes Helm",
       "summary": "Lululemon plans to open a net 35 new stores in 2026, down from its previous target of 40, while cutting 25 planned pop-ups. North American sales fell 12%, and global profit declined 1% to $1.5B, including roughly $135M in tariff refunds. The pullback signals a more cautious retail leasing environment as consumers reduce spending and brands reassess expansion commitments. Key Takeaways Bisnow reports that Lululemon is scaling back its US store expansion plans as weaker sales pressure the athleisure retailer.…",
       "source": "CRE Daily",
@@ -138,31 +129,13 @@
       "published_at": "2026-08-30T10:10:19.000Z"
     },
     {
-      "headline": "San Francisco’s deserted shopping palace heads for sale with staggering fall in value",
-      "summary": "New proposals for the space include a mixed-use project or massive sports complex.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/09/real-estate/san-francisco-centre-mall-goes-on-sale-again/",
-      "section": "new_york_post",
-      "retail": true,
-      "published_at": "2026-09-09T22:55:08.000Z"
-    },
-    {
-      "headline": "Coney Island Prep Inks 45K-SF Deal to Relocate to 773 Neptune Avenue",
-      "summary": "Coney Island Preparatory Public Charter School is moving from its Gravesend, Brooklyn, location to none other than Coney Island. The school signed a 39-year condominium leasehold agreement to build a 45,190-square-foot high school at Elie Fouerti ’s 773 Neptune Avenue , where it will grow to accommodate 500 students when it opens for enrollment in summer 2027, according to tenant broker Open Impact Real Estate . The new school is being developed by Rybak Development .…",
+      "headline": "Upper Manhattan Empowerment Zone Relocates HQ to 9K SF at 119 West 125th Street",
+      "summary": "The nonprofit Upper Manhattan Empowerment Zone Development Corporation (UMEZ) is moving its nonprofit headquarters to 119 West 125th Street in Harlem, Commercial Observer has learned. UMEZ, which finances community development in Upper Manhattan, inked a 9,000-square-foot lease at the 17-story mixed-use development between Malcolm X and Adam Clayton Powell boulevards, according to Taconic Partners , a developer on the project.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/coney-island-prep-lease-773-neptune-avenue/",
+      "url": "https://commercialobserver.com/2026/09/upper-manhattan-empowerment-zone-lease-119-west-125th-street/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-09-10T16:41:58.000Z"
-    },
-    {
-      "headline": "Law Firm Thompson Relocates to 4K SF at Cohen Brothers’ 622 Third Avenue",
-      "summary": "This law firm finds its new office very appealing. Thompson , a law firm that specializes in mergers and acquisitions, tax transactions, and intellectual property issues, is relocating its New York City offices to the Cohen Brothers ’ 622 Third Avenue , Commercial Observer has learned. The boutique firm signed a five-year, 4,000-square-foot lease on the 16th floor of the 40-story Midtown East office tower, also known as Grand Central Plaza .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/thompson-lease-cohen-brothers-622-third-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-09T20:56:30.000Z"
+      "published_at": "2026-09-11T17:56:12.000Z"
     },
     {
       "headline": "RFR Buys Prada-Anchored Retail Condo at 841 Madison Avenue for $57M",
@@ -183,13 +156,22 @@
       "published_at": "2026-09-10T18:07:22.000Z"
     },
     {
-      "headline": "Law Firm O’Melveny Renews 100K SF at 1625 Eye Street in D.C.",
-      "summary": "O’Melveny & Myers has signed a 15-year renewal for roughly 100,000 square feet at 1625 Eye Street NW in Washington, D.C., as the building’s new ownership group sets up a substantial renovation. The global law firm has been at the 405,000-square-foot building since 2003 and occupies the top three floors as its largest tenant. GreenBarn Investment Group , FarmView Ventures and capital partner Farallon Capital acquired the property in 2025 .…",
+      "headline": "Harbor Fitness to Open 20K-SF Club at 3460 Nostrand Avenue in South Brooklyn",
+      "summary": "Harbor Fitness has signed a lease for its eighth location in Brooklyn, Commercial Observer has learned. The Brooklyn-based fitness brand signed a 25-year, 20,000-square-foot lease at Gaama Partners ’ 3460 Nostrand Avenue , according to broker Augenbaum Realty . The space was divided evenly between the first floor and the lower level of the property in Sheepshead Bay, Brooklyn. Asking rent for the space was $40 per square foot, according to the brokerage.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/law-firm-omelveny-1625-eye-street-dc-greenbarn-farmview-farallon/",
+      "url": "https://commercialobserver.com/2026/09/harbor-fitness-lease-3460-nostrand-avenue-brooklyn/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-09-09T20:40:47.000Z"
+      "published_at": "2026-09-11T14:30:56.000Z"
+    },
+    {
+      "headline": "Roadway Moving, Contenur Take Combined 231K SF at Innovo’s 28-90 Review Avenue",
+      "summary": "Innovo Property Group signed expansive leases for two industrial tenants in one of the company’s developments in Long Island City, Queens. In the largest of the two deals, Roadway Moving , a full-service moving and storage company, took 117,000 square feet on the first floor of Innovo’s 28-90 Review Avenue , also known as the Review Avenue Complex . Meanwhile, Spanish garbage container manufacturer Contenur leased 114,000 square feet on the second floor of the property, according to the landlord.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/roadway-moving-contenur-innovo-28-90-review-avenue/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-10T19:47:59.000Z"
     },
     {
       "headline": "Two Supermarkets Ink Deals Along Brooklyn’s Atlantic Avenue",
@@ -219,15 +201,6 @@
       "published_at": "2026-09-01T16:40:58.000Z"
     },
     {
-      "headline": "Steph Curry offloads massive SF property as speculation swirls over future with Warriors",
-      "summary": "Curry appears to have scored millions after offloading a massive property in the Bay Area.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/09/real-estate/warriors-legend-steph-curry-sells-sf-commercial-property-for-11m/",
-      "section": "new_york_post",
-      "retail": true,
-      "published_at": "2026-09-10T01:17:00.000Z"
-    },
-    {
       "headline": "Retail Location Intelligence Grows in Sophistication and Usage",
       "summary": "In the late 1960s, science fiction writer Arthur C. Clarke posited a now-famous law of the universe: “Any sufficiently advanced technology is indistinguishable from magic.” As the rapid advancement of technology, especially given the ongoing progress of artificial intelligence, often makes this seem truer by the day, its implications in commercial real estate are often of a type that would have seemed like pure voodoo to CRE professionals when Clarke put forth this statement.…",
       "source": "Commercial Observer",
@@ -255,15 +228,6 @@
       "published_at": "2026-09-10T20:14:38.000Z"
     },
     {
-      "headline": "25 years after 9/11, the World Trade Center’s last tower finally rises",
-      "summary": "“After 9/11, I made a promise to New Yorkers that we would rebuild the World Trade Center, commemorate those we lost [and] restore commerce to Lower Manhattan,\" developer Larry Silverstein told The Post.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/10/real-estate/25-years-after-9-11-the-world-trade-centers-last-tower-finally-rises/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-09-10T13:00:00.000Z"
-    },
-    {
       "headline": "Mixed-use in SoHo sells for $8.8M",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
@@ -280,6 +244,42 @@
       "section": "pincusco",
       "retail": false,
       "published_at": "2026-09-11T12:38:00.000Z"
+    },
+    {
+      "headline": "Blank Property Group pays $4.3M for mixed-use in Greenpoint",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/blank-property-group-pays-4-3m-for-mixed-use-in-greenpoint/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-11T11:39:00.000Z"
+    },
+    {
+      "headline": "San Francisco declares ‘rent emergency’ as prices for dingy one-bedrooms top $5,000",
+      "summary": "Rents are spiking more than anywhere else in the country, according to the mayor’s office.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/10/real-estate/san-francisco-declares-rent-emergency-as-rents-soar-26/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-09-10T21:53:16.000Z"
+    },
+    {
+      "headline": "NYC suburb is now the toughest place in America to buy a house",
+      "summary": "Not far from Manhattan, this area is seeing a whopping 36% fewer sellers than buyers, according to a new Redfin study.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/11/real-estate/long-island-is-the-toughest-place-in-america-to-sell-a-house/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-09-11T19:59:12.000Z"
+    },
+    {
+      "headline": "Donald Trump’s NYC childhood home sells for $1.93M after a $500K, 8-month renovation",
+      "summary": "Donald Trump’s childhood home in Jamaica Estates is now in the hands of a new owner.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/11/real-estate/donald-trumps-nyc-childhood-home-sells-for-1-93m/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-09-11T19:13:40.000Z"
     }
   ]
 }
