@@ -1,7 +1,7 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-09-12",
-  "generated_at": "2026-09-12T13:30:46.759Z",
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T14:13:54.125Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
@@ -120,13 +120,13 @@
       "published_at": "2026-09-03T05:19:11.000Z"
     },
     {
-      "headline": "Westfield Topanga Tests Pop-Ups to Revive Food Hall",
-      "summary": "URW is bringing Chain to Topanga Social for a six-month residency beginning September 2, 2026. The food hall has lost most of its original 25-plus vendors since opening at Westfield Topanga in 2023. The test reflects a broader push to use rotating dining and entertainment concepts to generate repeat mall visits. Key Takeaways CoStar reports that Westfield Topanga is trying a new food hall strategy after Topanga Social lost most of its original vendors.…",
+      "headline": "Greater LA Retail Demand Holds Firm as Supply Stays Tight",
+      "summary": "Greater LA retail vacancy remained stable at 6.2% in Q2 2026, according to Colliers. Limited construction and scarce high-quality space continue to support demand from local and international brands seeking expansion opportunities. A vacant West Hollywood retail building sold for $12.96M in under 48 hours, underscoring demand for well-located assets. Key Takeaways Greater LA retail fundamentals remain resilient as limited availability supports demand for established properties.…",
       "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/westfield-topanga-tests-pop-ups-to-revive-food-hall/",
+      "url": "https://www.credaily.com/briefs/greater-la-retail-demand-holds-firm-as-supply-stays-tight/",
       "section": "cre_daily",
       "retail": true,
-      "published_at": "2026-08-30T10:10:19.000Z"
+      "published_at": "2026-09-01T08:10:41.000Z"
     },
     {
       "headline": "Upper Manhattan Empowerment Zone Relocates HQ to 9K SF at 119 West 125th Street",
