@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-09-13",
-  "generated_at": "2026-09-13T14:13:54.125Z",
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T16:17:17.975Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Women’s Clothing Store Esti’s Takes 8K SF at 2263 Nostrand Avenue in Midwood: High-end women’s clothing store Esti’s is relocating to a new mixed-use development in Midwood, Brooklyn, Commercial Observer has learned. The longtime retailer’s 7,800-square-foot lease at 2263 Nostrand Avenue was signed on Tuesday.\n\nMunicipal Credit Union Signs 6K-SF Lease for New Branch at 162-15 Jamaica Avenue: Municipal Credit Union (MCU) has signed a lease to open a new retail branch in Jamaica, Queens, Commercial Observer has learned. The not-for-profit credit union, which has locations citywide and caters only to New York City residents, signed a 15-year, roughly 6,000-square-foot lease at Michael Rosilio ’s 162-15.\n\nFashion Boutique Atelier Secures Retail Space at 181 MacDougal Street: Fashion boutique Atelier New York is upgrading its retail footprint in Manhattan’s Greenwich Village. The multi-brand luxury boutique will be the inaugural tenant in the commercial component of the Straus Group ’s newly constructed 181 MacDougal Street luxury condominium building, Commercial Observer has learned.\n\nHibachi Eatery Bijin Omakase Signs 5K-SF Lease in Long Island City: A hibachi restaurant is igniting the burner in Long Island City, Queens. Bijin Omakase signed a 15-year, 5,077-square-foot lease at the base of Trio , a nine-story, 34-unit residential development owned by ZD Jasper Realty at 27-19 Thomson Avenue near where the thoroughfare meets popular Jackson Avenue, according to.",
     "cre_daily": "San Francisco Centre Returns to Market at Deep Discount: San Francisco Centre is back for sale after closing earlier this year and losing a proposed redevelopment buyer in July. Brokers expect bids of no more than $130M, far below the mall’s $1.2B valuation from a decade ago.\n\nFlorida Retail Leaders Put AI and Data at Center: AI and real-time data are becoming everyday tools for site selection, leasing, marketing, research, and operations. High construction costs and tight vacancy are increasing the focus on adaptive reuse, second-generation space, and flexible activation strategies.\n\nLululemon Slows US Store Growth as New CEO Takes Helm: Lululemon plans to open a net 35 new stores in 2026, down from its previous target of 40, while cutting 25 planned pop-ups. North American sales fell 12%, and global profit declined 1% to $1.5B, including roughly $135M in tariff refunds.\n\nSpirit Halloween Turns Retail Vacancies into Seasonal Wins: Spirit Halloween opens roughly 1,500 temporary stores annually through a specialized leasing operation targeting vacant retail space. Flexible termination clauses let landlords collect temporary rent while preserving opportunities to sign permanent tenants.",
-    "new_york_post": "NYC penthouse forged from a famed copper roof finds its first-ever owner for a fraction of its $40M ask: A raw triplex beneath an iconic copper roof overlooking Central Park, once asking $40M, is now pending sale for $6.765M after auction.\n\nSan Francisco declares ‘rent emergency’ as prices for dingy one-bedrooms top $5,000: Rents are spiking more than anywhere else in the country, according to the mayor’s office.\n\nNYC suburb is now the toughest place in America to buy a house: Not far from Manhattan, this area is seeing a whopping 36% fewer sellers than buyers, according to a new Redfin study.\n\nDonald Trump’s NYC childhood home sells for $1.93M after a $500K, 8-month renovation: Donald Trump’s childhood home in Jamaica Estates is now in the hands of a new owner.",
-    "pincusco": "Kosher grocery Bingo Wholesale signs $38.1M loan with Valley in Bedford Stuyvesant.\n\nMixed-use in SoHo sells for $8.8M.\n\nLCOR pays $73.1M to Taconic Partners for office in Yorkville.\n\nBlank Property Group pays $4.3M for mixed-use in Greenpoint."
+    "new_york_post": "Proskauer Rose law firm adds 2 more floors at 11 Times Square, bringing presence to 478K square feet: The deal, which included a renewal, raises the firm’s presence to 478,000 square feet in the 1.1 million square-foot tower at the bustling corner of Eighth Avenue and West 42nd Street.\n\nBehind the scenes of the giant Italian restaurant, market opening at Grand Central: Osteria Centrale and Mercato Centrale will open possibly as early as next month.\n\nNYC suburb is now the toughest place in America to buy a house: Not far from Manhattan, this area is seeing a whopping 36% fewer sellers than buyers, according to a new Redfin study.\n\nDonald Trump’s NYC childhood home sells for $1.93M after a $500K, 8-month renovation: Donald Trump’s childhood home in Jamaica Estates is now in the hands of a new owner.",
+    "pincusco": "Tishman Speyer files plans for 1M sf office tower in Hudson Yards.\n\nBerry Perlstein pays $6.3M to Joseph A. Brizzi & Sons for mixed-use in Borough Park.\n\nHolliswood Development pays $3.8M to Garbo & Company for resi project in East Village.\n\nEquality Charter School pays $54.5M to Azimuth Development for location in Williamsbridge."
   },
   "items": [
     {
@@ -138,22 +138,31 @@
       "published_at": "2026-09-11T17:56:12.000Z"
     },
     {
-      "headline": "RFR Buys Prada-Anchored Retail Condo at 841 Madison Avenue for $57M",
-      "summary": "An Upper East Side retail condominium at 841 Madison Avenue has traded hands for $57 million, Commercial Observer has learned. JSRE Acquisitions , which is associated with the Safra family and Status Capital , sold the East 70th Street unit occupied by luxury fashion house Prada to Aby Rosen and Michael Fuchs ‘s RFR Holding , according to the brokers. Global Advisory founder Ross Mezzo and Ezra Saffati from Majestic Acquisitions represented the buyer and the seller.…",
+      "headline": "Fifth Third Bank Expands to 32K SF at 50 Rockefeller Plaza",
+      "summary": "Fifth Third Bank is expanding its office footprint at Rockefeller Center . The financial institution added roughly 11,000 square feet to its headquarters at Tishman Speyer ’s 50 Rockefeller Plaza for a total of 32,347 square feet, which will expire with its current lease in February 2034, according to the landlord.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/rfr-holding-acquisition-841-madison-avenue/",
+      "url": "https://commercialobserver.com/2026/09/fifth-third-bank-lease-expansion-50-rockefeller-plaza/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-09-10T20:19:35.000Z"
+      "published_at": "2026-09-14T15:00:52.000Z"
     },
     {
-      "headline": "Apparel Manufacturer Bagatelle International Takes 24K SF at 463 Seventh Avenue",
-      "summary": "Canadian fashion brand and apparel manufacturer Bagatelle International is relocating to a full-floor lease at 463 Seventh Avenue . The 23,785-square-foot deal is the largest of two new office leases at the Arsenal Company ’s Garment District tower between West 35th and West 36th streets. The transactions span a collective 33,083 square feet and bring the 22-story building to full occupancy, according to landlord brokers Adams & Company . Asking rent for both deals was $59 per square foot.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/bagatelle-international-lease-relocation-463-seventh-avenue/",
-      "section": "commercial_observer",
+      "headline": "Tishman Speyer files plans for 1M sf office tower in Hudson Yards",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/tishman-speyer-files-plans-for-1m-sf-office-building-in-hudson-yards/",
+      "section": "pincusco",
       "retail": true,
-      "published_at": "2026-09-10T18:07:22.000Z"
+      "published_at": "2026-09-14T14:54:00.000Z"
+    },
+    {
+      "headline": "Proskauer Rose law firm adds 2 more floors at 11 Times Square, bringing presence to 478K square feet",
+      "summary": "The deal, which included a renewal, raises the firm’s presence to 478,000 square feet in the 1.1 million square-foot tower at the bustling corner of Eighth Avenue and West 42nd Street.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/13/business/proskauer-rose-law-firm-adds-2-more-floors-at-11-times-square/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-09-13T18:17:41.000Z"
     },
     {
       "headline": "Harbor Fitness to Open 20K-SF Club at 3460 Nostrand Avenue in South Brooklyn",
@@ -163,15 +172,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-09-11T14:30:56.000Z"
-    },
-    {
-      "headline": "Roadway Moving, Contenur Take Combined 231K SF at Innovo’s 28-90 Review Avenue",
-      "summary": "Innovo Property Group signed expansive leases for two industrial tenants in one of the company’s developments in Long Island City, Queens. In the largest of the two deals, Roadway Moving , a full-service moving and storage company, took 117,000 square feet on the first floor of Innovo’s 28-90 Review Avenue , also known as the Review Avenue Complex . Meanwhile, Spanish garbage container manufacturer Contenur leased 114,000 square feet on the second floor of the property, according to the landlord.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/roadway-moving-contenur-innovo-28-90-review-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-10T19:47:59.000Z"
     },
     {
       "headline": "Two Supermarkets Ink Deals Along Brooklyn’s Atlantic Avenue",
@@ -201,67 +201,58 @@
       "published_at": "2026-09-01T16:40:58.000Z"
     },
     {
-      "headline": "Retail Location Intelligence Grows in Sophistication and Usage",
-      "summary": "In the late 1960s, science fiction writer Arthur C. Clarke posited a now-famous law of the universe: “Any sufficiently advanced technology is indistinguishable from magic.” As the rapid advancement of technology, especially given the ongoing progress of artificial intelligence, often makes this seem truer by the day, its implications in commercial real estate are often of a type that would have seemed like pure voodoo to CRE professionals when Clarke put forth this statement.…",
+      "headline": "In Los Angeles-Area Retail, a Widening Divide",
+      "summary": "Los Angeles remains a locale that runs on ambition and the pursuit of opportunity. But a significant bifurcation is taking place. Increasingly, the marketplace for retail real estate has significantly split between those benefiting from buoyant dynamics and tenants whose small business dreams are starting to evaporate.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/retail-location-intelligence-ai-technology/",
+      "url": "https://commercialobserver.com/2026/09/los-angeles-retail-ice-rents-security/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-09-01T14:00:35.000Z"
+      "published_at": "2026-09-14T10:00:43.000Z"
     },
     {
-      "headline": "Kosher grocery Bingo Wholesale signs $38.1M loan with Valley in Bedford Stuyvesant",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/kosher-grocery-bingo-wholesale-signs-38-1m-loan-with-valley-in-bedford-stuyvesant/",
-      "section": "pincusco",
+      "headline": "Behind the scenes of the giant Italian restaurant, market opening at Grand Central",
+      "summary": "Osteria Centrale and Mercato Centrale will open possibly as early as next month.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/13/business/behind-the-scenes-of-the-giant-italian-restaurant-market-opening-at-grand-central/",
+      "section": "new_york_post",
       "retail": true,
-      "published_at": "2026-09-11T13:28:00.000Z"
+      "published_at": "2026-09-13T17:34:28.000Z"
     },
     {
-      "headline": "NYC penthouse forged from a famed copper roof finds its first-ever owner for a fraction of its $40M ask",
-      "summary": "A raw triplex beneath an iconic copper roof overlooking Central Park, once asking $40M, is now pending sale for $6.765M after auction.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/10/real-estate/former-40m-billionaires-row-penthouse-lands-6-76m-buyer/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-09-10T20:14:38.000Z"
-    },
-    {
-      "headline": "Mixed-use in SoHo sells for $8.8M",
+      "headline": "Berry Perlstein pays $6.3M to Joseph A. Brizzi & Sons for mixed-use in Borough Park",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/mixed-use-in-soho-sells-for-8-8m/",
+      "url": "https://www.pincusco.com/berry-perlstein-pays-6-3m-to-joseph-a-brizzi-sons-for-mixed-use-in-borough-park/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-11T12:57:00.000Z"
+      "published_at": "2026-09-14T15:44:00.000Z"
     },
     {
-      "headline": "LCOR pays $73.1M to Taconic Partners for office in Yorkville",
+      "headline": "Holliswood Development pays $3.8M to Garbo & Company for resi project in East Village",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/lcor-pays-73-1m-to-taconic-partners-for-office-in-yorkville/",
+      "url": "https://www.pincusco.com/holliswood-development-pays-3-8m-to-garbo-company-for-specialty-in-east-village/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-11T12:38:00.000Z"
+      "published_at": "2026-09-14T15:32:00.000Z"
     },
     {
-      "headline": "Blank Property Group pays $4.3M for mixed-use in Greenpoint",
+      "headline": "Equality Charter School pays $54.5M to Azimuth Development for location in Williamsbridge",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/blank-property-group-pays-4-3m-for-mixed-use-in-greenpoint/",
+      "url": "https://www.pincusco.com/equality-charter-school-pays-54-5m-to-azimuth-development-for-location-in-williamsbridge/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-11T11:39:00.000Z"
+      "published_at": "2026-09-14T14:16:00.000Z"
     },
     {
-      "headline": "San Francisco declares ‘rent emergency’ as prices for dingy one-bedrooms top $5,000",
-      "summary": "Rents are spiking more than anywhere else in the country, according to the mayor’s office.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/10/real-estate/san-francisco-declares-rent-emergency-as-rents-soar-26/",
-      "section": "new_york_post",
+      "headline": "Rockefeller Group files plans for 340 units in Upper West Side",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/rockefeller-group-files-plans-for-340-units-in-upper-west-side/",
+      "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-10T21:53:16.000Z"
+      "published_at": "2026-09-14T14:00:00.000Z"
     },
     {
       "headline": "NYC suburb is now the toughest place in America to buy a house",
@@ -280,6 +271,15 @@
       "section": "new_york_post",
       "retail": false,
       "published_at": "2026-09-11T19:13:40.000Z"
+    },
+    {
+      "headline": "David Profesorske pays $2.8M for dev site in Far Rockaway",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/david-profesorske-pays-2-8m-for-dev-site-in-far-rockaway/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-14T15:43:00.000Z"
     }
   ]
 }
