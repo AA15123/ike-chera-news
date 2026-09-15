@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-09-14",
-  "generated_at": "2026-09-14T16:17:17.975Z",
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T14:49:46.486Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Women’s Clothing Store Esti’s Takes 8K SF at 2263 Nostrand Avenue in Midwood: High-end women’s clothing store Esti’s is relocating to a new mixed-use development in Midwood, Brooklyn, Commercial Observer has learned. The longtime retailer’s 7,800-square-foot lease at 2263 Nostrand Avenue was signed on Tuesday.\n\nMunicipal Credit Union Signs 6K-SF Lease for New Branch at 162-15 Jamaica Avenue: Municipal Credit Union (MCU) has signed a lease to open a new retail branch in Jamaica, Queens, Commercial Observer has learned. The not-for-profit credit union, which has locations citywide and caters only to New York City residents, signed a 15-year, roughly 6,000-square-foot lease at Michael Rosilio ’s 162-15.\n\nFashion Boutique Atelier Secures Retail Space at 181 MacDougal Street: Fashion boutique Atelier New York is upgrading its retail footprint in Manhattan’s Greenwich Village. The multi-brand luxury boutique will be the inaugural tenant in the commercial component of the Straus Group ’s newly constructed 181 MacDougal Street luxury condominium building, Commercial Observer has learned.\n\nHibachi Eatery Bijin Omakase Signs 5K-SF Lease in Long Island City: A hibachi restaurant is igniting the burner in Long Island City, Queens. Bijin Omakase signed a 15-year, 5,077-square-foot lease at the base of Trio , a nine-story, 34-unit residential development owned by ZD Jasper Realty at 27-19 Thomson Avenue near where the thoroughfare meets popular Jackson Avenue, according to.",
-    "cre_daily": "San Francisco Centre Returns to Market at Deep Discount: San Francisco Centre is back for sale after closing earlier this year and losing a proposed redevelopment buyer in July. Brokers expect bids of no more than $130M, far below the mall’s $1.2B valuation from a decade ago.\n\nFlorida Retail Leaders Put AI and Data at Center: AI and real-time data are becoming everyday tools for site selection, leasing, marketing, research, and operations. High construction costs and tight vacancy are increasing the focus on adaptive reuse, second-generation space, and flexible activation strategies.\n\nLululemon Slows US Store Growth as New CEO Takes Helm: Lululemon plans to open a net 35 new stores in 2026, down from its previous target of 40, while cutting 25 planned pop-ups. North American sales fell 12%, and global profit declined 1% to $1.5B, including roughly $135M in tariff refunds.\n\nSpirit Halloween Turns Retail Vacancies into Seasonal Wins: Spirit Halloween opens roughly 1,500 temporary stores annually through a specialized leasing operation targeting vacant retail space. Flexible termination clauses let landlords collect temporary rent while preserving opportunities to sign permanent tenants.",
-    "new_york_post": "Proskauer Rose law firm adds 2 more floors at 11 Times Square, bringing presence to 478K square feet: The deal, which included a renewal, raises the firm’s presence to 478,000 square feet in the 1.1 million square-foot tower at the bustling corner of Eighth Avenue and West 42nd Street.\n\nBehind the scenes of the giant Italian restaurant, market opening at Grand Central: Osteria Centrale and Mercato Centrale will open possibly as early as next month.\n\nNYC suburb is now the toughest place in America to buy a house: Not far from Manhattan, this area is seeing a whopping 36% fewer sellers than buyers, according to a new Redfin study.\n\nDonald Trump’s NYC childhood home sells for $1.93M after a $500K, 8-month renovation: Donald Trump’s childhood home in Jamaica Estates is now in the hands of a new owner.",
-    "pincusco": "Tishman Speyer files plans for 1M sf office tower in Hudson Yards.\n\nBerry Perlstein pays $6.3M to Joseph A. Brizzi & Sons for mixed-use in Borough Park.\n\nHolliswood Development pays $3.8M to Garbo & Company for resi project in East Village.\n\nEquality Charter School pays $54.5M to Azimuth Development for location in Williamsbridge."
+    "commercial_observer": "Women’s Clothing Store Esti’s Takes 8K SF at 2263 Nostrand Avenue in Midwood: High-end women’s clothing store Esti’s is relocating to a new mixed-use development in Midwood, Brooklyn, Commercial Observer has learned. The longtime retailer’s 7,800-square-foot lease at 2263 Nostrand Avenue was signed on Tuesday.\n\nMunicipal Credit Union Signs 6K-SF Lease for New Branch at 162-15 Jamaica Avenue: Municipal Credit Union (MCU) has signed a lease to open a new retail branch in Jamaica, Queens, Commercial Observer has learned. The not-for-profit credit union, which has locations citywide and caters only to New York City residents, signed a 15-year, roughly 6,000-square-foot lease at Michael Rosilio ’s 162-15.\n\nKKR Pays $608M for 51% Stake in Realty Income European Net-Lease Portfolio: Private equity giant KKR is taking a substantial stake in a European net-lease portfolio run by a prominent U.S. real estate investment trust (REIT).\n\nFashion Boutique Atelier Secures Retail Space at 181 MacDougal Street: Fashion boutique Atelier New York is upgrading its retail footprint in Manhattan’s Greenwich Village. The multi-brand luxury boutique will be the inaugural tenant in the commercial component of the Straus Group ’s newly constructed 181 MacDougal Street luxury condominium building, Commercial Observer has learned.",
+    "cre_daily": "San Francisco Centre Returns to Market at Deep Discount: San Francisco Centre is back for sale after closing earlier this year and losing a proposed redevelopment buyer in July. Brokers expect bids of no more than $130M, far below the mall’s $1.2B valuation from a decade ago.\n\nMall Values Jump 13% as Retail Recovery Accelerates: Green Street says mall values increased 13% over the past year, the strongest gain among 10 commercial property sectors. Limited new supply, resilient consumer spending and tenant upgrades have supported occupancy, rent growth and investor interest.\n\nFlorida Retail Leaders Put AI and Data at Center: AI and real-time data are becoming everyday tools for site selection, leasing, marketing, research, and operations. High construction costs and tight vacancy are increasing the focus on adaptive reuse, second-generation space, and flexible activation strategies.\n\nLululemon Slows US Store Growth as New CEO Takes Helm: Lululemon plans to open a net 35 new stores in 2026, down from its previous target of 40, while cutting 25 planned pop-ups. North American sales fell 12%, and global profit declined 1% to $1.5B, including roughly $135M in tariff refunds.",
+    "new_york_post": "Proskauer Rose law firm adds 2 more floors at 11 Times Square, bringing presence to 478K square feet: The deal, which included a renewal, raises the firm’s presence to 478,000 square feet in the 1.1 million square-foot tower at the bustling corner of Eighth Avenue and West 42nd Street.\n\nMalls are making a shocking comeback — becoming the top performer in commercial real estate: The values of these shopping centers shot up 13% in the past year alone.\n\nBehind the scenes of the giant Italian restaurant, market opening at Grand Central: Osteria Centrale and Mercato Centrale will open possibly as early as next month.",
+    "pincusco": "Related Companies signs $92.4M refi with Deutsche Bank for office, retail in LIC.\n\nAaron Lebovits signs $50.4M construction loan with Ponce for development in Sunnyside.\n\nNonprofit StartCare signs $6.3M loan with TruFund for office in East Harlem.\n\nMichael Lee pays $2.2M for mixed-use in Astoria."
   },
   "items": [
     {
@@ -30,6 +30,15 @@
       "published_at": "2026-09-11T15:26:00.000Z"
     },
     {
+      "headline": "KKR Pays $608M for 51% Stake in Realty Income European Net-Lease Portfolio",
+      "summary": "Private equity giant KKR is taking a substantial stake in a European net-lease portfolio run by a prominent U.S. real estate investment trust (REIT). KKR announced Monday it has formed a joint venture with Realty Income — a publicly traded REIT specializing in net-lease properties — in which the private equity firm will make a $608 million (or 528 million euro) investment to control 49 percent ownership interest of a 54-property portfolio of industrial and retail assets in Spain, Ireland, Poland and the…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/kkr-51-stake-realty-income-european-net-lease-portfolio/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-14T17:16:48.000Z"
+    },
+    {
       "headline": "San Francisco Centre Returns to Market at Deep Discount",
       "summary": "San Francisco Centre is back for sale after closing earlier this year and losing a proposed redevelopment buyer in July. Brokers expect bids of no more than $130M, far below the mall’s $1.2B valuation from a decade ago. The WSJ reported the property is 93% vacant, with an ownership and ground-lease structure that has already derailed one deal. Key Takeaways The Wall Street Journal reports that San Francisco Centre is back on the market after closing earlier this year. A proposed buyer walked away in July.…",
       "source": "CRE Daily",
@@ -46,6 +55,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-09-02T18:25:17.000Z"
+    },
+    {
+      "headline": "Mall Values Jump 13% as Retail Recovery Accelerates",
+      "summary": "Green Street says mall values increased 13% over the past year, the strongest gain among 10 commercial property sectors. Limited new supply, resilient consumer spending and tenant upgrades have supported occupancy, rent growth and investor interest. Major owners including URW and CBL are increasing exposure again, although mall values remain below their decade-ago peak. Key Takeaways The Wall Street Journal reports that malls have become the top-performing commercial real estate sector after years of distress.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/mall-values-jump-13-as-retail-recovery-accelerates/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-09-15T07:20:00.000Z"
     },
     {
       "headline": "Hibachi Eatery Bijin Omakase Signs 5K-SF Lease in Long Island City",
@@ -120,40 +138,40 @@
       "published_at": "2026-09-03T05:19:11.000Z"
     },
     {
-      "headline": "Greater LA Retail Demand Holds Firm as Supply Stays Tight",
-      "summary": "Greater LA retail vacancy remained stable at 6.2% in Q2 2026, according to Colliers. Limited construction and scarce high-quality space continue to support demand from local and international brands seeking expansion opportunities. A vacant West Hollywood retail building sold for $12.96M in under 48 hours, underscoring demand for well-located assets. Key Takeaways Greater LA retail fundamentals remain resilient as limited availability supports demand for established properties.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/greater-la-retail-demand-holds-firm-as-supply-stays-tight/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-09-01T08:10:41.000Z"
-    },
-    {
-      "headline": "Upper Manhattan Empowerment Zone Relocates HQ to 9K SF at 119 West 125th Street",
-      "summary": "The nonprofit Upper Manhattan Empowerment Zone Development Corporation (UMEZ) is moving its nonprofit headquarters to 119 West 125th Street in Harlem, Commercial Observer has learned. UMEZ, which finances community development in Upper Manhattan, inked a 9,000-square-foot lease at the 17-story mixed-use development between Malcolm X and Adam Clayton Powell boulevards, according to Taconic Partners , a developer on the project.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/upper-manhattan-empowerment-zone-lease-119-west-125th-street/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-11T17:56:12.000Z"
-    },
-    {
-      "headline": "Fifth Third Bank Expands to 32K SF at 50 Rockefeller Plaza",
-      "summary": "Fifth Third Bank is expanding its office footprint at Rockefeller Center . The financial institution added roughly 11,000 square feet to its headquarters at Tishman Speyer ’s 50 Rockefeller Plaza for a total of 32,347 square feet, which will expire with its current lease in February 2034, according to the landlord.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/fifth-third-bank-lease-expansion-50-rockefeller-plaza/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-14T15:00:52.000Z"
-    },
-    {
-      "headline": "Tishman Speyer files plans for 1M sf office tower in Hudson Yards",
+      "headline": "Related Companies signs $92.4M refi with Deutsche Bank for office, retail in LIC",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/tishman-speyer-files-plans-for-1m-sf-office-building-in-hudson-yards/",
+      "url": "https://www.pincusco.com/related-companies-signs-92-4m-refi-with-deutsche-bank-for-office-retail-in-lic/",
       "section": "pincusco",
       "retail": true,
-      "published_at": "2026-09-14T14:54:00.000Z"
+      "published_at": "2026-09-15T14:30:00.000Z"
+    },
+    {
+      "headline": "Stockdale Leads $157M Shopping Center Acquisition in Southern California",
+      "summary": "As more capital returns to brick-and-mortar retail, a Los Angeles-based investment firm has gone east to acquire a shopping center in the Inland Empire. Stockdale Capital Partners and funds managed by Conshohocken, Pa.-based Hamilton Lane put down $157 million for a 378,140-square-foot lifestyle center at 13920 City Center Drive in Chino Hills, Calif., called the Shoppes at Chino Hills . The more than 25-acre property was developed in 2008 and is anchored by Trader Joe’s and Barnes & Noble .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/stockdale-retail-california-chino-hills/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-14T20:00:33.000Z"
+    },
+    {
+      "headline": "J.E. Richards, Maker of Data Center Components, Signs Massive Northern Virginia Lease",
+      "summary": "A commercial electrical contractor and manufacturer based in the greater Washington, D.C., area has signed a massive industrial lease. J.E. Richards , which makes data center components, took all 935,000 square feet at Flint Development ’s 211 Centreport Parkway in Stafford, Va., representing the largest industrial lease ever transacted between the Metro D.C. and D.C.-Richmond corridors, according to landlord broker JLL . J.E.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/je-richards-lease-211-centreport-parkway-virginia/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-14T18:23:30.000Z"
+    },
+    {
+      "headline": "Cohen Brothers Closes Nearly 96K SF in Leases at West Hollywood’s Pacific Design Center",
+      "summary": "Cohen Brothers Realty Corporation of California has signed seven leases totaling nearly 96,000 square feet at the Pacific Design Center ’s Red Building in West Hollywood, Calif., Commercial Observer can first report. The deals add or retain beauty, fashion and technology tenants at the 400,000-square-foot creative office building that is part of the larger 1.6 million-square-foot campus at Melrose Avenue and San Vicente Boulevard.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/cohen-brothers-leases-west-hollywood-pacific-design-center/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-14T18:20:41.000Z"
     },
     {
       "headline": "Proskauer Rose law firm adds 2 more floors at 11 Times Square, bringing presence to 478K square feet",
@@ -201,6 +219,15 @@
       "published_at": "2026-09-01T16:40:58.000Z"
     },
     {
+      "headline": "Malls are making a shocking comeback — becoming the top performer in commercial real estate",
+      "summary": "The values of these shopping centers shot up 13% in the past year alone.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/14/real-estate/malls-are-making-a-comeback/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-09-14T20:08:08.000Z"
+    },
+    {
       "headline": "In Los Angeles-Area Retail, a Widening Divide",
       "summary": "Los Angeles remains a locale that runs on ambition and the pursuit of opportunity. But a significant bifurcation is taking place. Increasingly, the marketplace for retail real estate has significantly split between those benefiting from buoyant dynamics and tenants whose small business dreams are starting to evaporate.…",
       "source": "Commercial Observer",
@@ -219,67 +246,40 @@
       "published_at": "2026-09-13T17:34:28.000Z"
     },
     {
-      "headline": "Berry Perlstein pays $6.3M to Joseph A. Brizzi & Sons for mixed-use in Borough Park",
+      "headline": "Aaron Lebovits signs $50.4M construction loan with Ponce for development in Sunnyside",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/berry-perlstein-pays-6-3m-to-joseph-a-brizzi-sons-for-mixed-use-in-borough-park/",
+      "url": "https://www.pincusco.com/aaron-lebovits-signs-50-4m-construction-loan-with-ponce-for-development-in-sunnyside/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-14T15:44:00.000Z"
+      "published_at": "2026-09-15T14:34:00.000Z"
     },
     {
-      "headline": "Holliswood Development pays $3.8M to Garbo & Company for resi project in East Village",
+      "headline": "Nonprofit StartCare signs $6.3M loan with TruFund for office in East Harlem",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/holliswood-development-pays-3-8m-to-garbo-company-for-specialty-in-east-village/",
+      "url": "https://www.pincusco.com/nonprofit-startcare-signs-6-3m-loan-with-trufund-for-office-in-east-harlem/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-14T15:32:00.000Z"
+      "published_at": "2026-09-15T13:53:00.000Z"
     },
     {
-      "headline": "Equality Charter School pays $54.5M to Azimuth Development for location in Williamsbridge",
+      "headline": "Michael Lee pays $2.2M for mixed-use in Astoria",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/equality-charter-school-pays-54-5m-to-azimuth-development-for-location-in-williamsbridge/",
+      "url": "https://www.pincusco.com/michael-lee-pays-2-2m-for-mixed-use-in-astoria/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-14T14:16:00.000Z"
+      "published_at": "2026-09-15T14:23:00.000Z"
     },
     {
-      "headline": "Rockefeller Group files plans for 340 units in Upper West Side",
+      "headline": "Hammock Development files plans for 7 units in Greenwich Village",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/rockefeller-group-files-plans-for-340-units-in-upper-west-side/",
+      "url": "https://www.pincusco.com/hammock-development-files-plans-for-7-units-in-greenwich-village/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-14T14:00:00.000Z"
-    },
-    {
-      "headline": "NYC suburb is now the toughest place in America to buy a house",
-      "summary": "Not far from Manhattan, this area is seeing a whopping 36% fewer sellers than buyers, according to a new Redfin study.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/11/real-estate/long-island-is-the-toughest-place-in-america-to-sell-a-house/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-09-11T19:59:12.000Z"
-    },
-    {
-      "headline": "Donald Trump’s NYC childhood home sells for $1.93M after a $500K, 8-month renovation",
-      "summary": "Donald Trump’s childhood home in Jamaica Estates is now in the hands of a new owner.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/11/real-estate/donald-trumps-nyc-childhood-home-sells-for-1-93m/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-09-11T19:13:40.000Z"
-    },
-    {
-      "headline": "David Profesorske pays $2.8M for dev site in Far Rockaway",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/david-profesorske-pays-2-8m-for-dev-site-in-far-rockaway/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-14T15:43:00.000Z"
+      "published_at": "2026-09-15T13:47:00.000Z"
     }
   ]
 }
