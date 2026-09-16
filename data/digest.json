@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-09-15",
-  "generated_at": "2026-09-15T14:49:46.486Z",
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T14:47:10.638Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Women’s Clothing Store Esti’s Takes 8K SF at 2263 Nostrand Avenue in Midwood: High-end women’s clothing store Esti’s is relocating to a new mixed-use development in Midwood, Brooklyn, Commercial Observer has learned. The longtime retailer’s 7,800-square-foot lease at 2263 Nostrand Avenue was signed on Tuesday.\n\nMunicipal Credit Union Signs 6K-SF Lease for New Branch at 162-15 Jamaica Avenue: Municipal Credit Union (MCU) has signed a lease to open a new retail branch in Jamaica, Queens, Commercial Observer has learned. The not-for-profit credit union, which has locations citywide and caters only to New York City residents, signed a 15-year, roughly 6,000-square-foot lease at Michael Rosilio ’s 162-15.\n\nKKR Pays $608M for 51% Stake in Realty Income European Net-Lease Portfolio: Private equity giant KKR is taking a substantial stake in a European net-lease portfolio run by a prominent U.S. real estate investment trust (REIT).\n\nFashion Boutique Atelier Secures Retail Space at 181 MacDougal Street: Fashion boutique Atelier New York is upgrading its retail footprint in Manhattan’s Greenwich Village. The multi-brand luxury boutique will be the inaugural tenant in the commercial component of the Straus Group ’s newly constructed 181 MacDougal Street luxury condominium building, Commercial Observer has learned.",
+    "commercial_observer": "Women’s Clothing Store Esti’s Takes 8K SF at 2263 Nostrand Avenue in Midwood: High-end women’s clothing store Esti’s is relocating to a new mixed-use development in Midwood, Brooklyn, Commercial Observer has learned. The longtime retailer’s 7,800-square-foot lease at 2263 Nostrand Avenue was signed on Tuesday.\n\nMunicipal Credit Union Signs 6K-SF Lease for New Branch at 162-15 Jamaica Avenue: Municipal Credit Union (MCU) has signed a lease to open a new retail branch in Jamaica, Queens, Commercial Observer has learned. The not-for-profit credit union, which has locations citywide and caters only to New York City residents, signed a 15-year, roughly 6,000-square-foot lease at Michael Rosilio ’s 162-15.\n\nFashion Boutique Atelier Secures Retail Space at 181 MacDougal Street: Fashion boutique Atelier New York is upgrading its retail footprint in Manhattan’s Greenwich Village. The multi-brand luxury boutique will be the inaugural tenant in the commercial component of the Straus Group ’s newly constructed 181 MacDougal Street luxury condominium building, Commercial Observer has learned.\n\nHibachi Eatery Bijin Omakase Signs 5K-SF Lease in Long Island City: A hibachi restaurant is igniting the burner in Long Island City, Queens. Bijin Omakase signed a 15-year, 5,077-square-foot lease at the base of Trio , a nine-story, 34-unit residential development owned by ZD Jasper Realty at 27-19 Thomson Avenue near where the thoroughfare meets popular Jackson Avenue, according to.",
     "cre_daily": "San Francisco Centre Returns to Market at Deep Discount: San Francisco Centre is back for sale after closing earlier this year and losing a proposed redevelopment buyer in July. Brokers expect bids of no more than $130M, far below the mall’s $1.2B valuation from a decade ago.\n\nMall Values Jump 13% as Retail Recovery Accelerates: Green Street says mall values increased 13% over the past year, the strongest gain among 10 commercial property sectors. Limited new supply, resilient consumer spending and tenant upgrades have supported occupancy, rent growth and investor interest.\n\nFlorida Retail Leaders Put AI and Data at Center: AI and real-time data are becoming everyday tools for site selection, leasing, marketing, research, and operations. High construction costs and tight vacancy are increasing the focus on adaptive reuse, second-generation space, and flexible activation strategies.\n\nLululemon Slows US Store Growth as New CEO Takes Helm: Lululemon plans to open a net 35 new stores in 2026, down from its previous target of 40, while cutting 25 planned pop-ups. North American sales fell 12%, and global profit declined 1% to $1.5B, including roughly $135M in tariff refunds.",
-    "new_york_post": "Proskauer Rose law firm adds 2 more floors at 11 Times Square, bringing presence to 478K square feet: The deal, which included a renewal, raises the firm’s presence to 478,000 square feet in the 1.1 million square-foot tower at the bustling corner of Eighth Avenue and West 42nd Street.\n\nMalls are making a shocking comeback — becoming the top performer in commercial real estate: The values of these shopping centers shot up 13% in the past year alone.\n\nBehind the scenes of the giant Italian restaurant, market opening at Grand Central: Osteria Centrale and Mercato Centrale will open possibly as early as next month.",
-    "pincusco": "Related Companies signs $92.4M refi with Deutsche Bank for office, retail in LIC.\n\nAaron Lebovits signs $50.4M construction loan with Ponce for development in Sunnyside.\n\nNonprofit StartCare signs $6.3M loan with TruFund for office in East Harlem.\n\nMichael Lee pays $2.2M for mixed-use in Astoria."
+    "new_york_post": "Proskauer Rose law firm adds 2 more floors at 11 Times Square, bringing presence to 478K square feet: The deal, which included a renewal, raises the firm’s presence to 478,000 square feet in the 1.1 million square-foot tower at the bustling corner of Eighth Avenue and West 42nd Street.\n\nMalls are making a shocking comeback — becoming the top performer in commercial real estate: The values of these shopping centers shot up 13% in the past year alone.\n\nBehind the scenes of the giant Italian restaurant, market opening at Grand Central: Osteria Centrale and Mercato Centrale will open possibly as early as next month.\n\nNYC co-op in hot water over $30M parking lot sale after $16M in reserves allegedly vanishes: Village View resident Sebastian Kot alleges years of governance problems, including missing or inaccurate meeting minutes, and conflicting financial disclosures.",
+    "pincusco": "Flagg Family Capital signs $7.5M refi with Lightstone Group for retail in SoHo.\n\nHing Kong pays $2.3M to Maverick Real Estate Partners for mixed-use in Flushing.\n\nJoseph Heimann obtains $25M refi with OptimumBank for office in Bedford Stuyvesant.\n\nParag Sawhney of Penn South Capital pays $4M for mixed-use in NoMad."
   },
   "items": [
     {
@@ -28,15 +28,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-09-11T15:26:00.000Z"
-    },
-    {
-      "headline": "KKR Pays $608M for 51% Stake in Realty Income European Net-Lease Portfolio",
-      "summary": "Private equity giant KKR is taking a substantial stake in a European net-lease portfolio run by a prominent U.S. real estate investment trust (REIT). KKR announced Monday it has formed a joint venture with Realty Income — a publicly traded REIT specializing in net-lease properties — in which the private equity firm will make a $608 million (or 528 million euro) investment to control 49 percent ownership interest of a 54-property portfolio of industrial and retail assets in Spain, Ireland, Poland and the…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/kkr-51-stake-realty-income-european-net-lease-portfolio/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-14T17:16:48.000Z"
     },
     {
       "headline": "San Francisco Centre Returns to Market at Deep Discount",
@@ -73,15 +64,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-09-09T20:11:04.000Z"
-    },
-    {
-      "headline": "Dermatology Chain LaserAway Adds 15th NYC Location on the Upper East Side",
-      "summary": "Skin care, hair removal and body wellness services provider LaserAway is getting ready to open its 15th New York City location on Manhattan’s Upper East Side, Commercial Observer has learned. LaserAway signed a 10-year lease for 1,800 square feet on the ground floor of a mixed-use property at 242 East 86th Street , according to a source close to the deal. Asking rent was $165 per square foot.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/dermatology-laseraway-lease-upper-east-side/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-01T19:37:26.000Z"
     },
     {
       "headline": "Florida Retail Leaders Put AI and Data at Center",
@@ -138,42 +120,6 @@
       "published_at": "2026-09-03T05:19:11.000Z"
     },
     {
-      "headline": "Related Companies signs $92.4M refi with Deutsche Bank for office, retail in LIC",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/related-companies-signs-92-4m-refi-with-deutsche-bank-for-office-retail-in-lic/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-09-15T14:30:00.000Z"
-    },
-    {
-      "headline": "Stockdale Leads $157M Shopping Center Acquisition in Southern California",
-      "summary": "As more capital returns to brick-and-mortar retail, a Los Angeles-based investment firm has gone east to acquire a shopping center in the Inland Empire. Stockdale Capital Partners and funds managed by Conshohocken, Pa.-based Hamilton Lane put down $157 million for a 378,140-square-foot lifestyle center at 13920 City Center Drive in Chino Hills, Calif., called the Shoppes at Chino Hills . The more than 25-acre property was developed in 2008 and is anchored by Trader Joe’s and Barnes & Noble .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/stockdale-retail-california-chino-hills/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-14T20:00:33.000Z"
-    },
-    {
-      "headline": "J.E. Richards, Maker of Data Center Components, Signs Massive Northern Virginia Lease",
-      "summary": "A commercial electrical contractor and manufacturer based in the greater Washington, D.C., area has signed a massive industrial lease. J.E. Richards , which makes data center components, took all 935,000 square feet at Flint Development ’s 211 Centreport Parkway in Stafford, Va., representing the largest industrial lease ever transacted between the Metro D.C. and D.C.-Richmond corridors, according to landlord broker JLL . J.E.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/je-richards-lease-211-centreport-parkway-virginia/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-14T18:23:30.000Z"
-    },
-    {
-      "headline": "Cohen Brothers Closes Nearly 96K SF in Leases at West Hollywood’s Pacific Design Center",
-      "summary": "Cohen Brothers Realty Corporation of California has signed seven leases totaling nearly 96,000 square feet at the Pacific Design Center ’s Red Building in West Hollywood, Calif., Commercial Observer can first report. The deals add or retain beauty, fashion and technology tenants at the 400,000-square-foot creative office building that is part of the larger 1.6 million-square-foot campus at Melrose Avenue and San Vicente Boulevard.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/cohen-brothers-leases-west-hollywood-pacific-design-center/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-14T18:20:41.000Z"
-    },
-    {
       "headline": "Proskauer Rose law firm adds 2 more floors at 11 Times Square, bringing presence to 478K square feet",
       "summary": "The deal, which included a renewal, raises the firm’s presence to 478,000 square feet in the 1.1 million square-foot tower at the bustling corner of Eighth Avenue and West 42nd Street.",
       "source": "New York Post",
@@ -210,13 +156,13 @@
       "published_at": "2026-09-03T14:21:14.000Z"
     },
     {
-      "headline": "Cricket Training Facility Takes 14K SF Near Bryant Park for First U.S. Location",
-      "summary": "Anyone fancy a game of cricket? Century Cricket Centre , an Australia-based indoor cricket and sports-tech concept, will open its first U.S. location in New York City, having inked a 14,000-square-foot lease at Thor Equities ’ 25 West 39th Street a block south of Bryant Park , tenant broker Lee & Associates NYC announced Tuesday.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/century-cricket-centre-lease-25-west-39th-street/",
-      "section": "commercial_observer",
+      "headline": "Flagg Family Capital signs $7.5M refi with Lightstone Group for retail in SoHo",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/flagg-family-capital-signs-7-5m-refi-with-lightstone-group-for-retail-in-soho/",
+      "section": "pincusco",
       "retail": true,
-      "published_at": "2026-09-01T16:40:58.000Z"
+      "published_at": "2026-09-16T14:41:00.000Z"
     },
     {
       "headline": "Malls are making a shocking comeback — becoming the top performer in commercial real estate",
@@ -237,6 +183,15 @@
       "published_at": "2026-09-14T10:00:43.000Z"
     },
     {
+      "headline": "Market Shifts, New York’s Uniqueness Mean Mamdani’s Grocery Plan Could Work",
+      "summary": "New York Mayor Zohran Mamdani wants to get the city into the subsidized grocery business. As his administration seeks a seasoned partner this fall to run its planned quintet of government-supported grocery stores, strong opposition means it won’t sail through the express checkout lane. Plus, a pair of new lawsuits could stop the scheme faster than you can cancel an Instacart order, and many critics decry the initiative as the first step in a descent into socialism.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/mamdani-grocery-stores-economics-lawsuits/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-15T14:09:20.000Z"
+    },
+    {
       "headline": "Behind the scenes of the giant Italian restaurant, market opening at Grand Central",
       "summary": "Osteria Centrale and Mercato Centrale will open possibly as early as next month.",
       "source": "New York Post",
@@ -246,40 +201,85 @@
       "published_at": "2026-09-13T17:34:28.000Z"
     },
     {
-      "headline": "Aaron Lebovits signs $50.4M construction loan with Ponce for development in Sunnyside",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/aaron-lebovits-signs-50-4m-construction-loan-with-ponce-for-development-in-sunnyside/",
-      "section": "pincusco",
+      "headline": "NYC co-op in hot water over $30M parking lot sale after $16M in reserves allegedly vanishes",
+      "summary": "Village View resident Sebastian Kot alleges years of governance problems, including missing or inaccurate meeting minutes, and conflicting financial disclosures.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/15/real-estate/nyc-co-op-faces-court-battle-over-30m-parking-lot-sale/",
+      "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-09-15T14:34:00.000Z"
+      "published_at": "2026-09-15T19:11:56.000Z"
     },
     {
-      "headline": "Nonprofit StartCare signs $6.3M loan with TruFund for office in East Harlem",
+      "headline": "Hing Kong pays $2.3M to Maverick Real Estate Partners for mixed-use in Flushing",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/nonprofit-startcare-signs-6-3m-loan-with-trufund-for-office-in-east-harlem/",
+      "url": "https://www.pincusco.com/hing-kong-pays-2-3m-to-maverick-real-estate-partners-for-mixed-use-in-flushing/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-15T13:53:00.000Z"
+      "published_at": "2026-09-16T14:45:00.000Z"
     },
     {
-      "headline": "Michael Lee pays $2.2M for mixed-use in Astoria",
+      "headline": "Joseph Heimann obtains $25M refi with OptimumBank for office in Bedford Stuyvesant",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/michael-lee-pays-2-2m-for-mixed-use-in-astoria/",
+      "url": "https://www.pincusco.com/joseph-heimann-obtains-25m-refi-with-optimumbank-for-office-in-bedford-stuyvesant/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-15T14:23:00.000Z"
+      "published_at": "2026-09-16T14:39:00.000Z"
     },
     {
-      "headline": "Hammock Development files plans for 7 units in Greenwich Village",
+      "headline": "Parag Sawhney of Penn South Capital pays $4M for mixed-use in NoMad",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/hammock-development-files-plans-for-7-units-in-greenwich-village/",
+      "url": "https://www.pincusco.com/parag-sawhney-of-penn-south-capital-pays-4m-for-mixed-use-in-nomad/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-15T13:47:00.000Z"
+      "published_at": "2026-09-16T14:23:00.000Z"
+    },
+    {
+      "headline": "Ascenterra Development pays $5M for condo conversion in Park Slope",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/ascenterra-development-pays-5m-for-condo-conversion-in-park-slope/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-16T14:20:00.000Z"
+    },
+    {
+      "headline": "Billion-Dollar Blockbusters Won’t Revive L.A.’s Film Industry",
+      "summary": "Hollywood, or at least some aspect of it, had a summer. Between massive box office performances from “The Odyssey” (partially shot in Los Angeles), “Spider-Man: Brand New Day” and “Obsession,” the industry appears to have recaptured some of its cultural magnetism and moneymaking ways. Adjusted for inflation, the movie industry’s $4.76 billion summer ticket haul represented a 26 percent jump from the summer of 2025.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/billion-dollar-blockbusters-los-angeles-sounstages-studios-challenges/",
+      "section": "commercial_observer",
+      "retail": false,
+      "published_at": "2026-09-15T11:43:13.000Z"
+    },
+    {
+      "headline": "Center Street Capital pays $3.2M to Brooklyn Standard Properties for residential walkup in Greenpoint",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/center-street-capital-pays-3-2m-to-brooklyn-standard-properties-for-residential-walkup-in-greenpoint/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-16T14:36:00.000Z"
+    },
+    {
+      "headline": "NYC outskirts crowd out top 6 in America’s 20 Best Suburbs ranking",
+      "summary": "Where do New Yorkers go after the rat race is won?",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/14/real-estate/americas-best-suburbs-list-puts-nyc-outskirts-on-top/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-09-14T17:25:51.000Z"
+    },
+    {
+      "headline": "Eric Nelson signs $9.3M refi with Peapack for three walkups in SoHo",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/eric-nelson-signs-9-3m-refi-with-peapack-for-three-walkups-in-soho/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-16T14:35:00.000Z"
     }
   ]
 }
