@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-09-17",
-  "generated_at": "2026-09-17T14:50:15.178Z",
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T14:19:50.349Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Women’s Clothing Store Esti’s Takes 8K SF at 2263 Nostrand Avenue in Midwood: High-end women’s clothing store Esti’s is relocating to a new mixed-use development in Midwood, Brooklyn, Commercial Observer has learned. The longtime retailer’s 7,800-square-foot lease at 2263 Nostrand Avenue was signed on Tuesday.\n\nMunicipal Credit Union Signs 6K-SF Lease for New Branch at 162-15 Jamaica Avenue: Municipal Credit Union (MCU) has signed a lease to open a new retail branch in Jamaica, Queens, Commercial Observer has learned. The not-for-profit credit union, which has locations citywide and caters only to New York City residents, signed a 15-year, roughly 6,000-square-foot lease at Michael Rosilio ’s 162-15.\n\nHibachi Eatery Bijin Omakase Signs 5K-SF Lease in Long Island City: A hibachi restaurant is igniting the burner in Long Island City, Queens. Bijin Omakase signed a 15-year, 5,077-square-foot lease at the base of Trio , a nine-story, 34-unit residential development owned by ZD Jasper Realty at 27-19 Thomson Avenue near where the thoroughfare meets popular Jackson Avenue, according to.\n\nDongbei Chinese Restaurant & Bar Inks Deal at 63 Cooper Square: Dongbei Chinese Restaurant & Bar is opening its fourth location in New York City and its fifth overall, Commercial Observer has learned. The growing Northern Chinese dining concept signed a 2,000-square-foot lease at 63 Cooper Square , an East Village property owned by Matthew Rettner , according to landlord broker.",
     "cre_daily": "San Francisco Centre Returns to Market at Deep Discount: San Francisco Centre is back for sale after closing earlier this year and losing a proposed redevelopment buyer in July. Brokers expect bids of no more than $130M, far below the mall’s $1.2B valuation from a decade ago.\n\nMall Values Jump 13% as Retail Recovery Accelerates: Green Street says mall values increased 13% over the past year, the strongest gain among 10 commercial property sectors. Limited new supply, resilient consumer spending and tenant upgrades have supported occupancy, rent growth and investor interest.\n\nFlorida Retail Leaders Put AI and Data at Center: AI and real-time data are becoming everyday tools for site selection, leasing, marketing, research, and operations. High construction costs and tight vacancy are increasing the focus on adaptive reuse, second-generation space, and flexible activation strategies.\n\nRestaurant Traffic Falls 2.4% Across US in August: US dining visits fell 2.4% year over year in August, reversing gradual improvement recorded in June and July. Overall retail visits still rose 0.3%, but growth slowed sharply from 1.7% in July.",
-    "new_york_post": "Historic NYC synagogue and longtime home for pioneering artists asks $11M — with stunning architectural details intact: 80 Forsyth St. has listed for $10.95M, complete with a former mikvah, paint-splattered floors and 10,000 square feet of air rights.\n\nWealthy ‘Roblox’ widow bought $16M love nest for escort who allegedly scammed her: The landmark townhouse occupies over 11,600 square feet and offers 12 bedrooms and nine bathrooms.\n\nMalls are making a shocking comeback — becoming the top performer in commercial real estate: The values of these shopping centers shot up 13% in the past year alone.\n\nNYC co-op in hot water over $30M parking lot sale after $16M in reserves allegedly vanishes: Village View resident Sebastian Kot alleges years of governance problems, including missing or inaccurate meeting minutes, and conflicting financial disclosures.",
-    "pincusco": "Flagg Family Capital signs $7.5M refi with Lightstone Group for retail in SoHo.\n\nMenghang Chen pays $2.8M for office in Corona from family of the late Serge Hoyda.\n\nLender Acore Capital acquires office properties in Hell’s Kitchen from Georgetown, Beacon, for $60M debt.\n\nHing Kong pays $2.3M to Maverick Real Estate Partners for mixed-use in Flushing."
+    "new_york_post": "Historic NYC synagogue and longtime home for pioneering artists asks $11M — with stunning architectural details intact: 80 Forsyth St. has listed for $10.95M, complete with a former mikvah, paint-splattered floors and 10,000 square feet of air rights.\n\nWealthy ‘Roblox’ widow bought $16M love nest for escort who allegedly scammed her: The landmark townhouse occupies over 11,600 square feet and offers 12 bedrooms and nine bathrooms.\n\nNYC co-op in hot water over $30M parking lot sale after $16M in reserves allegedly vanishes: Village View resident Sebastian Kot alleges years of governance problems, including missing or inaccurate meeting minutes, and conflicting financial disclosures.\n\nGen Zers are fleeing NYC faster than any other US metro — flocking to a city just 90 miles away: New York recorded the nation’s largest net outflow of both Gen Zers and millennials, as younger residents sought cheaper housing and more space elsewhere.",
+    "pincusco": "Patoma Inc. signs $5.5M construction loan with Derby Copeland for 6-unit project in Alphabet City.\n\nMarco alKada pays $4M for mixed-use in Borough Park.\n\nMenghang Chen pays $2.8M for office in Corona from family of the late Serge Hoyda.\n\nHabitat Living NYC pays $3.7M for redevelopment property in Boerum Hill."
   },
   "items": [
     {
@@ -93,15 +93,6 @@
       "published_at": "2026-09-10T06:10:40.000Z"
     },
     {
-      "headline": "Spirit Halloween Turns Retail Vacancies into Seasonal Wins",
-      "summary": "Spirit Halloween opens roughly 1,500 temporary stores annually through a specialized leasing operation targeting vacant retail space. Flexible termination clauses let landlords collect temporary rent while preserving opportunities to sign permanent tenants. The strategy shows how pop-up retail can monetize downtime, especially when bankrupt chains leave usable big-box locations behind.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/spirit-halloween-turns-retail-vacancies-into-seasonal-wins/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-09-04T08:14:48.000Z"
-    },
-    {
       "headline": "Shorenstein to Buy Fully Leased SoHo Office Property From Tishman Speyer",
       "summary": "Tishman Speyer is selling the 12-story, 155,000-square-foot office building at 148 Lafayette Street in SoHo, at the corner of Lafayette and Howard streets, to Shorenstein Properties for around $135 million. The Real Deal was first to report the sale . The deal was repped by Newmark ‘s Adam Spies , Doug Harmon, Adam Doneger , Marcella Fasulo, Avery Silverstein and Joshua King .…",
       "source": "Commercial Observer",
@@ -111,15 +102,6 @@
       "published_at": "2026-09-17T13:49:51.000Z"
     },
     {
-      "headline": "Nearwater Management Takes 38K SF at SL Green’s 245 Park Avenue",
-      "summary": "Nearwater Management did not have to look far for a new office. The asset management firm is moving within SL Green Realty ’s portfolio from One Vanderbilt to 37,563 square feet on the entire 28th floor at 245 Park Avenue on an eight-year lease, according to the real estate investment trust (REIT). The two buildings are about four blocks apart.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/nearwater-lease-sl-green-245-park-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-16T17:09:13.000Z"
-    },
-    {
       "headline": "Digital Financial Services Firm Zip Takes 13K SF at Rudin’s 41 Madison Avenue",
       "summary": "Zip , a digital banking company, is relocating to a new office space, Commercial Observer has learned. The firm, which specializes in credit and payment services, will move in April 2027 to Rudin ’s 41 Madison Avenue in NoMad, where it will occupy 13,394 square feet across the entire 18th floor, according to the landlord. It’s unclear where Zip is moving from.…",
       "source": "Commercial Observer",
@@ -127,24 +109,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-09-17T13:30:49.000Z"
-    },
-    {
-      "headline": "Law Firm Greenberg Traurig Expands to 133K SF at One Vanderbilt",
-      "summary": "Law firm Greenberg Traurig has no objections to its Midtown offices at One Vanderbilt — in fact, it’s taking even more space there. The law firm, which provides legal services to businesses, financial institutions and high-profile individuals, has signed a 10.5-year lease for 33,477 additional square feet on the entire 33rd floor of SL Green Realty ’s trophy high-rise at 1 Vanderbilt Avenue , according to the landlord. The lease brings Greenberg’s total office footprint at the skyscraper to 133,365 square feet.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/greenberg-traurig-lease-expansion-one-vanderbilt/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-16T18:39:19.000Z"
-    },
-    {
-      "headline": "IMG Worldwide Renews 90K SF at SL Green’s 304 Park Avenue South",
-      "summary": "Global talent agency IMG Worldwide has renewed a 90,202-square-foot slice of its office lease at 304 Park Avenue South between East 22nd and East 23rd Streets in Midtown South. IMG arrived at SL Green Realty ’s 12-story office building in 2008, according to CoStar Group . Its last reported expansion in 2016 saw the company occupy seven stories there, with its footprint growing to 130,655 square feet inside the 210,000-square-foot building.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/img-worldwide-lease-renewal-304-park-avenue-south/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-16T17:31:20.000Z"
     },
     {
       "headline": "Historic NYC synagogue and longtime home for pioneering artists asks $11M — with stunning architectural details intact",
@@ -174,6 +138,24 @@
       "published_at": "2026-09-10T17:19:54.000Z"
     },
     {
+      "headline": "Wellness Tenants Emerge as New Retail Traffic Anchors",
+      "summary": "Fitness, recovery, spa, and health concepts are increasingly functioning as primary traffic anchors for retail properties. Health and beauty locations have nearly doubled since 2018, expanding at an 8.4% annual rate, according to Newmark. Recurring memberships, frequent visits, and hospitality-driven design are strengthening the real estate case for wellness tenants. Key Takeaways Health and wellness concepts are moving from niche tenants to primary retail traffic drivers, Newmark wrote.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/wellness-tenants-emerge-as-new-retail-traffic-anchors/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-09-18T07:08:41.000Z"
+    },
+    {
+      "headline": "Juanita’s Foods to Consolidate L.A. Production at 120K-SF Facility",
+      "summary": "An 80-year-old food manufacturer is consolidating its Southern California operations into a new 120,000-square-foot facility in Santa Fe Springs, in the first deal backed by a recently formed alliance of four Los Angeles County industrial cities. Juanita’s Foods will move production from its longtime Wilmington plant to 13100 Arctic Circle in Santa Fe Springs. The deal includes an incentives agreement as well as expedited permitting via the four-city partnership.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/juanitas-foods-la-lease/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-17T19:25:26.000Z"
+    },
+    {
       "headline": "Wealthy ‘Roblox’ widow bought $16M love nest for escort who allegedly scammed her",
       "summary": "The landmark townhouse occupies over 11,600 square feet and offers 12 bedrooms and nine bathrooms.",
       "source": "New York Post",
@@ -183,34 +165,7 @@
       "published_at": "2026-09-16T18:04:49.000Z"
     },
     {
-      "headline": "Watch Brand Fossil Renews 15K-SF Showroom Lease at 366 Fifth Avenue",
-      "summary": "A well-known watch brand is renewing its Midtown showroom, Commercial Observer has learned. Fossil , which sells affordable watches and accessories, has signed a renewal for the 14,786 square feet it occupies on the entire second floor of Joseph P. Day Realty ’s 366 Fifth Avenue along East 35th Street, according to tenant broker CBRE .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/fossil-lease-renewal-366-fifth-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-16T15:04:37.000Z"
-    },
-    {
-      "headline": "Flagg Family Capital signs $7.5M refi with Lightstone Group for retail in SoHo",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/flagg-family-capital-signs-7-5m-refi-with-lightstone-group-for-retail-in-soho/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-09-16T14:41:00.000Z"
-    },
-    {
-      "headline": "Malls are making a shocking comeback — becoming the top performer in commercial real estate",
-      "summary": "The values of these shopping centers shot up 13% in the past year alone.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/14/real-estate/malls-are-making-a-comeback/",
-      "section": "new_york_post",
-      "retail": true,
-      "published_at": "2026-09-14T20:08:08.000Z"
-    },
-    {
-      "headline": "In Los Angeles-Area Retail, a Widening Divide",
+      "headline": "In Los Angeles Retail, a Widening Divide",
       "summary": "Los Angeles remains a locale that runs on ambition and the pursuit of opportunity. But a significant bifurcation is taking place. Increasingly, the marketplace for retail real estate has significantly split between those benefiting from buoyant dynamics and tenants whose small business dreams are starting to evaporate.…",
       "source": "Commercial Observer",
       "url": "https://commercialobserver.com/2026/09/los-angeles-retail-ice-rents-security/",
@@ -228,6 +183,15 @@
       "published_at": "2026-09-15T14:09:20.000Z"
     },
     {
+      "headline": "Patoma Inc. signs $5.5M construction loan with Derby Copeland for 6-unit project in Alphabet City",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/patoma-inc-signs-5-5m-construction-loan-with-derby-copeland-for-6-unit-project-in-alphabet-city/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-17T15:17:00.000Z"
+    },
+    {
       "headline": "NYC co-op in hot water over $30M parking lot sale after $16M in reserves allegedly vanishes",
       "summary": "Village View resident Sebastian Kot alleges years of governance problems, including missing or inaccurate meeting minutes, and conflicting financial disclosures.",
       "source": "New York Post",
@@ -235,6 +199,15 @@
       "section": "new_york_post",
       "retail": false,
       "published_at": "2026-09-15T19:11:56.000Z"
+    },
+    {
+      "headline": "Marco alKada pays $4M for mixed-use in Borough Park",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/marco-alkada-pays-4m-for-mixed-use-in-borough-park/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-17T15:11:00.000Z"
     },
     {
       "headline": "Menghang Chen pays $2.8M for office in Corona from family of the late Serge Hoyda",
@@ -246,24 +219,6 @@
       "published_at": "2026-09-17T12:10:00.000Z"
     },
     {
-      "headline": "Lender Acore Capital acquires office properties in Hell’s Kitchen from Georgetown, Beacon, for $60M debt",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/lender-acore-capital-acquires-office-properties-in-hells-kitchen-from-georgetown-beacon-for-60m-debt/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-17T11:36:00.000Z"
-    },
-    {
-      "headline": "Hing Kong pays $2.3M to Maverick Real Estate Partners for mixed-use in Flushing",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/hing-kong-pays-2-3m-to-maverick-real-estate-partners-for-mixed-use-in-flushing/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-16T14:45:00.000Z"
-    },
-    {
       "headline": "Billion-Dollar Blockbusters Won’t Revive L.A.’s Film Industry",
       "summary": "Hollywood, or at least some aspect of it, had a summer. Between massive box office performances from “The Odyssey” (partially shot in Los Angeles), “Spider-Man: Brand New Day” and “Obsession,” the industry appears to have recaptured some of its cultural magnetism and moneymaking ways. Adjusted for inflation, the movie industry’s $4.76 billion summer ticket haul represented a 26 percent jump from the summer of 2025.…",
       "source": "Commercial Observer",
@@ -273,6 +228,15 @@
       "published_at": "2026-09-15T11:43:13.000Z"
     },
     {
+      "headline": "Gen Zers are fleeing NYC faster than any other US metro — flocking to a city just 90 miles away",
+      "summary": "New York recorded the nation’s largest net outflow of both Gen Zers and millennials, as younger residents sought cheaper housing and more space elsewhere.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/17/real-estate/gen-zers-are-fleeing-nyc-faster-than-any-other-us-metro/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-09-17T18:58:16.000Z"
+    },
+    {
       "headline": "Habitat Living NYC pays $3.7M for redevelopment property in Boerum Hill",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
@@ -280,6 +244,42 @@
       "section": "pincusco",
       "retail": false,
       "published_at": "2026-09-17T13:35:00.000Z"
+    },
+    {
+      "headline": "More than 1 in 5 NYC homes are selling in bidding wars — with prime Brooklyn nabe at the center of the frenzy",
+      "summary": "Bidding wars are back in New York City — and Brooklyn is ground zero, according to StreetEasy.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/16/real-estate/more-than-1-in-5-nyc-homes-are-selling-in-bidding-wars/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-09-16T20:47:17.000Z"
+    },
+    {
+      "headline": "Lower Manhattan Has Become a Model for Other Urban Centers — Including Midtown",
+      "summary": "The transformation of Lower Manhattan was underway even before the Sept. 11 attacks 25 years ago. Still, given the scale of the tragedy, the area’s commercial real estate and demographic shifts are often defined with 9/11 as the starting point. Not so. The Financial District in particular was already undergoing a huge transformation, and industry leaders would follow through with creating what would become a diversified local economy, rather than one that simply served the needs of global trade, regardless of the…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/lower-manhattan-resurgence-post-911/",
+      "section": "commercial_observer",
+      "retail": false,
+      "published_at": "2026-09-08T10:15:14.000Z"
+    },
+    {
+      "headline": "Sunday Summary: Sharp Left",
+      "summary": "Summer’s done, and the hustle of fall will soon be upon us. Part of the background noise of the season will be the elections for state and federal legislatures. That includes the New York State Senate and Assembly. Those august Albany chambers are about to absorb a relatively large number of Democratic Socialists — and their allies — in the same vein as New York Mayor Zohran Mamdani. That could have serious ramifications for commercial real estate .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/sunday-summary-sharp-left/",
+      "section": "commercial_observer",
+      "retail": false,
+      "published_at": "2026-09-06T13:00:56.000Z"
+    },
+    {
+      "headline": "National Black Theatre pays $10.5M to L+M for theater in Harlem",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/national-black-theatre-pays-10-5m-to-lm-for-theater-in-harlem/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-18T04:00:00.000Z"
     }
   ]
 }
