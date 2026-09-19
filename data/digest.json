@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-09-18",
-  "generated_at": "2026-09-18T14:19:50.349Z",
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T13:51:16.950Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Women’s Clothing Store Esti’s Takes 8K SF at 2263 Nostrand Avenue in Midwood: High-end women’s clothing store Esti’s is relocating to a new mixed-use development in Midwood, Brooklyn, Commercial Observer has learned. The longtime retailer’s 7,800-square-foot lease at 2263 Nostrand Avenue was signed on Tuesday.\n\nMunicipal Credit Union Signs 6K-SF Lease for New Branch at 162-15 Jamaica Avenue: Municipal Credit Union (MCU) has signed a lease to open a new retail branch in Jamaica, Queens, Commercial Observer has learned. The not-for-profit credit union, which has locations citywide and caters only to New York City residents, signed a 15-year, roughly 6,000-square-foot lease at Michael Rosilio ’s 162-15.\n\nHibachi Eatery Bijin Omakase Signs 5K-SF Lease in Long Island City: A hibachi restaurant is igniting the burner in Long Island City, Queens. Bijin Omakase signed a 15-year, 5,077-square-foot lease at the base of Trio , a nine-story, 34-unit residential development owned by ZD Jasper Realty at 27-19 Thomson Avenue near where the thoroughfare meets popular Jackson Avenue, according to.\n\nDongbei Chinese Restaurant & Bar Inks Deal at 63 Cooper Square: Dongbei Chinese Restaurant & Bar is opening its fourth location in New York City and its fifth overall, Commercial Observer has learned. The growing Northern Chinese dining concept signed a 2,000-square-foot lease at 63 Cooper Square , an East Village property owned by Matthew Rettner , according to landlord broker.",
     "cre_daily": "San Francisco Centre Returns to Market at Deep Discount: San Francisco Centre is back for sale after closing earlier this year and losing a proposed redevelopment buyer in July. Brokers expect bids of no more than $130M, far below the mall’s $1.2B valuation from a decade ago.\n\nMall Values Jump 13% as Retail Recovery Accelerates: Green Street says mall values increased 13% over the past year, the strongest gain among 10 commercial property sectors. Limited new supply, resilient consumer spending and tenant upgrades have supported occupancy, rent growth and investor interest.\n\nFlorida Retail Leaders Put AI and Data at Center: AI and real-time data are becoming everyday tools for site selection, leasing, marketing, research, and operations. High construction costs and tight vacancy are increasing the focus on adaptive reuse, second-generation space, and flexible activation strategies.\n\nRestaurant Traffic Falls 2.4% Across US in August: US dining visits fell 2.4% year over year in August, reversing gradual improvement recorded in June and July. Overall retail visits still rose 0.3%, but growth slowed sharply from 1.7% in July.",
-    "new_york_post": "Historic NYC synagogue and longtime home for pioneering artists asks $11M — with stunning architectural details intact: 80 Forsyth St. has listed for $10.95M, complete with a former mikvah, paint-splattered floors and 10,000 square feet of air rights.\n\nWealthy ‘Roblox’ widow bought $16M love nest for escort who allegedly scammed her: The landmark townhouse occupies over 11,600 square feet and offers 12 bedrooms and nine bathrooms.\n\nNYC co-op in hot water over $30M parking lot sale after $16M in reserves allegedly vanishes: Village View resident Sebastian Kot alleges years of governance problems, including missing or inaccurate meeting minutes, and conflicting financial disclosures.\n\nGen Zers are fleeing NYC faster than any other US metro — flocking to a city just 90 miles away: New York recorded the nation’s largest net outflow of both Gen Zers and millennials, as younger residents sought cheaper housing and more space elsewhere.",
-    "pincusco": "Patoma Inc. signs $5.5M construction loan with Derby Copeland for 6-unit project in Alphabet City.\n\nMarco alKada pays $4M for mixed-use in Borough Park.\n\nMenghang Chen pays $2.8M for office in Corona from family of the late Serge Hoyda.\n\nHabitat Living NYC pays $3.7M for redevelopment property in Boerum Hill."
+    "new_york_post": "Historic NYC synagogue and longtime home for pioneering artists asks $11M — with stunning architectural details intact: 80 Forsyth St. has listed for $10.95M, complete with a former mikvah, paint-splattered floors and 10,000 square feet of air rights.\n\nWealthy ‘Roblox’ widow bought $16M love nest for escort who allegedly scammed her: The landmark townhouse occupies over 11,600 square feet and offers 12 bedrooms and nine bathrooms.\n\nFormer Disney CEO Michael Eisner grabs $10M NYC home — after ditching the embattled Pierre hotel: The longtime executive moved a block away after facing the possibility of losing his home as the iconic hotel.\n\nGen Zers are fleeing NYC faster than any other US metro — flocking to a city just 90 miles away: New York recorded the nation’s largest net outflow of both Gen Zers and millennials, as younger residents sought cheaper housing and more space elsewhere.",
+    "pincusco": "RFR pays $57M to J. Safra for retail in Lenox Hill, borrows $40M from Blue Owl.\n\nJCS Realty Group signs $95.6M ground lease for 495-unit dev site in LIC, in two-part deal.\n\nInfinity Management files plans for 38 units in Williamsbridge.\n\nShulem Rabi files plans for 24 units in Jamaica."
   },
   "items": [
     {
@@ -93,22 +93,22 @@
       "published_at": "2026-09-10T06:10:40.000Z"
     },
     {
-      "headline": "Shorenstein to Buy Fully Leased SoHo Office Property From Tishman Speyer",
-      "summary": "Tishman Speyer is selling the 12-story, 155,000-square-foot office building at 148 Lafayette Street in SoHo, at the corner of Lafayette and Howard streets, to Shorenstein Properties for around $135 million. The Real Deal was first to report the sale . The deal was repped by Newmark ‘s Adam Spies , Doug Harmon, Adam Doneger , Marcella Fasulo, Avery Silverstein and Joshua King .…",
+      "headline": "Asian-American Deli Café Hestia Signs 8K-SF Lease at 570 Lexington Avenue",
+      "summary": "A cafe serving Asian and American cuisine is opening a fourth Manhattan location, Commercial Observer has learned. Café Hestia , a group of family-run delis, has signed a 20-year, 8,000-square-foot lease at the base of the Feil Organization ’s 570 Lexington Avenue , which it will likely also use as a catering facility, according to tenant broker Kassin Sabbagh Realty (KSR).…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/shorenstein-buy-fully-leased-soho-office-property-tishman-speyer/",
+      "url": "https://commercialobserver.com/2026/09/cafe-hestia-lease-570-lexington-avenue/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-09-17T13:49:51.000Z"
+      "published_at": "2026-09-18T19:30:09.000Z"
     },
     {
-      "headline": "Digital Financial Services Firm Zip Takes 13K SF at Rudin’s 41 Madison Avenue",
-      "summary": "Zip , a digital banking company, is relocating to a new office space, Commercial Observer has learned. The firm, which specializes in credit and payment services, will move in April 2027 to Rudin ’s 41 Madison Avenue in NoMad, where it will occupy 13,394 square feet across the entire 18th floor, according to the landlord. It’s unclear where Zip is moving from.…",
+      "headline": "Stroller Brand Uppababy Relocates Store to 156 Montague Street in Brooklyn Heights",
+      "summary": "Known for its distinctive strollers, baby gear brand Uppababy is relocating its store within Brooklyn, Commercial Observer has learned. The high-end baby accessories brand is opening a 3,780-square-foot brick-and-mortar location at Owen Realty ’s 156 Montague Street in Brooklyn Heights, according to broker JLL . Uppababy will move next year from 90 Smith Street in Cobble Hill, where it established its Brooklyn retail and service “hub” in about 2019.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/zip-lease-rudin-41-madison-avenue/",
+      "url": "https://commercialobserver.com/2026/09/uppababy-lease-156-montague-street-brooklyn/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-09-17T13:30:49.000Z"
+      "published_at": "2026-09-18T16:03:03.000Z"
     },
     {
       "headline": "Historic NYC synagogue and longtime home for pioneering artists asks $11M — with stunning architectural details intact",
@@ -136,6 +136,24 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-09-10T17:19:54.000Z"
+    },
+    {
+      "headline": "RFR pays $57M to J. Safra for retail in Lenox Hill, borrows $40M from Blue Owl",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/rfr-holding-pays-57m-to-j-safra-real-estate-for-retail-in-lenox-hill/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-09-18T14:25:00.000Z"
+    },
+    {
+      "headline": "JCS Realty Group signs $95.6M ground lease for 495-unit dev site in LIC, in two-part deal",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/jcs-realty-group-signs-95-6m-ground-lease-for-495-unit-dev-site-in-lic-in-two-part-deal/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-09-18T14:19:00.000Z"
     },
     {
       "headline": "Wellness Tenants Emerge as New Retail Traffic Anchors",
@@ -183,40 +201,67 @@
       "published_at": "2026-09-15T14:09:20.000Z"
     },
     {
-      "headline": "Patoma Inc. signs $5.5M construction loan with Derby Copeland for 6-unit project in Alphabet City",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/patoma-inc-signs-5-5m-construction-loan-with-derby-copeland-for-6-unit-project-in-alphabet-city/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-17T15:17:00.000Z"
-    },
-    {
-      "headline": "NYC co-op in hot water over $30M parking lot sale after $16M in reserves allegedly vanishes",
-      "summary": "Village View resident Sebastian Kot alleges years of governance problems, including missing or inaccurate meeting minutes, and conflicting financial disclosures.",
+      "headline": "Former Disney CEO Michael Eisner grabs $10M NYC home — after ditching the embattled Pierre hotel",
+      "summary": "The longtime executive moved a block away after facing the possibility of losing his home as the iconic hotel.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/09/15/real-estate/nyc-co-op-faces-court-battle-over-30m-parking-lot-sale/",
+      "url": "https://nypost.com/2026/09/18/real-estate/michael-eisner-buys-10m-apartment-amid-pierre-drama/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-09-15T19:11:56.000Z"
+      "published_at": "2026-09-18T17:23:54.000Z"
     },
     {
-      "headline": "Marco alKada pays $4M for mixed-use in Borough Park",
+      "headline": "Infinity Management files plans for 38 units in Williamsbridge",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/marco-alkada-pays-4m-for-mixed-use-in-borough-park/",
+      "url": "https://www.pincusco.com/infinity-management-files-plans-for-38-units-in-williamsbridge/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-17T15:11:00.000Z"
+      "published_at": "2026-09-18T15:42:00.000Z"
     },
     {
-      "headline": "Menghang Chen pays $2.8M for office in Corona from family of the late Serge Hoyda",
+      "headline": "Shulem Rabi files plans for 24 units in Jamaica",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/menghang-chen-pays-2-8m-for-office-in-corona-from-family-of-the-late-serge-hoyda/",
+      "url": "https://www.pincusco.com/shulem-rabi-files-plans-for-24-units-in-jamaica/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-17T12:10:00.000Z"
+      "published_at": "2026-09-18T15:32:00.000Z"
+    },
+    {
+      "headline": "Burnett Equities signs $95.6M refi with Bank7 for hotel in Penn Plaza",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/burnett-equities-signs-95-6m-refi-with-bank7-for-hotel-in-penn-plaza/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-18T15:26:00.000Z"
+    },
+    {
+      "headline": "Clinton Oh pays $2.9M for mixed-use in Greenpoint",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/clinton-oh-pays-2-9m-for-mixed-use-in-greenpoint/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-18T15:17:00.000Z"
+    },
+    {
+      "headline": "HHM Hotels signs $50M refi with M&T Bank for hotel in Midtown East",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/hhm-hotels-signs-50m-refi-with-mt-bank-for-hotel-in-midtown-east/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-18T15:13:00.000Z"
+    },
+    {
+      "headline": "Westbridge Realty Group signs $36M loan with Popular Bank for 99-unit dev site in Brownsville",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/westbridge-realty-group-signs-36m-loan-with-popular-bank-for-99-unit-dev-site-in-brownsville/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-18T15:03:00.000Z"
     },
     {
       "headline": "Billion-Dollar Blockbusters Won’t Revive L.A.’s Film Industry",
@@ -235,51 +280,6 @@
       "section": "new_york_post",
       "retail": false,
       "published_at": "2026-09-17T18:58:16.000Z"
-    },
-    {
-      "headline": "Habitat Living NYC pays $3.7M for redevelopment property in Boerum Hill",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/habitat-living-nyc-pays-3-7m-for-3-family-in-boerum-hill/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-17T13:35:00.000Z"
-    },
-    {
-      "headline": "More than 1 in 5 NYC homes are selling in bidding wars — with prime Brooklyn nabe at the center of the frenzy",
-      "summary": "Bidding wars are back in New York City — and Brooklyn is ground zero, according to StreetEasy.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/16/real-estate/more-than-1-in-5-nyc-homes-are-selling-in-bidding-wars/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-09-16T20:47:17.000Z"
-    },
-    {
-      "headline": "Lower Manhattan Has Become a Model for Other Urban Centers — Including Midtown",
-      "summary": "The transformation of Lower Manhattan was underway even before the Sept. 11 attacks 25 years ago. Still, given the scale of the tragedy, the area’s commercial real estate and demographic shifts are often defined with 9/11 as the starting point. Not so. The Financial District in particular was already undergoing a huge transformation, and industry leaders would follow through with creating what would become a diversified local economy, rather than one that simply served the needs of global trade, regardless of the…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/lower-manhattan-resurgence-post-911/",
-      "section": "commercial_observer",
-      "retail": false,
-      "published_at": "2026-09-08T10:15:14.000Z"
-    },
-    {
-      "headline": "Sunday Summary: Sharp Left",
-      "summary": "Summer’s done, and the hustle of fall will soon be upon us. Part of the background noise of the season will be the elections for state and federal legislatures. That includes the New York State Senate and Assembly. Those august Albany chambers are about to absorb a relatively large number of Democratic Socialists — and their allies — in the same vein as New York Mayor Zohran Mamdani. That could have serious ramifications for commercial real estate .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/sunday-summary-sharp-left/",
-      "section": "commercial_observer",
-      "retail": false,
-      "published_at": "2026-09-06T13:00:56.000Z"
-    },
-    {
-      "headline": "National Black Theatre pays $10.5M to L+M for theater in Harlem",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/national-black-theatre-pays-10-5m-to-lm-for-theater-in-harlem/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-18T04:00:00.000Z"
     }
   ]
 }
