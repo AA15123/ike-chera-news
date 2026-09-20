@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-09-19",
-  "generated_at": "2026-09-19T13:51:16.950Z",
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T14:05:10.443Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Women’s Clothing Store Esti’s Takes 8K SF at 2263 Nostrand Avenue in Midwood: High-end women’s clothing store Esti’s is relocating to a new mixed-use development in Midwood, Brooklyn, Commercial Observer has learned. The longtime retailer’s 7,800-square-foot lease at 2263 Nostrand Avenue was signed on Tuesday.\n\nMunicipal Credit Union Signs 6K-SF Lease for New Branch at 162-15 Jamaica Avenue: Municipal Credit Union (MCU) has signed a lease to open a new retail branch in Jamaica, Queens, Commercial Observer has learned. The not-for-profit credit union, which has locations citywide and caters only to New York City residents, signed a 15-year, roughly 6,000-square-foot lease at Michael Rosilio ’s 162-15.\n\nHibachi Eatery Bijin Omakase Signs 5K-SF Lease in Long Island City: A hibachi restaurant is igniting the burner in Long Island City, Queens. Bijin Omakase signed a 15-year, 5,077-square-foot lease at the base of Trio , a nine-story, 34-unit residential development owned by ZD Jasper Realty at 27-19 Thomson Avenue near where the thoroughfare meets popular Jackson Avenue, according to.\n\nDongbei Chinese Restaurant & Bar Inks Deal at 63 Cooper Square: Dongbei Chinese Restaurant & Bar is opening its fourth location in New York City and its fifth overall, Commercial Observer has learned. The growing Northern Chinese dining concept signed a 2,000-square-foot lease at 63 Cooper Square , an East Village property owned by Matthew Rettner , according to landlord broker.",
     "cre_daily": "San Francisco Centre Returns to Market at Deep Discount: San Francisco Centre is back for sale after closing earlier this year and losing a proposed redevelopment buyer in July. Brokers expect bids of no more than $130M, far below the mall’s $1.2B valuation from a decade ago.\n\nMall Values Jump 13% as Retail Recovery Accelerates: Green Street says mall values increased 13% over the past year, the strongest gain among 10 commercial property sectors. Limited new supply, resilient consumer spending and tenant upgrades have supported occupancy, rent growth and investor interest.\n\nFlorida Retail Leaders Put AI and Data at Center: AI and real-time data are becoming everyday tools for site selection, leasing, marketing, research, and operations. High construction costs and tight vacancy are increasing the focus on adaptive reuse, second-generation space, and flexible activation strategies.\n\nRestaurant Traffic Falls 2.4% Across US in August: US dining visits fell 2.4% year over year in August, reversing gradual improvement recorded in June and July. Overall retail visits still rose 0.3%, but growth slowed sharply from 1.7% in July.",
     "new_york_post": "Historic NYC synagogue and longtime home for pioneering artists asks $11M — with stunning architectural details intact: 80 Forsyth St. has listed for $10.95M, complete with a former mikvah, paint-splattered floors and 10,000 square feet of air rights.\n\nWealthy ‘Roblox’ widow bought $16M love nest for escort who allegedly scammed her: The landmark townhouse occupies over 11,600 square feet and offers 12 bedrooms and nine bathrooms.\n\nFormer Disney CEO Michael Eisner grabs $10M NYC home — after ditching the embattled Pierre hotel: The longtime executive moved a block away after facing the possibility of losing his home as the iconic hotel.\n\nGen Zers are fleeing NYC faster than any other US metro — flocking to a city just 90 miles away: New York recorded the nation’s largest net outflow of both Gen Zers and millennials, as younger residents sought cheaper housing and more space elsewhere.",
-    "pincusco": "RFR pays $57M to J. Safra for retail in Lenox Hill, borrows $40M from Blue Owl.\n\nJCS Realty Group signs $95.6M ground lease for 495-unit dev site in LIC, in two-part deal.\n\nInfinity Management files plans for 38 units in Williamsbridge.\n\nShulem Rabi files plans for 24 units in Jamaica."
+    "pincusco": "NYC SCA files plans for 49K sf school in Floral Park.\n\nJoel Steinmetz files plans for 198 units on Jamaica lot, of 297 total.\n\nYotam Michaeli files plans for 9 units in Clinton Hill.\n\nFranc Gjini files plans for 15 units in East Morrisania."
   },
   "items": [
     {
@@ -93,6 +93,24 @@
       "published_at": "2026-09-10T06:10:40.000Z"
     },
     {
+      "headline": "Toys R Us Plans 120 Holiday Stores in Retail Push",
+      "summary": "Toys R Us plans 120 temporary standalone stores for the holiday season, compared with 36 permanent US locations. The pop-ups expand a 2023 strategy that used 24 temporary stores, while the brand also adds airport and shop-in-shop formats. National retail vacancy was 4.2% at the end of June, with limited new construction keeping available space relatively tight. Key Takeaways Toys R Us is preparing a major temporary store expansion for the holiday season.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/toys-r-us-plans-120-holiday-stores-in-retail-push/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-09-20T11:59:43.000Z"
+    },
+    {
+      "headline": "NYC SCA files plans for 49K sf school in Floral Park",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/nyc-sca-files-plans-for-49k-sf-school-in-floral-park/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-09-20T10:30:00.000Z"
+    },
+    {
       "headline": "Asian-American Deli Café Hestia Signs 8K-SF Lease at 570 Lexington Avenue",
       "summary": "A cafe serving Asian and American cuisine is opening a fourth Manhattan location, Commercial Observer has learned. Café Hestia , a group of family-run delis, has signed a 20-year, 8,000-square-foot lease at the base of the Feil Organization ’s 570 Lexington Avenue , which it will likely also use as a catering facility, according to tenant broker Kassin Sabbagh Realty (KSR).…",
       "source": "Commercial Observer",
@@ -136,33 +154,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-09-10T17:19:54.000Z"
-    },
-    {
-      "headline": "RFR pays $57M to J. Safra for retail in Lenox Hill, borrows $40M from Blue Owl",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/rfr-holding-pays-57m-to-j-safra-real-estate-for-retail-in-lenox-hill/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-09-18T14:25:00.000Z"
-    },
-    {
-      "headline": "JCS Realty Group signs $95.6M ground lease for 495-unit dev site in LIC, in two-part deal",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/jcs-realty-group-signs-95-6m-ground-lease-for-495-unit-dev-site-in-lic-in-two-part-deal/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-09-18T14:19:00.000Z"
-    },
-    {
-      "headline": "Wellness Tenants Emerge as New Retail Traffic Anchors",
-      "summary": "Fitness, recovery, spa, and health concepts are increasingly functioning as primary traffic anchors for retail properties. Health and beauty locations have nearly doubled since 2018, expanding at an 8.4% annual rate, according to Newmark. Recurring memberships, frequent visits, and hospitality-driven design are strengthening the real estate case for wellness tenants. Key Takeaways Health and wellness concepts are moving from niche tenants to primary retail traffic drivers, Newmark wrote.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/wellness-tenants-emerge-as-new-retail-traffic-anchors/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-09-18T07:08:41.000Z"
     },
     {
       "headline": "Juanita’s Foods to Consolidate L.A. Production at 120K-SF Facility",
@@ -210,6 +201,51 @@
       "published_at": "2026-09-18T17:23:54.000Z"
     },
     {
+      "headline": "Joel Steinmetz files plans for 198 units on Jamaica lot, of 297 total",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/joel-steinmetz-files-plans-for-198-units-on-jamaica-block-of-297-total/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-20T12:28:00.000Z"
+    },
+    {
+      "headline": "Yotam Michaeli files plans for 9 units in Clinton Hill",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/yotam-michaeli-files-plans-for-9-units-in-clinton-hill/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-20T11:19:00.000Z"
+    },
+    {
+      "headline": "Franc Gjini files plans for 15 units in East Morrisania",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/franc-gjini-files-plans-for-15-units-in-east-morrisania/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-20T10:55:00.000Z"
+    },
+    {
+      "headline": "Chesky Parnes files plans for 7 units in Clinton Hill",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/chesky-parnes-files-plans-for-7-units-in-clinton-hill/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-20T10:50:00.000Z"
+    },
+    {
+      "headline": "Richard Herbst files plans for 10 units in Bushwick",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/richard-herbst-files-plans-for-10-units-in-bushwick/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-20T10:12:00.000Z"
+    },
+    {
       "headline": "Infinity Management files plans for 38 units in Williamsbridge",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
@@ -226,42 +262,6 @@
       "section": "pincusco",
       "retail": false,
       "published_at": "2026-09-18T15:32:00.000Z"
-    },
-    {
-      "headline": "Burnett Equities signs $95.6M refi with Bank7 for hotel in Penn Plaza",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/burnett-equities-signs-95-6m-refi-with-bank7-for-hotel-in-penn-plaza/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-18T15:26:00.000Z"
-    },
-    {
-      "headline": "Clinton Oh pays $2.9M for mixed-use in Greenpoint",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/clinton-oh-pays-2-9m-for-mixed-use-in-greenpoint/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-18T15:17:00.000Z"
-    },
-    {
-      "headline": "HHM Hotels signs $50M refi with M&T Bank for hotel in Midtown East",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/hhm-hotels-signs-50m-refi-with-mt-bank-for-hotel-in-midtown-east/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-18T15:13:00.000Z"
-    },
-    {
-      "headline": "Westbridge Realty Group signs $36M loan with Popular Bank for 99-unit dev site in Brownsville",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/westbridge-realty-group-signs-36m-loan-with-popular-bank-for-99-unit-dev-site-in-brownsville/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-18T15:03:00.000Z"
     },
     {
       "headline": "Billion-Dollar Blockbusters Won’t Revive L.A.’s Film Industry",
