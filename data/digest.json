@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-09-20",
-  "generated_at": "2026-09-20T14:05:10.443Z",
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T16:23:18.514Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Women’s Clothing Store Esti’s Takes 8K SF at 2263 Nostrand Avenue in Midwood: High-end women’s clothing store Esti’s is relocating to a new mixed-use development in Midwood, Brooklyn, Commercial Observer has learned. The longtime retailer’s 7,800-square-foot lease at 2263 Nostrand Avenue was signed on Tuesday.\n\nMunicipal Credit Union Signs 6K-SF Lease for New Branch at 162-15 Jamaica Avenue: Municipal Credit Union (MCU) has signed a lease to open a new retail branch in Jamaica, Queens, Commercial Observer has learned. The not-for-profit credit union, which has locations citywide and caters only to New York City residents, signed a 15-year, roughly 6,000-square-foot lease at Michael Rosilio ’s 162-15.\n\nHibachi Eatery Bijin Omakase Signs 5K-SF Lease in Long Island City: A hibachi restaurant is igniting the burner in Long Island City, Queens. Bijin Omakase signed a 15-year, 5,077-square-foot lease at the base of Trio , a nine-story, 34-unit residential development owned by ZD Jasper Realty at 27-19 Thomson Avenue near where the thoroughfare meets popular Jackson Avenue, according to.\n\nDongbei Chinese Restaurant & Bar Inks Deal at 63 Cooper Square: Dongbei Chinese Restaurant & Bar is opening its fourth location in New York City and its fifth overall, Commercial Observer has learned. The growing Northern Chinese dining concept signed a 2,000-square-foot lease at 63 Cooper Square , an East Village property owned by Matthew Rettner , according to landlord broker.",
+    "commercial_observer": "Women’s Clothing Store Esti’s Takes 8K SF at 2263 Nostrand Avenue in Midwood: High-end women’s clothing store Esti’s is relocating to a new mixed-use development in Midwood, Brooklyn, Commercial Observer has learned. The longtime retailer’s 7,800-square-foot lease at 2263 Nostrand Avenue was signed on Tuesday.\n\nMunicipal Credit Union Signs 6K-SF Lease for New Branch at 162-15 Jamaica Avenue: Municipal Credit Union (MCU) has signed a lease to open a new retail branch in Jamaica, Queens, Commercial Observer has learned. The not-for-profit credit union, which has locations citywide and caters only to New York City residents, signed a 15-year, roughly 6,000-square-foot lease at Michael Rosilio ’s 162-15.\n\nHibachi Eatery Bijin Omakase Signs 5K-SF Lease in Long Island City: A hibachi restaurant is igniting the burner in Long Island City, Queens. Bijin Omakase signed a 15-year, 5,077-square-foot lease at the base of Trio , a nine-story, 34-unit residential development owned by ZD Jasper Realty at 27-19 Thomson Avenue near where the thoroughfare meets popular Jackson Avenue, according to.\n\nAsian-American Deli Café Hestia Signs 8K-SF Lease at 570 Lexington Avenue: A cafe serving Asian and American cuisine is opening a fourth Manhattan location, Commercial Observer has learned. Café Hestia , a group of family-run delis, has signed a 20-year, 8,000-square-foot lease at the base of the Feil Organization ’s 570 Lexington Avenue , which it will likely also use as a catering.",
     "cre_daily": "San Francisco Centre Returns to Market at Deep Discount: San Francisco Centre is back for sale after closing earlier this year and losing a proposed redevelopment buyer in July. Brokers expect bids of no more than $130M, far below the mall’s $1.2B valuation from a decade ago.\n\nMall Values Jump 13% as Retail Recovery Accelerates: Green Street says mall values increased 13% over the past year, the strongest gain among 10 commercial property sectors. Limited new supply, resilient consumer spending and tenant upgrades have supported occupancy, rent growth and investor interest.\n\nFlorida Retail Leaders Put AI and Data at Center: AI and real-time data are becoming everyday tools for site selection, leasing, marketing, research, and operations. High construction costs and tight vacancy are increasing the focus on adaptive reuse, second-generation space, and flexible activation strategies.\n\nRestaurant Traffic Falls 2.4% Across US in August: US dining visits fell 2.4% year over year in August, reversing gradual improvement recorded in June and July. Overall retail visits still rose 0.3%, but growth slowed sharply from 1.7% in July.",
-    "new_york_post": "Historic NYC synagogue and longtime home for pioneering artists asks $11M — with stunning architectural details intact: 80 Forsyth St. has listed for $10.95M, complete with a former mikvah, paint-splattered floors and 10,000 square feet of air rights.\n\nWealthy ‘Roblox’ widow bought $16M love nest for escort who allegedly scammed her: The landmark townhouse occupies over 11,600 square feet and offers 12 bedrooms and nine bathrooms.\n\nFormer Disney CEO Michael Eisner grabs $10M NYC home — after ditching the embattled Pierre hotel: The longtime executive moved a block away after facing the possibility of losing his home as the iconic hotel.\n\nGen Zers are fleeing NYC faster than any other US metro — flocking to a city just 90 miles away: New York recorded the nation’s largest net outflow of both Gen Zers and millennials, as younger residents sought cheaper housing and more space elsewhere.",
-    "pincusco": "NYC SCA files plans for 49K sf school in Floral Park.\n\nJoel Steinmetz files plans for 198 units on Jamaica lot, of 297 total.\n\nYotam Michaeli files plans for 9 units in Clinton Hill.\n\nFranc Gjini files plans for 15 units in East Morrisania."
+    "new_york_post": "Nearly half of US homebuyers are scoring seller perks — but NYC buyers are getting almost nothing: The national rise comes as a glut of homes for sale gives buyers more choices and greater negotiating power, according to Redfin.\n\nFormer Disney CEO Michael Eisner grabs $10M NYC home — after ditching the embattled Pierre hotel: The longtime executive moved a block away after facing the possibility of losing his home as the iconic hotel.\n\nGen Zers are fleeing NYC faster than any other US metro — flocking to a city just 90 miles away: New York recorded the nation’s largest net outflow of both Gen Zers and millennials, as younger residents sought cheaper housing and more space elsewhere.\n\nMore than 1 in 5 NYC homes are selling in bidding wars — with prime Brooklyn nabe at the center of the frenzy: Bidding wars are back in New York City — and Brooklyn is ground zero, according to StreetEasy.",
+    "pincusco": "David Li Yu pays $4.2M for retail in Sunnyside.\n\nComjem signs $10.2M refi with Peapack for two retail condos in SoHo.\n\nEMP Capital signs $86.5M construction loan with QuadReal for two 99-unit projects in Astoria.\n\nAurora, William Gottlieb sign $293.2M refi with Corebridge for office in Meatpacking District."
   },
   "items": [
     {
@@ -66,15 +66,6 @@
       "published_at": "2026-09-08T08:54:04.000Z"
     },
     {
-      "headline": "Dongbei Chinese Restaurant & Bar Inks Deal at 63 Cooper Square",
-      "summary": "Dongbei Chinese Restaurant & Bar is opening its fourth location in New York City and its fifth overall, Commercial Observer has learned. The growing Northern Chinese dining concept signed a 2,000-square-foot lease at 63 Cooper Square , an East Village property owned by Matthew Rettner , according to landlord broker Meridian Capital Group . Asking rent for the space was $21,600 per month, and the tenant signed a 15-year lease.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/dongbei-chinese-restaurant-bar-lease-63-cooper-square/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-07T16:00:14.000Z"
-    },
-    {
       "headline": "Restaurant Traffic Falls 2.4% Across US in August",
       "summary": "US dining visits fell 2.4% year over year in August, reversing gradual improvement recorded in June and July. Overall retail visits still rose 0.3%, but growth slowed sharply from 1.7% in July. September traffic will help show how much of August’s restaurant weakness came from calendar timing versus softer demand. Key Takeaways GlobeSt reports that US dining visits fell broadly in August while retail traffic remained slightly positive .…",
       "source": "CRE Daily",
@@ -102,15 +93,6 @@
       "published_at": "2026-09-20T11:59:43.000Z"
     },
     {
-      "headline": "NYC SCA files plans for 49K sf school in Floral Park",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/nyc-sca-files-plans-for-49k-sf-school-in-floral-park/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-09-20T10:30:00.000Z"
-    },
-    {
       "headline": "Asian-American Deli Café Hestia Signs 8K-SF Lease at 570 Lexington Avenue",
       "summary": "A cafe serving Asian and American cuisine is opening a fourth Manhattan location, Commercial Observer has learned. Café Hestia , a group of family-run delis, has signed a 20-year, 8,000-square-foot lease at the base of the Feil Organization ’s 570 Lexington Avenue , which it will likely also use as a catering facility, according to tenant broker Kassin Sabbagh Realty (KSR).…",
       "source": "Commercial Observer",
@@ -127,15 +109,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-09-18T16:03:03.000Z"
-    },
-    {
-      "headline": "Historic NYC synagogue and longtime home for pioneering artists asks $11M — with stunning architectural details intact",
-      "summary": "80 Forsyth St. has listed for $10.95M, complete with a former mikvah, paint-splattered floors and 10,000 square feet of air rights.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/16/real-estate/former-nyc-synagogue-turned-artist-studio-lists-for-10-95m/",
-      "section": "new_york_post",
-      "retail": true,
-      "published_at": "2026-09-16T20:16:15.000Z"
     },
     {
       "headline": "Harbor Fitness to Open 20K-SF Club at 3460 Nostrand Avenue in South Brooklyn",
@@ -156,22 +129,22 @@
       "published_at": "2026-09-10T17:19:54.000Z"
     },
     {
-      "headline": "Juanita’s Foods to Consolidate L.A. Production at 120K-SF Facility",
-      "summary": "An 80-year-old food manufacturer is consolidating its Southern California operations into a new 120,000-square-foot facility in Santa Fe Springs, in the first deal backed by a recently formed alliance of four Los Angeles County industrial cities. Juanita’s Foods will move production from its longtime Wilmington plant to 13100 Arctic Circle in Santa Fe Springs. The deal includes an incentives agreement as well as expedited permitting via the four-city partnership.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/juanitas-foods-la-lease/",
-      "section": "commercial_observer",
+      "headline": "David Li Yu pays $4.2M for retail in Sunnyside",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/david-li-yu-pays-4-2m-for-retail-in-sunnyside/",
+      "section": "pincusco",
       "retail": true,
-      "published_at": "2026-09-17T19:25:26.000Z"
+      "published_at": "2026-09-20T22:17:00.000Z"
     },
     {
-      "headline": "Wealthy ‘Roblox’ widow bought $16M love nest for escort who allegedly scammed her",
-      "summary": "The landmark townhouse occupies over 11,600 square feet and offers 12 bedrooms and nine bathrooms.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/16/real-estate/roblox-widow-bought-15-9m-nyc-mansion-to-live-in-with-escort/",
-      "section": "new_york_post",
+      "headline": "Comjem signs $10.2M refi with Peapack for two retail condos in SoHo",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/comjem-signs-10-2m-refi-with-peapack-for-two-retail-condos-in-soho/",
+      "section": "pincusco",
       "retail": true,
-      "published_at": "2026-09-16T18:04:49.000Z"
+      "published_at": "2026-09-20T22:00:00.000Z"
     },
     {
       "headline": "In Los Angeles Retail, a Widening Divide",
@@ -192,6 +165,24 @@
       "published_at": "2026-09-15T14:09:20.000Z"
     },
     {
+      "headline": "EMP Capital signs $86.5M construction loan with QuadReal for two 99-unit projects in Astoria",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/emp-capital-signs-86-5m-construction-loan-with-quadreal-for-two-99-unit-projects-in-astoria/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-21T14:51:00.000Z"
+    },
+    {
+      "headline": "Nearly half of US homebuyers are scoring seller perks — but NYC buyers are getting almost nothing",
+      "summary": "The national rise comes as a glut of homes for sale gives buyers more choices and greater negotiating power, according to Redfin.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/21/real-estate/nearly-half-of-us-homebuyers-are-scoring-seller-perks/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-09-21T16:09:51.000Z"
+    },
+    {
       "headline": "Former Disney CEO Michael Eisner grabs $10M NYC home — after ditching the embattled Pierre hotel",
       "summary": "The longtime executive moved a block away after facing the possibility of losing his home as the iconic hotel.",
       "source": "New York Post",
@@ -201,67 +192,13 @@
       "published_at": "2026-09-18T17:23:54.000Z"
     },
     {
-      "headline": "Joel Steinmetz files plans for 198 units on Jamaica lot, of 297 total",
+      "headline": "Aurora, William Gottlieb sign $293.2M refi with Corebridge for office in Meatpacking District",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/joel-steinmetz-files-plans-for-198-units-on-jamaica-block-of-297-total/",
+      "url": "https://www.pincusco.com/aurora-william-gottlieb-sign-293-2m-refi-with-corebridge-for-office-in-meatpacking-district/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-20T12:28:00.000Z"
-    },
-    {
-      "headline": "Yotam Michaeli files plans for 9 units in Clinton Hill",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/yotam-michaeli-files-plans-for-9-units-in-clinton-hill/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-20T11:19:00.000Z"
-    },
-    {
-      "headline": "Franc Gjini files plans for 15 units in East Morrisania",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/franc-gjini-files-plans-for-15-units-in-east-morrisania/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-20T10:55:00.000Z"
-    },
-    {
-      "headline": "Chesky Parnes files plans for 7 units in Clinton Hill",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/chesky-parnes-files-plans-for-7-units-in-clinton-hill/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-20T10:50:00.000Z"
-    },
-    {
-      "headline": "Richard Herbst files plans for 10 units in Bushwick",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/richard-herbst-files-plans-for-10-units-in-bushwick/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-20T10:12:00.000Z"
-    },
-    {
-      "headline": "Infinity Management files plans for 38 units in Williamsbridge",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/infinity-management-files-plans-for-38-units-in-williamsbridge/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-18T15:42:00.000Z"
-    },
-    {
-      "headline": "Shulem Rabi files plans for 24 units in Jamaica",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/shulem-rabi-files-plans-for-24-units-in-jamaica/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-18T15:32:00.000Z"
+      "published_at": "2026-09-20T20:27:00.000Z"
     },
     {
       "headline": "Billion-Dollar Blockbusters Won’t Revive L.A.’s Film Industry",
@@ -273,6 +210,15 @@
       "published_at": "2026-09-15T11:43:13.000Z"
     },
     {
+      "headline": "Raitze Beck pays $4.1M for 8-unit walkup in East New York",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/raitze-beck-pays-4-1m-for-8-unit-walkup-in-east-new-york/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-20T21:46:00.000Z"
+    },
+    {
       "headline": "Gen Zers are fleeing NYC faster than any other US metro — flocking to a city just 90 miles away",
       "summary": "New York recorded the nation’s largest net outflow of both Gen Zers and millennials, as younger residents sought cheaper housing and more space elsewhere.",
       "source": "New York Post",
@@ -280,6 +226,60 @@
       "section": "new_york_post",
       "retail": false,
       "published_at": "2026-09-17T18:58:16.000Z"
+    },
+    {
+      "headline": "More than 1 in 5 NYC homes are selling in bidding wars — with prime Brooklyn nabe at the center of the frenzy",
+      "summary": "Bidding wars are back in New York City — and Brooklyn is ground zero, according to StreetEasy.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/16/real-estate/more-than-1-in-5-nyc-homes-are-selling-in-bidding-wars/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-09-16T20:47:17.000Z"
+    },
+    {
+      "headline": "Lower Manhattan Has Become a Model for Other Urban Centers — Including Midtown",
+      "summary": "The transformation of Lower Manhattan was underway even before the Sept. 11 attacks 25 years ago. Still, given the scale of the tragedy, the area’s commercial real estate and demographic shifts are often defined with 9/11 as the starting point. Not so. The Financial District in particular was already undergoing a huge transformation, and industry leaders would follow through with creating what would become a diversified local economy, rather than one that simply served the needs of global trade, regardless of the…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/lower-manhattan-resurgence-post-911/",
+      "section": "commercial_observer",
+      "retail": false,
+      "published_at": "2026-09-08T10:15:14.000Z"
+    },
+    {
+      "headline": "CUNY pays $200.9M to Maddd Equities for education building in Concourse Village",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/cuny-pays-200-9m-to-maddd-equities-for-education-building-in-concourse-village/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-21T15:00:00.000Z"
+    },
+    {
+      "headline": "Jadian Capital pays $167.1M to Kadima Industrial Partners for four properties in Bloomfield",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/jadian-capital-pays-167-1m-to-kadima-industrial-partners-for-four-properties-in-bloomfield/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-21T14:24:00.000Z"
+    },
+    {
+      "headline": "S-Platform pays $6.7M for 5-unit walkup in SoHo",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/s-platform-pays-6-7m-for-5-unit-walkup-in-soho/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-21T14:18:00.000Z"
+    },
+    {
+      "headline": "Boater freaks out locals by tugging entire house across San Pablo Bay",
+      "summary": "Zach Medinas, 57, was fishing with his crew Wednesday morning when he spotted a full-size house being pulled across the bay by a small recreational boat.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/20/us-news/fisherman-spots-two-story-house-being-towed-across-san-pablo-bay/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-09-20T19:55:27.000Z"
     }
   ]
 }
