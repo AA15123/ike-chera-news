@@ -1,16 +1,25 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-09-21",
-  "generated_at": "2026-09-21T16:23:18.514Z",
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T14:38:50.920Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Women’s Clothing Store Esti’s Takes 8K SF at 2263 Nostrand Avenue in Midwood: High-end women’s clothing store Esti’s is relocating to a new mixed-use development in Midwood, Brooklyn, Commercial Observer has learned. The longtime retailer’s 7,800-square-foot lease at 2263 Nostrand Avenue was signed on Tuesday.\n\nMunicipal Credit Union Signs 6K-SF Lease for New Branch at 162-15 Jamaica Avenue: Municipal Credit Union (MCU) has signed a lease to open a new retail branch in Jamaica, Queens, Commercial Observer has learned. The not-for-profit credit union, which has locations citywide and caters only to New York City residents, signed a 15-year, roughly 6,000-square-foot lease at Michael Rosilio ’s 162-15.\n\nHibachi Eatery Bijin Omakase Signs 5K-SF Lease in Long Island City: A hibachi restaurant is igniting the burner in Long Island City, Queens. Bijin Omakase signed a 15-year, 5,077-square-foot lease at the base of Trio , a nine-story, 34-unit residential development owned by ZD Jasper Realty at 27-19 Thomson Avenue near where the thoroughfare meets popular Jackson Avenue, according to.\n\nAsian-American Deli Café Hestia Signs 8K-SF Lease at 570 Lexington Avenue: A cafe serving Asian and American cuisine is opening a fourth Manhattan location, Commercial Observer has learned. Café Hestia , a group of family-run delis, has signed a 20-year, 8,000-square-foot lease at the base of the Feil Organization ’s 570 Lexington Avenue , which it will likely also use as a catering.",
-    "cre_daily": "San Francisco Centre Returns to Market at Deep Discount: San Francisco Centre is back for sale after closing earlier this year and losing a proposed redevelopment buyer in July. Brokers expect bids of no more than $130M, far below the mall’s $1.2B valuation from a decade ago.\n\nMall Values Jump 13% as Retail Recovery Accelerates: Green Street says mall values increased 13% over the past year, the strongest gain among 10 commercial property sectors. Limited new supply, resilient consumer spending and tenant upgrades have supported occupancy, rent growth and investor interest.\n\nFlorida Retail Leaders Put AI and Data at Center: AI and real-time data are becoming everyday tools for site selection, leasing, marketing, research, and operations. High construction costs and tight vacancy are increasing the focus on adaptive reuse, second-generation space, and flexible activation strategies.\n\nRestaurant Traffic Falls 2.4% Across US in August: US dining visits fell 2.4% year over year in August, reversing gradual improvement recorded in June and July. Overall retail visits still rose 0.3%, but growth slowed sharply from 1.7% in July.",
-    "new_york_post": "Nearly half of US homebuyers are scoring seller perks — but NYC buyers are getting almost nothing: The national rise comes as a glut of homes for sale gives buyers more choices and greater negotiating power, according to Redfin.\n\nFormer Disney CEO Michael Eisner grabs $10M NYC home — after ditching the embattled Pierre hotel: The longtime executive moved a block away after facing the possibility of losing his home as the iconic hotel.\n\nGen Zers are fleeing NYC faster than any other US metro — flocking to a city just 90 miles away: New York recorded the nation’s largest net outflow of both Gen Zers and millennials, as younger residents sought cheaper housing and more space elsewhere.\n\nMore than 1 in 5 NYC homes are selling in bidding wars — with prime Brooklyn nabe at the center of the frenzy: Bidding wars are back in New York City — and Brooklyn is ground zero, according to StreetEasy.",
-    "pincusco": "David Li Yu pays $4.2M for retail in Sunnyside.\n\nComjem signs $10.2M refi with Peapack for two retail condos in SoHo.\n\nEMP Capital signs $86.5M construction loan with QuadReal for two 99-unit projects in Astoria.\n\nAurora, William Gottlieb sign $293.2M refi with Corebridge for office in Meatpacking District."
+    "commercial_observer": "Related Group, Tricap Sell Casa Tua-Leased Retail Condo in Miami’s Wynwood: The Pérez family’s Related Group and David Edelstein ’s Tricap have sold the newly completed ground-floor retail space at the NoMad Hotel -branded condo development in Miami for $33 million, property records show.\n\nWomen’s Clothing Store Esti’s Takes 8K SF at 2263 Nostrand Avenue in Midwood: High-end women’s clothing store Esti’s is relocating to a new mixed-use development in Midwood, Brooklyn, Commercial Observer has learned. The longtime retailer’s 7,800-square-foot lease at 2263 Nostrand Avenue was signed on Tuesday.\n\nMunicipal Credit Union Signs 6K-SF Lease for New Branch at 162-15 Jamaica Avenue: Municipal Credit Union (MCU) has signed a lease to open a new retail branch in Jamaica, Queens, Commercial Observer has learned. The not-for-profit credit union, which has locations citywide and caters only to New York City residents, signed a 15-year, roughly 6,000-square-foot lease at Michael Rosilio ’s 162-15.\n\nHibachi Eatery Bijin Omakase Signs 5K-SF Lease in Long Island City: A hibachi restaurant is igniting the burner in Long Island City, Queens. Bijin Omakase signed a 15-year, 5,077-square-foot lease at the base of Trio , a nine-story, 34-unit residential development owned by ZD Jasper Realty at 27-19 Thomson Avenue near where the thoroughfare meets popular Jackson Avenue, according to.",
+    "cre_daily": "San Francisco Centre Returns to Market at Deep Discount: San Francisco Centre is back for sale after closing earlier this year and losing a proposed redevelopment buyer in July. Brokers expect bids of no more than $130M, far below the mall’s $1.2B valuation from a decade ago.\n\nMall Values Jump 13% as Retail Recovery Accelerates: Green Street says mall values increased 13% over the past year, the strongest gain among 10 commercial property sectors. Limited new supply, resilient consumer spending and tenant upgrades have supported occupancy, rent growth and investor interest.\n\nRestaurant Traffic Falls 2.4% Across US in August: US dining visits fell 2.4% year over year in August, reversing gradual improvement recorded in June and July. Overall retail visits still rose 0.3%, but growth slowed sharply from 1.7% in July.\n\nLululemon Slows US Store Growth as New CEO Takes Helm: Lululemon plans to open a net 35 new stores in 2026, down from its previous target of 40, while cutting 25 planned pop-ups. North American sales fell 12%, and global profit declined 1% to $1.5B, including roughly $135M in tariff refunds.",
+    "new_york_post": "Rams turning rundown mall into new 52-acre, $10 billion village HQ with thousands of homes planned: Permanent construction is targeted for 2027, with the broader neighborhood expected to be built out in phases spanning roughly a decade.\n\nEntire California ‘town’ goes on sale for $4.75M — and it’s sitting on an actual gold mine: The four-acre property contain's an owner's quarters, seven guest cabins with 2-3 bedrooms each, an 18-room hotel, 16 RV spaces, a full service restaurant and bar, and multiple outdoor event spaces.\n\nGold-domed NYC penthouse fetches barely a third of its $25M ask: The five-bedroom, 4.5-bathroom penthouse atop the Sohmer Piano Building at 170 Fifth Ave. sold at auction for much less than originally anticipated.\n\nNearly half of US homebuyers are scoring seller perks — but NYC buyers are getting almost nothing: The national rise comes as a glut of homes for sale gives buyers more choices and greater negotiating power, according to Redfin.",
+    "pincusco": "EMP Capital signs $86.5M construction loan with QuadReal for two 99-unit projects in Astoria.\n\nJoel Landau files plans for 44 units in Gravesend.\n\nWiczyk family seeks zoning changes to build 335 units in Claremont Village.\n\nDart family stakes revealed in two Manhattan properties valued at $18.38M."
   },
   "items": [
+    {
+      "headline": "Related Group, Tricap Sell Casa Tua-Leased Retail Condo in Miami’s Wynwood",
+      "summary": "The Pérez family’s Related Group and David Edelstein ’s Tricap have sold the newly completed ground-floor retail space at the NoMad Hotel -branded condo development in Miami for $33 million, property records show. Sunny Isles Beach, Fla.-based Optimar International Realty bought the retail condo, which is leased to a Casa Tua dining concept. It spans about 15,000 square feet at 2700 Northwest Second Avenue in Wynwood. Related Group and Tricap provided $26 million in seller financing.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/related-group-tricap-casa-tua-miami-wynwood-nomad-residences/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-21T18:35:33.000Z"
+    },
     {
       "headline": "Women’s Clothing Store Esti’s Takes 8K SF at 2263 Nostrand Avenue in Midwood",
       "summary": "High-end women’s clothing store Esti’s is relocating to a new mixed-use development in Midwood, Brooklyn, Commercial Observer has learned. The longtime retailer’s 7,800-square-foot lease at 2263 Nostrand Avenue was signed on Tuesday. Asking rent for the 10-year deal was $65 per square foot. The retail space at the corner of Nostrand Avenue and Avenue I occupies a large slice of the newly constructed property’s retail component, leaving just 2,700 square feet available.…",
@@ -57,15 +66,6 @@
       "published_at": "2026-09-09T20:11:04.000Z"
     },
     {
-      "headline": "Florida Retail Leaders Put AI and Data at Center",
-      "summary": "AI and real-time data are becoming everyday tools for site selection, leasing, marketing, research, and operations. High construction costs and tight vacancy are increasing the focus on adaptive reuse, second-generation space, and flexible activation strategies. Well-located Florida retail continues to attract capital, especially grocery-anchored, necessity-based, and service-oriented properties. Key Takeaways Florida retail real estate is leaning harder on data, AI, and physical experience.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/florida-retail-leaders-put-ai-and-data-at-center/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-09-08T08:54:04.000Z"
-    },
-    {
       "headline": "Restaurant Traffic Falls 2.4% Across US in August",
       "summary": "US dining visits fell 2.4% year over year in August, reversing gradual improvement recorded in June and July. Overall retail visits still rose 0.3%, but growth slowed sharply from 1.7% in July. September traffic will help show how much of August’s restaurant weakness came from calendar timing versus softer demand. Key Takeaways GlobeSt reports that US dining visits fell broadly in August while retail traffic remained slightly positive .…",
       "source": "CRE Daily",
@@ -82,6 +82,15 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-09-10T06:10:40.000Z"
+    },
+    {
+      "headline": "Rams turning rundown mall into new 52-acre, $10 billion village HQ with thousands of homes planned",
+      "summary": "Permanent construction is targeted for 2027, with the broader neighborhood expected to be built out in phases spanning roughly a decade.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/21/sports/rams-turning-rundown-mall-into-new-52-acre-10-billion-village-hq/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-09-21T22:14:30.000Z"
     },
     {
       "headline": "Toys R Us Plans 120 Holiday Stores in Retail Push",
@@ -129,22 +138,13 @@
       "published_at": "2026-09-10T17:19:54.000Z"
     },
     {
-      "headline": "David Li Yu pays $4.2M for retail in Sunnyside",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/david-li-yu-pays-4-2m-for-retail-in-sunnyside/",
-      "section": "pincusco",
+      "headline": "Wellness Tenants Emerge as New Retail Traffic Anchors",
+      "summary": "Fitness, recovery, spa, and health concepts are increasingly functioning as primary traffic anchors for retail properties. Health and beauty locations have nearly doubled since 2018, expanding at an 8.4% annual rate, according to Newmark. Recurring memberships, frequent visits, and hospitality-driven design are strengthening the real estate case for wellness tenants. Key Takeaways Health and wellness concepts are moving from niche tenants to primary retail traffic drivers, Newmark wrote.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/wellness-tenants-emerge-as-new-retail-traffic-anchors/",
+      "section": "cre_daily",
       "retail": true,
-      "published_at": "2026-09-20T22:17:00.000Z"
-    },
-    {
-      "headline": "Comjem signs $10.2M refi with Peapack for two retail condos in SoHo",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/comjem-signs-10-2m-refi-with-peapack-for-two-retail-condos-in-soho/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-09-20T22:00:00.000Z"
+      "published_at": "2026-09-18T07:08:41.000Z"
     },
     {
       "headline": "In Los Angeles Retail, a Widening Divide",
@@ -154,6 +154,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-09-14T10:00:43.000Z"
+    },
+    {
+      "headline": "Entire California ‘town’ goes on sale for $4.75M — and it’s sitting on an actual gold mine",
+      "summary": "The four-acre property contain's an owner's quarters, seven guest cabins with 2-3 bedrooms each, an 18-room hotel, 16 RV spaces, a full service restaurant and bar, and multiple outdoor event spaces.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/21/real-estate/california-town-sitting-on-top-of-gold-mine-hits-market-for-4-8m/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-09-21T16:37:18.000Z"
     },
     {
       "headline": "Market Shifts, New York’s Uniqueness Mean Mamdani’s Grocery Plan Could Work",
@@ -174,6 +183,15 @@
       "published_at": "2026-09-21T14:51:00.000Z"
     },
     {
+      "headline": "Gold-domed NYC penthouse fetches barely a third of its $25M ask",
+      "summary": "The five-bedroom, 4.5-bathroom penthouse atop the Sohmer Piano Building at 170 Fifth Ave. sold at auction for much less than originally anticipated.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/21/real-estate/nyc-penthouse-set-inside-golden-dome-sells-for-9m/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-09-21T17:23:01.000Z"
+    },
+    {
       "headline": "Nearly half of US homebuyers are scoring seller perks — but NYC buyers are getting almost nothing",
       "summary": "The national rise comes as a glut of homes for sale gives buyers more choices and greater negotiating power, according to Redfin.",
       "source": "New York Post",
@@ -183,22 +201,58 @@
       "published_at": "2026-09-21T16:09:51.000Z"
     },
     {
-      "headline": "Former Disney CEO Michael Eisner grabs $10M NYC home — after ditching the embattled Pierre hotel",
-      "summary": "The longtime executive moved a block away after facing the possibility of losing his home as the iconic hotel.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/18/real-estate/michael-eisner-buys-10m-apartment-amid-pierre-drama/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-09-18T17:23:54.000Z"
-    },
-    {
-      "headline": "Aurora, William Gottlieb sign $293.2M refi with Corebridge for office in Meatpacking District",
+      "headline": "Joel Landau files plans for 44 units in Gravesend",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/aurora-william-gottlieb-sign-293-2m-refi-with-corebridge-for-office-in-meatpacking-district/",
+      "url": "https://www.pincusco.com/joel-landau-files-plans-for-44-units-in-gravesend/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-20T20:27:00.000Z"
+      "published_at": "2026-09-22T12:02:00.000Z"
+    },
+    {
+      "headline": "Wiczyk family seeks zoning changes to build 335 units in Claremont Village",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/wiczyk-family-seeks-zoning-changes-to-build-335-units-in-claremont-village/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-22T11:19:30.000Z"
+    },
+    {
+      "headline": "Massive Northern California vineyard goes up for sale after Canada booze ban",
+      "summary": "A massive family-run California winery has fallen victim to Canada’s ban on booze imports — listing 11 vineyards amounting to 3,500 acres for sale as a wave of bankruptcies and closures rock the industry. McManis Family Vineyards, a 36-year-old winery business, is offloading its main facility and vineyards as it faces a steep decline in...",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/21/real-estate/massive-california-vineyard-goes-up-for-sale-after-canada-booze-ban/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-09-21T20:50:18.000Z"
+    },
+    {
+      "headline": "Signs of life return to puzzlingly empty Midtown Sixth Avenue site",
+      "summary": "Posters popped up on the plywood fence announcing “construction equipment” and a fence for “proposed new 41-story hotel.” Developer put the project on hold in 2020, saying his company was too busy with other undertakings at the time.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/21/business/signs-of-life-return-to-puzzlingly-empty-midtown-sixth-avenue-site/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-09-21T19:15:42.000Z"
+    },
+    {
+      "headline": "Condo owners are getting trapped in homes they can’t sell — as HOA costs and financing woes pile up",
+      "summary": "Rising HOA fees, special assessments and insurance problems are making condos harder to finance and sell, leaving some owners feeling trapped.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/21/real-estate/condo-owners-trapped-as-hoa-fees-make-units-harder-to-sell/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-09-21T19:04:26.000Z"
+    },
+    {
+      "headline": "Lots of unsold units remain at One Wall Street — and pied-à-terre tax unlikely to help",
+      "summary": "Although some 566 apartments at Harry Macklowe's building have been on the market since 2021, ACRIS records only 137 completed sales, or just under 25%.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/21/business/lots-of-unsold-units-remain-at-one-wall-street-and-pied-a-terre-tax-unlikely-to-help/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-09-21T18:56:11.000Z"
     },
     {
       "headline": "Billion-Dollar Blockbusters Won’t Revive L.A.’s Film Industry",
@@ -210,76 +264,22 @@
       "published_at": "2026-09-15T11:43:13.000Z"
     },
     {
-      "headline": "Raitze Beck pays $4.1M for 8-unit walkup in East New York",
+      "headline": "Dart family stakes revealed in two Manhattan properties valued at $18.38M",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/raitze-beck-pays-4-1m-for-8-unit-walkup-in-east-new-york/",
+      "url": "https://www.pincusco.com/dart-family-stakes-revealed-in-two-manhattan-properties-valued-at-18-38m/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-20T21:46:00.000Z"
+      "published_at": "2026-09-22T14:07:00.000Z"
     },
     {
-      "headline": "Gen Zers are fleeing NYC faster than any other US metro — flocking to a city just 90 miles away",
-      "summary": "New York recorded the nation’s largest net outflow of both Gen Zers and millennials, as younger residents sought cheaper housing and more space elsewhere.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/17/real-estate/gen-zers-are-fleeing-nyc-faster-than-any-other-us-metro/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-09-17T18:58:16.000Z"
-    },
-    {
-      "headline": "More than 1 in 5 NYC homes are selling in bidding wars — with prime Brooklyn nabe at the center of the frenzy",
-      "summary": "Bidding wars are back in New York City — and Brooklyn is ground zero, according to StreetEasy.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/16/real-estate/more-than-1-in-5-nyc-homes-are-selling-in-bidding-wars/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-09-16T20:47:17.000Z"
-    },
-    {
-      "headline": "Lower Manhattan Has Become a Model for Other Urban Centers — Including Midtown",
-      "summary": "The transformation of Lower Manhattan was underway even before the Sept. 11 attacks 25 years ago. Still, given the scale of the tragedy, the area’s commercial real estate and demographic shifts are often defined with 9/11 as the starting point. Not so. The Financial District in particular was already undergoing a huge transformation, and industry leaders would follow through with creating what would become a diversified local economy, rather than one that simply served the needs of global trade, regardless of the…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/lower-manhattan-resurgence-post-911/",
-      "section": "commercial_observer",
-      "retail": false,
-      "published_at": "2026-09-08T10:15:14.000Z"
-    },
-    {
-      "headline": "CUNY pays $200.9M to Maddd Equities for education building in Concourse Village",
+      "headline": "Norman Wong pays $12M for three industrial properties in East Williamsburg",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/cuny-pays-200-9m-to-maddd-equities-for-education-building-in-concourse-village/",
+      "url": "https://www.pincusco.com/norman-wong-pays-12m-for-three-industrial-properties-in-east-williamsburg/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-21T15:00:00.000Z"
-    },
-    {
-      "headline": "Jadian Capital pays $167.1M to Kadima Industrial Partners for four properties in Bloomfield",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/jadian-capital-pays-167-1m-to-kadima-industrial-partners-for-four-properties-in-bloomfield/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-21T14:24:00.000Z"
-    },
-    {
-      "headline": "S-Platform pays $6.7M for 5-unit walkup in SoHo",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/s-platform-pays-6-7m-for-5-unit-walkup-in-soho/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-21T14:18:00.000Z"
-    },
-    {
-      "headline": "Boater freaks out locals by tugging entire house across San Pablo Bay",
-      "summary": "Zach Medinas, 57, was fishing with his crew Wednesday morning when he spotted a full-size house being pulled across the bay by a small recreational boat.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/20/us-news/fisherman-spots-two-story-house-being-towed-across-san-pablo-bay/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-09-20T19:55:27.000Z"
+      "published_at": "2026-09-22T13:17:00.000Z"
     }
   ]
 }
