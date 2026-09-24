@@ -1,16 +1,25 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-09-23",
-  "generated_at": "2026-09-23T14:51:46.055Z",
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T14:52:47.736Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Municipal Credit Union Signs 6K-SF Lease for New Branch at 162-15 Jamaica Avenue: Municipal Credit Union (MCU) has signed a lease to open a new retail branch in Jamaica, Queens, Commercial Observer has learned. The not-for-profit credit union, which has locations citywide and caters only to New York City residents, signed a 15-year, roughly 6,000-square-foot lease at Michael Rosilio ’s 162-15.\n\nHibachi Eatery Bijin Omakase Signs 5K-SF Lease in Long Island City: A hibachi restaurant is igniting the burner in Long Island City, Queens. Bijin Omakase signed a 15-year, 5,077-square-foot lease at the base of Trio , a nine-story, 34-unit residential development owned by ZD Jasper Realty at 27-19 Thomson Avenue near where the thoroughfare meets popular Jackson Avenue, according to.\n\nHappier Grocery to Open Second NYC Location on the Upper East Side: A healthy grocery retailer is opening its second New York City location on Manhattan’s Upper East Side. Happier Grocery has signed a 20,500-square-foot lease at CSC Real Estate ’s 210 East 86th Street , where it plans to open a health food store like its original one on Canal Street in the second half of 2027,.\n\nSephora’s Meatpacking District Store Relocates to 401 West 14th Street: Beauty retailer Sephora is taking a walk up the block to 401 West 14th Street . The makeup giant has signed a 4,200-square-foot deal with landlords Taconic Partners and Nuveen Real Estate to relocate its Meatpacking District store one block north from 21-27 Ninth Avenue , according to the landlords.",
-    "cre_daily": "Invesco REIT Buys Raleigh Retail Center for $87.2M: Invesco REIT acquired Knightdale Marketplace for $87.2M, including closing and leasing costs, according to AltsWire. The 323,113 SF shopping center is 100% leased with a weighted average lease term of about seven years.\n\nMall Values Jump 13% as Retail Recovery Accelerates: Green Street says mall values increased 13% over the past year, the strongest gain among 10 commercial property sectors. Limited new supply, resilient consumer spending and tenant upgrades have supported occupancy, rent growth and investor interest.\n\nRestaurant Traffic Falls 2.4% Across US in August: US dining visits fell 2.4% year over year in August, reversing gradual improvement recorded in June and July. Overall retail visits still rose 0.3%, but growth slowed sharply from 1.7% in July.\n\nLululemon Slows US Store Growth as New CEO Takes Helm: Lululemon plans to open a net 35 new stores in 2026, down from its previous target of 40, while cutting 25 planned pop-ups. North American sales fell 12%, and global profit declined 1% to $1.5B, including roughly $135M in tariff refunds.",
-    "new_york_post": "Rams turning rundown mall into new 52-acre, $10 billion village HQ with thousands of homes planned: Permanent construction is targeted for 2027, with the broader neighborhood expected to be built out in phases spanning roughly a decade.\n\nBaby Boomers are pouring into Eastern seaboard state — rejecting cities’ unaffordable taxation: Baby Boomers are moving to the first state's beach towns for low taxes and coastal living, fueling new construction, higher home prices and growing pains.\n\nMassive Northern California vineyard goes up for sale after Canada booze ban: A massive family-run California winery has fallen victim to Canada’s ban on booze imports — listing 11 vineyards amounting to 3,500 acres for sale as a wave of bankruptcies and closures rock the industry.\n\nSigns of life return to puzzlingly empty Midtown Sixth Avenue site: Posters popped up on the plywood fence announcing “construction equipment” and a fence for “proposed new 41-story hotel.” Developer put the project on hold in 2020, saying his company was too busy with other undertakings at the time.",
-    "pincusco": "Wharton Properties signs $6M loan with Indiana bank for Cane’s-occupied retail in East Flatbush.\n\nSYU Properties pays $13.4M for retail in Forest Hills.\n\nAlan Maleh signs $12.5M rehab construction loan with Genesis LLC for office in Financial District.\n\nJCS Realty Group signs $120M construction loan with Valley for 5-building dev site in Long Island City."
+    "commercial_observer": "Zara Doubles Footprint at a Macerich Shopping Center in Los Angeles County: Fashion firm Zara is more than doubling its footprint at a Southern California shopping center. The clothing retailer is expanding from 22,000 square feet to a 45,000-square-foot flagship opening next year at Macerich ’s 1.3 million-square-foot Los Cerritos Center in southeast Los Angeles County.\n\nMunicipal Credit Union Signs 6K-SF Lease for New Branch at 162-15 Jamaica Avenue: Municipal Credit Union (MCU) has signed a lease to open a new retail branch in Jamaica, Queens, Commercial Observer has learned. The not-for-profit credit union, which has locations citywide and caters only to New York City residents, signed a 15-year, roughly 6,000-square-foot lease at Michael Rosilio ’s 162-15.\n\nHappier Grocery to Open Second NYC Location on the Upper East Side: A healthy grocery retailer is opening its second New York City location on Manhattan’s Upper East Side. Happier Grocery has signed a 20,500-square-foot lease at CSC Real Estate ’s 210 East 86th Street , where it plans to open a health food store like its original one on Canal Street in the second half of 2027,.\n\nSephora’s Meatpacking District Store Relocates to 401 West 14th Street: Beauty retailer Sephora is taking a walk up the block to 401 West 14th Street . The makeup giant has signed a 4,200-square-foot deal with landlords Taconic Partners and Nuveen Real Estate to relocate its Meatpacking District store one block north from 21-27 Ninth Avenue , according to the landlords.",
+    "cre_daily": "Invesco REIT Buys Raleigh Retail Center for $87.2M: Invesco REIT acquired Knightdale Marketplace for $87.2M, including closing and leasing costs, according to AltsWire. The 323,113 SF shopping center is 100% leased with a weighted average lease term of about seven years.\n\nCore Retail Sales Hit Record as In-Store Spending Rises: Core retail sales rose 1.2% in August and 5.6% year over year, with gains across nine of 10 major retail categories. Store-based sales increased 0.6%, outpacing headline inflation and marking the second-largest monthly gain in the past 14 months.\n\nMall Values Jump 13% as Retail Recovery Accelerates: Green Street says mall values increased 13% over the past year, the strongest gain among 10 commercial property sectors. Limited new supply, resilient consumer spending and tenant upgrades have supported occupancy, rent growth and investor interest.\n\nRestaurant Traffic Falls 2.4% Across US in August: US dining visits fell 2.4% year over year in August, reversing gradual improvement recorded in June and July. Overall retail visits still rose 0.3%, but growth slowed sharply from 1.7% in July.",
+    "new_york_post": "Rams turning rundown mall into new 52-acre, $10 billion village HQ with thousands of homes planned: Permanent construction is targeted for 2027, with the broader neighborhood expected to be built out in phases spanning roughly a decade.\n\nBaby Boomers are pouring into Eastern seaboard state — rejecting cities’ unaffordable taxation: Baby Boomers are moving to the first state's beach towns for low taxes and coastal living, fueling new construction, higher home prices and growing pains.\n\nMassive Northern California vineyard goes up for sale after Canada booze ban: A massive family-run California winery has fallen victim to Canada’s ban on booze imports — listing 11 vineyards amounting to 3,500 acres for sale as a wave of bankruptcies and closures rock the industry.\n\nNYC gets crushed in affordability ranking for renters — but nearly tops the list for 1 huge perk: Manhattan, Brooklyn and Queens rank near the bottom of RentCafe’s 2026 best cities for renters list as high housing costs drag down NYC.",
+    "pincusco": "Related, Hudson Companies sign $260M loan for 242 units, retail, on Roosevelt Island.\n\nDavid Tabak, Borough Developers pay $83.5M for 297-unit dev site in Brooklyn, sign ground lease with Heartfelt Builders.\n\nVault Realty signs $7.1M acquisition loan with Derby Copeland Capital for two properties in Lincoln Square.\n\nVAJA Group pays $26.9M for dev site in Ditmars Steinway, last sold for $6,900 in 1968."
   },
   "items": [
+    {
+      "headline": "Zara Doubles Footprint at a Macerich Shopping Center in Los Angeles County",
+      "summary": "Fashion firm Zara is more than doubling its footprint at a Southern California shopping center. The clothing retailer is expanding from 22,000 square feet to a 45,000-square-foot flagship opening next year at Macerich ’s 1.3 million-square-foot Los Cerritos Center in southeast Los Angeles County. Zara’s existing store will remain open during construction. The property is at 239 Los Cerritos Center near the border between L.A. and Orange counties.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/zara-macerich-cerritos/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-23T18:20:26.000Z"
+    },
     {
       "headline": "Municipal Credit Union Signs 6K-SF Lease for New Branch at 162-15 Jamaica Avenue",
       "summary": "Municipal Credit Union (MCU) has signed a lease to open a new retail branch in Jamaica, Queens, Commercial Observer has learned. The not-for-profit credit union, which has locations citywide and caters only to New York City residents, signed a 15-year, roughly 6,000-square-foot lease at Michael Rosilio ’s 162-15 Jamaica Avenue , according to landlord broker Augenbaum Realty . Asking rent for the ground-floor space in Jamaica’s business district was more than $100 per square foot, according to the brokerage.…",
@@ -30,6 +39,15 @@
       "published_at": "2026-09-23T05:22:11.000Z"
     },
     {
+      "headline": "Core Retail Sales Hit Record as In-Store Spending Rises",
+      "summary": "Core retail sales rose 1.2% in August and 5.6% year over year, with gains across nine of 10 major retail categories. Store-based sales increased 0.6%, outpacing headline inflation and marking the second-largest monthly gain in the past 14 months. Preliminary Q3 2026 data showed positive net absorption across single- and multi-tenant retail, with supply roughly in line with demand. Key Takeaways Consumer spending strengthened broadly in August, supporting both online and physical retail.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/core-retail-sales-hit-record-as-in-store-spending-rises/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-09-24T05:06:03.000Z"
+    },
+    {
       "headline": "Mall Values Jump 13% as Retail Recovery Accelerates",
       "summary": "Green Street says mall values increased 13% over the past year, the strongest gain among 10 commercial property sectors. Limited new supply, resilient consumer spending and tenant upgrades have supported occupancy, rent growth and investor interest. Major owners including URW and CBL are increasing exposure again, although mall values remain below their decade-ago peak. Key Takeaways The Wall Street Journal reports that malls have become the top-performing commercial real estate sector after years of distress.…",
       "source": "CRE Daily",
@@ -37,15 +55,6 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-09-15T07:20:00.000Z"
-    },
-    {
-      "headline": "Hibachi Eatery Bijin Omakase Signs 5K-SF Lease in Long Island City",
-      "summary": "A hibachi restaurant is igniting the burner in Long Island City, Queens. Bijin Omakase signed a 15-year, 5,077-square-foot lease at the base of Trio , a nine-story, 34-unit residential development owned by ZD Jasper Realty at 27-19 Thomson Avenue near where the thoroughfare meets popular Jackson Avenue, according to landlord and tenant broker RTL . Asking rent for the space was $130 per square foot.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/bijin-omakase-lease-zd-jasper-realty-27-19-thomson-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-09T20:11:04.000Z"
     },
     {
       "headline": "Happier Grocery to Open Second NYC Location on the Upper East Side",
@@ -75,13 +84,31 @@
       "published_at": "2026-09-17T06:48:30.000Z"
     },
     {
-      "headline": "Lululemon Slows US Store Growth as New CEO Takes Helm",
-      "summary": "Lululemon plans to open a net 35 new stores in 2026, down from its previous target of 40, while cutting 25 planned pop-ups. North American sales fell 12%, and global profit declined 1% to $1.5B, including roughly $135M in tariff refunds. The pullback signals a more cautious retail leasing environment as consumers reduce spending and brands reassess expansion commitments. Key Takeaways Bisnow reports that Lululemon is scaling back its US store expansion plans as weaker sales pressure the athleisure retailer.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/lululemon-slows-us-store-growth-as-new-ceo-takes-helm/",
-      "section": "cre_daily",
+      "headline": "Related, Hudson Companies sign $260M loan for 242 units, retail, on Roosevelt Island",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/related-hudson-companies-sign-260m-loan-for-242-units-retail-on-roosevelt-island/",
+      "section": "pincusco",
       "retail": true,
-      "published_at": "2026-09-10T06:10:40.000Z"
+      "published_at": "2026-09-24T14:47:00.000Z"
+    },
+    {
+      "headline": "Nomic AI Inks 5K-SF Deal at 99 University Place Near Union Square",
+      "summary": "Four tenants have signed office deals adding up to 15,593 square feet at a 10-story office building near Manhattan’s Union Square , Commercial Observer has learned. Design software firm Nomic AI , therapy space provider Therapeutic Alliance Suites and construction systems developer T Moriarty & Son each signed 4,890-square-foot leases across full floors of Bijan Nassi ’s 99 University Place , according to landlord broker Noah & Co. Asking rent in the building is $55 per square foot, Noah & Co. said.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/nomic-ai-lease-99-university-place/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-23T20:21:06.000Z"
+    },
+    {
+      "headline": "Conduct AI Takes 7K SF at Capstone’s 140 Crosby Street for First U.S. Office",
+      "summary": "A London-based artificial intelligence firm developing enterprise software is establishing its first U.S. office presence in Manhattan’s SoHo neighborhood, Commercial Observer has learned. The rapidly growing Conduct AI has signed a 6,705-square-foot lease on the entire third floor of 140 Crosby Street , owned by Capstone Equities , Rugby Realty and Republic Investment Company , according to landlord broker JLL . JLL did not immediately disclose the length of the lease or the rent involved.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/conduct-ai-lease-capstone-140-crosby-street/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-23T18:21:10.000Z"
     },
     {
       "headline": "Distyl AI Doubles Its 135 Madison Offices to 30K SF After Less Than a Year",
@@ -93,40 +120,13 @@
       "published_at": "2026-09-22T21:12:44.000Z"
     },
     {
-      "headline": "Allied Global Marketing Renews 28K-SF Lease at the Woolworth Building",
-      "summary": "A marketing firm geared toward hospitality and sports is renewing its office space in the Financial District’s iconic Woolworth Building . Allied Global Marketing signed a three-year lease renewal for the 28,098-square-foot office it occupies on the entire 13th floor of the Cammeby’s International -owned building in Lower Manhattan, where it has been since 2016, according to the landlord.…",
+      "headline": "Irish Arts Center Signs 4K-SF Lease at GFP’s 630 Ninth Avenue",
+      "summary": "GFP Real Estate has signed three new office deals at its Film Center Building in Hell’s Kitchen. The largest of the leases at 630 Ninth Avenue was for the Irish Arts Center , the corporate entity of which is known in the Hibernian tongue as An Claidheamh Soluis , which signed a three-year, 4,422-square-foot lease on the 14th floor of the building while its permanent location at 553 West 51st Street is redeveloped, according to GFP.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/allied-global-marketing-lease-renewal-woolworth-building/",
+      "url": "https://commercialobserver.com/2026/09/irish-arts-center-lease-gfp-630-ninth-avenue/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-09-22T18:42:43.000Z"
-    },
-    {
-      "headline": "AI Firm Rogo Technologies Doubles 360 Park Avenue South Footprint to 46K SF",
-      "summary": "New York-based artificial intelligence startup Rogo Technologies has doubled its Midtown South headquarters at BXP ’s 360 Park Avenue South . Rogo, founded in 2022 to develop software for the financial services industry, added 23,000 square feet to occupy a second full floor in the 20-story tower, Commercial Observer has learned.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/rogo-technologies-360-park-avenue-south-lease-expansion/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-22T16:07:51.000Z"
-    },
-    {
-      "headline": "Wharton Properties signs $6M loan with Indiana bank for Cane’s-occupied retail in East Flatbush",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/wharton-properties-signs-6m-loan-with-indiana-bank-for-canes-occupied-retail-in-east-flatbush/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-09-23T14:44:00.000Z"
-    },
-    {
-      "headline": "Office Tenants Should Negotiate Cell Coverage Like a Lease Issue",
-      "summary": "For most of the past two decades, connectivity in office buildings followed a simple division of labor. Tenants bought their own wi-fi. Wireless carriers delivered the cellular signal, and often funded the in-building systems that made it work. That arrangement for cellular signal is over, and commercial real estate has been slow to realize it.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/cell-coverage-office-tenantw/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-22T18:54:15.000Z"
+      "published_at": "2026-09-23T16:26:26.000Z"
     },
     {
       "headline": "Rams turning rundown mall into new 52-acre, $10 billion village HQ with thousands of homes planned",
@@ -145,6 +145,15 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-09-20T11:59:43.000Z"
+    },
+    {
+      "headline": "David Tabak, Borough Developers pay $83.5M for 297-unit dev site in Brooklyn, sign ground lease with Heartfelt Builders",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/david-tabak-borough-developers-pay-83-5m-for-297-unit-dev-site-in-brooklyn-sign-ground-lease-with-r-feder/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-09-24T12:00:00.000Z"
     },
     {
       "headline": "The C-PACE Opportunity for Ground-Leased Properties",
@@ -192,15 +201,6 @@
       "published_at": "2026-09-10T17:19:54.000Z"
     },
     {
-      "headline": "SYU Properties pays $13.4M for retail in Forest Hills",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/syu-properties-pays-13-4m-for-retail-in-forest-hills/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-09-23T13:52:00.000Z"
-    },
-    {
       "headline": "Wellness Tenants Emerge as New Retail Traffic Anchors",
       "summary": "Fitness, recovery, spa, and health concepts are increasingly functioning as primary traffic anchors for retail properties. Health and beauty locations have nearly doubled since 2018, expanding at an 8.4% annual rate, according to Newmark. Recurring memberships, frequent visits, and hospitality-driven design are strengthening the real estate case for wellness tenants. Key Takeaways Health and wellness concepts are moving from niche tenants to primary retail traffic drivers, Newmark wrote.…",
       "source": "CRE Daily",
@@ -228,31 +228,22 @@
       "published_at": "2026-09-15T14:09:20.000Z"
     },
     {
-      "headline": "Alan Maleh signs $12.5M rehab construction loan with Genesis LLC for office in Financial District",
+      "headline": "Vault Realty signs $7.1M acquisition loan with Derby Copeland Capital for two properties in Lincoln Square",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/alan-maleh-signs-12-5m-rehab-construction-loan-with-genesis-llc-for-office-in-financial-district/",
+      "url": "https://www.pincusco.com/vault-realty-signs-7-1m-acquisition-loan-with-derby-copeland-capital-for-two-properties-in-lincoln-square/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-23T14:17:00.000Z"
+      "published_at": "2026-09-24T14:31:00.000Z"
     },
     {
-      "headline": "JCS Realty Group signs $120M construction loan with Valley for 5-building dev site in Long Island City",
+      "headline": "VAJA Group pays $26.9M for dev site in Ditmars Steinway, last sold for $6,900 in 1968",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/jcs-realty-group-signs-120m-construction-loan-with-valley-for-5-building-dev-site-in-long-island-city/",
+      "url": "https://www.pincusco.com/vaja-group-pays-26-9m-for-dev-site-in-ditmars-steinway/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-23T13:43:00.000Z"
-    },
-    {
-      "headline": "Joseph A. Brizzi & Sons funeral home pays $2.1M for mixed-use in Dyker Heights",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/joseph-a-brizzi-sons-funeral-home-pays-2-1m-for-mixed-use-in-dyker-heights/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-23T14:25:00.000Z"
+      "published_at": "2026-09-24T13:18:00.000Z"
     },
     {
       "headline": "Baby Boomers are pouring into Eastern seaboard state — rejecting cities’ unaffordable taxation",
@@ -273,13 +264,22 @@
       "published_at": "2026-09-21T20:50:18.000Z"
     },
     {
-      "headline": "Signs of life return to puzzlingly empty Midtown Sixth Avenue site",
-      "summary": "Posters popped up on the plywood fence announcing “construction equipment” and a fence for “proposed new 41-story hotel.” Developer put the project on hold in 2020, saying his company was too busy with other undertakings at the time.",
+      "headline": "Billion-Dollar Blockbusters Won’t Revive L.A.’s Film Industry",
+      "summary": "Hollywood, or at least some aspect of it, had a summer. Between massive box office performances from “The Odyssey” (partially shot in Los Angeles), “Spider-Man: Brand New Day” and “Obsession,” the industry appears to have recaptured some of its cultural magnetism and moneymaking ways. Adjusted for inflation, the movie industry’s $4.76 billion summer ticket haul represented a 26 percent jump from the summer of 2025.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/billion-dollar-blockbusters-los-angeles-sounstages-studios-challenges/",
+      "section": "commercial_observer",
+      "retail": false,
+      "published_at": "2026-09-15T11:43:13.000Z"
+    },
+    {
+      "headline": "NYC gets crushed in affordability ranking for renters — but nearly tops the list for 1 huge perk",
+      "summary": "Manhattan, Brooklyn and Queens rank near the bottom of RentCafe’s 2026 best cities for renters list as high housing costs drag down NYC.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/09/21/business/signs-of-life-return-to-puzzlingly-empty-midtown-sixth-avenue-site/",
+      "url": "https://nypost.com/2026/09/23/real-estate/nyc-gets-crushed-in-affordability-ranking-for-renters/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-09-21T19:15:42.000Z"
+      "published_at": "2026-09-23T19:27:49.000Z"
     }
   ]
 }
