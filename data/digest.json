@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-09-24",
-  "generated_at": "2026-09-24T14:52:47.736Z",
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T15:07:27.283Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Zara Doubles Footprint at a Macerich Shopping Center in Los Angeles County: Fashion firm Zara is more than doubling its footprint at a Southern California shopping center. The clothing retailer is expanding from 22,000 square feet to a 45,000-square-foot flagship opening next year at Macerich ’s 1.3 million-square-foot Los Cerritos Center in southeast Los Angeles County.\n\nMunicipal Credit Union Signs 6K-SF Lease for New Branch at 162-15 Jamaica Avenue: Municipal Credit Union (MCU) has signed a lease to open a new retail branch in Jamaica, Queens, Commercial Observer has learned. The not-for-profit credit union, which has locations citywide and caters only to New York City residents, signed a 15-year, roughly 6,000-square-foot lease at Michael Rosilio ’s 162-15.\n\nHappier Grocery to Open Second NYC Location on the Upper East Side: A healthy grocery retailer is opening its second New York City location on Manhattan’s Upper East Side. Happier Grocery has signed a 20,500-square-foot lease at CSC Real Estate ’s 210 East 86th Street , where it plans to open a health food store like its original one on Canal Street in the second half of 2027,.\n\nSephora’s Meatpacking District Store Relocates to 401 West 14th Street: Beauty retailer Sephora is taking a walk up the block to 401 West 14th Street . The makeup giant has signed a 4,200-square-foot deal with landlords Taconic Partners and Nuveen Real Estate to relocate its Meatpacking District store one block north from 21-27 Ninth Avenue , according to the landlords.",
-    "cre_daily": "Invesco REIT Buys Raleigh Retail Center for $87.2M: Invesco REIT acquired Knightdale Marketplace for $87.2M, including closing and leasing costs, according to AltsWire. The 323,113 SF shopping center is 100% leased with a weighted average lease term of about seven years.\n\nCore Retail Sales Hit Record as In-Store Spending Rises: Core retail sales rose 1.2% in August and 5.6% year over year, with gains across nine of 10 major retail categories. Store-based sales increased 0.6%, outpacing headline inflation and marking the second-largest monthly gain in the past 14 months.\n\nMall Values Jump 13% as Retail Recovery Accelerates: Green Street says mall values increased 13% over the past year, the strongest gain among 10 commercial property sectors. Limited new supply, resilient consumer spending and tenant upgrades have supported occupancy, rent growth and investor interest.\n\nRestaurant Traffic Falls 2.4% Across US in August: US dining visits fell 2.4% year over year in August, reversing gradual improvement recorded in June and July. Overall retail visits still rose 0.3%, but growth slowed sharply from 1.7% in July.",
-    "new_york_post": "Rams turning rundown mall into new 52-acre, $10 billion village HQ with thousands of homes planned: Permanent construction is targeted for 2027, with the broader neighborhood expected to be built out in phases spanning roughly a decade.\n\nBaby Boomers are pouring into Eastern seaboard state — rejecting cities’ unaffordable taxation: Baby Boomers are moving to the first state's beach towns for low taxes and coastal living, fueling new construction, higher home prices and growing pains.\n\nMassive Northern California vineyard goes up for sale after Canada booze ban: A massive family-run California winery has fallen victim to Canada’s ban on booze imports — listing 11 vineyards amounting to 3,500 acres for sale as a wave of bankruptcies and closures rock the industry.\n\nNYC gets crushed in affordability ranking for renters — but nearly tops the list for 1 huge perk: Manhattan, Brooklyn and Queens rank near the bottom of RentCafe’s 2026 best cities for renters list as high housing costs drag down NYC.",
-    "pincusco": "Related, Hudson Companies sign $260M loan for 242 units, retail, on Roosevelt Island.\n\nDavid Tabak, Borough Developers pay $83.5M for 297-unit dev site in Brooklyn, sign ground lease with Heartfelt Builders.\n\nVault Realty signs $7.1M acquisition loan with Derby Copeland Capital for two properties in Lincoln Square.\n\nVAJA Group pays $26.9M for dev site in Ditmars Steinway, last sold for $6,900 in 1968."
+    "cre_daily": "Retail Demand Grows as Construction Hits Record Low: US retailers posted a net gain of 127 stores through Aug. 28, adding 28.6M SF of occupied retail space.\n\nInvesco REIT Buys Raleigh Retail Center for $87.2M: Invesco REIT acquired Knightdale Marketplace for $87.2M, including closing and leasing costs, according to AltsWire. The 323,113 SF shopping center is 100% leased with a weighted average lease term of about seven years.\n\nCore Retail Sales Hit Record as In-Store Spending Rises: Core retail sales rose 1.2% in August and 5.6% year over year, with gains across nine of 10 major retail categories. Store-based sales increased 0.6%, outpacing headline inflation and marking the second-largest monthly gain in the past 14 months.\n\nMall Values Jump 13% as Retail Recovery Accelerates: Green Street says mall values increased 13% over the past year, the strongest gain among 10 commercial property sectors. Limited new supply, resilient consumer spending and tenant upgrades have supported occupancy, rent growth and investor interest.",
+    "new_york_post": "Homeowner wins 3-year war with HOA — and forces association to pay her $33K legal bill: A San Antonio homeowner won more than $33,000 after a three-year legal battle with her HOA over rental restrictions, a lost tenant and a home sale.\n\n‘Happier Grocery’ to revamp long-abandoned UES movie theater space: The Erewhon of NYC is getting a second locale.\n\nLegendary California oyster enclave on sale for $13M after 101-year run.\n\nFamed co-op stands to become the biggest loser in NYC history — as $67.5M home faces a $55.5M discount: A full-floor residence in the Sherry-Netherland where an alleged Chinese spy once lived is in contract — its last asking price was $12 million. In 2015, its owner paid $67.5 million cash for it.",
+    "pincusco": "Related, Hudson Companies sign $260M loan for 242 units, retail, on Roosevelt Island.\n\nKuljinder Kaur pays $3.4M for retail in Utopia.\n\nRoei Paz files plans for 75 units in Crown Heights.\n\nShmili Frenkel files plans for 34 units in Highbridge."
   },
   "items": [
     {
@@ -28,6 +28,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-09-11T15:26:00.000Z"
+    },
+    {
+      "headline": "Retail Demand Grows as Construction Hits Record Low",
+      "summary": "US retailers posted a net gain of 127 stores through Aug. 28, adding 28.6M SF of occupied retail space. Retail recorded 10.2M SF of positive Q2 net absorption while vacancy remained near 4.4%. Q2 completions fell to a record-low 5.2M SF as construction costs continued to outpace rent growth across most markets. Key Takeaways Bisnow reports that US retail leasing and store growth are accelerating while new construction remains constrained. Coresight Research counted a net gain of 127 store openings through Aug.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/retail-demand-grows-as-construction-hits-record-low/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-09-25T05:13:45.000Z"
     },
     {
       "headline": "Invesco REIT Buys Raleigh Retail Center for $87.2M",
@@ -93,6 +102,15 @@
       "published_at": "2026-09-24T14:47:00.000Z"
     },
     {
+      "headline": "Newmark, Cushman & Wakefield Among Winners at REBNY’s 2026 Retail Deal Awards",
+      "summary": "At an event of nearly 150 members and guests on Wednesday night, the Real Estate Board of New York (REBNY) recognized the most influential retail deals completed in New York City in the past year. REBNY evaluated retail sales, leasing and development transactions regardless of size and complexity, ranging from large apparel manufacturer leases to luxury hotel redevelopments. The board awarded three winners.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/newmark-cushman-wakefield-winners-rebny-retail-awards/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-24T15:00:27.000Z"
+    },
+    {
       "headline": "Nomic AI Inks 5K-SF Deal at 99 University Place Near Union Square",
       "summary": "Four tenants have signed office deals adding up to 15,593 square feet at a 10-story office building near Manhattan’s Union Square , Commercial Observer has learned. Design software firm Nomic AI , therapy space provider Therapeutic Alliance Suites and construction systems developer T Moriarty & Son each signed 4,890-square-foot leases across full floors of Bijan Nassi ’s 99 University Place , according to landlord broker Noah & Co. Asking rent in the building is $55 per square foot, Noah & Co. said.…",
       "source": "Commercial Observer",
@@ -111,31 +129,31 @@
       "published_at": "2026-09-23T18:21:10.000Z"
     },
     {
-      "headline": "Distyl AI Doubles Its 135 Madison Offices to 30K SF After Less Than a Year",
-      "summary": "Software development company Distyl AI has room to grow. The artificial intelligence-powered developer of operating systems for large companies has leased the entire ninth floor at 135 Madison Avenue in Manhattan’s NoMad neighborhood, according to building manager Koeppel Rosen , bringing the company’s total footprint to 30,076 square feet.…",
+      "headline": "Pistola Denim Takes Nearly 18K SF at ROW DTLA",
+      "summary": "Denim and womenswear company Pistola Denim has signed a 17,922-square-foot office lease at Atlas Capital Group ’s ROW DTLA , adding another fashion company to the nearly 2 million-square-foot Downtown Los Angeles complex. Grace Na founded Pistola in 2013. The L.A.-based brand will move its creative team from warehouse and distribution space in Vernon. The terms of the lease were not disclosed.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/distyl-ai-135-madison-lease-expansion/",
+      "url": "https://commercialobserver.com/2026/09/pistola-denim-row-dtla/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-09-22T21:12:44.000Z"
+      "published_at": "2026-09-24T21:45:18.000Z"
     },
     {
-      "headline": "Irish Arts Center Signs 4K-SF Lease at GFP’s 630 Ninth Avenue",
-      "summary": "GFP Real Estate has signed three new office deals at its Film Center Building in Hell’s Kitchen. The largest of the leases at 630 Ninth Avenue was for the Irish Arts Center , the corporate entity of which is known in the Hibernian tongue as An Claidheamh Soluis , which signed a three-year, 4,422-square-foot lease on the 14th floor of the building while its permanent location at 553 West 51st Street is redeveloped, according to GFP.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/irish-arts-center-lease-gfp-630-ninth-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-23T16:26:26.000Z"
-    },
-    {
-      "headline": "Rams turning rundown mall into new 52-acre, $10 billion village HQ with thousands of homes planned",
-      "summary": "Permanent construction is targeted for 2027, with the broader neighborhood expected to be built out in phases spanning roughly a decade.",
+      "headline": "Homeowner wins 3-year war with HOA — and forces association to pay her $33K legal bill",
+      "summary": "A San Antonio homeowner won more than $33,000 after a three-year legal battle with her HOA over rental restrictions, a lost tenant and a home sale.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/09/21/sports/rams-turning-rundown-mall-into-new-52-acre-10-billion-village-hq/",
+      "url": "https://nypost.com/2026/09/24/real-estate/texas-homeowner-wins-3-year-war-with-hoa/",
       "section": "new_york_post",
       "retail": true,
-      "published_at": "2026-09-21T22:14:30.000Z"
+      "published_at": "2026-09-24T16:15:17.000Z"
+    },
+    {
+      "headline": "Cerity Partners Expands to 68K SF at Global Holdings’ 99 Park Avenue",
+      "summary": "Wealth management firm Cerity Partners is expanding its offices at Midtown’s 99 Park Avenue . The tenant, which just expanded to 48,671 square feet at the building in December , has signed a deal for 19,600 additional square feet on the eighth floor of Global Holdings ’ 26-story office building, bringing its total footprint to about 68,300 square feet, according to the landlord. It was a 15-year deal with an asking rent starting at $90 per square foot, Global Holdings confirmed.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/cerity-partners-lease-expansion-global-holdings-99-park-avenue/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-24T15:31:26.000Z"
     },
     {
       "headline": "Toys R Us Plans 120 Holiday Stores in Retail Push",
@@ -145,24 +163,6 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-09-20T11:59:43.000Z"
-    },
-    {
-      "headline": "David Tabak, Borough Developers pay $83.5M for 297-unit dev site in Brooklyn, sign ground lease with Heartfelt Builders",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/david-tabak-borough-developers-pay-83-5m-for-297-unit-dev-site-in-brooklyn-sign-ground-lease-with-r-feder/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-09-24T12:00:00.000Z"
-    },
-    {
-      "headline": "The C-PACE Opportunity for Ground-Leased Properties",
-      "summary": "Ground leases underlie some of the country’s most valuable commercial real estate. They are common in high-value markets such as Manhattan and are frequently used when land is owned by a university, public authority, institution or large corporate entity. They can also provide the long-term site control needed for projects involving new market tax credits or historical tax credits while allowing the landowner to retain fee ownership.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/c-pace-for-ground-leased-properties/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-23T13:55:39.000Z"
     },
     {
       "headline": "Asian-American Deli Café Hestia Signs 8K-SF Lease at 570 Lexington Avenue",
@@ -183,31 +183,13 @@
       "published_at": "2026-09-18T16:03:03.000Z"
     },
     {
-      "headline": "Harbor Fitness to Open 20K-SF Club at 3460 Nostrand Avenue in South Brooklyn",
-      "summary": "Harbor Fitness has signed a lease for its eighth location in Brooklyn, Commercial Observer has learned. The Brooklyn-based fitness brand signed a 25-year, 20,000-square-foot lease at Gaama Partners ’ 3460 Nostrand Avenue , according to broker Augenbaum Realty . The space was divided evenly between the first floor and the lower level of the property in Sheepshead Bay, Brooklyn. Asking rent for the space was $40 per square foot, according to the brokerage.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/harbor-fitness-lease-3460-nostrand-avenue-brooklyn/",
-      "section": "commercial_observer",
+      "headline": "Kuljinder Kaur pays $3.4M for retail in Utopia",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/kuljinder-kaur-pays-3-4m-for-retail-in-utopia/",
+      "section": "pincusco",
       "retail": true,
-      "published_at": "2026-09-11T14:30:56.000Z"
-    },
-    {
-      "headline": "Two Supermarkets Ink Deals Along Brooklyn’s Atlantic Avenue",
-      "summary": "Two new supermarkets are coming to Atlantic Avenue in Prospect Heights, Brooklyn. The grocers will arrive at two of EMP Capital Group ’s newly developed residential projects two blocks apart at 880 Atlantic Avenue and 1042 Atlantic Avenue , Commercial Observer has learned. In the largest deal, CTown Supermarkets signed a 20-year lease for 8,400 square feet at the base of the 19-story, 237-unit 1042 Atlantic Avenue, also known as Prosper Brooklyn , which was completed this year.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/supermarket-leases-880-1042-atlantic-avenue-brooklyn/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-10T17:19:54.000Z"
-    },
-    {
-      "headline": "Wellness Tenants Emerge as New Retail Traffic Anchors",
-      "summary": "Fitness, recovery, spa, and health concepts are increasingly functioning as primary traffic anchors for retail properties. Health and beauty locations have nearly doubled since 2018, expanding at an 8.4% annual rate, according to Newmark. Recurring memberships, frequent visits, and hospitality-driven design are strengthening the real estate case for wellness tenants. Key Takeaways Health and wellness concepts are moving from niche tenants to primary retail traffic drivers, Newmark wrote.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/wellness-tenants-emerge-as-new-retail-traffic-anchors/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-09-18T07:08:41.000Z"
+      "published_at": "2026-09-25T14:53:00.000Z"
     },
     {
       "headline": "In Los Angeles Retail, a Widening Divide",
@@ -219,6 +201,15 @@
       "published_at": "2026-09-14T10:00:43.000Z"
     },
     {
+      "headline": "‘Happier Grocery’ to revamp long-abandoned UES movie theater space",
+      "summary": "The Erewhon of NYC is getting a second locale.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/24/lifestyle/happier-grocery-to-revamp-abandoned-city-cinemas-movie-theater/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-09-24T16:33:26.000Z"
+    },
+    {
       "headline": "Market Shifts, New York’s Uniqueness Mean Mamdani’s Grocery Plan Could Work",
       "summary": "New York Mayor Zohran Mamdani wants to get the city into the subsidized grocery business. As his administration seeks a seasoned partner this fall to run its planned quintet of government-supported grocery stores, strong opposition means it won’t sail through the express checkout lane. Plus, a pair of new lawsuits could stop the scheme faster than you can cancel an Instacart order, and many critics decry the initiative as the first step in a descent into socialism.…",
       "source": "Commercial Observer",
@@ -228,40 +219,49 @@
       "published_at": "2026-09-15T14:09:20.000Z"
     },
     {
-      "headline": "Vault Realty signs $7.1M acquisition loan with Derby Copeland Capital for two properties in Lincoln Square",
+      "headline": "Roei Paz files plans for 75 units in Crown Heights",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/vault-realty-signs-7-1m-acquisition-loan-with-derby-copeland-capital-for-two-properties-in-lincoln-square/",
+      "url": "https://www.pincusco.com/roei-paz-files-plans-for-75-units-in-crown-heights/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-24T14:31:00.000Z"
+      "published_at": "2026-09-25T15:00:00.000Z"
     },
     {
-      "headline": "VAJA Group pays $26.9M for dev site in Ditmars Steinway, last sold for $6,900 in 1968",
+      "headline": "Shmili Frenkel files plans for 34 units in Highbridge",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/vaja-group-pays-26-9m-for-dev-site-in-ditmars-steinway/",
+      "url": "https://www.pincusco.com/shmili-frenkel-files-plans-for-34-units-in-highbridge/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-24T13:18:00.000Z"
+      "published_at": "2026-09-25T12:56:00.000Z"
     },
     {
-      "headline": "Baby Boomers are pouring into Eastern seaboard state — rejecting cities’ unaffordable taxation",
-      "summary": "Baby Boomers are moving to the first state's beach towns for low taxes and coastal living, fueling new construction, higher home prices and growing pains.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/22/real-estate/baby-boomers-flock-to-delaware-beaches-for-low-taxes/",
-      "section": "new_york_post",
+      "headline": "Jerome Zwick files plans for 20 units in Bushwick",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/jerome-zwick-files-plans-for-20-units-in-bushwick/",
+      "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-22T19:15:35.000Z"
+      "published_at": "2026-09-25T11:27:00.000Z"
     },
     {
-      "headline": "Massive Northern California vineyard goes up for sale after Canada booze ban",
-      "summary": "A massive family-run California winery has fallen victim to Canada’s ban on booze imports — listing 11 vineyards amounting to 3,500 acres for sale as a wave of bankruptcies and closures rock the industry. McManis Family Vineyards, a 36-year-old winery business, is offloading its main facility and vineyards as it faces a steep decline in...",
+      "headline": "Grun Group files plans for 99 units in Bedford Park",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/grun-group-files-plans-for-99-units-in-bedford-park/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-25T10:05:00.000Z"
+    },
+    {
+      "headline": "Legendary California oyster enclave on sale for $13M after 101-year run",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/09/21/real-estate/massive-california-vineyard-goes-up-for-sale-after-canada-booze-ban/",
+      "url": "https://nypost.com/2026/09/24/real-estate/legendary-california-oyster-enclave-on-sale-for-13m-after-101-year-run/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-09-21T20:50:18.000Z"
+      "published_at": "2026-09-24T18:08:51.000Z"
     },
     {
       "headline": "Billion-Dollar Blockbusters Won’t Revive L.A.’s Film Industry",
@@ -273,13 +273,13 @@
       "published_at": "2026-09-15T11:43:13.000Z"
     },
     {
-      "headline": "NYC gets crushed in affordability ranking for renters — but nearly tops the list for 1 huge perk",
-      "summary": "Manhattan, Brooklyn and Queens rank near the bottom of RentCafe’s 2026 best cities for renters list as high housing costs drag down NYC.",
+      "headline": "Famed co-op stands to become the biggest loser in NYC history — as $67.5M home faces a $55.5M discount",
+      "summary": "A full-floor residence in the Sherry-Netherland where an alleged Chinese spy once lived is in contract — its last asking price was $12 million. In 2015, its owner paid $67.5 million cash for it.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/09/23/real-estate/nyc-gets-crushed-in-affordability-ranking-for-renters/",
+      "url": "https://nypost.com/2026/09/24/real-estate/sherry-netherland-sees-prices-fall-as-buyers-flock-there/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-09-23T19:27:49.000Z"
+      "published_at": "2026-09-24T20:49:02.000Z"
     }
   ]
 }
