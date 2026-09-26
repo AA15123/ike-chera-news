@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-09-25",
-  "generated_at": "2026-09-25T15:07:27.283Z",
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T14:19:25.534Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Zara Doubles Footprint at a Macerich Shopping Center in Los Angeles County: Fashion firm Zara is more than doubling its footprint at a Southern California shopping center. The clothing retailer is expanding from 22,000 square feet to a 45,000-square-foot flagship opening next year at Macerich ’s 1.3 million-square-foot Los Cerritos Center in southeast Los Angeles County.\n\nMunicipal Credit Union Signs 6K-SF Lease for New Branch at 162-15 Jamaica Avenue: Municipal Credit Union (MCU) has signed a lease to open a new retail branch in Jamaica, Queens, Commercial Observer has learned. The not-for-profit credit union, which has locations citywide and caters only to New York City residents, signed a 15-year, roughly 6,000-square-foot lease at Michael Rosilio ’s 162-15.\n\nHappier Grocery to Open Second NYC Location on the Upper East Side: A healthy grocery retailer is opening its second New York City location on Manhattan’s Upper East Side. Happier Grocery has signed a 20,500-square-foot lease at CSC Real Estate ’s 210 East 86th Street , where it plans to open a health food store like its original one on Canal Street in the second half of 2027,.\n\nSephora’s Meatpacking District Store Relocates to 401 West 14th Street: Beauty retailer Sephora is taking a walk up the block to 401 West 14th Street . The makeup giant has signed a 4,200-square-foot deal with landlords Taconic Partners and Nuveen Real Estate to relocate its Meatpacking District store one block north from 21-27 Ninth Avenue , according to the landlords.",
+    "commercial_observer": "Zara Doubles Footprint at a Macerich Shopping Center in Los Angeles County: Fashion firm Zara is more than doubling its footprint at a Southern California shopping center. The clothing retailer is expanding from 22,000 square feet to a 45,000-square-foot flagship opening next year at Macerich ’s 1.3 million-square-foot Los Cerritos Center in southeast Los Angeles County.\n\nHappier Grocery to Open Second NYC Location on the Upper East Side: A healthy grocery retailer is opening its second New York City location on Manhattan’s Upper East Side. Happier Grocery has signed a 20,500-square-foot lease at CSC Real Estate ’s 210 East 86th Street , where it plans to open a health food store like its original one on Canal Street in the second half of 2027,.\n\nSephora’s Meatpacking District Store Relocates to 401 West 14th Street: Beauty retailer Sephora is taking a walk up the block to 401 West 14th Street . The makeup giant has signed a 4,200-square-foot deal with landlords Taconic Partners and Nuveen Real Estate to relocate its Meatpacking District store one block north from 21-27 Ninth Avenue , according to the landlords.\n\nLegion Investment Group, SMA Equities Pair on 300K-SF UES Resi Project: Legion Investment Group and SMA Equities have teamed on a 300,000-square-foot residential development rising on Manhattan’s Upper East Side. The new partnership secured a $99 million pre-development loan for the 37-story project at 1491-1497 Third Avenue on Thursday, according to The Real Deal , which first reported.",
     "cre_daily": "Retail Demand Grows as Construction Hits Record Low: US retailers posted a net gain of 127 stores through Aug. 28, adding 28.6M SF of occupied retail space.\n\nInvesco REIT Buys Raleigh Retail Center for $87.2M: Invesco REIT acquired Knightdale Marketplace for $87.2M, including closing and leasing costs, according to AltsWire. The 323,113 SF shopping center is 100% leased with a weighted average lease term of about seven years.\n\nCore Retail Sales Hit Record as In-Store Spending Rises: Core retail sales rose 1.2% in August and 5.6% year over year, with gains across nine of 10 major retail categories. Store-based sales increased 0.6%, outpacing headline inflation and marking the second-largest monthly gain in the past 14 months.\n\nMall Values Jump 13% as Retail Recovery Accelerates: Green Street says mall values increased 13% over the past year, the strongest gain among 10 commercial property sectors. Limited new supply, resilient consumer spending and tenant upgrades have supported occupancy, rent growth and investor interest.",
-    "new_york_post": "Homeowner wins 3-year war with HOA — and forces association to pay her $33K legal bill: A San Antonio homeowner won more than $33,000 after a three-year legal battle with her HOA over rental restrictions, a lost tenant and a home sale.\n\n‘Happier Grocery’ to revamp long-abandoned UES movie theater space: The Erewhon of NYC is getting a second locale.\n\nLegendary California oyster enclave on sale for $13M after 101-year run.\n\nFamed co-op stands to become the biggest loser in NYC history — as $67.5M home faces a $55.5M discount: A full-floor residence in the Sherry-Netherland where an alleged Chinese spy once lived is in contract — its last asking price was $12 million. In 2015, its owner paid $67.5 million cash for it.",
-    "pincusco": "Related, Hudson Companies sign $260M loan for 242 units, retail, on Roosevelt Island.\n\nKuljinder Kaur pays $3.4M for retail in Utopia.\n\nRoei Paz files plans for 75 units in Crown Heights.\n\nShmili Frenkel files plans for 34 units in Highbridge."
+    "new_york_post": "Homeowner wins 3-year war with HOA — and forces association to pay her $33K legal bill: A San Antonio homeowner won more than $33,000 after a three-year legal battle with her HOA over rental restrictions, a lost tenant and a home sale.\n\n‘Happier Grocery’ to revamp long-abandoned UES movie theater space: The Erewhon of NYC is getting a second locale.\n\n‘The Gateway to the Rockies’ suddenly becomes America’s most in-demand ZIP code: An airport-adjacent Denver suburb just rocketed to No. 1 as movers chase fresh construction and cheaper dirt.\n\nLegendary California oyster enclave on sale for $13M after 101-year run.",
+    "pincusco": "Kuljinder Kaur pays $3.4M for retail in Utopia.\n\nGlobal Holdings Management signs $382.4M refi with Wells Fargo for office in Grand Central.\n\nDiamond National Investments signs $75.8M refi for 218 units, parking, in Morrisania.\n\nRoei Paz files plans for 75 units in Crown Heights."
   },
   "items": [
     {
@@ -19,15 +19,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-09-23T18:20:26.000Z"
-    },
-    {
-      "headline": "Municipal Credit Union Signs 6K-SF Lease for New Branch at 162-15 Jamaica Avenue",
-      "summary": "Municipal Credit Union (MCU) has signed a lease to open a new retail branch in Jamaica, Queens, Commercial Observer has learned. The not-for-profit credit union, which has locations citywide and caters only to New York City residents, signed a 15-year, roughly 6,000-square-foot lease at Michael Rosilio ’s 162-15 Jamaica Avenue , according to landlord broker Augenbaum Realty . Asking rent for the ground-floor space in Jamaica’s business district was more than $100 per square foot, according to the brokerage.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/municipal-credit-union-lease-162-15-jamaica-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-11T15:26:00.000Z"
     },
     {
       "headline": "Retail Demand Grows as Construction Hits Record Low",
@@ -93,13 +84,13 @@
       "published_at": "2026-09-17T06:48:30.000Z"
     },
     {
-      "headline": "Related, Hudson Companies sign $260M loan for 242 units, retail, on Roosevelt Island",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/related-hudson-companies-sign-260m-loan-for-242-units-retail-on-roosevelt-island/",
-      "section": "pincusco",
+      "headline": "Legion Investment Group, SMA Equities Pair on 300K-SF UES Resi Project",
+      "summary": "Legion Investment Group and SMA Equities have teamed on a 300,000-square-foot residential development rising on Manhattan’s Upper East Side. The new partnership secured a $99 million pre-development loan for the 37-story project at 1491-1497 Third Avenue on Thursday, according to The Real Deal , which first reported the news.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/legion-investment-group-sma-equities-residential-1491-third-avenue/",
+      "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-09-24T14:47:00.000Z"
+      "published_at": "2026-09-25T18:59:10.000Z"
     },
     {
       "headline": "Newmark, Cushman & Wakefield Among Winners at REBNY’s 2026 Retail Deal Awards",
@@ -111,22 +102,13 @@
       "published_at": "2026-09-24T15:00:27.000Z"
     },
     {
-      "headline": "Nomic AI Inks 5K-SF Deal at 99 University Place Near Union Square",
-      "summary": "Four tenants have signed office deals adding up to 15,593 square feet at a 10-story office building near Manhattan’s Union Square , Commercial Observer has learned. Design software firm Nomic AI , therapy space provider Therapeutic Alliance Suites and construction systems developer T Moriarty & Son each signed 4,890-square-foot leases across full floors of Bijan Nassi ’s 99 University Place , according to landlord broker Noah & Co. Asking rent in the building is $55 per square foot, Noah & Co. said.…",
+      "headline": "Construction Firm Brasfield & Gorrie Inks 19K-SF Lease in Broward County",
+      "summary": "Construction firm Brasfield & Gorrie is relocating in South Florida, from Coral Gables to Weston, where it signed a 19,330-square-foot lease. The general contractor will move into the Weston Pointe I building in the second quarter of 2027, according to JLL , which represented the tenant. It will occupy most of the third floor within the four-story building at 2400 North Commerce Parkway , just west of I-75. It’s part of the two-building Weston Pointe campus that was built between 1999 and 2001.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/nomic-ai-lease-99-university-place/",
+      "url": "https://commercialobserver.com/2026/09/brasfield-gorrie-weston-broward-county/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-09-23T20:21:06.000Z"
-    },
-    {
-      "headline": "Conduct AI Takes 7K SF at Capstone’s 140 Crosby Street for First U.S. Office",
-      "summary": "A London-based artificial intelligence firm developing enterprise software is establishing its first U.S. office presence in Manhattan’s SoHo neighborhood, Commercial Observer has learned. The rapidly growing Conduct AI has signed a 6,705-square-foot lease on the entire third floor of 140 Crosby Street , owned by Capstone Equities , Rugby Realty and Republic Investment Company , according to landlord broker JLL . JLL did not immediately disclose the length of the lease or the rent involved.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/conduct-ai-lease-capstone-140-crosby-street/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-23T18:21:10.000Z"
+      "published_at": "2026-09-25T20:55:34.000Z"
     },
     {
       "headline": "Pistola Denim Takes Nearly 18K SF at ROW DTLA",
@@ -219,6 +201,33 @@
       "published_at": "2026-09-15T14:09:20.000Z"
     },
     {
+      "headline": "‘The Gateway to the Rockies’ suddenly becomes America’s most in-demand ZIP code",
+      "summary": "An airport-adjacent Denver suburb just rocketed to No. 1 as movers chase fresh construction and cheaper dirt.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/25/real-estate/these-are-americas-hottest-zip-codes/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-09-25T18:42:31.000Z"
+    },
+    {
+      "headline": "Global Holdings Management signs $382.4M refi with Wells Fargo for office in Grand Central",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/global-holdings-management-signs-382-4m-refi-with-wells-fargo-for-office-in-grand-central/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-25T15:26:00.000Z"
+    },
+    {
+      "headline": "Diamond National Investments signs $75.8M refi for 218 units, parking, in Morrisania",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/diamond-national-investments-signs-75-8m-refi-for-218-units-parking-in-morrisania/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-25T15:23:00.000Z"
+    },
+    {
       "headline": "Roei Paz files plans for 75 units in Crown Heights",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
@@ -226,33 +235,6 @@
       "section": "pincusco",
       "retail": false,
       "published_at": "2026-09-25T15:00:00.000Z"
-    },
-    {
-      "headline": "Shmili Frenkel files plans for 34 units in Highbridge",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/shmili-frenkel-files-plans-for-34-units-in-highbridge/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-25T12:56:00.000Z"
-    },
-    {
-      "headline": "Jerome Zwick files plans for 20 units in Bushwick",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/jerome-zwick-files-plans-for-20-units-in-bushwick/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-25T11:27:00.000Z"
-    },
-    {
-      "headline": "Grun Group files plans for 99 units in Bedford Park",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/grun-group-files-plans-for-99-units-in-bedford-park/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-25T10:05:00.000Z"
     },
     {
       "headline": "Legendary California oyster enclave on sale for $13M after 101-year run",
@@ -271,6 +253,24 @@
       "section": "commercial_observer",
       "retail": false,
       "published_at": "2026-09-15T11:43:13.000Z"
+    },
+    {
+      "headline": "NYC ranks fifth-hardest metro for first-time homebuyers — 7% mortgage rates are squeezing them even more",
+      "summary": "New York homebuyers face a widening affordability gap as mortgage rates top 7%, while high prices and limited inventory keep adding to the squeeze.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/25/real-estate/nyc-housing-affordability-worsens-as-mortgage-rates-climb-above-7/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-09-25T18:26:43.000Z"
+    },
+    {
+      "headline": "Joe Jonas finds a buyer for his $6.75M NYC home — as Taylor Swift drops a song that fans swear is about him",
+      "summary": "The Dumbo pad went into contract one day before “Patient Zero” hit streaming.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/25/real-estate/joe-jonas-finds-a-buyer-for-his-6-75m-nyc-condo/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-09-25T15:13:32.000Z"
     },
     {
       "headline": "Famed co-op stands to become the biggest loser in NYC history — as $67.5M home faces a $55.5M discount",
