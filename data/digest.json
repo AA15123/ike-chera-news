@@ -1,16 +1,25 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-09-27",
-  "generated_at": "2026-09-27T15:04:32.004Z",
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T18:04:06.293Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Zara Doubles Footprint at a Macerich Shopping Center in Los Angeles County: Fashion firm Zara is more than doubling its footprint at a Southern California shopping center. The clothing retailer is expanding from 22,000 square feet to a 45,000-square-foot flagship opening next year at Macerich ’s 1.3 million-square-foot Los Cerritos Center in southeast Los Angeles County.\n\nHappier Grocery to Open Second NYC Location on the Upper East Side: A healthy grocery retailer is opening its second New York City location on Manhattan’s Upper East Side. Happier Grocery has signed a 20,500-square-foot lease at CSC Real Estate ’s 210 East 86th Street , where it plans to open a health food store like its original one on Canal Street in the second half of 2027,.\n\nSephora’s Meatpacking District Store Relocates to 401 West 14th Street: Beauty retailer Sephora is taking a walk up the block to 401 West 14th Street . The makeup giant has signed a 4,200-square-foot deal with landlords Taconic Partners and Nuveen Real Estate to relocate its Meatpacking District store one block north from 21-27 Ninth Avenue , according to the landlords.\n\nLegion Investment Group, SMA Equities Pair on 300K-SF UES Resi Project: Legion Investment Group and SMA Equities have teamed on a 300,000-square-foot residential development rising on Manhattan’s Upper East Side. The new partnership secured a $99 million pre-development loan for the 37-story project at 1491-1497 Third Avenue on Thursday, according to The Real Deal , which first reported.",
+    "commercial_observer": "Brixmor Property Group, Everview Partners Acquire Slate Grocery REIT for $2.34B: One of the largest owners of shopping centers in the U.S. just got bigger.\n\nZara Doubles Footprint at a Macerich Shopping Center in Los Angeles County: Fashion firm Zara is more than doubling its footprint at a Southern California shopping center. The clothing retailer is expanding from 22,000 square feet to a 45,000-square-foot flagship opening next year at Macerich ’s 1.3 million-square-foot Los Cerritos Center in southeast Los Angeles County.\n\nSolidcore Signs Lease for Fitness Studio at 1695 Second Avenue on Upper East Side: A strength training brand has signed a retail lease on Manhattan’s Upper East Side. Solidcore , a national fitness chain that offers high-intensity workouts, took the entire retail component of Alchemy-ABR Investment Partners ’ 1695 Second Avenue , a new 23-story, 51-unit residential building on East 88th Street,.\n\nHappier Grocery to Open Second NYC Location on the Upper East Side: A healthy grocery retailer is opening its second New York City location on Manhattan’s Upper East Side. Happier Grocery has signed a 20,500-square-foot lease at CSC Real Estate ’s 210 East 86th Street , where it plans to open a health food store like its original one on Canal Street in the second half of 2027,.",
     "cre_daily": "Retail Demand Grows as Construction Hits Record Low: US retailers posted a net gain of 127 stores through Aug. 28, adding 28.6M SF of occupied retail space.\n\nInvesco REIT Buys Raleigh Retail Center for $87.2M: Invesco REIT acquired Knightdale Marketplace for $87.2M, including closing and leasing costs, according to AltsWire. The 323,113 SF shopping center is 100% leased with a weighted average lease term of about seven years.\n\nCore Retail Sales Hit Record as In-Store Spending Rises: Core retail sales rose 1.2% in August and 5.6% year over year, with gains across nine of 10 major retail categories. Store-based sales increased 0.6%, outpacing headline inflation and marking the second-largest monthly gain in the past 14 months.\n\nMall Values Jump 13% as Retail Recovery Accelerates: Green Street says mall values increased 13% over the past year, the strongest gain among 10 commercial property sectors. Limited new supply, resilient consumer spending and tenant upgrades have supported occupancy, rent growth and investor interest.",
-    "new_york_post": "Homeowner wins 3-year war with HOA — and forces association to pay her $33K legal bill: A San Antonio homeowner won more than $33,000 after a three-year legal battle with her HOA over rental restrictions, a lost tenant and a home sale.\n\n‘Happier Grocery’ to revamp long-abandoned UES movie theater space: The Erewhon of NYC is getting a second locale.\n\n‘The Gateway to the Rockies’ suddenly becomes America’s most in-demand ZIP code: An airport-adjacent Denver suburb just rocketed to No. 1 as movers chase fresh construction and cheaper dirt.\n\nLegendary California oyster enclave on sale for $13M after 101-year run.",
-    "pincusco": "Kuljinder Kaur pays $3.4M for retail in Utopia.\n\nGlobal Holdings Management signs $382.4M refi with Wells Fargo for office in Grand Central.\n\nDiamond National Investments signs $75.8M refi for 218 units, parking, in Morrisania.\n\nRoei Paz files plans for 75 units in Crown Heights."
+    "new_york_post": "Stephen Ross expanding in Boca Raton at a 124-acre, former IBM facility: His company this month swooped into the Boca market by purchasing the entire Boca Raton Innovation Campus, a 124-acre, former IBM facility that adds 1.7 million square feet of offices to Ross’s Palm Beach County portfolio.\n\nTimes Square may score another Asian entertainment lease: Round 1’s interest is only a rumor at this point.\n\n‘The Gateway to the Rockies’ suddenly becomes America’s most in-demand ZIP code: An airport-adjacent Denver suburb just rocketed to No. 1 as movers chase fresh construction and cheaper dirt.",
+    "pincusco": "Walton Realty NY files plans for 94 units in LIC, partnered with CW Realty as ground lease tenant.\n\nState advances Astoria project with 139k sf community center, 235 affordable units, school.\n\nRoundSquare signs $29.2M construction loan with Maxim for 10-unit renovation in Greenwich Village.\n\nRevamp NYC files plans for 62 units in Fordham Manor."
   },
   "items": [
+    {
+      "headline": "Brixmor Property Group, Everview Partners Acquire Slate Grocery REIT for $2.34B",
+      "summary": "One of the largest owners of shopping centers in the U.S. just got bigger. Brixmor Property Group , a $9 billion publicly traded real estate investment trust (REIT) and holder of a portfolio of 346 shopping centers spanning more than 63 million square feet, announced Monday that it has partnered with Everview Partners to acquire Slate Grocery REIT for $2.34 billion. Slate Grocery REIT has a portfolio of 115 grocery-anchored, open-air retail centers that together comprise 15.7 million square feet of real estate.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/brixmor-property-group-everview-partners-acquire-slate-grocery-reit/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-28T17:30:46.000Z"
+    },
     {
       "headline": "Zara Doubles Footprint at a Macerich Shopping Center in Los Angeles County",
       "summary": "Fashion firm Zara is more than doubling its footprint at a Southern California shopping center. The clothing retailer is expanding from 22,000 square feet to a 45,000-square-foot flagship opening next year at Macerich ’s 1.3 million-square-foot Los Cerritos Center in southeast Los Angeles County. Zara’s existing store will remain open during construction. The property is at 239 Los Cerritos Center near the border between L.A. and Orange counties.…",
@@ -37,6 +46,15 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-09-23T05:22:11.000Z"
+    },
+    {
+      "headline": "Solidcore Signs Lease for Fitness Studio at 1695 Second Avenue on Upper East Side",
+      "summary": "A strength training brand has signed a retail lease on Manhattan’s Upper East Side. Solidcore , a national fitness chain that offers high-intensity workouts, took the entire retail component of Alchemy-ABR Investment Partners ’ 1695 Second Avenue , a new 23-story, 51-unit residential building on East 88th Street, according to landlord broker JLL .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/solidcore-lease-1695-second-avenue/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-28T16:41:00.000Z"
     },
     {
       "headline": "Core Retail Sales Hit Record as In-Store Spending Rises",
@@ -66,6 +84,24 @@
       "published_at": "2026-09-22T19:45:27.000Z"
     },
     {
+      "headline": "Men’s Grooming Club John Allan’s Moves to 4 East 46th Street",
+      "summary": "A men’s grooming and hair brand is moving its flagship location to Midtown East. John Allan’s signed a 3,000-square-foot lease at Jeong Hoon Kim ’s 4 East 46th Street , where it will provide an exclusive experience for its members in a relocation from 575 Fifth Avenue , according to tenant broker CBRE . The length of the lease was not disclosed, but asking rent for the building was $60 per square foot, according to CBRE.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/john-allans-lease-4-east-46th-street/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-28T16:04:37.000Z"
+    },
+    {
+      "headline": "Toys R Us Bets on Brick and Mortar With 120 New Stores",
+      "summary": "Toys R Us operator WHP Global has an ambitious plan to open 120 U.S. stores this holiday season. The private equity-backed brand-management company partnered with Go! Retail Group , a seasonal pop-up operator, to launch the new locations, according to an announcement last week . Shoppers nationwide can expect the new stores to be on the smaller side, the Boston Globe reported , and only temporary.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/toys-r-us-leases-new-stores/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-28T15:13:46.000Z"
+    },
+    {
       "headline": "Sephora’s Meatpacking District Store Relocates to 401 West 14th Street",
       "summary": "Beauty retailer Sephora is taking a walk up the block to 401 West 14th Street . The makeup giant has signed a 4,200-square-foot deal with landlords Taconic Partners and Nuveen Real Estate to relocate its Meatpacking District store one block north from 21-27 Ninth Avenue , according to the landlords. Cushman & Wakefield ’s Jason Greenstone represented the landlords, while Virginia Pittarelli of Retail by MONA negotiated the deal on behalf of Sephora.…",
       "source": "Commercial Observer",
@@ -84,15 +120,6 @@
       "published_at": "2026-09-17T06:48:30.000Z"
     },
     {
-      "headline": "Legion Investment Group, SMA Equities Pair on 300K-SF UES Resi Project",
-      "summary": "Legion Investment Group and SMA Equities have teamed on a 300,000-square-foot residential development rising on Manhattan’s Upper East Side. The new partnership secured a $99 million pre-development loan for the 37-story project at 1491-1497 Third Avenue on Thursday, according to The Real Deal , which first reported the news.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/legion-investment-group-sma-equities-residential-1491-third-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-25T18:59:10.000Z"
-    },
-    {
       "headline": "Newmark, Cushman & Wakefield Among Winners at REBNY’s 2026 Retail Deal Awards",
       "summary": "At an event of nearly 150 members and guests on Wednesday night, the Real Estate Board of New York (REBNY) recognized the most influential retail deals completed in New York City in the past year. REBNY evaluated retail sales, leasing and development transactions regardless of size and complexity, ranging from large apparel manufacturer leases to luxury hotel redevelopments. The board awarded three winners.…",
       "source": "Commercial Observer",
@@ -102,6 +129,42 @@
       "published_at": "2026-09-24T15:00:27.000Z"
     },
     {
+      "headline": "Private Equity Firm Sentinel Capital Expands to 35K SF at One Vanderbilt",
+      "summary": "Private equity firm Sentinel Capital Partners has expanded to 34,737 square feet at One Vanderbilt . The deal gives Sentinel an additional 7,134 square feet of office space on a portion of the tower’s 54th floor, according to a Monday announcement by landlord SL Green Realty . The move brings Sentinel’s total footprint at the trophy high-rise to 34,737 square feet.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/sentinel-capital-lease-expansion-one-vanderbilt/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-28T18:00:29.000Z"
+    },
+    {
+      "headline": "Walton Realty NY files plans for 94 units in LIC, partnered with CW Realty as ground lease tenant",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/walton-realty-ny-files-plans-for-94-units-in-lic-cw-realty-signed-ground-lease/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-09-28T12:44:00.000Z"
+    },
+    {
+      "headline": "State advances Astoria project with 139k sf community center, 235 affordable units, school",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/state-advances-astoria-project-with-139k-community-center-235-affordable-units-school/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-09-28T09:51:29.000Z"
+    },
+    {
+      "headline": "Stephen Ross expanding in Boca Raton at a 124-acre, former IBM facility",
+      "summary": "His company this month swooped into the Boca market by purchasing the entire Boca Raton Innovation Campus, a 124-acre, former IBM facility that adds 1.7 million square feet of offices to Ross’s Palm Beach County portfolio.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/27/business/stephen-ross-expanding-in-boca-raton-at-a-124-acre-former-ibm-facility/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-09-27T19:12:04.000Z"
+    },
+    {
       "headline": "Construction Firm Brasfield & Gorrie Inks 19K-SF Lease in Broward County",
       "summary": "Construction firm Brasfield & Gorrie is relocating in South Florida, from Coral Gables to Weston, where it signed a 19,330-square-foot lease. The general contractor will move into the Weston Pointe I building in the second quarter of 2027, according to JLL , which represented the tenant. It will occupy most of the third floor within the four-story building at 2400 North Commerce Parkway , just west of I-75. It’s part of the two-building Weston Pointe campus that was built between 1999 and 2001.…",
       "source": "Commercial Observer",
@@ -109,33 +172,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-09-25T20:55:34.000Z"
-    },
-    {
-      "headline": "Pistola Denim Takes Nearly 18K SF at ROW DTLA",
-      "summary": "Denim and womenswear company Pistola Denim has signed a 17,922-square-foot office lease at Atlas Capital Group ’s ROW DTLA , adding another fashion company to the nearly 2 million-square-foot Downtown Los Angeles complex. Grace Na founded Pistola in 2013. The L.A.-based brand will move its creative team from warehouse and distribution space in Vernon. The terms of the lease were not disclosed.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/pistola-denim-row-dtla/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-24T21:45:18.000Z"
-    },
-    {
-      "headline": "Homeowner wins 3-year war with HOA — and forces association to pay her $33K legal bill",
-      "summary": "A San Antonio homeowner won more than $33,000 after a three-year legal battle with her HOA over rental restrictions, a lost tenant and a home sale.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/24/real-estate/texas-homeowner-wins-3-year-war-with-hoa/",
-      "section": "new_york_post",
-      "retail": true,
-      "published_at": "2026-09-24T16:15:17.000Z"
-    },
-    {
-      "headline": "Cerity Partners Expands to 68K SF at Global Holdings’ 99 Park Avenue",
-      "summary": "Wealth management firm Cerity Partners is expanding its offices at Midtown’s 99 Park Avenue . The tenant, which just expanded to 48,671 square feet at the building in December , has signed a deal for 19,600 additional square feet on the eighth floor of Global Holdings ’ 26-story office building, bringing its total footprint to about 68,300 square feet, according to the landlord. It was a 15-year deal with an asking rent starting at $90 per square foot, Global Holdings confirmed.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/cerity-partners-lease-expansion-global-holdings-99-park-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-24T15:31:26.000Z"
     },
     {
       "headline": "Toys R Us Plans 120 Holiday Stores in Retail Push",
@@ -165,31 +201,13 @@
       "published_at": "2026-09-18T16:03:03.000Z"
     },
     {
-      "headline": "Kuljinder Kaur pays $3.4M for retail in Utopia",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/kuljinder-kaur-pays-3-4m-for-retail-in-utopia/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-09-25T14:53:00.000Z"
-    },
-    {
-      "headline": "In Los Angeles Retail, a Widening Divide",
-      "summary": "Los Angeles remains a locale that runs on ambition and the pursuit of opportunity. But a significant bifurcation is taking place. Increasingly, the marketplace for retail real estate has significantly split between those benefiting from buoyant dynamics and tenants whose small business dreams are starting to evaporate.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/los-angeles-retail-ice-rents-security/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-14T10:00:43.000Z"
-    },
-    {
-      "headline": "‘Happier Grocery’ to revamp long-abandoned UES movie theater space",
-      "summary": "The Erewhon of NYC is getting a second locale.",
+      "headline": "Times Square may score another Asian entertainment lease",
+      "summary": "Round 1’s interest is only a rumor at this point.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/09/24/lifestyle/happier-grocery-to-revamp-abandoned-city-cinemas-movie-theater/",
+      "url": "https://nypost.com/2026/09/27/business/times-square-may-score-another-asian-entertainment-lease/",
       "section": "new_york_post",
       "retail": true,
-      "published_at": "2026-09-24T16:33:26.000Z"
+      "published_at": "2026-09-27T19:07:27.000Z"
     },
     {
       "headline": "Market Shifts, New York’s Uniqueness Mean Mamdani’s Grocery Plan Could Work",
@@ -201,6 +219,51 @@
       "published_at": "2026-09-15T14:09:20.000Z"
     },
     {
+      "headline": "RoundSquare signs $29.2M construction loan with Maxim for 10-unit renovation in Greenwich Village",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/roundsquare-signs-29-2m-construction-loan-with-maxim-for-10-unit-renovation-in-greenwich-village/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-28T13:54:00.000Z"
+    },
+    {
+      "headline": "Revamp NYC files plans for 62 units in Fordham Manor",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/revamp-nyc-files-plans-for-62-units-in-fordham-manor/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-27T23:13:00.000Z"
+    },
+    {
+      "headline": "Moshe Braver files 10 plans for 989 units in Coney Island",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/moshe-braver-files-10-plans-for-989-units-in-coney-island/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-28T14:38:00.000Z"
+    },
+    {
+      "headline": "Kings Capital files plans for 12 units in Little Italy",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/kings-capital-files-plans-for-12-units-in-little-italy/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-28T00:24:00.000Z"
+    },
+    {
+      "headline": "Chaskel Landau files plans for 99 units in Ridgewood",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/chaskel-landau-files-plans-for-99-units-in-ridgewood/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-09-28T00:04:00.000Z"
+    },
+    {
       "headline": "‘The Gateway to the Rockies’ suddenly becomes America’s most in-demand ZIP code",
       "summary": "An airport-adjacent Denver suburb just rocketed to No. 1 as movers chase fresh construction and cheaper dirt.",
       "source": "New York Post",
@@ -210,42 +273,6 @@
       "published_at": "2026-09-25T18:42:31.000Z"
     },
     {
-      "headline": "Global Holdings Management signs $382.4M refi with Wells Fargo for office in Grand Central",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/global-holdings-management-signs-382-4m-refi-with-wells-fargo-for-office-in-grand-central/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-25T15:26:00.000Z"
-    },
-    {
-      "headline": "Diamond National Investments signs $75.8M refi for 218 units, parking, in Morrisania",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/diamond-national-investments-signs-75-8m-refi-for-218-units-parking-in-morrisania/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-25T15:23:00.000Z"
-    },
-    {
-      "headline": "Roei Paz files plans for 75 units in Crown Heights",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/roei-paz-files-plans-for-75-units-in-crown-heights/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-25T15:00:00.000Z"
-    },
-    {
-      "headline": "Legendary California oyster enclave on sale for $13M after 101-year run",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/24/real-estate/legendary-california-oyster-enclave-on-sale-for-13m-after-101-year-run/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-09-24T18:08:51.000Z"
-    },
-    {
       "headline": "Billion-Dollar Blockbusters Won’t Revive L.A.’s Film Industry",
       "summary": "Hollywood, or at least some aspect of it, had a summer. Between massive box office performances from “The Odyssey” (partially shot in Los Angeles), “Spider-Man: Brand New Day” and “Obsession,” the industry appears to have recaptured some of its cultural magnetism and moneymaking ways. Adjusted for inflation, the movie industry’s $4.76 billion summer ticket haul represented a 26 percent jump from the summer of 2025.…",
       "source": "Commercial Observer",
@@ -253,33 +280,6 @@
       "section": "commercial_observer",
       "retail": false,
       "published_at": "2026-09-15T11:43:13.000Z"
-    },
-    {
-      "headline": "NYC ranks fifth-hardest metro for first-time homebuyers — 7% mortgage rates are squeezing them even more",
-      "summary": "New York homebuyers face a widening affordability gap as mortgage rates top 7%, while high prices and limited inventory keep adding to the squeeze.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/25/real-estate/nyc-housing-affordability-worsens-as-mortgage-rates-climb-above-7/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-09-25T18:26:43.000Z"
-    },
-    {
-      "headline": "Joe Jonas finds a buyer for his $6.75M NYC home — as Taylor Swift drops a song that fans swear is about him",
-      "summary": "The Dumbo pad went into contract one day before “Patient Zero” hit streaming.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/25/real-estate/joe-jonas-finds-a-buyer-for-his-6-75m-nyc-condo/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-09-25T15:13:32.000Z"
-    },
-    {
-      "headline": "Famed co-op stands to become the biggest loser in NYC history — as $67.5M home faces a $55.5M discount",
-      "summary": "A full-floor residence in the Sherry-Netherland where an alleged Chinese spy once lived is in contract — its last asking price was $12 million. In 2015, its owner paid $67.5 million cash for it.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/24/real-estate/sherry-netherland-sees-prices-fall-as-buyers-flock-there/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-09-24T20:49:02.000Z"
     }
   ]
 }
