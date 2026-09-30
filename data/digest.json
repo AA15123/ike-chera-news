@@ -1,25 +1,16 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-09-29",
-  "generated_at": "2026-09-29T16:27:15.084Z",
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T16:21:41.391Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Brixmor Property Group, Everview Partners Acquire Slate Grocery REIT for $2.34B: One of the largest owners of shopping centers in the U.S. just got bigger.\n\nZara Doubles Footprint at a Macerich Shopping Center in Los Angeles County: Fashion firm Zara is more than doubling its footprint at a Southern California shopping center. The clothing retailer is expanding from 22,000 square feet to a 45,000-square-foot flagship opening next year at Macerich ’s 1.3 million-square-foot Los Cerritos Center in southeast Los Angeles County.\n\nSolidcore Signs Lease for Fitness Studio at 1695 Second Avenue on Upper East Side: A strength training brand has signed a retail lease on Manhattan’s Upper East Side. Solidcore , a national fitness chain that offers high-intensity workouts, took the entire retail component of Alchemy-ABR Investment Partners ’ 1695 Second Avenue , a new 23-story, 51-unit residential building on East 88th Street,.\n\nHappier Grocery to Open Second NYC Location on the Upper East Side: A healthy grocery retailer is opening its second New York City location on Manhattan’s Upper East Side. Happier Grocery has signed a 20,500-square-foot lease at CSC Real Estate ’s 210 East 86th Street , where it plans to open a health food store like its original one on Canal Street in the second half of 2027,.",
+    "commercial_observer": "Zara Doubles Footprint at a Macerich Shopping Center in Los Angeles County: Fashion firm Zara is more than doubling its footprint at a Southern California shopping center. The clothing retailer is expanding from 22,000 square feet to a 45,000-square-foot flagship opening next year at Macerich ’s 1.3 million-square-foot Los Cerritos Center in southeast Los Angeles County.\n\nBritish Luxury Fashion Brand JW Anderson to Open at SoHo’s 138 Wooster Street: British luxury fashion label JW Anderson has leased 4,500 square feet at 138 Wooster Street in Manhattan’s SoHo neighborhood for its first stand-alone U.S. store, Commercial Observer has learned.\n\nSolidcore Signs Lease for Fitness Studio at 1695 Second Avenue on Upper East Side: A strength training brand has signed a retail lease on Manhattan’s Upper East Side. Solidcore , a national fitness chain that offers high-intensity workouts, took the entire retail component of Alchemy-ABR Investment Partners ’ 1695 Second Avenue , a new 23-story, 51-unit residential building on East 88th Street,.\n\nHappier Grocery to Open Second NYC Location on the Upper East Side: A healthy grocery retailer is opening its second New York City location on Manhattan’s Upper East Side. Happier Grocery has signed a 20,500-square-foot lease at CSC Real Estate ’s 210 East 86th Street , where it plans to open a health food store like its original one on Canal Street in the second half of 2027,.",
     "cre_daily": "Retail Demand Grows as Construction Hits Record Low: US retailers posted a net gain of 127 stores through Aug. 28, adding 28.6M SF of occupied retail space.\n\nInvesco REIT Buys Raleigh Retail Center for $87.2M: Invesco REIT acquired Knightdale Marketplace for $87.2M, including closing and leasing costs, according to AltsWire. The 323,113 SF shopping center is 100% leased with a weighted average lease term of about seven years.\n\nCore Retail Sales Hit Record as In-Store Spending Rises: Core retail sales rose 1.2% in August and 5.6% year over year, with gains across nine of 10 major retail categories. Store-based sales increased 0.6%, outpacing headline inflation and marking the second-largest monthly gain in the past 14 months.\n\nRetail Foot Traffic Splits as August Sales Rise 5.3%: August retail sales increased 5.3% year over year and core retail rose 4.9%, according to Colliers data citing GlobalData and Placer.ai. Theaters and music venues posted a 58.3% traffic increase, while hobbies, gifts, and crafts rose 20.1%.",
-    "new_york_post": "Stephen Ross expanding in Boca Raton at a 124-acre, former IBM facility: His company this month swooped into the Boca market by purchasing the entire Boca Raton Innovation Campus, a 124-acre, former IBM facility that adds 1.7 million square feet of offices to Ross’s Palm Beach County portfolio.\n\nTimes Square may score another Asian entertainment lease: Round 1’s interest is only a rumor at this point.\n\nThese portable microhomes can be shipped anywhere for emergency housing: The idea is to offer small mobile housing units that can be quickly deployed for natural disasters, job sites and short-term housing.\n\nSupermodel Linda Evangelista gets $6.75M for the NYC penthouse she rented to Keanu Reeves: A West Chelsea real estate pioneer, Evangelista purchased the swanky aerie in a then-burgeoning arts district for $1.4 million back in 2001.",
-    "pincusco": "FBL, Gold Stone affiliate signs $103.6M construction loan with Ponce for 158-unit project in Downtown Brooklyn.\n\nYaakov Gold signs $13.9M construction loan with S3 Capital for 10-unit project in Crown Heights.\n\nWestbridge Realty Group files plans for 98 units in Morrisania.\n\nShimshon Grunstein files plans for 45 units in Classon Point."
+    "new_york_post": "Huge 514-home tower that would change WeHo’s skyline forever heads for approval: On Oct. 1, the West Hollywood Planning Commission will consider a proposal for a 514-apartment development at 1000 North La Brea Avenue.\n\nFormer Connecticut housing authority exec charged with $16.2 million loan fraud: Robert Cappelletti was charged with committing the crimes while heading up Meriden Housing Authority.\n\nStunning $1M California home with a 2-story wall of glass quickly becomes the most-viewed listing in the US: This is the first time in two decades the Berkeley house will be listed for sale.\n\nThese portable microhomes can be shipped anywhere for emergency housing: The idea is to offer small mobile housing units that can be quickly deployed for natural disasters, job sites and short-term housing.",
+    "pincusco": "CDK Capital, Daryl Hagler pay $75.8M for mid-construction project in Ridgewood, sign $10.2M ground lease.\n\nNassimi Realty pays $9M to Hope Street Capital for retail in Boerum Hill.\n\nRockshire Group signs $103.6M construction loan with Ponce for 158-unit project in Downtown Brooklyn.\n\nYaakov Gold signs $13.9M construction loan with S3 Capital for 10-unit project in Crown Heights."
   },
   "items": [
-    {
-      "headline": "Brixmor Property Group, Everview Partners Acquire Slate Grocery REIT for $2.34B",
-      "summary": "One of the largest owners of shopping centers in the U.S. just got bigger. Brixmor Property Group , a $9 billion publicly traded real estate investment trust (REIT) and holder of a portfolio of 346 shopping centers spanning more than 63 million square feet, announced Monday that it has partnered with Everview Partners to acquire Slate Grocery REIT for $2.34 billion. Slate Grocery REIT has a portfolio of 115 grocery-anchored, open-air retail centers that together comprise 15.7 million square feet of real estate.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/brixmor-property-group-everview-partners-acquire-slate-grocery-reit/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-28T17:30:46.000Z"
-    },
     {
       "headline": "Zara Doubles Footprint at a Macerich Shopping Center in Los Angeles County",
       "summary": "Fashion firm Zara is more than doubling its footprint at a Southern California shopping center. The clothing retailer is expanding from 22,000 square feet to a 45,000-square-foot flagship opening next year at Macerich ’s 1.3 million-square-foot Los Cerritos Center in southeast Los Angeles County. Zara’s existing store will remain open during construction. The property is at 239 Los Cerritos Center near the border between L.A. and Orange counties.…",
@@ -46,6 +37,15 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-09-23T05:22:11.000Z"
+    },
+    {
+      "headline": "British Luxury Fashion Brand JW Anderson to Open at SoHo’s 138 Wooster Street",
+      "summary": "British luxury fashion label JW Anderson has leased 4,500 square feet at 138 Wooster Street in Manhattan’s SoHo neighborhood for its first stand-alone U.S. store, Commercial Observer has learned. Founded in 2008 by Jonathan Anderson — the newly appointed creative director of Dior and a two-time British Fashion Awards Designer of the Year recipient — the influential fashion label is staking out a claim in a highly sought-after part of SoHo at a time when quality retail space in the neighborhood is increasingly…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/jw-anderson-lease-soho-138-wooster-street/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-29T16:54:48.000Z"
     },
     {
       "headline": "Solidcore Signs Lease for Fitness Studio at 1695 Second Avenue on Upper East Side",
@@ -120,6 +120,15 @@
       "published_at": "2026-09-17T06:48:30.000Z"
     },
     {
+      "headline": "Educational Nonprofit Signs Lease to Build Campus on Brooklyn’s Floyd Bennett Field",
+      "summary": "The National Park Service has leased a 7-acre space in Brooklyn’s Marine Park neighborhood to a workforce development nonprofit. Runway Green signed a 60-year agreement with the federal government to build a $60 million agricultural and environmental education facility at Floyd Bennett Field , according to the organization. The former airfield near Jamaica Bay is within Gateway National Recreation Area, which the Park Service oversees.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/runway-green-lease-floyd-bennett-field-brooklyn-campus/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-29T20:03:28.000Z"
+    },
+    {
       "headline": "Newmark, Cushman & Wakefield Among Winners at REBNY’s 2026 Retail Deal Awards",
       "summary": "At an event of nearly 150 members and guests on Wednesday night, the Real Estate Board of New York (REBNY) recognized the most influential retail deals completed in New York City in the past year. REBNY evaluated retail sales, leasing and development transactions regardless of size and complexity, ranging from large apparel manufacturer leases to luxury hotel redevelopments. The board awarded three winners.…",
       "source": "Commercial Observer",
@@ -129,31 +138,13 @@
       "published_at": "2026-09-24T15:00:27.000Z"
     },
     {
-      "headline": "Sports-Focused Investment Firm Patricof Takes 8K SF at Marx’s 545 Madison Avenue",
-      "summary": "On your Marx. Private investment platform Patricof , which focuses on connecting professional athletes with investment opportunities, has inked a 7,500-square-foot lease at Marx Realty ’s Midtown office property at 545 Madison Avenue , the landlord announced Tuesday. The 10-year lease covers the entire 16th floor of the 17-story office building between East 54th and East 55th streets.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/patricof-lease-marx-realty-545-madison-avenue/",
-      "section": "commercial_observer",
+      "headline": "CDK Capital, Daryl Hagler pay $75.8M for mid-construction project in Ridgewood, sign $10.2M ground lease",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/cdk-capital-darryl-hagler-pay-75-8m-for-mid-construction-project-in-ridgewood-sign-10-2m-ground-lease/",
+      "section": "pincusco",
       "retail": true,
-      "published_at": "2026-09-29T15:03:21.000Z"
-    },
-    {
-      "headline": "Private Equity Firm Sentinel Capital Expands to 35K SF at One Vanderbilt",
-      "summary": "Private equity firm Sentinel Capital Partners has expanded to 34,737 square feet at One Vanderbilt . The deal gives Sentinel an additional 7,134 square feet of office space on a portion of the tower’s 54th floor, according to a Monday announcement by landlord SL Green Realty . The move brings Sentinel’s total footprint at the trophy high-rise to 34,737 square feet.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/sentinel-capital-lease-expansion-one-vanderbilt/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-28T18:00:29.000Z"
-    },
-    {
-      "headline": "Stephen Ross expanding in Boca Raton at a 124-acre, former IBM facility",
-      "summary": "His company this month swooped into the Boca market by purchasing the entire Boca Raton Innovation Campus, a 124-acre, former IBM facility that adds 1.7 million square feet of offices to Ross’s Palm Beach County portfolio.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/27/business/stephen-ross-expanding-in-boca-raton-at-a-124-acre-former-ibm-facility/",
-      "section": "new_york_post",
-      "retail": true,
-      "published_at": "2026-09-27T19:12:04.000Z"
+      "published_at": "2026-09-30T15:22:00.000Z"
     },
     {
       "headline": "Toys R Us Plans 120 Holiday Stores in Retail Push",
@@ -183,16 +174,25 @@
       "published_at": "2026-09-18T16:03:03.000Z"
     },
     {
-      "headline": "Times Square may score another Asian entertainment lease",
-      "summary": "Round 1’s interest is only a rumor at this point.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/27/business/times-square-may-score-another-asian-entertainment-lease/",
-      "section": "new_york_post",
+      "headline": "Nassimi Realty pays $9M to Hope Street Capital for retail in Boerum Hill",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/nassimi-realty-pays-9m-to-hope-street-capital-for-retail-in-boerum-hill/",
+      "section": "pincusco",
       "retail": true,
-      "published_at": "2026-09-27T19:07:27.000Z"
+      "published_at": "2026-09-30T15:33:00.000Z"
     },
     {
-      "headline": "FBL, Gold Stone affiliate signs $103.6M construction loan with Ponce for 158-unit project in Downtown Brooklyn",
+      "headline": "European Coworking Firm Enters U.S. With 32K-SF Lease in Downtown L.A.",
+      "summary": "European flexible workspace operator I nfinitSpace is entering the U.S. market with a 32,000-square-foot location in Downtown Los Angeles, its first step in a plan to open 30 locations nationwide in the next two years. The company announced Tuesday that it has entered into a long-term management partnership at the historic Desmond’s Building at 612 South Broadway . The new coworking spot, operating under infinitSpace ’s Beyond brand, is scheduled to open Nov. 2.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/coworking-la-desmonds-infinitspace/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-29T19:55:04.000Z"
+    },
+    {
+      "headline": "Rockshire Group signs $103.6M construction loan with Ponce for 158-unit project in Downtown Brooklyn",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
       "url": "https://www.pincusco.com/fbl-gold-stone-affiliate-signs-103-6m-construction-loan-with-ponce-for-158-unit-project-in-downtown-brooklyn/",
@@ -210,58 +210,67 @@
       "published_at": "2026-09-29T15:00:00.000Z"
     },
     {
-      "headline": "Westbridge Realty Group files plans for 98 units in Morrisania",
+      "headline": "Courts roundup: $18.5M SoHo mixed-use bankruptcy; $18.6M Bronx pre-foreclosure; $1M BKREA commission suit",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/westbridge-realty-group-files-plans-for-98-units-in-morrisania/",
+      "url": "https://www.pincusco.com/courts-roundup-18-5m-soho-mixed-use-bankruptcy-18-6m-bronx-pre-foreclosure-1m-bkrea-commission-suit/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-29T14:40:00.000Z"
+      "published_at": "2026-09-30T11:17:30.000Z"
     },
     {
-      "headline": "Shimshon Grunstein files plans for 45 units in Classon Point",
+      "headline": "Lazar Katz files plans for 99 units in Mt Hope",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/shimshon-grunstein-files-plans-for-45-units-in-classon-point/",
+      "url": "https://www.pincusco.com/lazar-katz-files-plans-for-99-units-in-mt-hope/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-29T14:14:00.000Z"
+      "published_at": "2026-09-30T16:06:00.000Z"
     },
     {
-      "headline": "Arie Zimmerman pays $3M for mixed-use in Gowanus",
+      "headline": "Eli Hoffman files plans for 99 units in Westchester Square",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/arie-zimmerman-pays-3m-for-mixed-use-in-gowanus/",
+      "url": "https://www.pincusco.com/eli-hoffman-files-plans-for-99-units-in-westchester-square/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-29T13:33:00.000Z"
+      "published_at": "2026-09-30T15:54:00.000Z"
     },
     {
-      "headline": "Z Capital, Phantom Capital sign $7.9M loan with Hakimian Partners for Soundview walkups",
+      "headline": "Gabriela Tubella signs $3.5M refi loan with GPS Capital Fund for 3-family in Fort Greene",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/z-capital-phantom-capital-sign-7-9m-acquisition-loan-with-hakimian-partners-for-walkups-in-soundview/",
+      "url": "https://www.pincusco.com/gabriela-tubella-signs-3-5m-refi-loan-with-gps-capital-fund-for-3-family-in-fort-greene/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-29T13:27:00.000Z"
+      "published_at": "2026-09-30T13:55:00.000Z"
     },
     {
-      "headline": "Renaissance Realty signs $5.4M refi with Peapack for office in Flatbush",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/renaissance-realty-signs-5-4m-refi-with-peapack-for-office-in-flatbush/",
-      "section": "pincusco",
+      "headline": "Huge 514-home tower that would change WeHo’s skyline forever heads for approval",
+      "summary": "On Oct. 1, the West Hollywood Planning Commission will consider a proposal for a 514-apartment development at 1000 North La Brea Avenue.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/29/real-estate/34-story-tower-that-would-transform-west-hollywood-skyline-heads-to-approval/",
+      "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-09-29T13:12:00.000Z"
+      "published_at": "2026-09-30T00:21:21.000Z"
     },
     {
-      "headline": "Comjem signs $4.8M refi with Peapack for mixed-use in Boerum Hill",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/comjem-associates-signs-4-8m-refi-with-peapack-for-two-mixed-use-properties-in-boerum-hill/",
-      "section": "pincusco",
+      "headline": "Former Connecticut housing authority exec charged with $16.2 million loan fraud",
+      "summary": "Robert Cappelletti was charged with committing the crimes while heading up Meriden Housing Authority.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/29/real-estate/former-connecticut-housing-authority-exec-charged-with-16-2-million-loan-fraud/",
+      "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-09-29T12:54:00.000Z"
+      "published_at": "2026-09-29T23:13:53.000Z"
+    },
+    {
+      "headline": "Stunning $1M California home with a 2-story wall of glass quickly becomes the most-viewed listing in the US",
+      "summary": "This is the first time in two decades the Berkeley house will be listed for sale.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/29/real-estate/home-with-2-story-wall-of-glass-is-the-most-viewed-listing-in-the-us/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-09-29T20:05:11.000Z"
     },
     {
       "headline": "These portable microhomes can be shipped anywhere for emergency housing",
@@ -271,15 +280,6 @@
       "section": "new_york_post",
       "retail": false,
       "published_at": "2026-09-29T02:12:16.000Z"
-    },
-    {
-      "headline": "Supermodel Linda Evangelista gets $6.75M for the NYC penthouse she rented to Keanu Reeves",
-      "summary": "A West Chelsea real estate pioneer, Evangelista purchased the swanky aerie in a then-burgeoning arts district for $1.4 million back in 2001.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/29/real-estate/supermodel-linda-evangelista-sells-nyc-penthouse-for-6-75m/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-09-29T14:38:33.000Z"
     }
   ]
 }
