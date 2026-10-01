@@ -1,16 +1,34 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-09-30",
-  "generated_at": "2026-09-30T16:21:41.391Z",
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T16:58:47.229Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Zara Doubles Footprint at a Macerich Shopping Center in Los Angeles County: Fashion firm Zara is more than doubling its footprint at a Southern California shopping center. The clothing retailer is expanding from 22,000 square feet to a 45,000-square-foot flagship opening next year at Macerich ’s 1.3 million-square-foot Los Cerritos Center in southeast Los Angeles County.\n\nBritish Luxury Fashion Brand JW Anderson to Open at SoHo’s 138 Wooster Street: British luxury fashion label JW Anderson has leased 4,500 square feet at 138 Wooster Street in Manhattan’s SoHo neighborhood for its first stand-alone U.S. store, Commercial Observer has learned.\n\nSolidcore Signs Lease for Fitness Studio at 1695 Second Avenue on Upper East Side: A strength training brand has signed a retail lease on Manhattan’s Upper East Side. Solidcore , a national fitness chain that offers high-intensity workouts, took the entire retail component of Alchemy-ABR Investment Partners ’ 1695 Second Avenue , a new 23-story, 51-unit residential building on East 88th Street,.\n\nHappier Grocery to Open Second NYC Location on the Upper East Side: A healthy grocery retailer is opening its second New York City location on Manhattan’s Upper East Side. Happier Grocery has signed a 20,500-square-foot lease at CSC Real Estate ’s 210 East 86th Street , where it plans to open a health food store like its original one on Canal Street in the second half of 2027,.",
-    "cre_daily": "Retail Demand Grows as Construction Hits Record Low: US retailers posted a net gain of 127 stores through Aug. 28, adding 28.6M SF of occupied retail space.\n\nInvesco REIT Buys Raleigh Retail Center for $87.2M: Invesco REIT acquired Knightdale Marketplace for $87.2M, including closing and leasing costs, according to AltsWire. The 323,113 SF shopping center is 100% leased with a weighted average lease term of about seven years.\n\nCore Retail Sales Hit Record as In-Store Spending Rises: Core retail sales rose 1.2% in August and 5.6% year over year, with gains across nine of 10 major retail categories. Store-based sales increased 0.6%, outpacing headline inflation and marking the second-largest monthly gain in the past 14 months.\n\nRetail Foot Traffic Splits as August Sales Rise 5.3%: August retail sales increased 5.3% year over year and core retail rose 4.9%, according to Colliers data citing GlobalData and Placer.ai. Theaters and music venues posted a 58.3% traffic increase, while hobbies, gifts, and crafts rose 20.1%.",
-    "new_york_post": "Huge 514-home tower that would change WeHo’s skyline forever heads for approval: On Oct. 1, the West Hollywood Planning Commission will consider a proposal for a 514-apartment development at 1000 North La Brea Avenue.\n\nFormer Connecticut housing authority exec charged with $16.2 million loan fraud: Robert Cappelletti was charged with committing the crimes while heading up Meriden Housing Authority.\n\nStunning $1M California home with a 2-story wall of glass quickly becomes the most-viewed listing in the US: This is the first time in two decades the Berkeley house will be listed for sale.\n\nThese portable microhomes can be shipped anywhere for emergency housing: The idea is to offer small mobile housing units that can be quickly deployed for natural disasters, job sites and short-term housing.",
-    "pincusco": "CDK Capital, Daryl Hagler pay $75.8M for mid-construction project in Ridgewood, sign $10.2M ground lease.\n\nNassimi Realty pays $9M to Hope Street Capital for retail in Boerum Hill.\n\nRockshire Group signs $103.6M construction loan with Ponce for 158-unit project in Downtown Brooklyn.\n\nYaakov Gold signs $13.9M construction loan with S3 Capital for 10-unit project in Crown Heights."
+    "commercial_observer": "BankUnited Lands Fifth Avenue Retail Flagship and Expands Offices at 450 Park Avenue: BankUnited is not only landing on Fifth Avenue with a new flagship branch, but it’s also expanding its office space along Park Avenue, Commercial Observer has learned. The Florida-based bank signed a retail lease for 10,068 square feet on the south corner of Amazon ’s tower at 452 Fifth Avenue , also known as 10.\n\nBurlington Stores Inks 32K SF at Brooklyn Navy Yard’s Admiral’s Row Campus: Burlington Stores is coming to the Brooklyn Navy Yard. The retailer formerly known as Burlington Coat Factory signed a 31,717-square-foot retail lease at 25 Navy Street , according to city records filed Tuesday evening.\n\nZara Doubles Footprint at a Macerich Shopping Center in Los Angeles County: Fashion firm Zara is more than doubling its footprint at a Southern California shopping center. The clothing retailer is expanding from 22,000 square feet to a 45,000-square-foot flagship opening next year at Macerich ’s 1.3 million-square-foot Los Cerritos Center in southeast Los Angeles County.\n\nBritish Luxury Fashion Brand JW Anderson to Open at SoHo’s 138 Wooster Street: British luxury fashion label JW Anderson has leased 4,500 square feet at 138 Wooster Street in Manhattan’s SoHo neighborhood for its first stand-alone U.S. store, Commercial Observer has learned.",
+    "cre_daily": "Retail Demand Grows as Construction Hits Record Low: US retailers posted a net gain of 127 stores through Aug. 28, adding 28.6M SF of occupied retail space.\n\nInvesco REIT Buys Raleigh Retail Center for $87.2M: Invesco REIT acquired Knightdale Marketplace for $87.2M, including closing and leasing costs, according to AltsWire. The 323,113 SF shopping center is 100% leased with a weighted average lease term of about seven years.\n\nRetail Sales Jump 6% in August, Boosting CRE Property Demand: Retail sales rose 6% year-over-year in August 2026 and have averaged 5.2% growth year-to-date, a pace historically uncommon outside post-recession recoveries. Households remain financially healthy overall, as rising incomes and record savings offset auto, credit card and household debt sitting at or near record highs.\n\nCore Retail Sales Hit Record as In-Store Spending Rises: Core retail sales rose 1.2% in August and 5.6% year over year, with gains across nine of 10 major retail categories. Store-based sales increased 0.6%, outpacing headline inflation and marking the second-largest monthly gain in the past 14 months.",
+    "new_york_post": "Hotel Clark ‘soft opens’ in DTLA after sitting closed for more than 30 years: A piece of Los Angeles history has come back to life.\n\nOnce America’s hottest housing market, popular state is now the hardest place to sell a home: Currently, a staggering 206,000 homes are up for sale with no buyers in sight.",
+    "pincusco": "ABJ sells retail to Union Market, resi to Galeta Partners in South Slope for $8.5M total.\n\nJose Corona pays $8.2M to Ronald Potash for retail in Corona.\n\nL+M Development Partners files plans for 207 units in East New York.\n\nMordechai Adler signs $26.5M refi with Popular for office in Prospect Lefferts Gardens."
   },
   "items": [
+    {
+      "headline": "BankUnited Lands Fifth Avenue Retail Flagship and Expands Offices at 450 Park Avenue",
+      "summary": "BankUnited is not only landing on Fifth Avenue with a new flagship branch, but it’s also expanding its office space along Park Avenue, Commercial Observer has learned. The Florida-based bank signed a retail lease for 10,068 square feet on the south corner of Amazon ’s tower at 452 Fifth Avenue , also known as 10 Bryant Park . BankUnited also leased more space and signed a long-term extension for its primary New York corner office at 450 Park Avenue .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/10/bankunited-leases-10-bryant-park-retail-office-450-park-avenue/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-10-01T13:42:12.000Z"
+    },
+    {
+      "headline": "Burlington Stores Inks 32K SF at Brooklyn Navy Yard’s Admiral’s Row Campus",
+      "summary": "Burlington Stores is coming to the Brooklyn Navy Yard. The retailer formerly known as Burlington Coat Factory signed a 31,717-square-foot retail lease at 25 Navy Street , according to city records filed Tuesday evening. The vacant two-story development between Sands Street and Flushing Avenue borders the Wegmans -anchored shopping center at Admiral’s Row , an 8-acre mixed-use campus developed by Doug Steiner ’s development arm, Steiner NYC .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/burlington-stores-steiner-lease-25-navy-street/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-30T16:47:35.000Z"
+    },
     {
       "headline": "Zara Doubles Footprint at a Macerich Shopping Center in Los Angeles County",
       "summary": "Fashion firm Zara is more than doubling its footprint at a Southern California shopping center. The clothing retailer is expanding from 22,000 square feet to a 45,000-square-foot flagship opening next year at Macerich ’s 1.3 million-square-foot Los Cerritos Center in southeast Los Angeles County. Zara’s existing store will remain open during construction. The property is at 239 Los Cerritos Center near the border between L.A. and Orange counties.…",
@@ -55,6 +73,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-09-28T16:41:00.000Z"
+    },
+    {
+      "headline": "Retail Sales Jump 6% in August, Boosting CRE Property Demand",
+      "summary": "Retail sales rose 6% year-over-year in August 2026 and have averaged 5.2% growth year-to-date, a pace historically uncommon outside post-recession recoveries. Households remain financially healthy overall, as rising incomes and record savings offset auto, credit card and household debt sitting at or near record highs. Durable consumer spending is supporting 5.8% multi-tenant retail vacancy, record single-tenant deal velocity and strong industrial absorption across the country. Key Takeaways U.S.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/retail-sales-jump-6-in-august-boosting-cre-property-demand/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-09-30T16:16:35.000Z"
     },
     {
       "headline": "Core Retail Sales Hit Record as In-Store Spending Rises",
@@ -111,22 +138,22 @@
       "published_at": "2026-09-22T18:16:42.000Z"
     },
     {
-      "headline": "Restaurant Traffic Falls 2.4% Across US in August",
-      "summary": "US dining visits fell 2.4% year over year in August, reversing gradual improvement recorded in June and July. Overall retail visits still rose 0.3%, but growth slowed sharply from 1.7% in July. September traffic will help show how much of August’s restaurant weakness came from calendar timing versus softer demand. Key Takeaways GlobeSt reports that US dining visits fell broadly in August while retail traffic remained slightly positive .…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/restaurant-traffic-falls-2-4-across-us-in-august/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-09-17T06:48:30.000Z"
-    },
-    {
-      "headline": "Educational Nonprofit Signs Lease to Build Campus on Brooklyn’s Floyd Bennett Field",
-      "summary": "The National Park Service has leased a 7-acre space in Brooklyn’s Marine Park neighborhood to a workforce development nonprofit. Runway Green signed a 60-year agreement with the federal government to build a $60 million agricultural and environmental education facility at Floyd Bennett Field , according to the organization. The former airfield near Jamaica Bay is within Gateway National Recreation Area, which the Park Service oversees.…",
+      "headline": "Law Firm Morgan, Lewis & Bockius Inks 205K SF at 1251 Avenue of the Americas",
+      "summary": "Global law firm Morgan, Lewis & Bockius has signed a massive lease to relocate its New York City offices. The law firm, which handles corporate mergers and offers specialized consulting, inked a deal for 205,000 square feet at Mitsui Fudosan America ’s 1251 Avenue of the Americas , according to a third-quarter Manhattan office report from Colliers . A source close to the deal confirmed the lease.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/runway-green-lease-floyd-bennett-field-brooklyn-campus/",
+      "url": "https://commercialobserver.com/2026/10/morgan-lewis-bockius-lease-1251-avenue-of-the-americas/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-09-29T20:03:28.000Z"
+      "published_at": "2026-10-01T16:01:03.000Z"
+    },
+    {
+      "headline": "Qube Inks 52K-SF Deal at Related and Oxford’s 70 Hudson Yards Development",
+      "summary": "Related Companies and Oxford Properties Group ’s 70 Hudson Yards — a roughly 1.4 million-square-foot office tower that won’t be complete until 2028 — has secured another office tenant, Commercial Observer has learned. Qube , a global investment manager, has agreed to lease 52,000 square feet at the planned 52-story office building currently under development in Manhattan’s Hudson Yards, according to a source with knowledge of the deal and confirmed by Avison Young ’s third-quarter Manhattan office report .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/09/qube-lease-related-oxford-70-hudson-yards/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-09-30T21:19:10.000Z"
     },
     {
       "headline": "Newmark, Cushman & Wakefield Among Winners at REBNY’s 2026 Retail Deal Awards",
@@ -136,15 +163,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-09-24T15:00:27.000Z"
-    },
-    {
-      "headline": "CDK Capital, Daryl Hagler pay $75.8M for mid-construction project in Ridgewood, sign $10.2M ground lease",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/cdk-capital-darryl-hagler-pay-75-8m-for-mid-construction-project-in-ridgewood-sign-10-2m-ground-lease/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-09-30T15:22:00.000Z"
     },
     {
       "headline": "Toys R Us Plans 120 Holiday Stores in Retail Push",
@@ -174,112 +192,94 @@
       "published_at": "2026-09-18T16:03:03.000Z"
     },
     {
-      "headline": "Nassimi Realty pays $9M to Hope Street Capital for retail in Boerum Hill",
+      "headline": "ABJ sells retail to Union Market, resi to Galeta Partners in South Slope for $8.5M total",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/nassimi-realty-pays-9m-to-hope-street-capital-for-retail-in-boerum-hill/",
+      "url": "https://www.pincusco.com/union-market-pays-3-5m-to-abj-properties-for-retail-condo-in-south-slope/",
       "section": "pincusco",
       "retail": true,
-      "published_at": "2026-09-30T15:33:00.000Z"
+      "published_at": "2026-10-01T15:00:00.000Z"
     },
     {
-      "headline": "European Coworking Firm Enters U.S. With 32K-SF Lease in Downtown L.A.",
-      "summary": "European flexible workspace operator I nfinitSpace is entering the U.S. market with a 32,000-square-foot location in Downtown Los Angeles, its first step in a plan to open 30 locations nationwide in the next two years. The company announced Tuesday that it has entered into a long-term management partnership at the historic Desmond’s Building at 612 South Broadway . The new coworking spot, operating under infinitSpace ’s Beyond brand, is scheduled to open Nov. 2.…",
+      "headline": "Jose Corona pays $8.2M to Ronald Potash for retail in Corona",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/jose-corona-pays-8-2m-to-ronald-potash-for-retail-in-corona/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-10-01T14:49:00.000Z"
+    },
+    {
+      "headline": "Investment Firms Silvercrest, i80 Group Lease Offices at 1345 Avenue of the Americas",
+      "summary": "Two investment firms have leased new offices at the same Midtown building. In the largest deal, Silvercrest Asset Management , an independent wealth management firm, signed a 15-year, 41,000-square-foot lease on the entire 12th floor of Fisher Brothers ’ 1345 Avenue of the Americas , while i80 Group signed a 10-year lease for roughly 17,000 square feet on the 18th floor, according to the landlord.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/coworking-la-desmonds-infinitspace/",
+      "url": "https://commercialobserver.com/2026/10/silvercrest-i80-group-leases-1345-avenue-of-the-americas/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-09-29T19:55:04.000Z"
+      "published_at": "2026-10-01T14:22:06.000Z"
     },
     {
-      "headline": "Rockshire Group signs $103.6M construction loan with Ponce for 158-unit project in Downtown Brooklyn",
+      "headline": "L+M Development Partners files plans for 207 units in East New York",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/fbl-gold-stone-affiliate-signs-103-6m-construction-loan-with-ponce-for-158-unit-project-in-downtown-brooklyn/",
+      "url": "https://www.pincusco.com/lm-development-partners-files-plans-for-207-units-in-east-new-york/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-29T14:44:00.000Z"
+      "published_at": "2026-10-01T16:27:00.000Z"
     },
     {
-      "headline": "Yaakov Gold signs $13.9M construction loan with S3 Capital for 10-unit project in Crown Heights",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/yaakov-gold-signs-13-9m-construction-loan-with-s3-capital-for-industrial-in-crown-heights/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-29T15:00:00.000Z"
-    },
-    {
-      "headline": "Courts roundup: $18.5M SoHo mixed-use bankruptcy; $18.6M Bronx pre-foreclosure; $1M BKREA commission suit",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/courts-roundup-18-5m-soho-mixed-use-bankruptcy-18-6m-bronx-pre-foreclosure-1m-bkrea-commission-suit/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-30T11:17:30.000Z"
-    },
-    {
-      "headline": "Lazar Katz files plans for 99 units in Mt Hope",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/lazar-katz-files-plans-for-99-units-in-mt-hope/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-30T16:06:00.000Z"
-    },
-    {
-      "headline": "Eli Hoffman files plans for 99 units in Westchester Square",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/eli-hoffman-files-plans-for-99-units-in-westchester-square/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-30T15:54:00.000Z"
-    },
-    {
-      "headline": "Gabriela Tubella signs $3.5M refi loan with GPS Capital Fund for 3-family in Fort Greene",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/gabriela-tubella-signs-3-5m-refi-loan-with-gps-capital-fund-for-3-family-in-fort-greene/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-09-30T13:55:00.000Z"
-    },
-    {
-      "headline": "Huge 514-home tower that would change WeHo’s skyline forever heads for approval",
-      "summary": "On Oct. 1, the West Hollywood Planning Commission will consider a proposal for a 514-apartment development at 1000 North La Brea Avenue.",
+      "headline": "Hotel Clark ‘soft opens’ in DTLA after sitting closed for more than 30 years",
+      "summary": "A piece of Los Angeles history has come back to life.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/09/29/real-estate/34-story-tower-that-would-transform-west-hollywood-skyline-heads-to-approval/",
+      "url": "https://nypost.com/2026/10/01/lifestyle/historic-hotel-clark-opens-in-downtown-la-for-first-time-in-35-years/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-09-30T00:21:21.000Z"
+      "published_at": "2026-10-01T16:37:34.000Z"
     },
     {
-      "headline": "Former Connecticut housing authority exec charged with $16.2 million loan fraud",
-      "summary": "Robert Cappelletti was charged with committing the crimes while heading up Meriden Housing Authority.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/29/real-estate/former-connecticut-housing-authority-exec-charged-with-16-2-million-loan-fraud/",
-      "section": "new_york_post",
+      "headline": "Mordechai Adler signs $26.5M refi with Popular for office in Prospect Lefferts Gardens",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/mordechai-adler-signs-26-5m-refi-with-popular-for-office-in-prospect-lefferts-gardens/",
+      "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-29T23:13:53.000Z"
+      "published_at": "2026-10-01T16:36:00.000Z"
     },
     {
-      "headline": "Stunning $1M California home with a 2-story wall of glass quickly becomes the most-viewed listing in the US",
-      "summary": "This is the first time in two decades the Berkeley house will be listed for sale.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/29/real-estate/home-with-2-story-wall-of-glass-is-the-most-viewed-listing-in-the-us/",
-      "section": "new_york_post",
+      "headline": "Andrew Moutzouroulias files plans for 39 units in Greenwood Heights",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/andrew-moutzouroulias-files-plans-for-39-units-in-greenwood-heights/",
+      "section": "pincusco",
       "retail": false,
-      "published_at": "2026-09-29T20:05:11.000Z"
+      "published_at": "2026-10-01T16:32:00.000Z"
     },
     {
-      "headline": "These portable microhomes can be shipped anywhere for emergency housing",
-      "summary": "The idea is to offer small mobile housing units that can be quickly deployed for natural disasters, job sites and short-term housing.",
+      "headline": "Xiao Ke Tang signs $22.5M refi loan with RWC Lending for residential elevator in Sunnyside",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/xiao-ke-tang-signs-22-5m-refi-loan-with-rwc-lending-for-residential-elevator-in-sunnyside/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-10-01T16:04:00.000Z"
+    },
+    {
+      "headline": "Kings Capital files plans for 10 units in Greenpoint",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/kings-capital-files-plans-for-10-units-in-greenpoint/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-10-01T14:38:00.000Z"
+    },
+    {
+      "headline": "Once America’s hottest housing market, popular state is now the hardest place to sell a home",
+      "summary": "Currently, a staggering 206,000 homes are up for sale with no buyers in sight.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/09/28/real-estate/these-portable-microhomes-can-be-shipped-anywhere-for-emergency-housing/",
+      "url": "https://nypost.com/2026/09/30/real-estate/florida-is-now-the-hardest-state-to-sell-a-home/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-09-29T02:12:16.000Z"
+      "published_at": "2026-09-30T19:25:23.000Z"
     }
   ]
 }
