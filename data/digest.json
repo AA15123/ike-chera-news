@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-10-02",
-  "generated_at": "2026-10-02T16:12:29.533Z",
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T14:39:19.386Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "BankUnited Lands Fifth Avenue Retail Flagship and Expands Offices at 450 Park Avenue: BankUnited is not only landing on Fifth Avenue with a new flagship branch, but it’s also expanding its office space along Park Avenue, Commercial Observer has learned. The Florida-based bank signed a retail lease for 10,068 square feet on the south corner of Amazon ’s tower at 452 Fifth Avenue , also known as 10.\n\nBurlington Stores Inks 32K SF at Brooklyn Navy Yard’s Admiral’s Row Campus: Burlington Stores is coming to the Brooklyn Navy Yard. The retailer formerly known as Burlington Coat Factory signed a 31,717-square-foot retail lease at 25 Navy Street , according to city records filed Tuesday evening.\n\nZara Doubles Footprint at a Macerich Shopping Center in Los Angeles County: Fashion firm Zara is more than doubling its footprint at a Southern California shopping center. The clothing retailer is expanding from 22,000 square feet to a 45,000-square-foot flagship opening next year at Macerich ’s 1.3 million-square-foot Los Cerritos Center in southeast Los Angeles County.\n\nBritish Luxury Fashion Brand JW Anderson to Open at SoHo’s 138 Wooster Street: British luxury fashion label JW Anderson has leased 4,500 square feet at 138 Wooster Street in Manhattan’s SoHo neighborhood for its first stand-alone U.S. store, Commercial Observer has learned.",
-    "cre_daily": "Retail Demand Grows as Construction Hits Record Low: US retailers posted a net gain of 127 stores through Aug. 28, adding 28.6M SF of occupied retail space.\n\nInvesco REIT Buys Raleigh Retail Center for $87.2M: Invesco REIT acquired Knightdale Marketplace for $87.2M, including closing and leasing costs, according to AltsWire. The 323,113 SF shopping center is 100% leased with a weighted average lease term of about seven years.\n\nRetail Sales Jump 6% in August, Boosting CRE Property Demand: Retail sales rose 6% year-over-year in August 2026 and have averaged 5.2% growth year-to-date, a pace historically uncommon outside post-recession recoveries. Households remain financially healthy overall, as rising incomes and record savings offset auto, credit card and household debt sitting at or near record highs.\n\nCore Retail Sales Hit Record as In-Store Spending Rises: Core retail sales rose 1.2% in August and 5.6% year over year, with gains across nine of 10 major retail categories. Store-based sales increased 0.6%, outpacing headline inflation and marking the second-largest monthly gain in the past 14 months.",
-    "new_york_post": "Hotel Clark ‘soft opens’ in DTLA after sitting closed for more than 30 years: A piece of Los Angeles history has come back to life.\n\nOnce America’s hottest housing market, popular state is now the hardest place to sell a home: Currently, a staggering 206,000 homes are up for sale with no buyers in sight.\n\nHuge 514-home tower that would change WeHo’s skyline forever heads for approval: On Oct. 1, the West Hollywood Planning Commission will consider a proposal for a 514-apartment development at 1000 North La Brea Avenue.",
-    "pincusco": "Grid Group pays $3.8M for mixed-use retail in Upper West Side.\n\nCandor Capital signs $36M construction loan with S3 Capital for 99-unit project in Prospect Lefferts Gardens.\n\nMBD signs $38.7M construction loan with Santander for 60-unit development in Highbridge.\n\nNamdar, Klosed sign $2.2M loan with Orange Bank for 21-unit walkup in Fordham Heights."
+    "commercial_observer": "BankUnited Lands Fifth Avenue Retail Flagship and Expands Offices at 450 Park Avenue: BankUnited is not only landing on Fifth Avenue with a new flagship branch, but it’s also expanding its office space along Park Avenue, Commercial Observer has learned. The Florida-based bank signed a retail lease for 10,068 square feet on the south corner of Amazon ’s tower at 452 Fifth Avenue , also known as 10.\n\nBurlington Stores Inks 32K SF at Brooklyn Navy Yard’s Admiral’s Row Campus: Burlington Stores is coming to the Brooklyn Navy Yard. The retailer formerly known as Burlington Coat Factory signed a 31,717-square-foot retail lease at 25 Navy Street , according to city records filed Tuesday evening.\n\nZara Doubles Footprint at a Macerich Shopping Center in Los Angeles County: Fashion firm Zara is more than doubling its footprint at a Southern California shopping center. The clothing retailer is expanding from 22,000 square feet to a 45,000-square-foot flagship opening next year at Macerich ’s 1.3 million-square-foot Los Cerritos Center in southeast Los Angeles County.\n\nChinese Restaurant Chain to Open 10K-SF Eatery at 365 West 46th Street: One thing New York City does not lack is a place to find great Chinese food, and New Yorkers are about to get another spot to add to their lists. Nong Geng Ji , one of China’s most popular Hunan cuisine brands, has inked a 9,900-square-foot retail lease at 365 West 46th Street in Manhattan’s Hell’s Kitchen.",
+    "cre_daily": "Retail Demand Grows as Construction Hits Record Low: US retailers posted a net gain of 127 stores through Aug. 28, adding 28.6M SF of occupied retail space.\n\nInvesco REIT Buys Raleigh Retail Center for $87.2M: Invesco REIT acquired Knightdale Marketplace for $87.2M, including closing and leasing costs, according to AltsWire. The 323,113 SF shopping center is 100% leased with a weighted average lease term of about seven years.\n\nArlington Redevelopment Gains Steam Near DFW Sports Hub: Trademark Property Co. broke ground in summer 2026 on the 404K SF Anthem, a $135M-plus redevelopment of the former Lincoln Square shopping center, with completion expected in early 2028.\n\nRetail Sales Jump 6% in August, Boosting CRE Property Demand: Retail sales rose 6% year-over-year in August 2026 and have averaged 5.2% growth year-to-date, a pace historically uncommon outside post-recession recoveries. Households remain financially healthy overall, as rising incomes and record savings offset auto, credit card and household debt sitting at or near record highs.",
+    "new_york_post": "NYC doom loop? More like boom loop — as Manhattan office space fills up: Three major brokerages found that demand has driven up rents at a frenzied pace.\n\nHotel Clark ‘soft opens’ in DTLA after sitting closed for more than 30 years: A piece of Los Angeles history has come back to life.\n\nOnce America’s hottest housing market, popular state is now the hardest place to sell a home: Currently, a staggering 206,000 homes are up for sale with no buyers in sight.",
+    "pincusco": "Grid Group pays $3.8M for mixed-use retail in Upper West Side.\n\nCrown, KSR pay $7M for retail in Kingsbridge, owned for 98 years.\n\nCandor Capital signs $36M construction loan with S3 Capital for 99-unit project in Prospect Lefferts Gardens.\n\nMBD signs $38.7M construction loan with Santander for 60-unit development in Highbridge."
   },
   "items": [
     {
@@ -37,6 +37,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-09-23T18:20:26.000Z"
+    },
+    {
+      "headline": "Chinese Restaurant Chain to Open 10K-SF Eatery at 365 West 46th Street",
+      "summary": "One thing New York City does not lack is a place to find great Chinese food, and New Yorkers are about to get another spot to add to their lists. Nong Geng Ji , one of China’s most popular Hunan cuisine brands, has inked a 9,900-square-foot retail lease at 365 West 46th Street in Manhattan’s Hell’s Kitchen neighborhood along the famed Restaurant Row, according to tenant broker Meridian Capital Group . The three-level space will be the brand’s flagship New York City location.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/10/nong-geng-ji-lease-365-west-46th-street/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-10-02T16:50:40.000Z"
     },
     {
       "headline": "Retail Demand Grows as Construction Hits Record Low",
@@ -73,6 +82,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-09-28T16:41:00.000Z"
+    },
+    {
+      "headline": "Arlington Redevelopment Gains Steam Near DFW Sports Hub",
+      "summary": "Trademark Property Co. broke ground in summer 2026 on the 404K SF Anthem, a $135M-plus redevelopment of the former Lincoln Square shopping center, with completion expected in early 2028. Fairbourne Properties and AEW are redeveloping the 747K SF Arlington Highlands, while new opportunity zone tracts along Collins Street target the gap between the stadiums and downtown.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/arlington-redevelopment-gains-steam-near-dfw-sports-hub/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-10-02T16:20:48.000Z"
     },
     {
       "headline": "Retail Sales Jump 6% in August, Boosting CRE Property Demand",
@@ -147,13 +165,13 @@
       "published_at": "2026-09-22T18:16:42.000Z"
     },
     {
-      "headline": "Law Firm Morgan, Lewis & Bockius Inks 205K SF at 1251 Avenue of the Americas",
-      "summary": "Global law firm Morgan, Lewis & Bockius has signed a massive lease to relocate its New York City offices. The law firm, which handles corporate mergers and offers specialized consulting, inked a deal for 205,000 square feet at Mitsui Fudosan America ’s 1251 Avenue of the Americas , according to a third-quarter Manhattan office report from Colliers . A source close to the deal confirmed the lease.…",
+      "headline": "World Trade Centers Association Leases 3K-SF Office in Namesake Campus",
+      "summary": "The international trade organization that took its name from the World Trade Center is re-establishing a headquarters presence at the campus. The World Trade Centers Association (WTCA), which bought the rights to the name in the 1980s, has signed a lease for 2,556 square feet on the 46th floor of the Durst Organization and the Port Authority of New York and New Jersey (PANYNJ)’s One World Trade Center , according to the organization. The move marks a return to the complex after a 25-year absence.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/morgan-lewis-bockius-lease-1251-avenue-of-the-americas/",
+      "url": "https://commercialobserver.com/2026/10/world-trade-centers-association-lease-one-world-trade-center/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-10-01T16:01:03.000Z"
+      "published_at": "2026-10-02T16:43:40.000Z"
     },
     {
       "headline": "Newmark, Cushman & Wakefield Among Winners at REBNY’s 2026 Retail Deal Awards",
@@ -174,31 +192,13 @@
       "published_at": "2026-10-02T11:49:00.000Z"
     },
     {
-      "headline": "Investment Firms Silvercrest, i80 Group Lease Offices at 1345 Avenue of the Americas",
-      "summary": "Two investment firms have leased new offices at the same Midtown building. In the largest deal, Silvercrest Asset Management , an independent wealth management firm, signed a 15-year, 41,000-square-foot lease on the entire 12th floor of Fisher Brothers ’ 1345 Avenue of the Americas , while i80 Group signed a 10-year lease for roughly 17,000 square feet on the 18th floor, according to the landlord. The asking rent in the 49-story office tower is $120 per square foot, according to Fisher Brothers.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/silvercrest-i80-group-leases-1345-avenue-of-the-americas/",
-      "section": "commercial_observer",
+      "headline": "Crown, KSR pay $7M for retail in Kingsbridge, owned for 98 years",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/crown-ksr-pay-7m-for-retail-in-kingsbridge-owned-for-98-years/",
+      "section": "pincusco",
       "retail": true,
-      "published_at": "2026-10-01T14:22:06.000Z"
-    },
-    {
-      "headline": "Toys R Us Plans 120 Holiday Stores in Retail Push",
-      "summary": "Toys R Us plans 120 temporary standalone stores for the holiday season, compared with 36 permanent US locations. The pop-ups expand a 2023 strategy that used 24 temporary stores, while the brand also adds airport and shop-in-shop formats. National retail vacancy was 4.2% at the end of June, with limited new construction keeping available space relatively tight. Key Takeaways Toys R Us is preparing a major temporary store expansion for the holiday season.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/toys-r-us-plans-120-holiday-stores-in-retail-push/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-09-20T11:59:43.000Z"
-    },
-    {
-      "headline": "Asian-American Deli Café Hestia Signs 8K-SF Lease at 570 Lexington Avenue",
-      "summary": "A cafe serving Asian and American cuisine is opening a fourth Manhattan location, Commercial Observer has learned. Café Hestia , a group of family-run delis, has signed a 20-year, 8,000-square-foot lease at the base of the Feil Organization ’s 570 Lexington Avenue , which it will likely also use as a catering facility, according to tenant broker Kassin Sabbagh Realty (KSR).…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/cafe-hestia-lease-570-lexington-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-18T19:30:09.000Z"
+      "published_at": "2026-10-02T17:41:51.000Z"
     },
     {
       "headline": "Candor Capital signs $36M construction loan with S3 Capital for 99-unit project in Prospect Lefferts Gardens",
@@ -217,6 +217,24 @@
       "section": "pincusco",
       "retail": false,
       "published_at": "2026-10-02T11:42:00.000Z"
+    },
+    {
+      "headline": "NYC doom loop? More like boom loop — as Manhattan office space fills up",
+      "summary": "Three major brokerages found that demand has driven up rents at a frenzied pace.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/02/business/nyc-doom-loop-more-like-boom-loop-as-manhattan-office-space-fills-up/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-10-02T17:29:23.000Z"
+    },
+    {
+      "headline": "Palette Hotels pays $72M to Synergy Hospitality for hotel across from La Guardia",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/palette-hotels-pays-72m-to-synergy-hospitality-for-hotel-across-from-la-guardia/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-10-02T16:57:15.000Z"
     },
     {
       "headline": "Namdar, Klosed sign $2.2M loan with Orange Bank for 21-unit walkup in Fordham Heights",
@@ -246,15 +264,6 @@
       "published_at": "2026-10-02T12:06:00.000Z"
     },
     {
-      "headline": "Maurice Setton pays $7.9M to Mactaggart Family for mixed-use in Cobble Hill",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/maurice-setton-pays-8m-to-mactaggart-family-for-two-mixed-use-properties-in-cobble-hill/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-10-02T11:31:00.000Z"
-    },
-    {
       "headline": "Hotel Clark ‘soft opens’ in DTLA after sitting closed for more than 30 years",
       "summary": "A piece of Los Angeles history has come back to life.",
       "source": "New York Post",
@@ -271,15 +280,6 @@
       "section": "new_york_post",
       "retail": false,
       "published_at": "2026-09-30T19:25:23.000Z"
-    },
-    {
-      "headline": "Huge 514-home tower that would change WeHo’s skyline forever heads for approval",
-      "summary": "On Oct. 1, the West Hollywood Planning Commission will consider a proposal for a 514-apartment development at 1000 North La Brea Avenue.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/29/real-estate/34-story-tower-that-would-transform-west-hollywood-skyline-heads-to-approval/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-09-30T00:21:21.000Z"
     }
   ]
 }
