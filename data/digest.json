@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-10-04",
-  "generated_at": "2026-10-04T15:15:36.248Z",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T19:11:49.688Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "BankUnited Lands Fifth Avenue Retail Flagship and Expands Offices at 450 Park Avenue: BankUnited is not only landing on Fifth Avenue with a new flagship branch, but it’s also expanding its office space along Park Avenue, Commercial Observer has learned. The Florida-based bank signed a retail lease for 10,068 square feet on the south corner of Amazon ’s tower at 452 Fifth Avenue , also known as 10.\n\nBurlington Stores Inks 32K SF at Brooklyn Navy Yard’s Admiral’s Row Campus: Burlington Stores is coming to the Brooklyn Navy Yard. The retailer formerly known as Burlington Coat Factory signed a 31,717-square-foot retail lease at 25 Navy Street , according to city records filed Tuesday evening.\n\nZara Doubles Footprint at a Macerich Shopping Center in Los Angeles County: Fashion firm Zara is more than doubling its footprint at a Southern California shopping center. The clothing retailer is expanding from 22,000 square feet to a 45,000-square-foot flagship opening next year at Macerich ’s 1.3 million-square-foot Los Cerritos Center in southeast Los Angeles County.\n\nChinese Restaurant Chain to Open 10K-SF Eatery at 365 West 46th Street: One thing New York City does not lack is a place to find great Chinese food, and New Yorkers are about to get another spot to add to their lists. Nong Geng Ji , one of China’s most popular Hunan cuisine brands, has inked a 9,900-square-foot retail lease at 365 West 46th Street in Manhattan’s Hell’s Kitchen.",
     "cre_daily": "Retail Demand Grows as Construction Hits Record Low: US retailers posted a net gain of 127 stores through Aug. 28, adding 28.6M SF of occupied retail space.\n\nInvesco REIT Buys Raleigh Retail Center for $87.2M: Invesco REIT acquired Knightdale Marketplace for $87.2M, including closing and leasing costs, according to AltsWire. The 323,113 SF shopping center is 100% leased with a weighted average lease term of about seven years.\n\nArlington Redevelopment Gains Steam Near DFW Sports Hub: Trademark Property Co. broke ground in summer 2026 on the 404K SF Anthem, a $135M-plus redevelopment of the former Lincoln Square shopping center, with completion expected in early 2028.\n\nRetail Sales Jump 6% in August, Boosting CRE Property Demand: Retail sales rose 6% year-over-year in August 2026 and have averaged 5.2% growth year-to-date, a pace historically uncommon outside post-recession recoveries. Households remain financially healthy overall, as rising incomes and record savings offset auto, credit card and household debt sitting at or near record highs.",
-    "new_york_post": "NYC doom loop? More like boom loop — as Manhattan office space fills up: Three major brokerages found that demand has driven up rents at a frenzied pace.\n\nHotel Clark ‘soft opens’ in DTLA after sitting closed for more than 30 years: A piece of Los Angeles history has come back to life.\n\nOnce America’s hottest housing market, popular state is now the hardest place to sell a home: Currently, a staggering 206,000 homes are up for sale with no buyers in sight.\n\nNYC now ranks as the hardest place to buy a home for first-time buyers: New York City is the hardest major US market for first-time homebuyers, who would need 65.2 years to save the typical $265,000 down payment.",
-    "pincusco": "Grid Group pays $3.8M for mixed-use retail in Upper West Side.\n\nCrown, KSR pay $7M for retail in Kingsbridge, owned for 98 years.\n\nCandor Capital signs $36M construction loan with S3 Capital for 99-unit project in Prospect Lefferts Gardens.\n\nPalette Hotels pays $72M to Synergy Hospitality for hotel across from La Guardia."
+    "new_york_post": "Bronx housing, retail site near planned new Metro-North station set to hit market: H+M and joint-venture partner Affinius Capital are exploring a sale of 1601 Bronxdale Ave., a 7.4-acre site close to the planned new Parkchester/Van Nest Metro-North station.\n\nNYC doom loop? More like boom loop — as Manhattan office space fills up: Three major brokerages found that demand has driven up rents at a frenzied pace.",
+    "pincusco": "Joseph Zafarani ends 12-year legal saga at Fordham Heights retail with $25.5M loan from W Financial.\n\nDaryl Hagler, CDK Capital sign $65.8M acquisition loan with Valley for under-construction project in in Ridgewood.\n\nSunlight Development signs $70M construction loan with Ponce for development in Cobble Hill.\n\nIsrael Elbogen signs $5.2M refi loan with Peapack for office in Sunset Park."
   },
   "items": [
     {
@@ -111,15 +111,6 @@
       "published_at": "2026-09-24T05:06:03.000Z"
     },
     {
-      "headline": "Joyland Sells Staten Island Shopping Center for $57M",
-      "summary": "South Shore Commons , a popular shopping and dining plaza on Staten Island, has sold for the second time in four years. Joyland Management sold the 157,347-square-foot outdoor shopping center at 2965 Veterans Road West for $57 million, or $362 per square foot, to real estate investment trust Phillips Edison & Company , which owns and manages grocery-anchored shopping centers across the U.S. A source with knowledge of the deal confirmed the transaction. Traded first reported the deal.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/joyland-sells-staten-island-shopping-center/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-10-01T19:42:05.000Z"
-    },
-    {
       "headline": "Happier Grocery to Open Second NYC Location on the Upper East Side",
       "summary": "A healthy grocery retailer is opening its second New York City location on Manhattan’s Upper East Side. Happier Grocery has signed a 20,500-square-foot lease at CSC Real Estate ’s 210 East 86th Street , where it plans to open a health food store like its original one on Canal Street in the second half of 2027, according to landlord broker Avison Young .…",
       "source": "Commercial Observer",
@@ -129,13 +120,13 @@
       "published_at": "2026-09-22T19:45:27.000Z"
     },
     {
-      "headline": "Retail Foot Traffic Splits as August Sales Rise 5.3%",
-      "summary": "August retail sales increased 5.3% year over year and core retail rose 4.9%, according to Colliers data citing GlobalData and Placer.ai. Theaters and music venues posted a 58.3% traffic increase, while hobbies, gifts, and crafts rose 20.1%. Grocery sales declined 0.5% and traffic was nearly flat, showing a more cautious pattern in essential spending. Key Takeaways Colliers reports in its August retail sales and traffic update that retail foot traffic split sharply by category while spending stayed resilient.…",
+      "headline": "Phillips Edison Expands Grocery-Anchored JV With Northwestern",
+      "summary": "Phillips Edison extended its Northwestern Mutual partnership by 10 years and plans to move 13 centers valued around $377.5 million into the venture. At completion, Grocery Retail Partners I is expected to hold more than 40 centers in 17 states, roughly $1.2 billion of assets, with Northwestern owning 86%. Phillips Edison updated its 2026 guidance to $600 million to $700 million in gross acquisitions, as grocery ranks first in Cushman & Wakefield’s performance ranking by sales volume.…",
       "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/retail-foot-traffic-splits-as-august-sales-rise-5-3/",
+      "url": "https://www.credaily.com/briefs/phillips-edison-expands-grocery-anchored-jv-with-northwestern/",
       "section": "cre_daily",
       "retail": true,
-      "published_at": "2026-09-29T04:59:39.000Z"
+      "published_at": "2026-10-05T16:43:14.000Z"
     },
     {
       "headline": "Men’s Grooming Club John Allan’s Moves to 4 East 46th Street",
@@ -165,13 +156,13 @@
       "published_at": "2026-09-22T18:16:42.000Z"
     },
     {
-      "headline": "World Trade Centers Association Leases 3K-SF Office in Namesake Campus",
-      "summary": "The international trade organization that took its name from the World Trade Center is re-establishing a headquarters presence at the campus. The World Trade Centers Association (WTCA), which bought the rights to the name in the 1980s, has signed a lease for 2,556 square feet on the 46th floor of the Durst Organization and the Port Authority of New York and New Jersey (PANYNJ)’s One World Trade Center , according to the organization. The move marks a return to the complex after a 25-year absence.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/world-trade-centers-association-lease-one-world-trade-center/",
-      "section": "commercial_observer",
+      "headline": "Bronx housing, retail site near planned new Metro-North station set to hit market",
+      "summary": "H+M and joint-venture partner Affinius Capital are exploring a sale of 1601 Bronxdale Ave., a 7.4-acre site close to the planned new Parkchester/Van Nest Metro-North station.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/04/business/bronx-housing-retail-site-near-planned-new-metro-north-station-set-to-hit-market/",
+      "section": "new_york_post",
       "retail": true,
-      "published_at": "2026-10-02T16:43:40.000Z"
+      "published_at": "2026-10-04T16:28:49.000Z"
     },
     {
       "headline": "Newmark, Cushman & Wakefield Among Winners at REBNY’s 2026 Retail Deal Awards",
@@ -183,31 +174,76 @@
       "published_at": "2026-09-24T15:00:27.000Z"
     },
     {
-      "headline": "Grid Group pays $3.8M for mixed-use retail in Upper West Side",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/grid-group-pays-3-8m-for-mixed-use-retail-in-upper-west-side/",
-      "section": "pincusco",
+      "headline": "French Consulting Firm Wavestone Leases 10K SF at 511 Fifth Avenue",
+      "summary": "Wavestone , a global strategic business and technology transformation consulting firm, has inked a 9,812-square-foot office lease at 511 Fifth Avenue , an 18-story Midtown office building recently redeveloped by owners aurora capital , Wharton Properties and Achs Management . The France-based firm will relocate roughly two blocks east from 130 West 42nd Street — though it is unclear when — and occupy space on 511 Fifth Avenue’s 13th floor, according to Cushman & Wakefield , which brokered the deal for…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/10/wavestone-lease-511-fifth-avenue/",
+      "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-10-02T11:49:00.000Z"
+      "published_at": "2026-10-05T18:57:43.000Z"
     },
     {
-      "headline": "Crown, KSR pay $7M for retail in Kingsbridge, owned for 98 years",
+      "headline": "Joseph Zafarani ends 12-year legal saga at Fordham Heights retail with $25.5M loan from W Financial",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/crown-ksr-pay-7m-for-retail-in-kingsbridge-owned-for-98-years/",
+      "url": "https://www.pincusco.com/joseph-zafarani-ends-12-year-legal-saga-at-fordham-heights-retail-with-25-5m-loan-from-w-financial/",
       "section": "pincusco",
       "retail": true,
-      "published_at": "2026-10-02T17:41:51.000Z"
+      "published_at": "2026-10-05T14:00:00.000Z"
     },
     {
-      "headline": "Candor Capital signs $36M construction loan with S3 Capital for 99-unit project in Prospect Lefferts Gardens",
+      "headline": "CRE Law Firm Adler & Stachenfeld Takes 40K SF at 1301 Avenue of the Americas",
+      "summary": "Commercial real estate law firm Adler & Stachenfeld (A&S) is relocating its New York City offices within Midtown. The practice, which was founded in 1997 by Bruce Stachenfeld and Terri Adler , has signed a 40,000-square-foot lease on the entire 12th floor of 1301 Avenue of the Americas , now owned in a joint venture between Rithm Capital and DRA Advisors , the tenant announced Monday.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/10/adler-stachenfeld-lease-1301-avenue-of-the-americas/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-10-05T18:16:56.000Z"
+    },
+    {
+      "headline": "Record Diesel Prices Fuel More Challenges for Retail Real Estate",
+      "summary": "When it comes to diesel prices’ impact on U.S. retail, the pain at the pump is being felt in retailers’ real estate strategies. Diesel fuel, a key component of transportation costs that impacts the pricing of nearly every item on Americans’ shopping lists, surpassed an all-time average high of $6 per gallon in September.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/10/record-diesel-prices-retail-real-estate-challenges/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-10-05T16:01:36.000Z"
+    },
+    {
+      "headline": "Daryl Hagler, CDK Capital sign $65.8M acquisition loan with Valley for under-construction project in in Ridgewood",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/candor-capital-signs-36m-construction-loan-with-s3-capital-for-specialty-in-prospect-lefferts-gardens/",
+      "url": "https://www.pincusco.com/daryl-hagler-cdk-capital-sign-65-8m-acquisition-loan-with-valley-for-under-construction-project-in-in-ridgewood/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-10-02T12:12:00.000Z"
+      "published_at": "2026-10-05T13:26:00.000Z"
+    },
+    {
+      "headline": "Sunlight Development signs $70M construction loan with Ponce for development in Cobble Hill",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/sunlight-development-signs-70m-new-construction-loan-with-ponce-bank-for-development-in-cobble-hill/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-10-05T12:52:00.000Z"
+    },
+    {
+      "headline": "Israel Elbogen signs $5.2M refi loan with Peapack for office in Sunset Park",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/israel-elbogen-signs-5-2m-refi-loan-with-peapack-for-office-in-sunset-park/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-10-05T11:36:00.000Z"
+    },
+    {
+      "headline": "Angelo Rigas, George Rigas sign $10.5M initial loan with Sky Ventures for properties in Brooklyn",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/angelo-rigas-george-rigas-sign-10-5m-initial-loan-with-sky-ventures-for-properties-in-brooklyn/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-10-05T14:22:00.000Z"
     },
     {
       "headline": "NYC doom loop? More like boom loop — as Manhattan office space fills up",
@@ -219,67 +255,31 @@
       "published_at": "2026-10-02T17:29:23.000Z"
     },
     {
-      "headline": "Palette Hotels pays $72M to Synergy Hospitality for hotel across from La Guardia",
+      "headline": "Tower Real Estate Investments files plans for 10 units in Bedford Stuyvesant",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/palette-hotels-pays-72m-to-synergy-hospitality-for-hotel-across-from-la-guardia/",
+      "url": "https://www.pincusco.com/tower-real-estate-investments-files-plans-for-10-units-in-bedford-stuyvesant/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-10-02T16:57:15.000Z"
+      "published_at": "2026-10-05T14:53:00.000Z"
     },
     {
-      "headline": "Namdar, Klosed sign $2.2M loan with Orange Bank for 21-unit walkup in Fordham Heights",
+      "headline": "Wildflower Ltd. signs $9.4M loan with Climate First Bank for charging station near JFK",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/namdar-klosed-sign-2-2m-loan-with-orange-bank-for-21-unit-walkup-in-fordham-heights/",
+      "url": "https://www.pincusco.com/wildflower-ltd-signs-9-4m-new-construction-loan-with-climate-first-bank-for-charging-station-near-jfk/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-10-02T13:52:00.000Z"
+      "published_at": "2026-10-05T14:37:00.000Z"
     },
     {
-      "headline": "Simkho Aranbayev pays $2.8M for 6-unit mixed-use in Park Slope",
+      "headline": "Investor signs $17M loan with Citizens for 51-unit walkup in East Williamsburg",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/simkho-aranbayev-pays-2-8m-for-6-unit-mixed-use-in-park-slope/",
+      "url": "https://www.pincusco.com/investor-signs-17m-loan-with-citizens-for-51-unit-walkup-in-east-williamsburg/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-10-02T13:42:00.000Z"
-    },
-    {
-      "headline": "ABS Partners signs $95M refi with John Hancock for office in Flatiron District",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/abs-partners-signs-95m-refi-with-john-hancock-for-office-in-flatiron-district/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-10-02T12:06:00.000Z"
-    },
-    {
-      "headline": "Hotel Clark ‘soft opens’ in DTLA after sitting closed for more than 30 years",
-      "summary": "A piece of Los Angeles history has come back to life.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/10/01/lifestyle/historic-hotel-clark-opens-in-downtown-la-for-first-time-in-35-years/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-10-01T16:37:34.000Z"
-    },
-    {
-      "headline": "Once America’s hottest housing market, popular state is now the hardest place to sell a home",
-      "summary": "Currently, a staggering 206,000 homes are up for sale with no buyers in sight.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/30/real-estate/florida-is-now-the-hardest-state-to-sell-a-home/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-09-30T19:25:23.000Z"
-    },
-    {
-      "headline": "NYC now ranks as the hardest place to buy a home for first-time buyers",
-      "summary": "New York City is the hardest major US market for first-time homebuyers, who would need 65.2 years to save the typical $265,000 down payment.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/10/02/real-estate/nyc-ranks-as-the-hardest-place-to-buy-a-home-for-first-time-buyers/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-10-02T19:52:35.000Z"
+      "published_at": "2026-10-05T14:19:00.000Z"
     }
   ]
 }
