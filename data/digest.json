@@ -1,16 +1,25 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-10-05",
-  "generated_at": "2026-10-05T19:11:49.688Z",
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T16:38:45.582Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "BankUnited Lands Fifth Avenue Retail Flagship and Expands Offices at 450 Park Avenue: BankUnited is not only landing on Fifth Avenue with a new flagship branch, but it’s also expanding its office space along Park Avenue, Commercial Observer has learned. The Florida-based bank signed a retail lease for 10,068 square feet on the south corner of Amazon ’s tower at 452 Fifth Avenue , also known as 10.\n\nBurlington Stores Inks 32K SF at Brooklyn Navy Yard’s Admiral’s Row Campus: Burlington Stores is coming to the Brooklyn Navy Yard. The retailer formerly known as Burlington Coat Factory signed a 31,717-square-foot retail lease at 25 Navy Street , according to city records filed Tuesday evening.\n\nZara Doubles Footprint at a Macerich Shopping Center in Los Angeles County: Fashion firm Zara is more than doubling its footprint at a Southern California shopping center. The clothing retailer is expanding from 22,000 square feet to a 45,000-square-foot flagship opening next year at Macerich ’s 1.3 million-square-foot Los Cerritos Center in southeast Los Angeles County.\n\nChinese Restaurant Chain to Open 10K-SF Eatery at 365 West 46th Street: One thing New York City does not lack is a place to find great Chinese food, and New Yorkers are about to get another spot to add to their lists. Nong Geng Ji , one of China’s most popular Hunan cuisine brands, has inked a 9,900-square-foot retail lease at 365 West 46th Street in Manhattan’s Hell’s Kitchen.",
-    "cre_daily": "Retail Demand Grows as Construction Hits Record Low: US retailers posted a net gain of 127 stores through Aug. 28, adding 28.6M SF of occupied retail space.\n\nInvesco REIT Buys Raleigh Retail Center for $87.2M: Invesco REIT acquired Knightdale Marketplace for $87.2M, including closing and leasing costs, according to AltsWire. The 323,113 SF shopping center is 100% leased with a weighted average lease term of about seven years.\n\nArlington Redevelopment Gains Steam Near DFW Sports Hub: Trademark Property Co. broke ground in summer 2026 on the 404K SF Anthem, a $135M-plus redevelopment of the former Lincoln Square shopping center, with completion expected in early 2028.\n\nRetail Sales Jump 6% in August, Boosting CRE Property Demand: Retail sales rose 6% year-over-year in August 2026 and have averaged 5.2% growth year-to-date, a pace historically uncommon outside post-recession recoveries. Households remain financially healthy overall, as rising incomes and record savings offset auto, credit card and household debt sitting at or near record highs.",
-    "new_york_post": "Bronx housing, retail site near planned new Metro-North station set to hit market: H+M and joint-venture partner Affinius Capital are exploring a sale of 1601 Bronxdale Ave., a 7.4-acre site close to the planned new Parkchester/Van Nest Metro-North station.\n\nNYC doom loop? More like boom loop — as Manhattan office space fills up: Three major brokerages found that demand has driven up rents at a frenzied pace.",
-    "pincusco": "Joseph Zafarani ends 12-year legal saga at Fordham Heights retail with $25.5M loan from W Financial.\n\nDaryl Hagler, CDK Capital sign $65.8M acquisition loan with Valley for under-construction project in in Ridgewood.\n\nSunlight Development signs $70M construction loan with Ponce for development in Cobble Hill.\n\nIsrael Elbogen signs $5.2M refi loan with Peapack for office in Sunset Park."
+    "commercial_observer": "Gravity Fitness Signs 23K-SF Lease at Queens’ Flushing Plaza: An athletic club is following a gravitational pull leading it to eastern Queens. Gravity Fitness signed a long-term, 23,000-square-foot lease at Muss Development ’s Flushing Plaza at 41-61 Kissena Boulevard , where it will occupy the ground floor of a two-story office and retail complex in Downtown Flushing, according.\n\nBankUnited Lands Fifth Avenue Retail Flagship and Expands Offices at 450 Park Avenue: BankUnited is not only landing on Fifth Avenue with a new flagship branch, but it’s also expanding its office space along Park Avenue, Commercial Observer has learned. The Florida-based bank signed a retail lease for 10,068 square feet on the south corner of Amazon ’s tower at 452 Fifth Avenue , also known as 10.\n\nBurlington Stores Inks 32K SF at Brooklyn Navy Yard’s Admiral’s Row Campus: Burlington Stores is coming to the Brooklyn Navy Yard. The retailer formerly known as Burlington Coat Factory signed a 31,717-square-foot retail lease at 25 Navy Street , according to city records filed Tuesday evening.\n\nZara Doubles Footprint at a Macerich Shopping Center in Los Angeles County: Fashion firm Zara is more than doubling its footprint at a Southern California shopping center. The clothing retailer is expanding from 22,000 square feet to a 45,000-square-foot flagship opening next year at Macerich ’s 1.3 million-square-foot Los Cerritos Center in southeast Los Angeles County.",
+    "cre_daily": "Record Diesel Prices Squeeze Retail Development Pipeline: Diesel averaged $6.38 per gallon on Sept. 28, up from about $3.81 in late February, adding to construction and supply-chain costs for retail developers and retailers.\n\nRetail Demand Grows as Construction Hits Record Low: US retailers posted a net gain of 127 stores through Aug. 28, adding 28.6M SF of occupied retail space.\n\nArlington Redevelopment Gains Steam Near DFW Sports Hub: Trademark Property Co. broke ground in summer 2026 on the 404K SF Anthem, a $135M-plus redevelopment of the former Lincoln Square shopping center, with completion expected in early 2028.\n\nRetail Sales Jump 6% in August, Boosting CRE Property Demand: Retail sales rose 6% year-over-year in August 2026 and have averaged 5.2% growth year-to-date, a pace historically uncommon outside post-recession recoveries. Households remain financially healthy overall, as rising incomes and record savings offset auto, credit card and household debt sitting at or near record highs.",
+    "new_york_post": "Bronx housing, retail site near planned new Metro-North station set to hit market: H+M and joint-venture partner Affinius Capital are exploring a sale of 1601 Bronxdale Ave., a 7.4-acre site close to the planned new Parkchester/Van Nest Metro-North station.\n\nNYC doom loop? More like boom loop — as Manhattan office space fills up: Three major brokerages found that demand has driven up rents at a frenzied pace.\n\nNYC now ranks as the hardest place to buy a home for first-time buyers: New York City is the hardest major US market for first-time homebuyers, who would need 65.2 years to save the typical $265,000 down payment.\n\nSan Francisco rent crisis hits staggering new highs as median rent now nearly $1k more than NYC: The median price for a two-bedroom apartment in San Francisco is now the highest in the country.",
+    "pincusco": "Angelo Rigas, George Rigas sign $10.5M initial loan with Sky Ventures for properties in Brooklyn.\n\nGlobal Holdings Management buys $40M note secured by its own office building in Garment District.\n\nBLDG, BD Hotels, Mack, L&L pay $245M to BlackRock, L&L for office in Murray Hill.\n\nPine Management signs $5M loan with Santander for 60-unit rental in Boerum Hill."
   },
   "items": [
+    {
+      "headline": "Gravity Fitness Signs 23K-SF Lease at Queens’ Flushing Plaza",
+      "summary": "An athletic club is following a gravitational pull leading it to eastern Queens. Gravity Fitness signed a long-term, 23,000-square-foot lease at Muss Development ’s Flushing Plaza at 41-61 Kissena Boulevard , where it will occupy the ground floor of a two-story office and retail complex in Downtown Flushing, according to the landlord. Muss Development did not disclose the length of the lease, but the asking rent for the building was $52 per square foot.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/10/gravity-fitness-lease-41-61-kissena-boulevard-flushing-plaza/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-10-05T19:14:46.000Z"
+    },
     {
       "headline": "BankUnited Lands Fifth Avenue Retail Flagship and Expands Offices at 450 Park Avenue",
       "summary": "BankUnited is not only landing on Fifth Avenue with a new flagship branch, but it’s also expanding its office space along Park Avenue, Commercial Observer has learned. The Florida-based bank signed a retail lease for 10,068 square feet on the south corner of Amazon ’s tower at 452 Fifth Avenue , also known as 10 Bryant Park . BankUnited also leased more space and signed a long-term extension for its primary New York corner office at 450 Park Avenue .…",
@@ -48,6 +57,15 @@
       "published_at": "2026-10-02T16:50:40.000Z"
     },
     {
+      "headline": "Record Diesel Prices Squeeze Retail Development Pipeline",
+      "summary": "Diesel averaged $6.38 per gallon on Sept. 28, up from about $3.81 in late February, adding to construction and supply-chain costs for retail developers and retailers. Just over 60M SF of retail is under construction, 4% above the all-time low CoStar has recorded, while JLL put Q2 vacancy at 4.4% and net absorption at 10.2M SF. Retailers such as Aldi, Burlington, TJ Maxx and Dollar Tree plan large store expansions, but flat rents and rising costs mean limited new supply to absorb them.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/record-diesel-prices-squeeze-retail-development-pipeline/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-10-06T16:30:01.000Z"
+    },
+    {
       "headline": "Retail Demand Grows as Construction Hits Record Low",
       "summary": "US retailers posted a net gain of 127 stores through Aug. 28, adding 28.6M SF of occupied retail space. Retail recorded 10.2M SF of positive Q2 net absorption while vacancy remained near 4.4%. Q2 completions fell to a record-low 5.2M SF as construction costs continued to outpace rent growth across most markets. Key Takeaways Bisnow reports that US retail leasing and store growth are accelerating while new construction remains constrained. Coresight Research counted a net gain of 127 store openings through Aug.…",
       "source": "CRE Daily",
@@ -55,15 +73,6 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-09-25T05:13:45.000Z"
-    },
-    {
-      "headline": "Invesco REIT Buys Raleigh Retail Center for $87.2M",
-      "summary": "Invesco REIT acquired Knightdale Marketplace for $87.2M, including closing and leasing costs, according to AltsWire. The 323,113 SF shopping center is 100% leased with a weighted average lease term of about seven years. The REIT raised $79.2M quarter to date through August, nearly double the $46.2M reported through July. Key Takeaways AltsWire reports that Invesco Real Estate Income Trust bought the Raleigh-area retail center for $87.2M.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/invesco-reit-buys-raleigh-retail-center-for-87-2m/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-09-23T05:22:11.000Z"
     },
     {
       "headline": "British Luxury Fashion Brand JW Anderson to Open at SoHo’s 138 Wooster Street",
@@ -109,6 +118,15 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-09-24T05:06:03.000Z"
+    },
+    {
+      "headline": "Italian Restaurant Casa Serra to Open at 227 Front Street in South Street Seaport",
+      "summary": "Lower Manhattan’s South Street Seaport will be living la dolce vita with its latest restaurant lease. Casa Serra , a sister restaurant to East Village eatery House of Pasta , has inked a 2,824-square-foot lease at the Durst Organization ’s 227 Front Street , the landlord announced Tuesday. The 15-year lease has an asking rent of $100 per square foot.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/10/casa-serra-lease-seaport-227-front-street/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-10-06T16:14:32.000Z"
     },
     {
       "headline": "Happier Grocery to Open Second NYC Location on the Upper East Side",
@@ -165,15 +183,6 @@
       "published_at": "2026-10-04T16:28:49.000Z"
     },
     {
-      "headline": "Newmark, Cushman & Wakefield Among Winners at REBNY’s 2026 Retail Deal Awards",
-      "summary": "At an event of nearly 150 members and guests on Wednesday night, the Real Estate Board of New York (REBNY) recognized the most influential retail deals completed in New York City in the past year. REBNY evaluated retail sales, leasing and development transactions regardless of size and complexity, ranging from large apparel manufacturer leases to luxury hotel redevelopments. The board awarded three winners.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/newmark-cushman-wakefield-winners-rebny-retail-awards/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-24T15:00:27.000Z"
-    },
-    {
       "headline": "French Consulting Firm Wavestone Leases 10K SF at 511 Fifth Avenue",
       "summary": "Wavestone , a global strategic business and technology transformation consulting firm, has inked a 9,812-square-foot office lease at 511 Fifth Avenue , an 18-story Midtown office building recently redeveloped by owners aurora capital , Wharton Properties and Achs Management . The France-based firm will relocate roughly two blocks east from 130 West 42nd Street — though it is unclear when — and occupy space on 511 Fifth Avenue’s 13th floor, according to Cushman & Wakefield , which brokered the deal for…",
       "source": "Commercial Observer",
@@ -183,15 +192,6 @@
       "published_at": "2026-10-05T18:57:43.000Z"
     },
     {
-      "headline": "Joseph Zafarani ends 12-year legal saga at Fordham Heights retail with $25.5M loan from W Financial",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/joseph-zafarani-ends-12-year-legal-saga-at-fordham-heights-retail-with-25-5m-loan-from-w-financial/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-10-05T14:00:00.000Z"
-    },
-    {
       "headline": "CRE Law Firm Adler & Stachenfeld Takes 40K SF at 1301 Avenue of the Americas",
       "summary": "Commercial real estate law firm Adler & Stachenfeld (A&S) is relocating its New York City offices within Midtown. The practice, which was founded in 1997 by Bruce Stachenfeld and Terri Adler , has signed a 40,000-square-foot lease on the entire 12th floor of 1301 Avenue of the Americas , now owned in a joint venture between Rithm Capital and DRA Advisors , the tenant announced Monday.…",
       "source": "Commercial Observer",
@@ -199,42 +199,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-10-05T18:16:56.000Z"
-    },
-    {
-      "headline": "Record Diesel Prices Fuel More Challenges for Retail Real Estate",
-      "summary": "When it comes to diesel prices’ impact on U.S. retail, the pain at the pump is being felt in retailers’ real estate strategies. Diesel fuel, a key component of transportation costs that impacts the pricing of nearly every item on Americans’ shopping lists, surpassed an all-time average high of $6 per gallon in September.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/record-diesel-prices-retail-real-estate-challenges/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-10-05T16:01:36.000Z"
-    },
-    {
-      "headline": "Daryl Hagler, CDK Capital sign $65.8M acquisition loan with Valley for under-construction project in in Ridgewood",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/daryl-hagler-cdk-capital-sign-65-8m-acquisition-loan-with-valley-for-under-construction-project-in-in-ridgewood/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-10-05T13:26:00.000Z"
-    },
-    {
-      "headline": "Sunlight Development signs $70M construction loan with Ponce for development in Cobble Hill",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/sunlight-development-signs-70m-new-construction-loan-with-ponce-bank-for-development-in-cobble-hill/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-10-05T12:52:00.000Z"
-    },
-    {
-      "headline": "Israel Elbogen signs $5.2M refi loan with Peapack for office in Sunset Park",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/israel-elbogen-signs-5-2m-refi-loan-with-peapack-for-office-in-sunset-park/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-10-05T11:36:00.000Z"
     },
     {
       "headline": "Angelo Rigas, George Rigas sign $10.5M initial loan with Sky Ventures for properties in Brooklyn",
@@ -255,6 +219,33 @@
       "published_at": "2026-10-02T17:29:23.000Z"
     },
     {
+      "headline": "Global Holdings Management buys $40M note secured by its own office building in Garment District",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/global-holdings-management-buys-40m-note-secured-by-its-own-office-building-in-garment-district/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-10-06T12:00:00.000Z"
+    },
+    {
+      "headline": "BLDG, BD Hotels, Mack, L&L pay $245M to BlackRock, L&L for office in Murray Hill",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/bldg-bd-hotels-mack-ll-pay-245m-to-blackrock-ll-for-office-in-murray-hill/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-10-06T11:39:00.000Z"
+    },
+    {
+      "headline": "Pine Management signs $5M loan with Santander for 60-unit rental in Boerum Hill",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/pine-management-signs-5m-loan-with-santander-for-residential-elevator-in-boerum-hill/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-10-06T10:00:00.000Z"
+    },
+    {
       "headline": "Tower Real Estate Investments files plans for 10 units in Bedford Stuyvesant",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
@@ -273,13 +264,22 @@
       "published_at": "2026-10-05T14:37:00.000Z"
     },
     {
-      "headline": "Investor signs $17M loan with Citizens for 51-unit walkup in East Williamsburg",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/investor-signs-17m-loan-with-citizens-for-51-unit-walkup-in-east-williamsburg/",
-      "section": "pincusco",
+      "headline": "NYC now ranks as the hardest place to buy a home for first-time buyers",
+      "summary": "New York City is the hardest major US market for first-time homebuyers, who would need 65.2 years to save the typical $265,000 down payment.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/02/real-estate/nyc-ranks-as-the-hardest-place-to-buy-a-home-for-first-time-buyers/",
+      "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-10-05T14:19:00.000Z"
+      "published_at": "2026-10-02T19:52:35.000Z"
+    },
+    {
+      "headline": "San Francisco rent crisis hits staggering new highs as median rent now nearly $1k more than NYC",
+      "summary": "The median price for a two-bedroom apartment in San Francisco is now the highest in the country.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/02/real-estate/san-francisco-rents-outpace-new-york-city-as-housing-crisis-deepens/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-10-02T14:00:00.000Z"
     }
   ]
 }
