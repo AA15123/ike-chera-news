@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-10-08",
-  "generated_at": "2026-10-08T17:20:12.466Z",
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T16:56:01.119Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Gravity Fitness Signs 23K-SF Lease at Queens’ Flushing Plaza: An athletic club is following a gravitational pull leading it to eastern Queens. Gravity Fitness signed a long-term, 23,000-square-foot lease at Muss Development ’s Flushing Plaza at 41-61 Kissena Boulevard , where it will occupy the ground floor of a two-story office and retail complex in Downtown Flushing, according.\n\nBankUnited Lands Fifth Avenue Retail Flagship and Expands Offices at 450 Park Avenue: BankUnited is not only landing on Fifth Avenue with a new flagship branch, but it’s also expanding its office space along Park Avenue, Commercial Observer has learned. The Florida-based bank signed a retail lease for 10,068 square feet on the south corner of Amazon ’s tower at 452 Fifth Avenue , also known as 10.\n\nBurlington Stores Inks 32K SF at Brooklyn Navy Yard’s Admiral’s Row Campus: Burlington Stores is coming to the Brooklyn Navy Yard. The retailer formerly known as Burlington Coat Factory signed a 31,717-square-foot retail lease at 25 Navy Street , according to city records filed Tuesday evening.\n\nChinese Restaurant Chain to Open 10K-SF Eatery at 365 West 46th Street: One thing New York City does not lack is a place to find great Chinese food, and New Yorkers are about to get another spot to add to their lists. Nong Geng Ji , one of China’s most popular Hunan cuisine brands, has inked a 9,900-square-foot retail lease at 365 West 46th Street in Manhattan’s Hell’s Kitchen.",
-    "cre_daily": "Record Diesel Prices Squeeze Retail Development Pipeline: Diesel averaged $6.38 per gallon on Sept. 28, up from about $3.81 in late February, adding to construction and supply-chain costs for retail developers and retailers.\n\nManhattan Retail Availability Hits Record Low as Banks Expand: Average availability across Manhattan’s prime retail corridors dropped to 11.4% in Q3 2026, the lowest reading since JLL began tracking in 2017, with only 157 spaces left. Bank of America, OceanFirst and Citibank signed leases totaling nearly 35,000 square feet, and JLL says many more bank deals are pending, adding.\n\nArlington Redevelopment Gains Steam Near DFW Sports Hub: Trademark Property Co. broke ground in summer 2026 on the 404K SF Anthem, a $135M-plus redevelopment of the former Lincoln Square shopping center, with completion expected in early 2028.\n\nRetail Sales Jump 6% in August, Boosting CRE Property Demand: Retail sales rose 6% year-over-year in August 2026 and have averaged 5.2% growth year-to-date, a pace historically uncommon outside post-recession recoveries. Households remain financially healthy overall, as rising incomes and record savings offset auto, credit card and household debt sitting at or near record highs.",
-    "new_york_post": "Chrysler Building to be restored, modernized thanks to $235M lease deal with Rockefeller Center owner: The iconic Chrysler Building, Manhattan’s Queen of the Night, will get to wear her illuminated crown for a long time to come.\n\nNYC developers shunning entry-level buyers — pushing city’s house prices even higher: Manhattan’s entry-level new condo pipeline is projected to plunge 74%, as rising development costs push builders toward pricier luxury homes.\n\nManhattan rent smashes record at $6,865 as Brooklyn logs busiest September since 2020: Manhattan’s average rent hit a record $6,865 in September, while Brooklyn saw its strongest September leasing since 2020 amid shrinking inventory.",
-    "pincusco": "Justin Kin Lau, Alex Lau pay $8.3M for retail in Sheepshead Bay.\n\nFine Fare Supermarkets pays $8M for retail in Allerton, owns next door.\n\nAuto dealer Leon Gjoni, partners pay $5.3M for retail in Mariners Harbor.\n\nMinerva Development pays $2.8M for 3-family in Park Slope."
+    "cre_daily": "Record Diesel Prices Squeeze Retail Development Pipeline: Diesel averaged $6.38 per gallon on Sept. 28, up from about $3.81 in late February, adding to construction and supply-chain costs for retail developers and retailers.\n\nManhattan Retail Availability Hits Record Low as Banks Expand: Average availability across Manhattan’s prime retail corridors dropped to 11.4% in Q3 2026, the lowest reading since JLL began tracking in 2017, with only 157 spaces left. Bank of America, OceanFirst and Citibank signed leases totaling nearly 35,000 square feet, and JLL says many more bank deals are pending, adding.\n\nLuxury Spending Falls 6%, Raising Risks for High-End Retail: Citi says U.S. luxury credit card spending fell 6% year over year in September, after 4% declines in both July and August, challenging a source of strength for luxury retail.\n\nArlington Redevelopment Gains Steam Near DFW Sports Hub: Trademark Property Co. broke ground in summer 2026 on the 404K SF Anthem, a $135M-plus redevelopment of the former Lincoln Square shopping center, with completion expected in early 2028.",
+    "new_york_post": "Former Olympian accused of squatting in $26K-a-month NYC luxe condo as owners fight to evict her: Owners say the ex-luger overstayed her lease and sank a $6.75 million deal at star-studded 150 Charles Street.\n\nChrysler Building to be restored, modernized thanks to $235M lease deal with Rockefeller Center owner: The iconic Chrysler Building, Manhattan’s Queen of the Night, will get to wear her illuminated crown for a long time to come.",
+    "pincusco": "House of Leon pays $5.5M to Rialto Capital for retail condo in NoHo.\n\nNYC Public Housing Preservation Trust signs $594.1M rehab loan with NYC HDC for approximately 1,148 units in Sheepshead Bay.\n\nKoeppel Rosen LLC signs $57.6M refi with Customers for 3 office buildings in Manhattan.\n\nSioni Group pays $7M for mixed-use in Midtown West."
   },
   "items": [
     {
@@ -93,6 +93,15 @@
       "published_at": "2026-09-28T16:41:00.000Z"
     },
     {
+      "headline": "Luxury Spending Falls 6%, Raising Risks for High-End Retail",
+      "summary": "Citi says U.S. luxury credit card spending fell 6% year over year in September, after 4% declines in both July and August, challenging a source of strength for luxury retail. Higher earners drive demand: Moody’s Analytics found households earning about $250,000 or more account for 49.7% of consumer spending, up from roughly 36% three decades earlier. The data does not show falling rents or occupancy yet, but landlords with luxury tenants have reason to watch tenant performance as consumer confidence weakens.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/luxury-spending-falls-6-raising-risks-for-high-end-retail/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-10-08T16:43:20.000Z"
+    },
+    {
       "headline": "Arlington Redevelopment Gains Steam Near DFW Sports Hub",
       "summary": "Trademark Property Co. broke ground in summer 2026 on the 404K SF Anthem, a $135M-plus redevelopment of the former Lincoln Square shopping center, with completion expected in early 2028. Fairbourne Properties and AEW are redeveloping the 747K SF Arlington Highlands, while new opportunity zone tracts along Collins Street target the gap between the stadiums and downtown.…",
       "source": "CRE Daily",
@@ -120,6 +129,15 @@
       "published_at": "2026-10-07T17:35:27.000Z"
     },
     {
+      "headline": "Westwood Financial Pays $56M for Huntington Beach, Calif., Shopping Center",
+      "summary": "Westwood Financial has bagged a grocery-anchored shopping center in Huntington Beach, Calif., for approximately $56.2 million, adding one of Orange County’s tightly held coastal retail properties to its portfolio. Real estate giant Blackstone sold the 95,416-square-foot Peninsula Marketplace for about $589 per square foot, according to records with PropertyShark . JLL announced the deal Thursday but declined to disclose the name of the seller or the value of the deal.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/10/blackstone-westwood-peninsula-calif-shopping-center-retail/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-10-08T20:15:49.000Z"
+    },
+    {
       "headline": "Italian Restaurant Casa Serra to Open at 227 Front Street in South Street Seaport",
       "summary": "Lower Manhattan’s South Street Seaport will be living la dolce vita with its latest restaurant lease. Casa Serra , a sister restaurant to East Village eatery House of Pasta , has inked a 2,824-square-foot lease at the Durst Organization ’s 227 Front Street , the landlord announced Tuesday. The 15-year lease has an asking rent of $100 per square foot.…",
       "source": "Commercial Observer",
@@ -136,15 +154,6 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-10-07T17:07:58.000Z"
-    },
-    {
-      "headline": "Phillips Edison Expands Grocery-Anchored JV With Northwestern",
-      "summary": "Phillips Edison extended its Northwestern Mutual partnership by 10 years and plans to move 13 centers valued around $377.5 million into the venture. At completion, Grocery Retail Partners I is expected to hold more than 40 centers in 17 states, roughly $1.2 billion of assets, with Northwestern owning 86%. Phillips Edison updated its 2026 guidance to $600 million to $700 million in gross acquisitions, as grocery ranks first in Cushman & Wakefield’s performance ranking by sales volume.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/phillips-edison-expands-grocery-anchored-jv-with-northwestern/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-10-05T16:43:14.000Z"
     },
     {
       "headline": "Men’s Grooming Club John Allan’s Moves to 4 East 46th Street",
@@ -165,6 +174,42 @@
       "published_at": "2026-09-28T15:13:46.000Z"
     },
     {
+      "headline": "Law Firm Seward & Kissel Signs 171K-SF Renewal at One Battery Park Plaza",
+      "summary": "Seward & Kissel is staying put in the Financial District. The financial services law firm has renewed its 171,112-square-foot office lease for a term of 11 years with Rudin Management and Allianz Real Estate at One Battery Park Plaza , according to CBRE ’s office report for the third quarter of 2026. The asking rent was not disclosed, but the average asking rent for office space in Lower Manhattan was $62.40 per square foot in the third quarter, the report noted.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/10/seward-kissel-lease-renewal-one-battery-park-plaza/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-10-09T13:50:58.000Z"
+    },
+    {
+      "headline": "Law Firm Morgan & Morgan Signs 71K-SF Lease at One Seaport Plaza",
+      "summary": "Personal injury law firm Morgan & Morgan has signed a 70,602-square-foot lease at 199 Water Street , also known as One Seaport Plaza , according to third-quarter Manhattan office reports from Colliers and CBRE . Morgan & Morgan will move from a sublease to a long-term direct lease as part of the new deal, according to a source.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/10/morgan-morgan-lease-one-seaport-plaza/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-10-08T21:16:28.000Z"
+    },
+    {
+      "headline": "AI Financial Platform Brex Inks 94K-SF Lease at GFP’s 200 Varick Street",
+      "summary": "Brex , an AI-powered financial platform, is moving into a new office in Manhattan’s Hudson Square neighborhood. The San Francisco-based artificial intelligence firm, which provides corporate cards, expense management software and business cash management accounts for new companies, has signed a lease for 93,779 square feet at GFP Real Estate ’s 200 Varick Street , according to a third-quarter Manhattan office report from CBRE .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/10/brex-lease-gfp-200-varick-street/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-10-08T18:26:39.000Z"
+    },
+    {
+      "headline": "Private Equity Firm Brenton Point Inks 9K SF at Marx Realty’s 10 Grand Central",
+      "summary": "Marx Realty has signed two new office deals at its 10 Grand Central property totaling 14,000 square feet, the company announced Thursday. In the largest deal, private equity firm Brenton Point Capital Partners will relocate to 10 Grand Central from 900 Third Avenue and occupy 9,000 square feet on the building’s 24th floor at an asking rent of $108 per square foot, according to Marx.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/10/brenton-point-lease-marx-realty-10-grand-central/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-10-08T18:38:49.000Z"
+    },
+    {
       "headline": "AI Platform Synthesia Moves HQ to 50K SF at GFP’s 675 Avenue of the Americas",
       "summary": "Artificial intelligence companies are continuing to scoop up Midtown’s premiere office space. AI video platform Synthesia , which provides an enterprise-focused communications platform backed by “Shark Tank” entrepreneur Mark Cuban , inked a 50,000-square-foot lease at GFP Real Estate ’s 675 Avenue of the Americas for its new U.S. headquarters, according to tenant broker Lee & Associates .…",
       "source": "Commercial Observer",
@@ -174,22 +219,13 @@
       "published_at": "2026-10-08T14:30:16.000Z"
     },
     {
-      "headline": "Financial Services Firm Rothera Signs Lease at 242 West 38th Street",
-      "summary": "Cohen Capital and Solomon Acquisitions have signed three new office deals totaling 10,266 square feet at their Garment District office property at 242 West 38th Street , Commercial Observer has learned. The largest of the three deals was signed by Rothera , a derivatives exchange and clearinghouse that took 3,915 square feet on the property’s eighth floor. The length of the lease was not disclosed, but the asking rent was $45 per square foot, according to a source close to the deals.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/rothera-lease-242-west-38th-street/",
-      "section": "commercial_observer",
+      "headline": "Former Olympian accused of squatting in $26K-a-month NYC luxe condo as owners fight to evict her",
+      "summary": "Owners say the ex-luger overstayed her lease and sank a $6.75 million deal at star-studded 150 Charles Street.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/08/real-estate/former-olympian-faces-eviction-at-new-york-citys-150-charles/",
+      "section": "new_york_post",
       "retail": true,
-      "published_at": "2026-10-07T17:27:38.000Z"
-    },
-    {
-      "headline": "Silverstein Adds 55K SF of Leases at Downtown L.A.’s U.S. Bank Tower",
-      "summary": "The 1,018-foot-tall U.S. Bank Tower is the second-tallest building in Los Angeles. Silverstein Properties Silverstein Properties has announced 55,349 square feet of office leases at one of the tallest buildings west of the Mississippi River, Commercial Observer can first report. The latest deals at U.S.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/silverstein-us-bank-tower-la/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-10-07T14:55:22.000Z"
+      "published_at": "2026-10-08T20:41:22.000Z"
     },
     {
       "headline": "Chrysler Building to be restored, modernized thanks to $235M lease deal with Rockefeller Center owner",
@@ -201,31 +237,13 @@
       "published_at": "2026-10-07T18:20:11.000Z"
     },
     {
-      "headline": "Justin Kin Lau, Alex Lau pay $8.3M for retail in Sheepshead Bay",
+      "headline": "House of Leon pays $5.5M to Rialto Capital for retail condo in NoHo",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/justin-kin-lau-alex-lau-pay-8-3m-for-retail-in-sheepshead-bay/",
+      "url": "https://www.pincusco.com/house-of-leon-pays-5-5m-to-rialto-capital-management-for-retail-condo-in-noho/",
       "section": "pincusco",
       "retail": true,
-      "published_at": "2026-10-08T13:31:00.000Z"
-    },
-    {
-      "headline": "Fine Fare Supermarkets pays $8M for retail in Allerton, owns next door",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/fine-fare-supermarkets-pays-8m-for-retail-in-allerton/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-10-08T13:00:00.000Z"
-    },
-    {
-      "headline": "Auto dealer Leon Gjoni, partners pay $5.3M for retail in Mariners Harbor",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/auto-dealer-leon-gjoni-partners-pay-5-3m-for-retail-in-mariners-harbor/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-10-08T12:30:00.000Z"
+      "published_at": "2026-10-09T12:56:27.000Z"
     },
     {
       "headline": "Record Diesel Prices Fuel More Challenges for Retail Real Estate",
@@ -237,49 +255,31 @@
       "published_at": "2026-10-05T16:01:36.000Z"
     },
     {
-      "headline": "South Beach’s Cameo Theater Could Reopen With Romain Zago Concept",
-      "summary": "Nightlife operator Romain Zago wants to reopen the historic Cameo Theater in South Beach seven years after its nightclub shuttered. Zago, who made a name for himself owning the nearby Mynt Lounge nightclub, has filed plans to turn the Art Deco theater at 1445 Washington Avenue into a 466-seat restaurant and lounge. The plans call for a bar and lounge with 226 seats on the ground floor, with the existing stage remaining. The second floor will house a 240-seat restaurant.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/miami-south-beach-cameo-theater-romain-zago/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-10-06T17:30:23.000Z"
-    },
-    {
-      "headline": "NYC developers shunning entry-level buyers — pushing city’s house prices even higher",
-      "summary": "Manhattan’s entry-level new condo pipeline is projected to plunge 74%, as rising development costs push builders toward pricier luxury homes.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/10/06/real-estate/manhattan-entry-level-new-condo-supply-to-plunge-74-by-2029/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-10-06T19:24:22.000Z"
-    },
-    {
-      "headline": "Minerva Development pays $2.8M for 3-family in Park Slope",
+      "headline": "NYC Public Housing Preservation Trust signs $594.1M rehab loan with NYC HDC for approximately 1,148 units in Sheepshead Bay",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/minerva-development-pays-2-8m-for-3-family-in-park-slope/",
+      "url": "https://www.pincusco.com/nyc-public-housing-preservation-trust-signs-594-1m-rehab-loan-with-nyc-hdc-for-approximately-1148-units-in-sheepshead-bay/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-10-08T13:21:00.000Z"
+      "published_at": "2026-10-09T14:43:00.000Z"
     },
     {
-      "headline": "Limo entrepreneur pays $6.2M for office in Bay Ridge, seller owned for nearly 80 years",
+      "headline": "Koeppel Rosen LLC signs $57.6M refi with Customers for 3 office buildings in Manhattan",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/eduard-slinin-pays-6-2m-for-office-in-bay-ridge-seller-owned-for-nearly-80-years/",
+      "url": "https://www.pincusco.com/koeppel-rosen-llc-signs-57-6m-refi-with-customers-for-three-office-buildings-in-manhattan/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-10-08T12:40:00.000Z"
+      "published_at": "2026-10-09T12:24:00.000Z"
     },
     {
-      "headline": "Manhattan rent smashes record at $6,865 as Brooklyn logs busiest September since 2020",
-      "summary": "Manhattan’s average rent hit a record $6,865 in September, while Brooklyn saw its strongest September leasing since 2020 amid shrinking inventory.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/10/08/real-estate/manhattan-rent-hits-record-6865-as-brooklyn-leasing-surges/",
-      "section": "new_york_post",
+      "headline": "Sioni Group pays $7M for mixed-use in Midtown West",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/sioni-group-pays-7m-for-mixed-use-in-midtown-west/",
+      "section": "pincusco",
       "retail": false,
-      "published_at": "2026-10-08T17:04:38.000Z"
+      "published_at": "2026-10-09T12:47:13.000Z"
     }
   ]
 }
