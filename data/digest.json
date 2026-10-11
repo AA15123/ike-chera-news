@@ -1,13 +1,13 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-10-10",
-  "generated_at": "2026-10-10T15:49:21.349Z",
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T16:14:03.022Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Gravity Fitness Signs 23K-SF Lease at Queens’ Flushing Plaza: An athletic club is following a gravitational pull leading it to eastern Queens. Gravity Fitness signed a long-term, 23,000-square-foot lease at Muss Development ’s Flushing Plaza at 41-61 Kissena Boulevard , where it will occupy the ground floor of a two-story office and retail complex in Downtown Flushing, according.\n\nBankUnited Lands Fifth Avenue Retail Flagship and Expands Offices at 450 Park Avenue: BankUnited is not only landing on Fifth Avenue with a new flagship branch, but it’s also expanding its office space along Park Avenue, Commercial Observer has learned. The Florida-based bank signed a retail lease for 10,068 square feet on the south corner of Amazon ’s tower at 452 Fifth Avenue , also known as 10.\n\nBurlington Stores Inks 32K SF at Brooklyn Navy Yard’s Admiral’s Row Campus: Burlington Stores is coming to the Brooklyn Navy Yard. The retailer formerly known as Burlington Coat Factory signed a 31,717-square-foot retail lease at 25 Navy Street , according to city records filed Tuesday evening.\n\nChinese Restaurant Chain to Open 10K-SF Eatery at 365 West 46th Street: One thing New York City does not lack is a place to find great Chinese food, and New Yorkers are about to get another spot to add to their lists. Nong Geng Ji , one of China’s most popular Hunan cuisine brands, has inked a 9,900-square-foot retail lease at 365 West 46th Street in Manhattan’s Hell’s Kitchen.",
     "cre_daily": "Record Diesel Prices Squeeze Retail Development Pipeline: Diesel averaged $6.38 per gallon on Sept. 28, up from about $3.81 in late February, adding to construction and supply-chain costs for retail developers and retailers.\n\nArlington Redevelopment Gains Steam Near DFW Sports Hub: Trademark Property started construction this summer on the $135M-plus rebuild of Lincoln Square into Anthem, a 404K SF walkable retail and entertainment center with 10 tenants signed and completion expected in early 2028.\n\nManhattan Retail Availability Hits Record Low as Banks Expand: Average availability across Manhattan’s prime retail corridors dropped to 11.4% in Q3 2026, the lowest reading since JLL began tracking in 2017, with only 157 spaces left. Bank of America, OceanFirst and Citibank signed leases totaling nearly 35,000 square feet, and JLL says many more bank deals are pending, adding.\n\nLuxury Spending Falls 6%, Raising Risks for High-End Retail: Citi says U.S. luxury credit card spending fell 6% year over year in September, after 4% declines in both July and August, challenging a source of strength for luxury retail.",
-    "new_york_post": "Former Olympian accused of squatting in $26K-a-month NYC luxe condo as owners fight to evict her: Owners say the ex-luger overstayed her lease and sank a $6.75 million deal at star-studded 150 Charles Street.\n\nChrysler Building to be restored, modernized thanks to $235M lease deal with Rockefeller Center owner: The iconic Chrysler Building, Manhattan’s Queen of the Night, will get to wear her illuminated crown for a long time to come.",
+    "new_york_post": "Former Olympian accused of squatting in $26K-a-month NYC luxe condo as owners fight to evict her: Owners say the ex-luger overstayed her lease and sank a $6.75 million deal at star-studded 150 Charles Street.",
     "pincusco": "House of Leon pays $5.5M to Rialto Capital for retail condo in NoHo.\n\nNYC Public Housing Preservation Trust signs $594.1M rehab loan with NYC HDC for approximately 1,148 units in Sheepshead Bay.\n\nKoeppel Rosen LLC signs $57.6M refi with Customers for 3 office buildings in Manhattan.\n\nSioni Group pays $7M for mixed-use in Midtown West."
   },
   "items": [
@@ -237,15 +237,6 @@
       "published_at": "2026-10-08T18:30:40.000Z"
     },
     {
-      "headline": "Chrysler Building to be restored, modernized thanks to $235M lease deal with Rockefeller Center owner",
-      "summary": "The iconic Chrysler Building, Manhattan’s Queen of the Night, will get to wear her illuminated crown for a long time to come.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/10/07/business/chrysler-building-to-be-restored-modernized-thanks-to-235m-lease-deal-with-tishman-speyer/",
-      "section": "new_york_post",
-      "retail": true,
-      "published_at": "2026-10-07T18:20:11.000Z"
-    },
-    {
       "headline": "House of Leon pays $5.5M to Rialto Capital for retail condo in NoHo",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
@@ -280,6 +271,15 @@
       "section": "pincusco",
       "retail": false,
       "published_at": "2026-10-09T12:47:13.000Z"
+    },
+    {
+      "headline": "Weiss Realty pays $7.2M for two rentals with 103 units in Pelham Bay",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/weiss-realty-pays-7-2m-for-two-rentals-with-103-units-in-pelham-bay/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-10-09T12:39:35.000Z"
     }
   ]
 }
