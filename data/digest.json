@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-10-14",
-  "generated_at": "2026-10-14T14:59:06.041Z",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T14:50:13.289Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Gravity Fitness Signs 23K-SF Lease at Queens’ Flushing Plaza: An athletic club is following a gravitational pull leading it to eastern Queens. Gravity Fitness signed a long-term, 23,000-square-foot lease at Muss Development ’s Flushing Plaza at 41-61 Kissena Boulevard , where it will occupy the ground floor of a two-story office and retail complex in Downtown Flushing, according.\n\nBankUnited Lands Fifth Avenue Retail Flagship and Expands Offices at 450 Park Avenue: BankUnited is not only landing on Fifth Avenue with a new flagship branch, but it’s also expanding its office space along Park Avenue, Commercial Observer has learned. The Florida-based bank signed a retail lease for 10,068 square feet on the south corner of Amazon ’s tower at 452 Fifth Avenue , also known as 10.\n\nBurlington Stores Inks 32K SF at Brooklyn Navy Yard’s Admiral’s Row Campus: Burlington Stores is coming to the Brooklyn Navy Yard. The retailer formerly known as Burlington Coat Factory signed a 31,717-square-foot retail lease at 25 Navy Street , according to city records filed Tuesday evening.\n\nChinese Restaurant Chain to Open 10K-SF Eatery at 365 West 46th Street: One thing New York City does not lack is a place to find great Chinese food, and New Yorkers are about to get another spot to add to their lists. Nong Geng Ji , one of China’s most popular Hunan cuisine brands, has inked a 9,900-square-foot retail lease at 365 West 46th Street in Manhattan’s Hell’s Kitchen.",
+    "commercial_observer": "Gravity Fitness Signs 23K-SF Lease at Queens’ Flushing Plaza: An athletic club is following a gravitational pull leading it to eastern Queens. Gravity Fitness signed a long-term, 23,000-square-foot lease at Muss Development ’s Flushing Plaza at 41-61 Kissena Boulevard , where it will occupy the ground floor of a two-story office and retail complex in Downtown Flushing, according.\n\nChinese Restaurant Chain to Open 10K-SF Eatery at 365 West 46th Street: One thing New York City does not lack is a place to find great Chinese food, and New Yorkers are about to get another spot to add to their lists. Nong Geng Ji , one of China’s most popular Hunan cuisine brands, has inked a 9,900-square-foot retail lease at 365 West 46th Street in Manhattan’s Hell’s Kitchen.\n\nTJ Maxx Signs 29K-SF Deal to Replace H&M at 150 East 86th Street: Discount department store T.J. Maxx is replacing H&M in a busy retail spread on Manhattan’s Upper East Side, Commercial Observer has learned.\n\nBath & Body Works to Open 9K-SF Store in Flatiron District: Bath & Body Works is opening a new store in Manhattan’s Flatiron District. The soap and scented lotion purveyor has signed a lease to take over the entire nearly 9,000-square-foot retail portion of 129 Fifth Avenue , according to a source with knowledge of the deal.",
     "cre_daily": "Retail Vacancy Falls to 4.3% as Q3 Absorption Hits 10.5M SF: National retail vacancy fell 10 basis points to 4.3% in Q3, while shopping center vacancy slipped to 5.4% and mall vacancy dropped 30 basis points to 8.2%. Leasing totaled 38.4M SF and net absorption hit 10.5M SF, led by general retail at 5.4M SF, with shopping centers at 3.0M SF and malls at 1.9M SF.\n\nRecord Diesel Prices Squeeze Retail Development Pipeline: Diesel averaged $6.38 per gallon on Sept. 28, up from about $3.81 in late February, adding to construction and supply-chain costs for retail developers and retailers.\n\nArlington Redevelopment Gains Steam Near DFW Sports Hub: Trademark Property started construction this summer on the $135M-plus rebuild of Lincoln Square into Anthem, a 404K SF walkable retail and entertainment center with 10 tenants signed and completion expected in early 2028.\n\nManhattan Retail Availability Hits Record Low as Banks Expand: Average availability across Manhattan’s prime retail corridors dropped to 11.4% in Q3 2026, the lowest reading since JLL began tracking in 2017, with only 157 spaces left. Bank of America, OceanFirst and Citibank signed leases totaling nearly 35,000 square feet, and JLL says many more bank deals are pending, adding.",
-    "new_york_post": "Estate of mind: 3 stunning properties for sale outside of NYC.\n\nSoho House to open huge NYC clubhouse — with a brand new super-luxury amenity: The members’ club is carving its fourth Big Apple outpost out of the old NoMad Hotel, complete with saunas, ice baths and a hammam.\n\nJack Dorsey’s $32M San Francisco compound has been under construction for 14 years, and his billionaire neighbors are losing it: The Twitter co-founder’s oceanfront sanctuary, with its sweat-lodge spa and cold dip, has turned Sea Cliff into a permanent work site.\n\nMidtown massage parlor busted for alleged $100 happy endings, a decade after owner swore off sex trade: Undercover cops say workers offered sex acts for cash on top of $60 and $80 massages, two weeks after the building quietly sold to a developer.",
-    "pincusco": "Douglaston Development signs $30M refi with Wells Fargo for retail in Harlem.\n\nDavid Escava signs $40M refi loan with Bellwether Enterprise for hotel in Coney Island.\n\nDrilon Marku files plans for 11 units in Mott Haven.\n\nGjovan Rroku files plans for 10 units in Wakefield."
+    "new_york_post": "Estate of mind: 3 stunning properties for sale outside of NYC.\n\nSoho House to open huge NYC clubhouse — with a brand new super-luxury amenity: The members’ club is carving its fourth Big Apple outpost out of the old NoMad Hotel, complete with saunas, ice baths and a hammam.",
+    "pincusco": "David Escava signs $40M refi loan with Bellwether Enterprise for hotel in Coney Island.\n\nNYC School Construction Authority files plans for school in Gravesend.\n\nMoshe Shanbaum files plans for 28 units in East New York.\n\nGrun Group files plans for 89 units in Harlem, first project in Manhattan."
   },
   "items": [
     {
@@ -19,24 +19,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-10-05T19:14:46.000Z"
-    },
-    {
-      "headline": "BankUnited Lands Fifth Avenue Retail Flagship and Expands Offices at 450 Park Avenue",
-      "summary": "BankUnited is not only landing on Fifth Avenue with a new flagship branch, but it’s also expanding its office space along Park Avenue, Commercial Observer has learned. The Florida-based bank signed a retail lease for 10,068 square feet on the south corner of Amazon ’s tower at 452 Fifth Avenue , also known as 10 Bryant Park . BankUnited also leased more space and signed a long-term extension for its primary New York corner office at 450 Park Avenue .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/bankunited-leases-10-bryant-park-retail-office-450-park-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-10-01T13:42:12.000Z"
-    },
-    {
-      "headline": "Burlington Stores Inks 32K SF at Brooklyn Navy Yard’s Admiral’s Row Campus",
-      "summary": "Burlington Stores is coming to the Brooklyn Navy Yard. The retailer formerly known as Burlington Coat Factory signed a 31,717-square-foot retail lease at 25 Navy Street , according to city records filed Tuesday evening. The vacant two-story development between Sands Street and Flushing Avenue borders the Wegmans -anchored shopping center at Admiral’s Row , an 8-acre mixed-use campus developed by Doug Steiner ’s development arm, Steiner NYC .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/09/burlington-stores-steiner-lease-25-navy-street/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-09-30T16:47:35.000Z"
     },
     {
       "headline": "Chinese Restaurant Chain to Open 10K-SF Eatery at 365 West 46th Street",
@@ -147,13 +129,31 @@
       "published_at": "2026-10-07T17:35:27.000Z"
     },
     {
-      "headline": "PNC Lends $96M for Hawaii Retail Portfolio Acquisition",
-      "summary": "Aloha to permanent financing. 11North Partners has landed $96 million of acquisition debt for the purchase of a two-asset grocery-anchored retail portfolio in Lahaina, Hawaii, on the island of Maui. PNC Bank supplied the fixed-rate loan to facilitate the $155 million acquisition of the adjacent Lahaina Cannery and Lahaina Gateway properties from an affiliate of U.S. Realty Partners , according to Northmarq , which arranged the deal.…",
+      "headline": "Ross Stores Takes 115K SF for West Coast Merchandising Hub",
+      "summary": "Discount retailer Ross Stores has signed a 115,000-square-foot lease in one of the largest recent office commitments in Downtown Los Angeles, Commercial Observer can first report. The company will relocate its West Coast merchandising hub from Downtown’s central business district to about 110,000 square feet of creative office space and 5,000 square feet of exclusive rooftop space at the campus known as Row DTLA , according to the landlord, Atlas Capital Group .…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/pnc-11north-maui-hawaii-retail-acquisition/",
+      "url": "https://commercialobserver.com/2026/10/los-angeles-ross-stores-row-dtla-los-angeles/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-10-13T20:06:45.000Z"
+      "published_at": "2026-10-14T18:45:14.000Z"
+    },
+    {
+      "headline": "Japanese Restaurant Udon Shin to Open First NYC Spot at 37 West 17th Street",
+      "summary": "Udon Shin , a popular Japanese restaurant with only two other U.S. locations, is gearing up to open its first New York City eatery, Commercial Observer has learned. Udon Shin has signed a 10-year, 2,500-square-foot lease at 37 West 17th Street in Manhattan’s Flatiron District, according to tenant broker Aaron Gavios of Gavios Realty Group . Asking rent was $30,000 per month for the space previously occupied by now-closed Italian restaurant Basta Pasta.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/10/udon-shin-lease-restaurant-37-west-17th-street/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-10-14T20:08:25.000Z"
+    },
+    {
+      "headline": "Sports Retailer Lids to Open New Shop Inside Penn Station",
+      "summary": "Sports apparel retailer Lids is adding another location in New York City, this time inside Midtown’s bustling Pennsylvania Station , Commercial Observer has learned. Lids, which sells sports hats, jerseys and fan apparel, has inked a 10-year, 1,993-square-foot lease for a flagship location inside the Vornado Realty Trust -managed transit hub. Lids is the largest licensed sports-minded retailer in North America, with more than 1,300 stores, according to tenant broker JLL .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/10/lids-lease-store-vornado-penn-station/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-10-14T15:47:27.000Z"
     },
     {
       "headline": "Italian Restaurant Casa Serra to Open at 227 Front Street in South Street Seaport",
@@ -165,31 +165,31 @@
       "published_at": "2026-10-06T16:14:32.000Z"
     },
     {
-      "headline": "Cohen Brothers Adds 76K SF in Leases at West Hollywood Campus",
-      "summary": "West Hollywood’s most recognized mixed-used office campus is racking up more new leases and renewals. Owner Cohen Brothers Realty secured more than a dozen tenant deals for 76,100 square feet at the Pacific Design Center , Commercial Observer can first report. The 1.6 million-square-foot “red, green and blue” buildings are across from West Hollywood Park along San Vicente Boulevard and Melrose Avenue. In the largest deal, furniture maker A.…",
+      "headline": "Terra Secures $184M Refi for New Tom Brady-Leased Office Near Miami",
+      "summary": "Terra has secured a $183.8 million loan to refinance a newly completed, wellness-focused office complex in Bay Harbor Islands, Fla., which counts Tom Brady ’s family office as a tenant. The financing from Monroe Capital backs the 96,000-square-foot office component of the Well development, which was completed this summer.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/cohen-brothers-west-hollywood-pacific-design-center/",
+      "url": "https://commercialobserver.com/2026/10/terra-well-miami-tom-brady-monroe-bay-harbor-islands/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-10-13T17:55:08.000Z"
+      "published_at": "2026-10-14T18:05:39.000Z"
     },
     {
-      "headline": "Douglaston Development signs $30M refi with Wells Fargo for retail in Harlem",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/douglaston-development-signs-30m-refi-with-wells-fargo-for-retail-in-harlem/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-10-13T13:47:00.000Z"
-    },
-    {
-      "headline": "Yves Saint Laurent to Open Store at Kering’s 717 Fifth Avenue",
-      "summary": "Luxury French fashion house Yves Saint Laurent will open a new store at 717 Fifth Avenue , a new report revealed. According to a market report released by CBRE , the Kering -owned fashion house, once known as YSL for its founder, the late Yves Saint Laurent, will open in nearly 9,600 square feet in the base of the former Corning Glass Building that sits across East 56th Street from Trump Tower. Saint Laurent is currently at 3 East 57th Street , where it opened in 2003.…",
+      "headline": "Digital Communications Firm Next 15 Signs 6K-SF Lease at 78 Crosby Street",
+      "summary": "A U.K.-based digital communications firm has leased the third floor of a SoHo office building, Commercial Observer has learned. Next Fifteen Communications Group , also known as Next 15 , signed a 6,350-square-foot lease at Milkystar ’s 78 Crosby Street , the same building occupied by betting platform Polymarket , according to landlord broker Judson CRE . It will be the artificial intelligence-driven company’s first New York City office.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/yves-saint-laurent-lease-store-kering-717-fifth-avenue/",
+      "url": "https://commercialobserver.com/2026/10/next-15-lease-78-crosby-street/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-10-09T19:48:36.000Z"
+      "published_at": "2026-10-14T19:42:28.000Z"
+    },
+    {
+      "headline": "CBTS Technology Solutions Takes 4K SF at 1261 Broadway",
+      "summary": "CBTS Technology Solutions , a tech service provider, has inked a 3,612-square-foot lease at the Rosen family’s office property at 1261 Broadway , according to Koeppel Rosen , the landlord’s leasing and management agent. The tenant was represented by Charles T. Gerace II from JLL , while Max Koeppel , director of leasing at Koeppel Rosen, represented ownership in the negotiations.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/10/cbts-technology-solutions-lease-1261-broadway/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-10-14T18:24:51.000Z"
     },
     {
       "headline": "Record Diesel Prices Fuel More Challenges for Retail Real Estate",
@@ -201,6 +201,15 @@
       "published_at": "2026-10-05T16:01:36.000Z"
     },
     {
+      "headline": "South Beach’s Cameo Theater Could Reopen With Romain Zago Concept",
+      "summary": "Nightlife operator Romain Zago wants to reopen the historic Cameo Theater in South Beach seven years after its nightclub shuttered. Zago, who made a name for himself owning the nearby Mynt Lounge nightclub, has filed plans to turn the Art Deco theater at 1445 Washington Avenue into a 466-seat restaurant and lounge. The plans call for a bar and lounge with 226 seats on the ground floor, with the existing stage remaining. The second floor will house a 240-seat restaurant.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/10/miami-south-beach-cameo-theater-romain-zago/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-10-06T17:30:23.000Z"
+    },
+    {
       "headline": "David Escava signs $40M refi loan with Bellwether Enterprise for hotel in Coney Island",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
@@ -208,6 +217,33 @@
       "section": "pincusco",
       "retail": false,
       "published_at": "2026-10-14T14:08:00.000Z"
+    },
+    {
+      "headline": "NYC School Construction Authority files plans for school in Gravesend",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/nyc-school-construction-authority-files-plans-for-school-in-gravesend/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-10-15T12:09:00.000Z"
+    },
+    {
+      "headline": "Moshe Shanbaum files plans for 28 units in East New York",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/moshe-shanbaum-files-plans-for-28-units-in-east-new-york/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-10-15T10:54:00.000Z"
+    },
+    {
+      "headline": "Grun Group files plans for 89 units in Harlem, first project in Manhattan",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/grun-group-files-plans-for-89-units-in-harlem-first-project-in-manhattan/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-10-14T15:00:00.000Z"
     },
     {
       "headline": "Estate of mind: 3 stunning properties for sale outside of NYC",
@@ -228,6 +264,15 @@
       "published_at": "2026-10-13T16:06:12.000Z"
     },
     {
+      "headline": "Shea Freund files plans for 14 units in Morris Heights",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/shea-freund-files-plans-for-14-units-in-morris-heights/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-10-15T12:58:00.000Z"
+    },
+    {
       "headline": "Drilon Marku files plans for 11 units in Mott Haven",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
@@ -235,51 +280,6 @@
       "section": "pincusco",
       "retail": false,
       "published_at": "2026-10-14T13:58:00.000Z"
-    },
-    {
-      "headline": "Gjovan Rroku files plans for 10 units in Wakefield",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/gjovan-rroku-files-plans-for-10-units-in-wakefield/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-10-14T13:49:00.000Z"
-    },
-    {
-      "headline": "Quinlan Development entity files $54M pre-foreclosure at Penn Plaza dev site",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/quinlan-development-entity-files-54m-pre-foreclosure-at-penn-plaza-dev-site/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-10-14T11:45:08.000Z"
-    },
-    {
-      "headline": "Dynasty Capital seeks rezoning for 98-unit mixed-use building in Glendale",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/dynasty-capital-seeks-rezoning-for-98-unit-mixed-use-building-in-glendale/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-10-14T09:54:18.000Z"
-    },
-    {
-      "headline": "Jack Dorsey’s $32M San Francisco compound has been under construction for 14 years, and his billionaire neighbors are losing it",
-      "summary": "The Twitter co-founder’s oceanfront sanctuary, with its sweat-lodge spa and cold dip, has turned Sea Cliff into a permanent work site.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/10/13/real-estate/jack-dorseys-32-million-san-francisco-mansion-renovation-drags-on-for-14-years/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-10-13T22:20:30.000Z"
-    },
-    {
-      "headline": "Midtown massage parlor busted for alleged $100 happy endings, a decade after owner swore off sex trade",
-      "summary": "Undercover cops say workers offered sex acts for cash on top of $60 and $80 massages, two weeks after the building quietly sold to a developer.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/10/13/real-estate/city-sues-to-shut-midtown-spa-over-alleged-sex-for-cash-massages-11-years-after-last-crackdown/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-10-13T18:02:21.000Z"
     }
   ]
 }
