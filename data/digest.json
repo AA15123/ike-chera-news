@@ -1,13 +1,13 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-10-16",
-  "generated_at": "2026-10-16T14:43:09.663Z",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T13:35:53.927Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "PNC Bank Inks 4K-SF Retail Lease at 312 West 43rd Street: Residents at the Ellery , a mixed-use residential development in Manhattan’s Hell’s Kitchen neighborhood, are getting another retailer at the base of their 33-story home. PNC Bank has signed a 3,500-square-foot retail lease at the base of the property at 312 West 43rd Street , according to co-developers and co-owners.\n\nGravity Fitness Signs 23K-SF Lease at Queens’ Flushing Plaza: An athletic club is following a gravitational pull leading it to eastern Queens. Gravity Fitness signed a long-term, 23,000-square-foot lease at Muss Development ’s Flushing Plaza at 41-61 Kissena Boulevard , where it will occupy the ground floor of a two-story office and retail complex in Downtown Flushing, according.\n\nChinese Restaurant Chain to Open 10K-SF Eatery at 365 West 46th Street: One thing New York City does not lack is a place to find great Chinese food, and New Yorkers are about to get another spot to add to their lists. Nong Geng Ji , one of China’s most popular Hunan cuisine brands, has inked a 9,900-square-foot retail lease at 365 West 46th Street in Manhattan’s Hell’s Kitchen.\n\nTJ Maxx Signs 29K-SF Deal to Replace H&M at 150 East 86th Street: Discount department store T.J. Maxx is replacing H&M in a busy retail spread on Manhattan’s Upper East Side, Commercial Observer has learned.",
-    "cre_daily": "Retail Vacancy Falls to 4.3% as Q3 Absorption Hits 10.5M SF: National retail vacancy fell 10 basis points to 4.3% in Q3, while shopping center vacancy slipped to 5.4% and mall vacancy dropped 30 basis points to 8.2%. Leasing totaled 38.4M SF and net absorption hit 10.5M SF, led by general retail at 5.4M SF, with shopping centers at 3.0M SF and malls at 1.9M SF.\n\nRecord Diesel Prices Squeeze Retail Development Pipeline: Diesel averaged $6.38 per gallon on Sept. 28, up from about $3.81 in late February, adding to construction and supply-chain costs for retail developers and retailers.\n\nArlington Redevelopment Gains Steam Near DFW Sports Hub: Trademark Property started construction this summer on the $135M-plus rebuild of Lincoln Square into Anthem, a 404K SF walkable retail and entertainment center with 10 tenants signed and completion expected in early 2028.\n\nManhattan Retail Availability Hits Record Low as Banks Expand: Average availability across Manhattan’s prime retail corridors dropped to 11.4% in Q3 2026, the lowest reading since JLL began tracking in 2017, with only 157 spaces left. Bank of America, OceanFirst and Citibank signed leases totaling nearly 35,000 square feet, and JLL says many more bank deals are pending, adding.",
-    "new_york_post": "Estate of mind: 3 stunning properties for sale outside of NYC.",
+    "commercial_observer": "PNC Bank Inks 4K-SF Retail Lease at 312 West 43rd Street: Residents at the Ellery , a mixed-use residential development in Manhattan’s Hell’s Kitchen neighborhood, are getting another retailer at the base of their 33-story home. PNC Bank has signed a 3,500-square-foot retail lease at the base of the property at 312 West 43rd Street , according to co-developers and co-owners.\n\nGravity Fitness Signs 23K-SF Lease at Queens’ Flushing Plaza: An athletic club is following a gravitational pull leading it to eastern Queens. Gravity Fitness signed a long-term, 23,000-square-foot lease at Muss Development ’s Flushing Plaza at 41-61 Kissena Boulevard , where it will occupy the ground floor of a two-story office and retail complex in Downtown Flushing, according.\n\nTJ Maxx Signs 29K-SF Deal to Replace H&M at 150 East 86th Street: Discount department store T.J. Maxx is replacing H&M in a busy retail spread on Manhattan’s Upper East Side, Commercial Observer has learned.\n\nBath & Body Works to Open 9K-SF Store in Flatiron District: Bath & Body Works is opening a new store in Manhattan’s Flatiron District. The soap and scented lotion purveyor has signed a lease to take over the entire nearly 9,000-square-foot retail portion of 129 Fifth Avenue , according to a source with knowledge of the deal.",
+    "cre_daily": "Hines Says Retail Recovery Is an Income and Scarcity Call: Hines Research says retail pricing has recovered across open-air centers and enclosed malls in the U.S. and Europe, while lagging Asian markets could offer opportunity.\n\nMark IV Breaks Ground on 41,500 SF Round Rock Retail Plaza: Mark IV Capital broke ground in October on a 41,521 SF plaza at The District in Round Rock, with six single-story buildings and room for nine to 14 restaurant and lifestyle tenants.\n\nRetail Vacancy Falls to 4.3% as Q3 Absorption Hits 10.5M SF: National retail vacancy fell 10 basis points to 4.3% in Q3, while shopping center vacancy slipped to 5.4% and mall vacancy dropped 30 basis points to 8.2%. Leasing totaled 38.4M SF and net absorption hit 10.5M SF, led by general retail at 5.4M SF, with shopping centers at 3.0M SF and malls at 1.9M SF.\n\nRecord Diesel Prices Squeeze Retail Development Pipeline: Diesel averaged $6.38 per gallon on Sept. 28, up from about $3.81 in late February, adding to construction and supply-chain costs for retail developers and retailers.",
+    "new_york_post": "NYC sees biggest wave of homes for sale in four years: Listings hit a four-year peak even as climbing borrowing costs send some buyers to the sidelines.\n\nWho wins and who gets burned as The Plaza goes dark for four years: The Plaza Hotel will shut its doors for at least four years starting in January 2027 , with operator Fairmont Hotels and Resorts saying the 18-story Fifth Avenue landmark needs a top-to-bottom.",
     "pincusco": "Harlem Children’s Zone pays $7.2M to FBE Limited for retail in East Harlem.\n\nCB Developers signs $5.2M refi with ConnectOne for retail in Williamsburg.\n\nRFR signs $7.3M refi with City National Bank for retail in Lenox Hill.\n\nInterVest signs $85M refi loan with Hudson Bay Capital Management for office in SoHo."
   },
   "items": [
@@ -30,13 +30,22 @@
       "published_at": "2026-10-05T19:14:46.000Z"
     },
     {
-      "headline": "Chinese Restaurant Chain to Open 10K-SF Eatery at 365 West 46th Street",
-      "summary": "One thing New York City does not lack is a place to find great Chinese food, and New Yorkers are about to get another spot to add to their lists. Nong Geng Ji , one of China’s most popular Hunan cuisine brands, has inked a 9,900-square-foot retail lease at 365 West 46th Street in Manhattan’s Hell’s Kitchen neighborhood along the famed Restaurant Row, according to tenant broker Meridian Capital Group . The three-level space will be the brand’s flagship New York City location.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/nong-geng-ji-lease-365-west-46th-street/",
-      "section": "commercial_observer",
+      "headline": "Hines Says Retail Recovery Is an Income and Scarcity Call",
+      "summary": "Hines Research says retail pricing has recovered across open-air centers and enclosed malls in the U.S. and Europe, while lagging Asian markets could offer opportunity. About 480M SF of U.S. retail has been demolished since 2000 and development has been slow for over a decade, which Hines calls an underappreciated supply story. Hines frames the opportunity as an income and scarcity call, with returns driven by leasing and execution, and grocery anchors worth about 25% above-market rents in Atlanta.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/hines-says-retail-recovery-is-an-income-and-scarcity-call/",
+      "section": "cre_daily",
       "retail": true,
-      "published_at": "2026-10-02T16:50:40.000Z"
+      "published_at": "2026-10-16T16:36:50.000Z"
+    },
+    {
+      "headline": "Mark IV Breaks Ground on 41,500 SF Round Rock Retail Plaza",
+      "summary": "Mark IV Capital broke ground in October on a 41,521 SF plaza at The District in Round Rock, with six single-story buildings and room for nine to 14 restaurant and lifestyle tenants. The plaza is the project’s second vertical phase and is due in 2028, alongside the 316-unit Origin apartments that began construction in March with $86M in funding.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/mark-iv-breaks-ground-on-41500-sf-round-rock-retail-plaza/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-10-16T16:26:36.000Z"
     },
     {
       "headline": "Retail Vacancy Falls to 4.3% as Q3 Absorption Hits 10.5M SF",
@@ -64,15 +73,6 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-10-06T16:30:01.000Z"
-    },
-    {
-      "headline": "Arlington Redevelopment Gains Steam Near DFW Sports Hub",
-      "summary": "Trademark Property started construction this summer on the $135M-plus rebuild of Lincoln Square into Anthem, a 404K SF walkable retail and entertainment center with 10 tenants signed and completion expected in early 2028. Fairbourne and AEW are modernizing the 747K SF Arlington Highlands, which only recently slipped below 96% leased, while opportunity zones along Collins Street target the gap between downtown and the stadiums.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/arlington-redevelopment-gains-steam-near-dfw-sports-hub/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-10-02T16:20:48.000Z"
     },
     {
       "headline": "Bath & Body Works to Open 9K-SF Store in Flatiron District",
@@ -118,15 +118,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-10-09T20:50:00.000Z"
-    },
-    {
-      "headline": "Luxury Spending Falls 6%, Raising Risks for High-End Retail",
-      "summary": "Citi says U.S. luxury credit card spending fell 6% year over year in September, after 4% declines in both July and August, challenging a source of strength for luxury retail. Higher earners drive demand: Moody’s Analytics found households earning about $250,000 or more account for 49.7% of consumer spending, up from roughly 36% three decades earlier. The data does not show falling rents or occupancy yet, but landlords with luxury tenants have reason to watch tenant performance as consumer confidence weakens.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/luxury-spending-falls-6-raising-risks-for-high-end-retail/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-10-08T16:43:20.000Z"
     },
     {
       "headline": "Three Fashion Tenants Ink Deals at 231 West 39th Street",
@@ -183,13 +174,13 @@
       "published_at": "2026-10-15T21:23:15.000Z"
     },
     {
-      "headline": "Entertainment Firm Fifth Season Grabs 5K SF at 115 West 27th Street",
-      "summary": "Lights, camera, (office) action! Fifth Season , a global media company that develops, finances, produces and distributes movies, television shows and documentaries, has signed a 5,000-square-foot lease at 115 West 27th Street in Manhattan’s Chelsea neighborhood, sources confirmed to Commercial Observer. The deal, first reported by Traded , was signed Oct. 12. The length of the lease was not immediately available, but the asking rent was $45 per square foot, according to the source.…",
+      "headline": "Skin Care Brand FaceGym to Open New Tribeca Location at 110 Reade Street",
+      "summary": "Time to face the music. FaceGym , a skin care brand that describes itself as a “facial fitness” studio, has inked a 10-year, 2,400-square-foot lease for a new Tribeca spot at 110 Reade Street , according to landlord broker Platinum Commercial . Founded in 2014 in London, FaceGym offers customers “facial workouts” and “combines muscle manipulation techniques” to provide lifting and sculpting services without surgery, according to its website.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/fifth-season-lease-115-west-27th-street/",
+      "url": "https://commercialobserver.com/2026/10/facegym-lease-tribeca-110-reade-street/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-10-15T15:12:31.000Z"
+      "published_at": "2026-10-16T15:40:35.000Z"
     },
     {
       "headline": "Harlem Children’s Zone pays $7.2M to FBE Limited for retail in East Harlem",
@@ -255,13 +246,22 @@
       "published_at": "2026-10-16T12:29:00.000Z"
     },
     {
-      "headline": "Estate of mind: 3 stunning properties for sale outside of NYC",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "headline": "NYC sees biggest wave of homes for sale in four years",
+      "summary": "Listings hit a four-year peak even as climbing borrowing costs send some buyers to the sidelines.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/10/14/real-estate/three-stunning-country-estates-for-sale-beyond-nyc/",
+      "url": "https://nypost.com/2026/10/16/real-estate/listings-in-new-york-city-surge-to-highest-level-in-four-years/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-10-14T11:00:00.000Z"
+      "published_at": "2026-10-16T17:01:47.000Z"
+    },
+    {
+      "headline": "Who wins and who gets burned as The Plaza goes dark for four years",
+      "summary": "The Plaza Hotel will shut its doors for at least four years starting in January 2027 , with operator Fairmont Hotels and Resorts saying the 18-story Fifth Avenue landmark needs a top-to-bottom...",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/16/real-estate/here-are-the-winners-and-losers-of-the-plaza-shutdown/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-10-16T20:00:53.000Z"
     },
     {
       "headline": "T&E Development files plans for 76 units in Chelsea",
