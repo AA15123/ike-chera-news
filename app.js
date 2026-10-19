@@ -71,6 +71,36 @@ function truncateHighlightLede(text, max = HIGHLIGHT_LEDE_MAX) {
   return base.endsWith(".") ? base : `${base}…`;
 }
 
+/** Drop syndication junk and auto-generated tags from a story teaser. */
+function cleanSummaryForSpeech(summary) {
+  let s = stripFilingNumberNoise(stripEmojis(String(summary || "").trim()));
+  if (!s) return "";
+  s = s.replace(/[ \t]*The post .+? appeared first on PincusCo[ \t]*\.?[ \t]*/gi, " ");
+  s = s.replace(/[ \t]*The post .+? appeared first on [^.]+[ \t]*\.?[ \t]*/gi, " ");
+  const chunks = s
+    .split(/\n\n+/)
+    .map((p) => p.trim())
+    .filter((p) => {
+      if (!p) return false;
+      if (
+        /^Notable figure in the item:/i.test(p) ||
+        /^Names \/ firms to watch:/i.test(p) ||
+        /^Key names are in the headline/i.test(p) ||
+        /^Retail lens:/i.test(p) ||
+        /^The post .+ appeared first on /i.test(p) ||
+        /^Publisher teaser not in the feed/i.test(p)
+      ) {
+        return false;
+      }
+      return true;
+    });
+  s = chunks.join(" ").replace(/[^\S\n]+/g, " ").trim();
+  if (s.length > 520) {
+    s = `${s.slice(0, 519).trim()}…`;
+  }
+  return s;
+}
+
 /** Headline + teaser row: opens preview modal; full article from link inside modal. */
 function renderHighlightRow(item) {
   const safeUrl = item.url ? escapeAttr(String(item.url).trim()) : "";
@@ -481,9 +511,6 @@ function initNavSourcesNav() {
     const mainEl = document.getElementById("digest-main");
     if (!mainEl) return;
     applyGlobalSourceFilter(mainEl, source);
-    if (activeDigestMode() !== "read") {
-      document.querySelector('#digest-mode-group button[data-digest-mode="read"]')?.click();
-    }
     document.getElementById("digest-main")?.scrollIntoView({ behavior: "smooth", block: "start" });
   });
 }
@@ -599,441 +626,9 @@ function renderRead(digest) {
   }
 }
 
-/** Section title as spoken (avoid "ampersand" from UI copy). */
-function labelForSpeech(label) {
-  return String(label || "").replace(/\s*&\s*/g, " and ").trim();
-}
-
-/** Teaser only: drop syndication junk and auto-generated tags so TTS sounds human. */
-function cleanSummaryForSpeech(summary) {
-  let s = stripFilingNumberNoise(stripEmojis(String(summary || "").trim()));
-  if (!s) return "";
-  s = s.replace(/[ \t]*The post .+? appeared first on PincusCo[ \t]*\.?[ \t]*/gi, " ");
-  s = s.replace(/[ \t]*The post .+? appeared first on [^.]+[ \t]*\.?[ \t]*/gi, " ");
-  const chunks = s
-    .split(/\n\n+/)
-    .map((p) => p.trim())
-    .filter((p) => {
-      if (!p) return false;
-      if (
-        /^Notable figure in the item:/i.test(p) ||
-        /^Names \/ firms to watch:/i.test(p) ||
-        /^Key names are in the headline/i.test(p) ||
-        /^Retail lens:/i.test(p) ||
-        /^The post .+ appeared first on /i.test(p) ||
-        /^Publisher teaser not in the feed/i.test(p)
-      ) {
-        return false;
-      }
-      return true;
-    });
-  s = chunks.join(" ").replace(/[^\S\n]+/g, " ").trim();
-  if (s.length > 520) {
-    s = `${s.slice(0, 519).trim()}…`;
-  }
-  return s;
-}
-
-function ordinalBridge(index, total) {
-  if (total <= 1) return "The story.";
-  if (index === 0) return "First up.";
-  if (index === total - 1) return "And finally.";
-  return "Next.";
-}
-
-function sectionSummaryForSpeech(digest, sectionKey, sectionLabel) {
-  const raw = digest.section_overviews && digest.section_overviews[sectionKey];
-  if (!raw || !String(raw).trim()) {
-    return `No summary is available yet for ${labelForSpeech(sectionLabel)}.`;
-  }
-  const plain = stripFilingNumberNoise(
-    stripEmojis(
-      String(raw)
-        .replace(/\n{2,}/g, ". ")
-        .replace(/\n+/g, " ")
-        .replace(/\s+/g, " ")
-        .replace(/([A-Za-z][A-Za-z &/]+):/g, "$1.")
-        .trim()
-    )
-  );
-  return `${labelForSpeech(sectionLabel)} summary. ${plain}`;
-}
-
-const SPEECH_RATES = [0.0, 1.0, 1.5, 2.0];
-const DEFAULT_SPEECH_RATE = SPEECH_RATES[1];
-const SPEECH_PITCH = 0.96;
-
-/** Local ElevenLabs proxy (see `npm run tts:proxy`). Key must never live in the browser. */
-const ELEVENLABS_PROXY_BASE =
-  (typeof window !== "undefined" && window.__ELEVENLABS_PROXY__) ||
-  "http://127.0.0.1:8787";
-
-function pickPreferredEnglishVoice() {
-  const voices = speechSynthesis.getVoices();
-  if (!voices.length) return null;
-  /** Novelty / demo voices Safari sometimes surfaces first — deprioritize hard. */
-  const bad =
-    /Zarvox|Albert|Eddy|Bad News|Whisper|Fred|Cellos|Bells|Trinoids|Boing|Bubbles|Junior|Kathy|Organ|Pipe|Princess|Ralph|Rocko|Hysterical|Deranged|Crazy|Laughing/i;
-  const score = (v) => {
-    if (!/^en/i.test(v.lang)) return -1000;
-    if (bad.test(v.name)) return -800;
-    const n = v.name;
-    let s = 0;
-    /** macOS / Apple: Siri and “Personal Voice” tend to sound most natural when installed. */
-    if (/Siri/i.test(n)) s += 220;
-    if (/Personal Voice/i.test(n)) s += 210;
-    if (/Premium|Enhanced|Natural|Neural/i.test(n)) s += 90;
-    /** Classic macOS voices that usually sound less “robot demo”. */
-    if (/Samantha|Allison|Victoria|Serena|Karen|Moira|Flo|Tessa|Daniel|Kate|Oliver|Martha|Arthur/i.test(n))
-      s += 75;
-    /** Third-party engines (often better than novelty voices). */
-    if (/Google|Microsoft|Aria|Jenny|Guy|Michelle|Sonia|Ryan/i.test(n)) s += 55;
-    if (/en-US/i.test(v.lang)) s += 18;
-    if (v.localService) s += 8;
-    return s;
-  };
-  return [...voices].sort((a, b) => score(b) - score(a))[0] || voices.find((v) => /^en/i.test(v.lang)) || voices[0];
-}
-
-function waitForSpeechVoices(done) {
-  if (speechSynthesis.getVoices().length) {
-    done();
-    return;
-  }
-  speechSynthesis.addEventListener("voiceschanged", () => done(), { once: true });
-}
-
-async function fetchElevenLabsProxyStatus() {
-  try {
-    const res = await fetch(`${ELEVENLABS_PROXY_BASE.replace(/\/$/, "")}/health`, { cache: "no-store" });
-    if (!res.ok) return { ok: false, proxyResponds: true, hasKey: false, keyValid: false, raw: null };
-    const j = await res.json();
-    return {
-      ok: Boolean(j && j.ok),
-      proxyResponds: true,
-      hasKey: Boolean(j && j.hasKey),
-      keyValid: Boolean(j && j.keyValid),
-      keyCheck: j && j.keyCheck,
-      keyHttpStatus: j && j.keyHttpStatus,
-      raw: j,
-    };
-  } catch {
-    return { ok: false, proxyResponds: false, hasKey: false, keyValid: false, raw: null };
-  }
-}
-
-function renderAudio(digest) {
-  const titleEl = document.getElementById("digest-title");
-  const dateEl = document.getElementById("digest-date");
-  const mainEl = document.getElementById("digest-main");
-
-  titleEl.textContent = digest.title || "Ike's Morning Digest";
-  dateEl.textContent = formatDate(digest.date);
-
-  const grouped = groupBySource(digest.items || []).filter((g) => (g.items || []).length > 0);
-  const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-  const hasTts = typeof speechSynthesis !== "undefined";
-  const topicButtons = grouped
-    .map(
-      ({ key, label }) => `
-        <button
-          type="button"
-          class="audio-topic-btn"
-          data-audio-topic="${escapeAttr(key)}"
-        >
-          ${escapeHtml(label)}
-        </button>
-      `
-    )
-    .join("");
-  const initialSelectedLabel = grouped[0]?.label || "None selected";
-
-  mainEl.innerHTML = `
-    <div class="audio-digest" role="region" aria-label="Listen to today’s digest">
-      <header class="audio-digest-header">
-        <p class="audio-eyebrow">Audio digest</p>
-        <h2 class="audio-title">Listen by outlet</h2>
-        <p class="audio-digest-lead" id="audio-digest-lead">Choose an outlet, then press Play.</p>
-      </header>
-      ${
-        reducedMotion
-          ? `<p class="empty">Reduced motion is on — press Play only if you want audio.</p>`
-          : ""
-      }
-      <div class="audio-topic-wrap">
-        <div class="audio-topic-row">
-          <p class="audio-topic-label">Outlets</p>
-          <p class="audio-selected-topic">Selected: <strong id="audio-selected-topic">${escapeHtml(initialSelectedLabel)}</strong></p>
-        </div>
-        <div class="audio-topic-grid">
-        ${topicButtons}
-        </div>
-      </div>
-      <div class="audio-controls" id="audio-controls" hidden>
-        <button type="button" class="audio-control-btn" id="audio-play-btn">Play</button>
-        <button type="button" class="audio-control-btn" id="audio-pause-btn">Pause</button>
-        <button type="button" class="audio-control-btn audio-control-btn--speed" id="audio-speed-btn">Speed 1.0x</button>
-      </div>
-      <p class="audio-digest-hint" id="audio-digest-hint" aria-live="polite"></p>
-    </div>
-  `;
-
-  const topicBtns = Array.from(mainEl.querySelectorAll(".audio-topic-btn"));
-  const controlsEl = document.getElementById("audio-controls");
-  const playBtn = document.getElementById("audio-play-btn");
-  const pauseBtn = document.getElementById("audio-pause-btn");
-  const speedBtn = document.getElementById("audio-speed-btn");
-  const hintEl = document.getElementById("audio-digest-hint");
-  const leadEl = document.getElementById("audio-digest-lead");
-  const selectedTopicEl = document.getElementById("audio-selected-topic");
-
-  if (!topicBtns.length || !controlsEl || !playBtn || !pauseBtn || !speedBtn) return;
-
-  function setHint(text) {
-    if (hintEl) hintEl.textContent = text || "";
-  }
-  function setSelectedTopicLabel(text) {
-    if (selectedTopicEl) selectedTopicEl.textContent = text || "None selected";
-  }
-
-  let activeKey = "";
-  let isPaused = false;
-  let selectedKey = "";
-  let speedIdx = 1;
-  let useEleven = false;
-  let audioEl = null;
-  let objectUrl = "";
-
-  function currentRate() {
-    return SPEECH_RATES[speedIdx] || DEFAULT_SPEECH_RATE;
-  }
-
-  function stopAllAudio() {
-    if (typeof speechSynthesis !== "undefined") speechSynthesis.cancel();
-    if (audioEl) {
-      audioEl.pause();
-      audioEl.removeAttribute("src");
-      audioEl.load();
-    }
-    if (objectUrl) {
-      URL.revokeObjectURL(objectUrl);
-      objectUrl = "";
-    }
-    isPaused = false;
-  }
-
-  function resetButtons() {
-    topicBtns.forEach((btn) => {
-      const key = btn.getAttribute("data-audio-topic") || "";
-      const groupedRow = grouped.find((g) => g.key === key);
-      const label = groupedRow ? groupedRow.label : "topic";
-      btn.textContent = label;
-      btn.classList.remove("is-active", "is-selected");
-      btn.setAttribute("aria-pressed", "false");
-      if (selectedKey && key === selectedKey) {
-        btn.classList.add("is-selected");
-      }
-    });
-  }
-
-  function applyPlaybackRate() {
-    const r = currentRate();
-    if (useEleven && audioEl) {
-      audioEl.playbackRate = r <= 0 ? 1 : r;
-    }
-  }
-
-  async function initLead() {
-    const s = await fetchElevenLabsProxyStatus();
-    useEleven = Boolean(s.ok && s.hasKey && s.keyValid);
-    if (leadEl) {
-      if (!hasTts && !useEleven) {
-        leadEl.innerHTML =
-          "This browser can’t play audio here. Open <strong>Read</strong> instead, or use a browser with audio support.";
-        playBtn.disabled = true;
-        pauseBtn.disabled = true;
-        speedBtn.disabled = true;
-        topicBtns.forEach((b) => {
-          b.disabled = true;
-        });
-      } else {
-        leadEl.innerHTML = "";
-      }
-    }
-  }
-
-  void initLead();
-  resetButtons();
-
-  topicBtns.forEach((btn) => {
-    btn.addEventListener("click", () => {
-      const key = btn.getAttribute("data-audio-topic") || "";
-      const row = grouped.find((g) => g.key === key);
-      if (!row) return;
-      selectedKey = key;
-      setSelectedTopicLabel(row.label);
-      controlsEl.hidden = false;
-      resetButtons();
-      setHint(`${row.label} selected.`);
-    });
-  });
-
-  async function playSelected() {
-    const row = grouped.find((g) => g.key === selectedKey);
-    if (!row) return;
-
-    if (useEleven) {
-      if (activeKey === selectedKey && audioEl && !audioEl.paused) return;
-      if (activeKey === selectedKey && audioEl && audioEl.paused) {
-        await audioEl.play();
-        isPaused = false;
-        setHint(`Playing ${row.label}…`);
-        return;
-      }
-
-      setHint("Generating audio…");
-      stopAllAudio();
-      const text = sectionSummaryForSpeech(digest, selectedKey, row.label);
-      const res = await fetch(`${ELEVENLABS_PROXY_BASE.replace(/\/$/, "")}/tts`, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ text }),
-      });
-      if (!res.ok) {
-        const err = await res.text().catch(() => "");
-        setHint(`Audio failed (${res.status}). ${err.slice(0, 180)}`);
-        return;
-      }
-      const blob = await res.blob();
-      objectUrl = URL.createObjectURL(blob);
-      audioEl = new Audio(objectUrl);
-      applyPlaybackRate();
-      audioEl.addEventListener("ended", () => {
-        activeKey = "";
-        isPaused = false;
-        resetButtons();
-        setHint("Finished.");
-      });
-      audioEl.addEventListener("error", () => {
-        activeKey = "";
-        isPaused = false;
-        resetButtons();
-        setHint("Playback stopped.");
-      });
-      mainEl._ttsAudio = audioEl;
-      mainEl._ttsObjectUrl = objectUrl;
-      await audioEl.play();
-      activeKey = selectedKey;
-      isPaused = false;
-      resetButtons();
-      const activeBtn = topicBtns.find((b) => (b.getAttribute("data-audio-topic") || "") === selectedKey);
-      activeBtn?.classList.add("is-active");
-      activeBtn?.setAttribute("aria-pressed", "true");
-      setHint(`Playing ${row.label} (ElevenLabs)…`);
-      return;
-    }
-
-    if (!hasTts) return;
-
-    if (activeKey === selectedKey && speechSynthesis.speaking && isPaused) {
-      speechSynthesis.resume();
-      isPaused = false;
-      setHint(`Playing ${row.label}…`);
-      return;
-    }
-    if (activeKey === selectedKey && speechSynthesis.speaking && !isPaused) {
-      return;
-    }
-
-    setHint("Loading voices…");
-    waitForSpeechVoices(() => {
-      const voice = pickPreferredEnglishVoice();
-      const text = sectionSummaryForSpeech(digest, selectedKey, row.label);
-      const u = new SpeechSynthesisUtterance(text);
-      if (voice) u.voice = voice;
-      const r = currentRate();
-      u.rate = r <= 0 ? 0.1 : r;
-      u.pitch = SPEECH_PITCH;
-      u.volume = 1;
-      u.onend = () => {
-        activeKey = "";
-        isPaused = false;
-        resetButtons();
-        setHint("Finished.");
-      };
-      u.onerror = () => {
-        activeKey = "";
-        isPaused = false;
-        resetButtons();
-        setHint("Playback stopped.");
-      };
-
-      speechSynthesis.cancel();
-      stopAllAudio();
-      resetButtons();
-      activeKey = selectedKey;
-      isPaused = false;
-      const activeBtn = topicBtns.find((b) => (b.getAttribute("data-audio-topic") || "") === selectedKey);
-      activeBtn?.classList.add("is-active");
-      activeBtn?.setAttribute("aria-pressed", "true");
-      speechSynthesis.speak(u);
-      setHint(
-        voice ? `Playing ${row.label} at ${currentRate().toFixed(1)}x (${voice.name})` : `Playing ${row.label} at ${currentRate().toFixed(1)}x`
-      );
-    });
-  }
-
-  playBtn.addEventListener("click", () => {
-    void playSelected();
-  });
-  pauseBtn.addEventListener("click", () => {
-    if (useEleven && audioEl) {
-      if (audioEl.paused) {
-        void audioEl.play();
-        isPaused = false;
-        const row = grouped.find((g) => g.key === activeKey);
-        setHint(row ? `Playing ${row.label}…` : "Playing…");
-      } else {
-        audioEl.pause();
-        isPaused = true;
-        const row = grouped.find((g) => g.key === activeKey);
-        setHint(row ? `Paused ${row.label}.` : "Paused.");
-      }
-      return;
-    }
-    if (!speechSynthesis.speaking) return;
-    if (isPaused) {
-      speechSynthesis.resume();
-      isPaused = false;
-      const row = grouped.find((g) => g.key === activeKey);
-      setHint(row ? `Playing ${row.label}…` : "Playing…");
-    } else {
-      speechSynthesis.pause();
-      isPaused = true;
-      const row = grouped.find((g) => g.key === activeKey);
-      setHint(row ? `Paused ${row.label}.` : "Paused.");
-    }
-  });
-  speedBtn.addEventListener("click", () => {
-    speedIdx = (speedIdx + 1) % SPEECH_RATES.length;
-    speedBtn.textContent = `Speed ${currentRate().toFixed(1)}x`;
-    applyPlaybackRate();
-    const row = grouped.find((g) => g.key === selectedKey);
-    const where = row ? row.label : "Selected topic";
-    if (useEleven && audioEl && !audioEl.paused) {
-      setHint(`Speed set to ${currentRate().toFixed(1)}x while playing ${where}.`);
-      return;
-    }
-    if (speechSynthesis.speaking) {
-      speechSynthesis.cancel();
-      activeKey = "";
-      isPaused = false;
-      setHint(`Speed set to ${currentRate().toFixed(1)}x. Press Play to restart ${where}.`);
-      resetButtons();
-    } else {
-      setHint(`Speed set to ${currentRate().toFixed(1)}x for ${where}.`);
-    }
-  });
+function render(digest) {
+  renderNavSources(digest);
+  renderRead(digest);
 }
 
 function truncatePlain(text, max) {
@@ -1050,36 +645,6 @@ function outletSourceLinkHtml(sourceDisplay, url) {
   const label = escapeHtml(src);
   if (!href) return label;
   return `<a class="slide-outlet-link" href="${href}" target="_blank" rel="noopener noreferrer">${label}</a>`;
-}
-
-function teardownDigestMode(mainEl) {
-  if (typeof speechSynthesis !== "undefined") speechSynthesis.cancel();
-  if (mainEl?._ttsAudio) {
-    try {
-      mainEl._ttsAudio.pause();
-      mainEl._ttsAudio.removeAttribute("src");
-      mainEl._ttsAudio.load();
-    } catch {
-      /* ignore */
-    }
-    mainEl._ttsAudio = null;
-  }
-  if (mainEl?._ttsObjectUrl) {
-    try {
-      URL.revokeObjectURL(mainEl._ttsObjectUrl);
-    } catch {
-      /* ignore */
-    }
-    mainEl._ttsObjectUrl = null;
-  }
-}
-
-function render(digest, mode) {
-  const mainEl = document.getElementById("digest-main");
-  teardownDigestMode(mainEl);
-  renderNavSources(digest);
-  if (mode === "audio") renderAudio(digest);
-  else renderRead(digest);
 }
 
 function formatDate(iso) {
@@ -1180,45 +745,12 @@ async function loadDigest() {
   return res.json();
 }
 
-function setupDigestModes(onChange) {
-  const group = document.getElementById("digest-mode-group");
-  if (!group) return;
-  group.querySelectorAll("button").forEach((btn) => {
-    btn.addEventListener("click", () => {
-      const mode = btn.getAttribute("data-digest-mode");
-      group.querySelectorAll("button").forEach((b) => b.setAttribute("aria-pressed", "false"));
-      btn.setAttribute("aria-pressed", "true");
-      onChange(mode);
-    });
-  });
-}
-
-function activeDigestMode() {
-  const pressed = document.querySelector('#digest-mode-group button[aria-pressed="true"]');
-  return pressed ? pressed.getAttribute("data-digest-mode") : "read";
-}
-
 async function init() {
   const digest = await loadDigest();
   currentDigest = digest;
   splashCtl.showMeta(formatDate(digest.date));
-  const group = document.getElementById("digest-mode-group");
-
-  function setMode(mode) {
-    if (!group) return;
-    if (mode !== "read" && mode !== "audio") {
-      mode = "read";
-    }
-    group.querySelectorAll("button").forEach((b) => {
-      b.setAttribute("aria-pressed", b.getAttribute("data-digest-mode") === mode ? "true" : "false");
-    });
-    document.body.dataset.digestMode = mode;
-    render(digest, mode);
-  }
-
-  setupDigestModes((mode) => setMode(mode));
   initNavSourcesNav();
-  setMode(activeDigestMode());
+  render(digest);
 }
 
 /** Replace with fetch("/api/chat", { body: JSON.stringify({ message, digest }) }) etc. */

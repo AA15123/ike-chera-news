@@ -1,6 +1,6 @@
 # Ike's Morning Digest
 
-Local morning digest: **hero summary** per topic, then compact **source links**. Use the header (**Read** / **Audio** / **Slides**) to scan the same JSON as an article list, spoken brief, or slide deck.
+Local morning digest: **hero summary** per topic, then compact **source links**.
 
 ## Run locally
 
@@ -66,5 +66,4 @@ The **chat** button (bottom-right) opens **Ike's Agent**. It’s UI-ready; repli
 
 - LLM: backend route + inject today’s digest text into the model context.
 - Email: same JSON → small Python script + cron.
-- Audio: in-browser speech uses a slower, calmer voice when available, and a story-by-story script (not the full “at a glance” block).
 - Slides: generate from the same JSON.
