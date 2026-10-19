@@ -1,14 +1,18 @@
 {
   "title": "Ike's Morning Digest",
   "date": "2026-10-19",
-  "generated_at": "2026-10-19T16:54:17.116Z",
+  "generated_at": "2026-10-19T17:26:25.750Z",
   "coverage_window_hours": 40,
-  "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
+  "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. **WSJ** is the Dow Jones real-estate feed with lifestyle and opinion dropped. **The New York Times** keeps real-estate and property stories only. **Traded** is commercial deal briefs from its news listing. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "PNC Bank Inks 4K-SF Retail Lease at 312 West 43rd Street: Residents at the Ellery , a mixed-use residential development in Manhattan’s Hell’s Kitchen neighborhood, are getting another retailer at the base of their 33-story home. PNC Bank has signed a 3,500-square-foot retail lease at the base of the property at 312 West 43rd Street , according to co-developers and co-owners.\n\nGravity Fitness Signs 23K-SF Lease at Queens’ Flushing Plaza: An athletic club is following a gravitational pull leading it to eastern Queens. Gravity Fitness signed a long-term, 23,000-square-foot lease at Muss Development ’s Flushing Plaza at 41-61 Kissena Boulevard , where it will occupy the ground floor of a two-story office and retail complex in Downtown Flushing, according.\n\nTJ Maxx Signs 29K-SF Deal to Replace H&M at 150 East 86th Street: Discount department store T.J. Maxx is replacing H&M in a busy retail spread on Manhattan’s Upper East Side, Commercial Observer has learned.\n\nCamera Brand Fujifilm Takes 13K SF at 210 Lafayette Street in SoHo: A Japanese camera manufacturer is setting up shop in Manhattan’s photogenic SoHo neighborhood. Fujifilm signed a lease for 12,700 square feet at Comjem Associates ’ 210 Lafayette Street for what could be a brick-and-mortar retail location similar to stores operated by B&H or Adorama .",
     "cre_daily": "Hines Says Retail Recovery Is an Income and Scarcity Call: Hines Research says retail pricing has recovered across open-air centers and enclosed malls in the U.S. and Europe, while lagging Asian markets could offer opportunity.\n\nMark IV Breaks Ground on 41,500 SF Round Rock Retail Plaza: Mark IV Capital broke ground in October on a 41,521 SF plaza at The District in Round Rock, with six single-story buildings and room for nine to 14 restaurant and lifestyle tenants.\n\nRetail Vacancy Falls to 4.3% as Q3 Absorption Hits 10.5M SF: National retail vacancy fell 10 basis points to 4.3% in Q3, while shopping center vacancy slipped to 5.4% and mall vacancy dropped 30 basis points to 8.2%. Leasing totaled 38.4M SF and net absorption hit 10.5M SF, led by general retail at 5.4M SF, with shopping centers at 3.0M SF and malls at 1.9M SF.\n\nRecord Diesel Prices Squeeze Retail Development Pipeline: Diesel averaged $6.38 per gallon on Sept. 28, up from about $3.81 in late February, adding to construction and supply-chain costs for retail developers and retailers.",
-    "new_york_post": "Soho retail going strong with Fujifilm deal for 210 Lafayette St.: Fujifilm has signed a lease at Comjen Associates’ 210 Lafayette St., where it will occupy 12,700 square feet on three levels.\n\nSL Green putting finishing touches on $225M redesign at 245 Park Ave.: The project includes a new wraparound public plaza, a striking new Park Avenue podium facade by KPF, lavish tenant amenities and, soon, a restaurant from John Meadow’s LDV Hospitality.\n\nNYC sees biggest wave of homes for sale in four years: Listings hit a four-year peak even as climbing borrowing costs send some buyers to the sidelines.\n\nSt. Louis wants to build a $3 billion tech hub — but the data center anchoring it is sparking backlash: The project has sparked fierce public backlash, leading to competing lawsuits between opponents and developer TeraWatt Infrastructure.",
-    "pincusco": "Kohan Retail Investment Group loses Chelsea office building in $77.2M transfer.\n\nHarlem Children’s Zone pays $7.2M to FBE Limited for retail in East Harlem.\n\nOlnick Organization signs $170.5M refi for approximately 1,716-unit portfolio in Harlem.\n\nLeonid Bogomolniy pays $16.2M for 3 mixed-use buildings in Park Avenue South."
+    "new_york_post": "Soho retail going strong with Fujifilm deal for 210 Lafayette St.: Fujifilm has signed a lease at Comjen Associates’ 210 Lafayette St., where it will occupy 12,700 square feet on three levels.\n\nSL Green putting finishing touches on $225M redesign at 245 Park Ave.: The project includes a new wraparound public plaza, a striking new Park Avenue podium facade by KPF, lavish tenant amenities and, soon, a restaurant from John Meadow’s LDV Hospitality.",
+    "pincusco": "Kohan Retail Investment Group loses Chelsea office building in $77.2M transfer.\n\nHarlem Children’s Zone pays $7.2M to FBE Limited for retail in East Harlem.",
+    "the_new_york_times": "Homeownership Drifts Further Out of Reach as Mortgage Rates Rise: Mortgage rates have pushed above 7 percent and home prices remain elevated, hurting the prospects of would-be buyers.\n\nMortgage Rates Hover at 7.4%, Highest Since 2023: The average 30-year, fixed-rate mortgage has steadily risen in recent weeks, compounding affordability challenges for many Americans.",
+    "the_real_deal": "Ghost town under Chrysler Building and other things I don’t understand: Nearly every weekday from 2005 to 2019 I walked directly from the subway at Grand Central through the retail space under the Chrysler Building, occasionally stopping at the barber shop, delicatessen, dry cleaner or locksmith.\n\nRezoned Sheepshead Bay site sells for $37M for large affordable housing project: A recently rezoned Sheepshead Bay parcel has changed hands, paving the way for a large-scale affordable housing development. A joint venture between ABS Partners and AAG Management sold the development site at 2185 Coyle Street in Brooklyn for $37 million to Gilbane Development.\n\nInterVest refinances Nightingale’s former Soho office building: A Soho office building once owned by Elie Schwartz’s Nightingale Properties recently received a boost. Hudson Bay Capital Management provided InterVest Capital Partners with an $85 million loan to refinance the debt on 300 Lafayette Street, PincusCo reported.",
+    "the_wall_street_journal": "This New Loan Is Bringing Investors to Abandoned Towns: Plus, the developer of a $10 billion real-estate project is asking its condo buyers for money.\n\nA New Type of Mortgage Is Reviving Long Abandoned Neighborhoods: The loan—based on potential rental income, not the borrower’s wealth—is helping real-estate investors buy and renovate homes.\n\nSoaring Financing Costs Threaten Commercial Real-Estate Deals: Plus, senior housing’s comeback is under way with latest billion dollar deal.\n\nThe Holdouts Working Around New York City’s Airbnb Crackdown: A crackdown on short-term rentals drastically reduced the business. Here’s how the hangers-on are making it work.",
+    "traded": "Taubco and Landau Properties Top Off $126M-SF One Kane Waterfront Office Project in Bay Harbor Islands.\n\nEmpira Secures $81M Construction Loan for 160-Unit Coral Gables Apartment Project.\n\nLincoln Property Company, McCourt Partners Secure $133M Loan for 344-Unit Culver City Project: Bank OZK is financing ElevenOneEleven, a mixed-use development featuring 344 apartments, with 52 affordable units, locat.\n\nGilbane, Strada Break Ground on $175M Bronx Housing Tower With 228 Affordable Apartments: Gilbane Development, Strada Development, and CUCS have begun construction on a 22-story residential building at 1920 Tur."
   },
   "items": [
     {
@@ -192,6 +196,24 @@
       "published_at": "2026-10-19T07:50:00.000Z"
     },
     {
+      "headline": "Taubco and Landau Properties Top Off $126M-SF One Kane Waterfront Office Project in Bay Harbor Islands",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "Traded",
+      "url": "https://traded.co/blog/taubco-and-landau-properties-top-off-126m-sf-one-kane-waterfront-office-project-in-bay-harbor-islands/",
+      "section": "traded",
+      "retail": true,
+      "published_at": "2026-10-16T04:00:00.000Z"
+    },
+    {
+      "headline": "Ghost town under Chrysler Building and other things I don’t understand",
+      "summary": "Nearly every weekday from 2005 to 2019 I walked directly from the subway at Grand Central through the retail space under the Chrysler Building, occasionally stopping at the barber shop, delicatessen, dry cleaner or locksmith. These shops offered the kind of retail experience that, to me, makes New York City superior to places where errands require driving from one strip mall to the next, as I did during a previous job in Parsippany.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/10/10/how-chrysler-buildings-retail-became-a-ghost-town/",
+      "section": "the_real_deal",
+      "retail": true,
+      "published_at": "2026-10-10T13:00:00.000Z"
+    },
+    {
       "headline": "Skin Care Brand FaceGym to Open New Tribeca Location at 110 Reade Street",
       "summary": "Time to face the music. FaceGym , a skin care brand that describes itself as a “facial fitness” studio, has inked a 10-year, 2,400-square-foot lease for a new Tribeca spot at 110 Reade Street , according to landlord broker Platinum Commercial . Founded in 2014 in London, FaceGym offers customers “facial workouts” and “combines muscle manipulation techniques” to provide lifting and sculpting services without surgery, according to its website.…",
       "source": "Commercial Observer",
@@ -210,76 +232,112 @@
       "published_at": "2026-10-16T14:26:00.000Z"
     },
     {
-      "headline": "NYC sees biggest wave of homes for sale in four years",
-      "summary": "Listings hit a four-year peak even as climbing borrowing costs send some buyers to the sidelines.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/10/16/real-estate/listings-in-new-york-city-surge-to-highest-level-in-four-years/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-10-16T17:01:47.000Z"
+      "headline": "South Beach’s Cameo Theater Could Reopen With Romain Zago Concept",
+      "summary": "Nightlife operator Romain Zago wants to reopen the historic Cameo Theater in South Beach seven years after its nightclub shuttered. Zago, who made a name for himself owning the nearby Mynt Lounge nightclub, has filed plans to turn the Art Deco theater at 1445 Washington Avenue into a 466-seat restaurant and lounge. The plans call for a bar and lounge with 226 seats on the ground floor, with the existing stage remaining. The second floor will house a 240-seat restaurant.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/10/miami-south-beach-cameo-theater-romain-zago/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-10-06T17:30:23.000Z"
     },
     {
-      "headline": "Olnick Organization signs $170.5M refi for approximately 1,716-unit portfolio in Harlem",
+      "headline": "Rezoned Sheepshead Bay site sells for $37M for large affordable housing project",
+      "summary": "A recently rezoned Sheepshead Bay parcel has changed hands, paving the way for a large-scale affordable housing development. A joint venture between ABS Partners and AAG Management sold the development site at 2185 Coyle Street in Brooklyn for $37 million to Gilbane Development. Gilbane Development will be able to take advantage of a rezoning that the joint venture secured for the site.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/10/16/affordable-housing-planned-for-rezoned-sheepshead-bay-site/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-10-16T22:11:14.000Z"
+    },
+    {
+      "headline": "InterVest refinances Nightingale’s former Soho office building",
+      "summary": "A Soho office building once owned by Elie Schwartz’s Nightingale Properties recently received a boost. Hudson Bay Capital Management provided InterVest Capital Partners with an $85 million loan to refinance the debt on 300 Lafayette Street, PincusCo reported. The debt replaces a previous $85 million loan, which was provided by InterVest itself before it took over ownership. A Newmark team including Jordan Roeschlaub, Nick Scribani and John Caraviello represented the borrower. The deal closed roughly one month ago.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/10/19/intervest-refinances-nightingales-former-soho-office/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-10-19T15:42:02.000Z"
+    },
+    {
+      "headline": "Empira Secures $81M Construction Loan for 160-Unit Coral Gables Apartment Project",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/olnick-organization-signs-170-5m-refi-for-approximately-1716-unit-portfolio-in-harlem/",
-      "section": "pincusco",
+      "source": "Traded",
+      "url": "https://traded.co/blog/empira-secures-81m-construction-loan-for-160-unit-coral-gables-apartment-project/",
+      "section": "traded",
       "retail": false,
-      "published_at": "2026-10-19T08:42:00.000Z"
+      "published_at": "2026-10-16T04:00:00.000Z"
     },
     {
-      "headline": "Leonid Bogomolniy pays $16.2M for 3 mixed-use buildings in Park Avenue South",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/leonid-bogomolniy-pays-6-7m-for-mixed-use-in-park-avenue-south/",
-      "section": "pincusco",
+      "headline": "Lincoln Property Company, McCourt Partners Secure $133M Loan for 344-Unit Culver City Project",
+      "summary": "Bank OZK is financing ElevenOneEleven, a mixed-use development featuring 344 apartments, with 52 affordable units, locat…",
+      "source": "Traded",
+      "url": "https://traded.co/blog/lincoln-property-company-mccourt-partners-secure-133m-loan-for-344-unit-culver-city-project/",
+      "section": "traded",
       "retail": false,
-      "published_at": "2026-10-19T08:02:00.000Z"
+      "published_at": "2026-10-16T04:00:00.000Z"
     },
     {
-      "headline": "Carl Fisher Photography sells mixed-use in Carnegie Hill for $10.8M",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/carl-fisher-photography-sells-mixed-use-in-carnegie-hill-for-10-8m/",
-      "section": "pincusco",
+      "headline": "This New Loan Is Bringing Investors to Abandoned Towns",
+      "summary": "Plus, the developer of a $10 billion real-estate project is asking its condo buyers for money.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/real-estate/this-new-loan-is-bringing-investors-to-abandoned-towns-a12c957b?mod=LatestNewsRealEstate",
+      "section": "the_wall_street_journal",
       "retail": false,
-      "published_at": "2026-10-19T07:56:00.000Z"
+      "published_at": "2026-10-14T13:55:00.000Z"
     },
     {
-      "headline": "St. Louis wants to build a $3 billion tech hub — but the data center anchoring it is sparking backlash",
-      "summary": "The project has sparked fierce public backlash, leading to competing lawsuits between opponents and developer TeraWatt Infrastructure.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/10/17/real-estate/st-louis-wants-to-build-a-3-billion-tech-hub-but-the-data-center-anchoring-it-is-sparking-backlash/",
-      "section": "new_york_post",
+      "headline": "Gilbane, Strada Break Ground on $175M Bronx Housing Tower With 228 Affordable Apartments",
+      "summary": "Gilbane Development, Strada Development, and CUCS have begun construction on a 22-story residential building at 1920 Tur…",
+      "source": "Traded",
+      "url": "https://traded.co/blog/gilbane-strada-break-ground-on-175m-bronx-housing-tower-with-228-affordable-apartments/",
+      "section": "traded",
       "retail": false,
-      "published_at": "2026-10-17T17:52:44.000Z"
+      "published_at": "2026-10-16T04:00:00.000Z"
     },
     {
-      "headline": "Who wins and who gets burned as The Plaza goes dark for four years",
-      "summary": "The Plaza Hotel will shut its doors for at least four years starting in January 2027 , with operator Fairmont Hotels and Resorts saying the 18-story Fifth Avenue landmark needs a top-to-bottom...",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/10/16/real-estate/here-are-the-winners-and-losers-of-the-plaza-shutdown/",
-      "section": "new_york_post",
+      "headline": "A New Type of Mortgage Is Reviving Long Abandoned Neighborhoods",
+      "summary": "The loan—based on potential rental income, not the borrower’s wealth—is helping real-estate investors buy and renovate homes.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/real-estate/new-mortgage-dscr-loan-d77ff640?mod=LatestNewsRealEstate",
+      "section": "the_wall_street_journal",
       "retail": false,
-      "published_at": "2026-10-16T20:00:53.000Z"
+      "published_at": "2026-10-12T01:00:00.000Z"
     },
     {
-      "headline": "AI company Databricks doubling footprint at 5 Bryant Park",
-      "summary": "Tasso Argyros, Databricks’ vice-president of engineering in the city, has said the company “made a bet” that “world-class AI would be built in Manhattan. Today, that bet is paying off.”",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/10/18/business/ai-company-databricks-doubling-footprint-at-5-bryant-park/",
-      "section": "new_york_post",
+      "headline": "Soaring Financing Costs Threaten Commercial Real-Estate Deals",
+      "summary": "Plus, senior housing’s comeback is under way with latest billion dollar deal.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/real-estate/soaring-financing-costs-threaten-commercial-real-estate-deals-b5f0c7cc?mod=LatestNewsRealEstate",
+      "section": "the_wall_street_journal",
       "retail": false,
-      "published_at": "2026-10-18T19:09:13.000Z"
+      "published_at": "2026-10-07T14:00:00.000Z"
     },
     {
-      "headline": "Scandi Dandies: Towers by Danish and Norwegian designers heighten New York’s skyline",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/10/16/real-estate/scandi-dandies-towers-by-danish-and-norwegian-designers-heighten-new-yorks-skyline/",
-      "section": "new_york_post",
+      "headline": "The Holdouts Working Around New York City’s Airbnb Crackdown",
+      "summary": "A crackdown on short-term rentals drastically reduced the business. Here’s how the hangers-on are making it work.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/the-holdouts-working-around-new-york-citys-airbnb-crackdown-e5eb27bd?mod=LatestNewsRealEstate",
+      "section": "the_wall_street_journal",
       "retail": false,
-      "published_at": "2026-10-16T20:21:00.000Z"
+      "published_at": "2026-10-17T11:00:00.000Z"
+    },
+    {
+      "headline": "Homeownership Drifts Further Out of Reach as Mortgage Rates Rise",
+      "summary": "Mortgage rates have pushed above 7 percent and home prices remain elevated, hurting the prospects of would-be buyers.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/10/15/business/economy/housing-market-mortgage-rates.html",
+      "section": "the_new_york_times",
+      "retail": false,
+      "published_at": "2026-10-15T18:12:20.000Z"
+    },
+    {
+      "headline": "Mortgage Rates Hover at 7.4%, Highest Since 2023",
+      "summary": "The average 30-year, fixed-rate mortgage has steadily risen in recent weeks, compounding affordability challenges for many Americans.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/10/15/business/economy/mortgage-rates-home-buying.html",
+      "section": "the_new_york_times",
+      "retail": false,
+      "published_at": "2026-10-15T16:09:19.000Z"
     }
   ]
 }

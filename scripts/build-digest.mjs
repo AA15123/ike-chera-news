@@ -26,8 +26,9 @@ const ROLLING_HOURS = 40;
 const SECTION_DIGEST_ROLLING_HOURS = 336;
 
 /**
- * RSS feeds (public metadata only). WSJ uses Dow Jones `feeds.a.dj.com` endpoints that still syndicate;
- * some WSJ section feeds return 403 — we only wire URLs that respond for anonymous fetches.
+ * RSS feeds (public metadata only). WSJ real estate is the Dow Jones feed at
+ * `feeds.content.dowjones.io` (older `feeds.a.dj.com` URLs stopped updating).
+ * Traded blocks anonymous RSS, so that outlet is read from its public news listing.
  */
 const FEEDS = [
   /**
@@ -127,6 +128,59 @@ const FEEDS = [
     skipHardRealEstateEventFilter: true,
     realEstateFeedCap: 6,
   },
+  {
+    id: "wsj-re",
+    source: "The Wall Street Journal",
+    /** Official Real Estate section. Lifestyle, opinion, and rate tables are filtered out. */
+    url: "https://feeds.content.dowjones.io/public/rss/latestnewsrealestate",
+    sectionDefault: "real_estate",
+    max: 16,
+    rollingHours: SECTION_DIGEST_ROLLING_HOURS,
+    filterTitle: wsjRealEstateFilter,
+    skipHardRealEstateEventFilter: true,
+    realEstateFeedCap: 4,
+    guarantee: 4,
+  },
+  {
+    id: "nyt-re",
+    source: "The New York Times",
+    /** Real Estate section front. House tours and listing roundups are filtered out. */
+    url: "https://rss.nytimes.com/services/xml/rss/nyt/RealEstate.xml",
+    sectionDefault: "real_estate",
+    max: 16,
+    rollingHours: SECTION_DIGEST_ROLLING_HOURS,
+    filterTitle: nytRealEstateFilter,
+    skipHardRealEstateEventFilter: true,
+    realEstateFeedCap: 4,
+    guarantee: 3,
+  },
+  {
+    id: "nyt-biz",
+    source: "The New York Times",
+    /** Business front, kept only when the headline is actually about property. */
+    url: "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+    sectionDefault: "real_estate",
+    max: 12,
+    rollingHours: SECTION_DIGEST_ROLLING_HOURS,
+    filterTitle: nytRealEstateFilter,
+    skipHardRealEstateEventFilter: true,
+    realEstateFeedCap: 3,
+    guarantee: 2,
+  },
+  {
+    id: "traded",
+    source: "Traded",
+    /** Public news listing. Direct RSS is Cloudflare-blocked; see `fetchTradedItems`. */
+    url: "https://traded.co/news/",
+    kind: "traded-news",
+    sectionDefault: "real_estate",
+    max: 12,
+    rollingHours: SECTION_DIGEST_ROLLING_HOURS,
+    filterTitle: tradedDealFilter,
+    skipHardRealEstateEventFilter: true,
+    realEstateFeedCap: 5,
+    guarantee: 4,
+  },
 ];
 
 const parser = new XMLParser({
@@ -178,6 +232,56 @@ function realEstateOnlyFilter(title, _link = "") {
       t
     );
   return hasRealEstateSignal && !obviousOffTopic;
+}
+
+/** WSJ Real Estate section mixes housing markets with house tours, opinion, and rate tables. */
+function wsjRealEstateFilter(title, _link = "") {
+  const t = String(title || "");
+  if (/^\s*opinion\b/i.test(t)) return false;
+  if (
+    /\b(house of the week|historic homes|current mortgage rates|current home equity|should i refinance|custom furniture|how to build a custom|gave their family a fresh start|oscars and emmy)\b/i.test(
+      t
+    )
+  ) {
+    return false;
+  }
+  return (
+    realEstateOnlyFilter(t) ||
+    /\b(housing|home prices|home sales|mortgage|condo|condominium|listings|pied-à-terre|pied-a-terre|airbnb|senior housing|senior-housing|commercial real-estate|commercial real estate|real-estate deals|real estate deals)\b/i.test(
+      t
+    )
+  );
+}
+
+/** NYT Real Estate is mostly residential features. Keep market, deal, and landlord stories. */
+function nytRealEstateFilter(title, _link = "") {
+  const t = String(title || "");
+  if (
+    /\b(homes for sale|which (?:\$[\d,]+ )?home would you choose|house hunting|what i love|living near the|art scene called|barely breaks even|prefab housing|downsize|wood floor|townhouse where|family compound|roommate|renting in|what now|what can i do|my building says|i need |i'm looking)\b/i.test(
+      t
+    )
+  ) {
+    return false;
+  }
+  if (isLifestyleOrCelebrityNoise(t, "")) return false;
+  return (
+    realEstateOnlyFilter(t) ||
+    /\b(housing|rent(?:ing|al)?|landlord|co-op|coop|condo|mortgage|home prices|apartment building|tenants?)\b/i.test(
+      t
+    )
+  );
+}
+
+/** Traded's news listing is commercial deals. Drop venture-capital raises that are not property. */
+function tradedDealFilter(title, _link = "") {
+  const t = String(title || "");
+  const property =
+    /\b(sold|sale|lease|leased|loan|refi|refinance|construction|development|apartment|multifamily|office|retail|industrial|mixed-use|square feet|units|tower|building|property|renovation)\b/i.test(
+      t
+    );
+  const ventureRaise = /\braises?\s+\$?\d/i.test(t);
+  if (ventureRaise && !property) return false;
+  return property;
 }
 
 function nyDateParts(d = new Date()) {
@@ -315,14 +419,122 @@ function normalizeItems(raw) {
 }
 
 async function fetchText(url) {
-  const res = await fetch(url, {
-    headers: {
+  const attempts = [
+    {
       "User-Agent": "IkeMorningDigest/1.0 (+https://example.local; contact: internal)",
       Accept: "application/rss+xml, application/xml, text/xml, */*",
     },
-  });
-  if (!res.ok) throw new Error(`${url} → ${res.status}`);
-  return res.text();
+    {
+      "User-Agent":
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15",
+      Accept: "application/rss+xml, application/xml, text/xml, */*",
+    },
+  ];
+  let lastStatus = 0;
+  for (const headers of attempts) {
+    const res = await fetch(url, { headers });
+    if (res.ok) return res.text();
+    lastStatus = res.status;
+    if (res.status !== 403 && res.status !== 401) break;
+  }
+  throw new Error(`${url} → ${lastStatus}`);
+}
+
+const TRADED_MONTH =
+  "Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec";
+
+function cleanTradedTitle(raw) {
+  let t = String(raw || "").replace(/\s+/g, " ").trim();
+  const dateRe = new RegExp(`\\b(?:${TRADED_MONTH})[a-z]*\\s+\\d{1,2},\\s+\\d{4}\\b`, "i");
+  if (/traded media/i.test(t) || dateRe.test(t)) {
+    t = t.split(dateRe)[0].trim();
+  }
+  t = t.replace(/traded media/gi, "").trim();
+  for (let i = 0; i < 2; i += 1) {
+    const next = t.replace(
+      /^(?:Office|Retail|Industrial|Multifamily|Residential|Development Site|New York|Texas|Florida|California|Chicago|National|Loan|Lease)\s+/i,
+      ""
+    );
+    if (next === t) break;
+    t = next.trim();
+  }
+  return t;
+}
+
+function tradedDateIn(text) {
+  const match = String(text || "").match(
+    new RegExp(`\\b(?:${TRADED_MONTH})[a-z]*\\s+\\d{1,2},\\s+\\d{4}\\b`, "i")
+  );
+  if (!match) return null;
+  const pub = new Date(match[0]);
+  return Number.isNaN(pub.getTime()) ? null : pub;
+}
+
+/** Traded news page, as markdown from the reader proxy or as HTML if the site allows it. */
+function parseTradedListing(text) {
+  const src = String(text || "");
+  const byUrl = new Map();
+  const remember = (url, label, index) => {
+    const cleanUrl = String(url || "").split("?")[0].replace(/\/+$/, "/");
+    if (!/\/blog\//i.test(cleanUrl)) return;
+    if (!byUrl.has(cleanUrl)) byUrl.set(cleanUrl, { labels: [], pub: null });
+    const row = byUrl.get(cleanUrl);
+    const textLabel = String(label || "").replace(/\s+/g, " ").trim();
+    if (textLabel) row.labels.push(textLabel);
+    if (!row.pub) {
+      row.pub = tradedDateIn(textLabel) || tradedDateIn(src.slice(Math.max(0, index - 240), index + 40));
+    }
+  };
+
+  const linkRe = /\[([^\]]*)\]\((https?:\/\/traded\.co\/blog\/[^)\s]+)\)/gi;
+  let match;
+  while ((match = linkRe.exec(src))) remember(match[2], match[1], match.index);
+  const hrefRe = /href="(https?:\/\/traded\.co\/blog\/[^"]+)"[^>]*>([^<]{12,240})</gi;
+  while ((match = hrefRe.exec(src))) remember(match[1], stripHtml(match[2]), match.index);
+
+  const articles = [];
+  for (const [url, row] of byUrl) {
+    const texts = [...new Set(row.labels.filter(Boolean))];
+    const titled = texts
+      .map(cleanTradedTitle)
+      .filter((label) => label.length >= 25 && label.length <= 180 && !/traded media/i.test(label));
+    const title = titled.sort((a, b) => a.length - b.length)[0] || "";
+    if (title.length < 25 || !row.pub) continue;
+    const summary =
+      texts
+        .filter((label) => !/traded media/i.test(label) && label !== title && label.length > 40)
+        .sort((a, b) => b.length - a.length)[0] || "";
+    articles.push({ title, link: url, pub: row.pub, summary: summary.startsWith(title) ? "" : summary });
+  }
+  return articles;
+}
+
+async function fetchTradedItems() {
+  const pageUrl = "https://traded.co/news/";
+  let listing = "";
+  try {
+    const direct = await fetch(pageUrl, {
+      headers: {
+        "User-Agent":
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15",
+        Accept: "text/html",
+      },
+    });
+    if (direct.ok) listing = await direct.text();
+  } catch {
+    listing = "";
+  }
+  if (!/traded\.co\/blog\//i.test(listing)) {
+    const proxied = await fetch("https://r.jina.ai/https://traded.co/news/", {
+      headers: {
+        Accept: "text/plain",
+        "User-Agent": "IkeMorningDigest/1.0",
+      },
+    });
+    if (!proxied.ok) throw new Error(`Traded news listing → ${proxied.status}`);
+    listing = await proxied.text();
+  }
+  return parseTradedListing(listing);
 }
 
 function parseRss(xml) {
@@ -398,27 +610,38 @@ async function collect() {
   const collected = [];
 
   for (const feed of FEEDS) {
-    let xml;
-    try {
-      xml = await fetchText(feed.url);
-    } catch (e) {
-      console.warn(`Skip ${feed.source} (${feed.url}): ${e.message}`);
-      continue;
+    let dated;
+    if (feed.kind === "traded-news") {
+      try {
+        const articles = await fetchTradedItems();
+        dated = articles.map((it) => ({ ...it, feed })).filter((it) => it.link && it.title);
+      } catch (e) {
+        console.warn(`Skip ${feed.source} (${feed.url}): ${e.message}`);
+        continue;
+      }
+    } else {
+      let xml;
+      try {
+        xml = await fetchText(feed.url);
+      } catch (e) {
+        console.warn(`Skip ${feed.source} (${feed.url}): ${e.message}`);
+        continue;
+      }
+      const { items } = parseRss(xml);
+      dated = items
+        .map((it) => {
+          const rawTitle = it.title;
+          const title = stripEmojis(
+            stripHtml(
+              typeof rawTitle === "object" ? rawTitle["#text"] || "" : rawTitle || it["#text"] || ""
+            ).replace(/^<!\[CDATA\[|\]\]>$/g, "")
+          ) || "Untitled";
+          const link = normalizeLink(it.link);
+          const pub = itemPubDate(it);
+          return { title, link, pub, summary: pickSummary(it), feed };
+        })
+        .filter((it) => it.link && it.title);
     }
-    const { items } = parseRss(xml);
-    const dated = items
-      .map((it) => {
-        const rawTitle = it.title;
-        const title = stripEmojis(
-          stripHtml(
-            typeof rawTitle === "object" ? rawTitle["#text"] || "" : rawTitle || it["#text"] || ""
-          ).replace(/^<!\[CDATA\[|\]\]>$/g, "")
-        ) || "Untitled";
-        const link = normalizeLink(it.link);
-        const pub = itemPubDate(it);
-        return { title, link, pub, summary: pickSummary(it), feed };
-      })
-      .filter((it) => it.link && it.title);
 
     const hours = feed.rollingHours ?? ROLLING_HOURS;
     const windowMs = hours * 60 * 60 * 1000;
@@ -484,6 +707,25 @@ async function collect() {
     return out;
   }
 
+  /** New outlets get a few stories even when retail-heavy feeds fill the main cap. */
+  function ensureFeedMinimum(picked, candidates, hardLimit) {
+    const out = [...picked];
+    const seen = new Set(out.map((it) => it.link));
+    const counts = new Map();
+    for (const it of out) counts.set(it.feed.id, (counts.get(it.feed.id) || 0) + 1);
+    for (const it of candidates) {
+      const min = it.feed.guarantee;
+      if (!min || out.length >= hardLimit) continue;
+      if (seen.has(it.link)) continue;
+      const have = counts.get(it.feed.id) || 0;
+      if (have >= min) continue;
+      out.push(it);
+      seen.add(it.link);
+      counts.set(it.feed.id, have + 1);
+    }
+    return out;
+  }
+
   const reCandidates = unique
     .filter((u) => u.feed.sectionDefault === "real_estate")
     .filter((u) => !isLifestyleOrCelebrityNoise(u.title, u.summary))
@@ -496,7 +738,11 @@ async function collect() {
     }))
     .filter((u) => u.feed.skipHardRealEstateEventFilter || u.reScore > 0)
     .sort((a, b) => b.retailScore - a.retailScore || b.reScore - a.reScore || b.pub - a.pub);
-  const rePicked = pickTopWithFeedCap(reCandidates, REAL_ESTATE_LIMIT, REAL_ESTATE_FEED_CAP);
+  const rePicked = ensureFeedMinimum(
+    pickTopWithFeedCap(reCandidates, REAL_ESTATE_LIMIT, REAL_ESTATE_FEED_CAP),
+    reCandidates,
+    48
+  );
 
   const capped = rePicked.map(toDigestRow);
 
@@ -510,7 +756,7 @@ const digest = {
   generated_at: new Date().toISOString(),
   coverage_window_hours: ROLLING_HOURS,
   data_note:
-    "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
+    "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. **WSJ** is the Dow Jones real-estate feed with lifestyle and opinion dropped. **The New York Times** keeps real-estate and property stories only. **Traded** is commercial deal briefs from its news listing. Open each link for the full article (subscriptions may apply in the browser).",
   section_overviews: buildOverviews(items),
   items,
 };
