@@ -1,14 +1,14 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-10-18",
-  "generated_at": "2026-10-18T13:54:00.859Z",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T16:54:17.116Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "PNC Bank Inks 4K-SF Retail Lease at 312 West 43rd Street: Residents at the Ellery , a mixed-use residential development in Manhattan’s Hell’s Kitchen neighborhood, are getting another retailer at the base of their 33-story home. PNC Bank has signed a 3,500-square-foot retail lease at the base of the property at 312 West 43rd Street , according to co-developers and co-owners.\n\nGravity Fitness Signs 23K-SF Lease at Queens’ Flushing Plaza: An athletic club is following a gravitational pull leading it to eastern Queens. Gravity Fitness signed a long-term, 23,000-square-foot lease at Muss Development ’s Flushing Plaza at 41-61 Kissena Boulevard , where it will occupy the ground floor of a two-story office and retail complex in Downtown Flushing, according.\n\nTJ Maxx Signs 29K-SF Deal to Replace H&M at 150 East 86th Street: Discount department store T.J. Maxx is replacing H&M in a busy retail spread on Manhattan’s Upper East Side, Commercial Observer has learned.\n\nBath & Body Works to Open 9K-SF Store in Flatiron District: Bath & Body Works is opening a new store in Manhattan’s Flatiron District. The soap and scented lotion purveyor has signed a lease to take over the entire nearly 9,000-square-foot retail portion of 129 Fifth Avenue , according to a source with knowledge of the deal.",
+    "commercial_observer": "PNC Bank Inks 4K-SF Retail Lease at 312 West 43rd Street: Residents at the Ellery , a mixed-use residential development in Manhattan’s Hell’s Kitchen neighborhood, are getting another retailer at the base of their 33-story home. PNC Bank has signed a 3,500-square-foot retail lease at the base of the property at 312 West 43rd Street , according to co-developers and co-owners.\n\nGravity Fitness Signs 23K-SF Lease at Queens’ Flushing Plaza: An athletic club is following a gravitational pull leading it to eastern Queens. Gravity Fitness signed a long-term, 23,000-square-foot lease at Muss Development ’s Flushing Plaza at 41-61 Kissena Boulevard , where it will occupy the ground floor of a two-story office and retail complex in Downtown Flushing, according.\n\nTJ Maxx Signs 29K-SF Deal to Replace H&M at 150 East 86th Street: Discount department store T.J. Maxx is replacing H&M in a busy retail spread on Manhattan’s Upper East Side, Commercial Observer has learned.\n\nCamera Brand Fujifilm Takes 13K SF at 210 Lafayette Street in SoHo: A Japanese camera manufacturer is setting up shop in Manhattan’s photogenic SoHo neighborhood. Fujifilm signed a lease for 12,700 square feet at Comjem Associates ’ 210 Lafayette Street for what could be a brick-and-mortar retail location similar to stores operated by B&H or Adorama .",
     "cre_daily": "Hines Says Retail Recovery Is an Income and Scarcity Call: Hines Research says retail pricing has recovered across open-air centers and enclosed malls in the U.S. and Europe, while lagging Asian markets could offer opportunity.\n\nMark IV Breaks Ground on 41,500 SF Round Rock Retail Plaza: Mark IV Capital broke ground in October on a 41,521 SF plaza at The District in Round Rock, with six single-story buildings and room for nine to 14 restaurant and lifestyle tenants.\n\nRetail Vacancy Falls to 4.3% as Q3 Absorption Hits 10.5M SF: National retail vacancy fell 10 basis points to 4.3% in Q3, while shopping center vacancy slipped to 5.4% and mall vacancy dropped 30 basis points to 8.2%. Leasing totaled 38.4M SF and net absorption hit 10.5M SF, led by general retail at 5.4M SF, with shopping centers at 3.0M SF and malls at 1.9M SF.\n\nRecord Diesel Prices Squeeze Retail Development Pipeline: Diesel averaged $6.38 per gallon on Sept. 28, up from about $3.81 in late February, adding to construction and supply-chain costs for retail developers and retailers.",
-    "new_york_post": "NYC sees biggest wave of homes for sale in four years: Listings hit a four-year peak even as climbing borrowing costs send some buyers to the sidelines.\n\nSt. Louis wants to build a $3 billion tech hub — but the data center anchoring it is sparking backlash: The project has sparked fierce public backlash, leading to competing lawsuits between opponents and developer TeraWatt Infrastructure.\n\nWho wins and who gets burned as The Plaza goes dark for four years: The Plaza Hotel will shut its doors for at least four years starting in January 2027 , with operator Fairmont Hotels and Resorts saying the 18-story Fifth Avenue landmark needs a top-to-bottom.",
-    "pincusco": "Harlem Children’s Zone pays $7.2M to FBE Limited for retail in East Harlem.\n\nCB Developers signs $5.2M refi with ConnectOne for retail in Williamsburg.\n\nRFR signs $7.3M refi with City National Bank for retail in Lenox Hill.\n\nInterVest signs $85M refi loan with Hudson Bay Capital Management for office in SoHo."
+    "new_york_post": "Soho retail going strong with Fujifilm deal for 210 Lafayette St.: Fujifilm has signed a lease at Comjen Associates’ 210 Lafayette St., where it will occupy 12,700 square feet on three levels.\n\nSL Green putting finishing touches on $225M redesign at 245 Park Ave.: The project includes a new wraparound public plaza, a striking new Park Avenue podium facade by KPF, lavish tenant amenities and, soon, a restaurant from John Meadow’s LDV Hospitality.\n\nNYC sees biggest wave of homes for sale in four years: Listings hit a four-year peak even as climbing borrowing costs send some buyers to the sidelines.\n\nSt. Louis wants to build a $3 billion tech hub — but the data center anchoring it is sparking backlash: The project has sparked fierce public backlash, leading to competing lawsuits between opponents and developer TeraWatt Infrastructure.",
+    "pincusco": "Kohan Retail Investment Group loses Chelsea office building in $77.2M transfer.\n\nHarlem Children’s Zone pays $7.2M to FBE Limited for retail in East Harlem.\n\nOlnick Organization signs $170.5M refi for approximately 1,716-unit portfolio in Harlem.\n\nLeonid Bogomolniy pays $16.2M for 3 mixed-use buildings in Park Avenue South."
   },
   "items": [
     {
@@ -75,6 +75,15 @@
       "published_at": "2026-10-06T16:30:01.000Z"
     },
     {
+      "headline": "Camera Brand Fujifilm Takes 13K SF at 210 Lafayette Street in SoHo",
+      "summary": "A Japanese camera manufacturer is setting up shop in Manhattan’s photogenic SoHo neighborhood. Fujifilm signed a lease for 12,700 square feet at Comjem Associates ’ 210 Lafayette Street for what could be a brick-and-mortar retail location similar to stores operated by B&H or Adorama . Not much else is known about the deal, but Fujifilm’s new space between Kenmare and Spring streets will span three levels, the New York Post reported .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/10/fujifilm-retail-lease-210-lafayette-street/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-10-19T15:29:15.000Z"
+    },
+    {
       "headline": "Bath & Body Works to Open 9K-SF Store in Flatiron District",
       "summary": "Bath & Body Works is opening a new store in Manhattan’s Flatiron District. The soap and scented lotion purveyor has signed a lease to take over the entire nearly 9,000-square-foot retail portion of 129 Fifth Avenue , according to a source with knowledge of the deal. Bath & Body Works will move into the two-level retail unit, owned by Acadia Realty Trust , in the fall of 2027, according to Crain’s New York Business , which first reported the lease.…",
       "source": "Commercial Observer",
@@ -91,6 +100,15 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-10-07T16:04:39.000Z"
+    },
+    {
+      "headline": "Soho retail going strong with Fujifilm deal for 210 Lafayette St.",
+      "summary": "Fujifilm has signed a lease at Comjen Associates’ 210 Lafayette St., where it will occupy 12,700 square feet on three levels.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/18/business/soho-retail-going-strong-with-fujifilm-deal-for-210-lafayette-st/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-10-18T18:38:22.000Z"
     },
     {
       "headline": "Eyewear Brand Gentle Monster Takes 29K SF at Kushner’s Puck Building",
@@ -129,6 +147,15 @@
       "published_at": "2026-10-07T17:35:27.000Z"
     },
     {
+      "headline": "SL Green putting finishing touches on $225M redesign at 245 Park Ave.",
+      "summary": "The project includes a new wraparound public plaza, a striking new Park Avenue podium facade by KPF, lavish tenant amenities and, soon, a restaurant from John Meadow’s LDV Hospitality.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/18/business/sl-green-putting-finishing-touches-on-225m-facelift-at-245-park-ave/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-10-18T17:27:09.000Z"
+    },
+    {
       "headline": "Japanese Restaurant Udon Shin to Open First NYC Spot at 37 West 17th Street",
       "summary": "Udon Shin , a popular Japanese restaurant with only two other U.S. locations, is gearing up to open its first New York City eatery, Commercial Observer has learned. Udon Shin has signed a 10-year, 2,500-square-foot lease at 37 West 17th Street in Manhattan’s Flatiron District, according to tenant broker Aaron Gavios of Gavios Realty Group . Asking rent was $30,000 per month for the space previously occupied by now-closed Italian restaurant Basta Pasta.…",
       "source": "Commercial Observer",
@@ -156,22 +183,13 @@
       "published_at": "2026-10-06T16:14:32.000Z"
     },
     {
-      "headline": "Union Investment Sells Meatpacking District Retail Condo for $27M",
-      "summary": "A high-profile retail space in Manhattan’s Meatpacking District has traded. Union Investment Real Estate , a Germany-based real estate investment manager, sold a retail condo unit at the base of the mixed-use 415 West 13th Street for $26.5 million, according to city records made public Wednesday. The buyer of Unit 1N was the LLC West Gotham Re Projects Corporation , with Nicolo Forni as a signatory. Further details about the buyer and Forni were unclear, as the address tied to the LLC was a law firm.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/union-investment-sells-retail-condo-415-west-13th-street/",
-      "section": "commercial_observer",
+      "headline": "Kohan Retail Investment Group loses Chelsea office building in $77.2M transfer",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/kohan-retail-investment-group-loses-chelsea-office-building-in-77-2m-transfer/",
+      "section": "pincusco",
       "retail": true,
-      "published_at": "2026-10-15T20:23:08.000Z"
-    },
-    {
-      "headline": "Investment Firm Garnett Station Partners Expands to 35K SF at 450 Park Avenue",
-      "summary": "Garnett Station Partners , a New York-based private equity investment firm and alternative asset manager, is expanding its office footprint in Midtown Manhattan, Commercial Observer has learned. Garnett has signed an 11.5-year lease to expand its footprint by 10,392 square feet on the entire seventh floor of SL Green Realty ’s 450 Park Avenue , where it has been a tenant since 2023, according to a source with knowledge of the deal.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/garnett-station-partners-lease-450-park-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-10-15T21:23:15.000Z"
+      "published_at": "2026-10-19T07:50:00.000Z"
     },
     {
       "headline": "Skin Care Brand FaceGym to Open New Tribeca Location at 110 Reade Street",
@@ -192,60 +210,6 @@
       "published_at": "2026-10-16T14:26:00.000Z"
     },
     {
-      "headline": "CB Developers signs $5.2M refi with ConnectOne for retail in Williamsburg",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/cb-developers-signs-5-2m-refi-with-connectone-bank-for-retail-in-williamsburg/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-10-16T13:58:00.000Z"
-    },
-    {
-      "headline": "RFR signs $7.3M refi with City National Bank for retail in Lenox Hill",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/rfr-signs-7-3m-refi-loan-with-city-national-bank-for-retail-in-lenox-hill/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-10-16T13:54:00.000Z"
-    },
-    {
-      "headline": "News Outlet Semafor Takes 12K SF at 495 Broadway",
-      "summary": "The news never sleeps, and journalists want a comfy space to do their critical work. Digital news organization Semafor has inked a 12,000-square-foot lease at WB Property Group ’s 495 Broadway just off Broome Street in SoHo, tenant broker Okada & Company confirmed to Commercial Observer. The lease was first reported by Traded . The deal represents a relocation for Semafor, which will relocate about four blocks north from 394 Broadway .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/semafor-lease-495-broadway/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-10-15T20:10:55.000Z"
-    },
-    {
-      "headline": "Record Diesel Prices Fuel More Challenges for Retail Real Estate",
-      "summary": "When it comes to diesel prices’ impact on U.S. retail, the pain at the pump is being felt in retailers’ real estate strategies. Diesel fuel, a key component of transportation costs that impacts the pricing of nearly every item on Americans’ shopping lists, surpassed an all-time average high of $6 per gallon in September.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/record-diesel-prices-retail-real-estate-challenges/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-10-05T16:01:36.000Z"
-    },
-    {
-      "headline": "InterVest signs $85M refi loan with Hudson Bay Capital Management for office in SoHo",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/intervest-signs-85m-refi-loan-with-hudson-bay-capital-management-for-office-in-soho/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-10-16T14:09:00.000Z"
-    },
-    {
-      "headline": "Goose Property signs $143.4M construction loan with Affinius for 396-unit dev site in South Slope",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/goose-property-signs-143-4m-construction-loan-with-affinius-for-396-unit-dev-site-in-south-slope/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-10-16T12:29:00.000Z"
-    },
-    {
       "headline": "NYC sees biggest wave of homes for sale in four years",
       "summary": "Listings hit a four-year peak even as climbing borrowing costs send some buyers to the sidelines.",
       "source": "New York Post",
@@ -253,6 +217,33 @@
       "section": "new_york_post",
       "retail": false,
       "published_at": "2026-10-16T17:01:47.000Z"
+    },
+    {
+      "headline": "Olnick Organization signs $170.5M refi for approximately 1,716-unit portfolio in Harlem",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/olnick-organization-signs-170-5m-refi-for-approximately-1716-unit-portfolio-in-harlem/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-10-19T08:42:00.000Z"
+    },
+    {
+      "headline": "Leonid Bogomolniy pays $16.2M for 3 mixed-use buildings in Park Avenue South",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/leonid-bogomolniy-pays-6-7m-for-mixed-use-in-park-avenue-south/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-10-19T08:02:00.000Z"
+    },
+    {
+      "headline": "Carl Fisher Photography sells mixed-use in Carnegie Hill for $10.8M",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/carl-fisher-photography-sells-mixed-use-in-carnegie-hill-for-10-8m/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-10-19T07:56:00.000Z"
     },
     {
       "headline": "St. Louis wants to build a $3 billion tech hub — but the data center anchoring it is sparking backlash",
@@ -273,13 +264,22 @@
       "published_at": "2026-10-16T20:00:53.000Z"
     },
     {
-      "headline": "T&E Development files plans for 76 units in Chelsea",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/te-development-files-plans-for-76-units-in-chelsea/",
-      "section": "pincusco",
+      "headline": "AI company Databricks doubling footprint at 5 Bryant Park",
+      "summary": "Tasso Argyros, Databricks’ vice-president of engineering in the city, has said the company “made a bet” that “world-class AI would be built in Manhattan. Today, that bet is paying off.”",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/18/business/ai-company-databricks-doubling-footprint-at-5-bryant-park/",
+      "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-10-16T12:44:00.000Z"
+      "published_at": "2026-10-18T19:09:13.000Z"
+    },
+    {
+      "headline": "Scandi Dandies: Towers by Danish and Norwegian designers heighten New York’s skyline",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/16/real-estate/scandi-dandies-towers-by-danish-and-norwegian-designers-heighten-new-yorks-skyline/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-10-16T20:21:00.000Z"
     }
   ]
 }
