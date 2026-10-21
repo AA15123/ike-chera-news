@@ -1,17 +1,17 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-10-20",
-  "generated_at": "2026-10-20T14:54:42.791Z",
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T15:01:45.149Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. **WSJ** is the Dow Jones real-estate feed with lifestyle and opinion dropped. **The New York Times** keeps real-estate and property stories only. **Traded** is commercial deal briefs from its news listing. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "PNC Bank Inks 4K-SF Retail Lease at 312 West 43rd Street: Residents at the Ellery , a mixed-use residential development in Manhattan’s Hell’s Kitchen neighborhood, are getting another retailer at the base of their 33-story home. PNC Bank has signed a 3,500-square-foot retail lease at the base of the property at 312 West 43rd Street , according to co-developers and co-owners.\n\nTJ Maxx Signs 29K-SF Deal to Replace H&M at 150 East 86th Street: Discount department store T.J. Maxx is replacing H&M in a busy retail spread on Manhattan’s Upper East Side, Commercial Observer has learned.\n\nCamera Brand Fujifilm Takes 13K SF at 210 Lafayette Street in SoHo: A Japanese camera manufacturer is setting up shop in Manhattan’s photogenic SoHo neighborhood. Fujifilm signed a lease for 12,700 square feet at Comjem Associates ’ 210 Lafayette Street for what could be a brick-and-mortar retail location similar to stores operated by B&H or Adorama .\n\nBath & Body Works to Open 9K-SF Store in Flatiron District: Bath & Body Works is opening a new store in Manhattan’s Flatiron District. The soap and scented lotion purveyor has signed a lease to take over the entire nearly 9,000-square-foot retail portion of 129 Fifth Avenue , according to a source with knowledge of the deal.",
-    "cre_daily": "Hines Says Retail Recovery Is an Income and Scarcity Call: Hines Research says retail pricing has recovered across open-air centers and enclosed malls in the U.S. and Europe, while lagging Asian markets could offer opportunity.\n\nMark IV Breaks Ground on 41,500 SF Round Rock Retail Plaza: Mark IV Capital broke ground in October on a 41,521 SF plaza at The District in Round Rock, with six single-story buildings and room for nine to 14 restaurant and lifestyle tenants.\n\nRetail Vacancy Falls to 4.3% as Q3 Absorption Hits 10.5M SF: National retail vacancy fell 10 basis points to 4.3% in Q3, while shopping center vacancy slipped to 5.4% and mall vacancy dropped 30 basis points to 8.2%. Leasing totaled 38.4M SF and net absorption hit 10.5M SF, led by general retail at 5.4M SF, with shopping centers at 3.0M SF and malls at 1.9M SF.\n\nRecord Diesel Prices Squeeze Retail Development Pipeline: Diesel averaged $6.38 per gallon on Sept. 28, up from about $3.81 in late February, adding to construction and supply-chain costs for retail developers and retailers.",
-    "new_york_post": "Soho retail going strong with Fujifilm deal for 210 Lafayette St.: Fujifilm has signed a lease at Comjen Associates’ 210 Lafayette St., where it will occupy 12,700 square feet on three levels.\n\nSL Green putting finishing touches on $225M redesign at 245 Park Ave.: The project includes a new wraparound public plaza, a striking new Park Avenue podium facade by KPF, lavish tenant amenities and, soon, a restaurant from John Meadow’s LDV Hospitality.\n\nSan Francisco’s doomed mall probed as future data center: The firm told the City of San Francisco that it is working with an unidentified partner who is interested in the 350,000-square-foot portion of the mall that was once home to a Bloomingdale's.",
-    "pincusco": "Tishman Speyer signs $351M ground lease with Cooper Union for Chrysler Building.",
-    "the_new_york_times": "Homeownership Drifts Further Out of Reach as Mortgage Rates Rise: Mortgage rates have pushed above 7 percent and home prices remain elevated, hurting the prospects of would-be buyers.\n\nMortgage Rates Hover at 7.4%, Highest Since 2023: The average 30-year, fixed-rate mortgage has steadily risen in recent weeks, compounding affordability challenges for many Americans.",
-    "the_wall_street_journal": "This New Loan Is Bringing Investors to Abandoned Towns: Plus, the developer of a $10 billion real-estate project is asking its condo buyers for money.\n\nA New Type of Mortgage Is Reviving Long Abandoned Neighborhoods: The loan—based on potential rental income, not the borrower’s wealth—is helping real-estate investors buy and renovate homes.\n\nSoaring Financing Costs Threaten Commercial Real-Estate Deals: Plus, senior housing’s comeback is under way with latest billion dollar deal.\n\nThe Holdouts Working Around New York City’s Airbnb Crackdown: A crackdown on short-term rentals drastically reduced the business. Here’s how the hangers-on are making it work.",
-    "traded": "Onni’s Fulton Market Tower Is Back to Office, and 250,000 SF Bigger: Onni Group plans a 30-story office tower at 357 N. Green Street in Chicago's Fulton Market, featuring 900,000 square fee.\n\nTaubco and Landau Properties Top Off $126M-SF One Kane Waterfront Office Project in Bay Harbor Islands: Taubco and Landau Properties have topped off One Kane, a seven-story, 126,000-square-foot office development aimed at fi.\n\nEmpira Secures $81M Construction Loan for 160-Unit Coral Gables Apartment Project: Empira Group secured $81 million in construction financing from Pearlmark for The Aurelian, a 12-story luxury apartment.\n\nUpper East Side Church Site Becomes 20-Story, 60-Unit Condo Tower With Private Garage."
+    "commercial_observer": "PNC Bank Inks 4K-SF Retail Lease at 312 West 43rd Street: Residents at the Ellery , a mixed-use residential development in Manhattan’s Hell’s Kitchen neighborhood, are getting another retailer at the base of their 33-story home. PNC Bank has signed a 3,500-square-foot retail lease at the base of the property at 312 West 43rd Street , according to co-developers and co-owners.\n\nAT&T Renews 7K-SF Lease at Rudin’s 3 Times Square: Home is where the heart is, and telecommunications giant AT&T is quite at home in the heart of Times Square . The wireless carrier has renewed and extended its lease at Rudin ’s 3 Times Square for another five years, Commercial Observer has learned.\n\nTJ Maxx Signs 29K-SF Deal to Replace H&M at 150 East 86th Street: Discount department store T.J. Maxx is replacing H&M in a busy retail spread on Manhattan’s Upper East Side, Commercial Observer has learned.\n\nCamera Brand Fujifilm Takes 13K SF at 210 Lafayette Street in SoHo: A Japanese camera manufacturer is setting up shop in Manhattan’s photogenic SoHo neighborhood. Fujifilm signed a lease for 12,700 square feet at Comjem Associates ’ 210 Lafayette Street for what could be a brick-and-mortar retail location similar to stores operated by B&H or Adorama .",
+    "cre_daily": "Hines Says Retail Recovery Is an Income and Scarcity Call: Hines Research says retail pricing has recovered across open-air centers and enclosed malls in the U.S. and Europe, while lagging Asian markets could offer opportunity.\n\nMark IV Breaks Ground on 41,500 SF Round Rock Retail Plaza: Mark IV Capital broke ground in October on a 41,521 SF plaza at The District in Round Rock, with six single-story buildings and room for nine to 14 restaurant and lifestyle tenants.\n\nRetail Vacancy Falls to 4.3% as Q3 Absorption Hits 10.5M SF: National retail vacancy fell 10 basis points to 4.3% in Q3, while shopping center vacancy slipped to 5.4% and mall vacancy dropped 30 basis points to 8.2%. Leasing totaled 38.4M SF and net absorption hit 10.5M SF, led by general retail at 5.4M SF, with shopping centers at 3.0M SF and malls at 1.9M SF.\n\nSouthern California Retail Vacancy Falls to 6.15% in Q3: Retail tenants absorbed about 757,600 SF across Los Angeles and Orange counties and the Inland Empire in Q3 2026, while overall vacancy dropped 12 basis points to 6.15%. Orange County vacancy fell 25 basis points to a five-year low of 3.55% with rents up 3% to $2.65 per SF, while the Inland Empire led absorption at.",
+    "new_york_post": "Soho retail going strong with Fujifilm deal for 210 Lafayette St.: Fujifilm has signed a lease at Comjen Associates’ 210 Lafayette St., where it will occupy 12,700 square feet on three levels.\n\nSL Green putting finishing touches on $225M redesign at 245 Park Ave.: The project includes a new wraparound public plaza, a striking new Park Avenue podium facade by KPF, lavish tenant amenities and, soon, a restaurant from John Meadow’s LDV Hospitality.\n\nSan Francisco’s doomed mall probed as future data center: The firm told the City of San Francisco that it is working with an unidentified partner who is interested in the 350,000-square-foot portion of the mall that was once home to a Bloomingdale's.\n\nTrattoria Dell’Arte, Fiorello’s and Bond 45 to get second life thanks to Tilman Fertitta deal: Restaurant giant Landry’s Inc., owned by Texas mega-billionaire Tilman Fertitta, is taking over bankrupt Fireman Hospitality Group’s three most successful restaurants as part of a $22 million purchase with a third company, Ciao Hospitality Group.",
+    "pincusco": "Kinsmen, SK Development, sign $163.5M construction loan with Arc70 for 184-unit proposal in East Village.\n\nNaftali Group signs $334M construction loan with Chase for 218-unit condo project in Williamsburg.",
+    "the_new_york_times": "This Shaker-Inspired Office Embodies Work-Life Balance: The Los Angeles designers Elora Joshi and Andrew Greene created their dream work space by pairing vintage artifacts with modern upgrades.",
+    "the_wall_street_journal": "This New Loan Is Bringing Investors to Abandoned Towns: Plus, the developer of a $10 billion real-estate project is asking its condo buyers for money.\n\nA New Type of Mortgage Is Reviving Long Abandoned Neighborhoods: The loan—based on potential rental income, not the borrower’s wealth—is helping real-estate investors buy and renovate homes.\n\nThe Holdouts Working Around New York City’s Airbnb Crackdown: A crackdown on short-term rentals drastically reduced the business. Here’s how the hangers-on are making it work.\n\nStagnant Housing Market? Not for Luxury Homes: And, real-estate giant CBRE is acquiring a company that equips data centers in a $1 billion deal.",
+    "traded": "Upper East Side Church Site Becomes 20-Story, 60-Unit Condo Tower With Private Garage: The 20-story condominium at 260 East 72nd Street will feature 60 units, ground-floor retail, and is projected for comple.\n\nSimi Capital Enters Texas With 359,000-Square-Foot Houston Industrial Acquisition: Simi Capital and Decker Capital acquired a three-property industrial portfolio in northwest Houston and Katy totaling ap.\n\nConstruction Begins on 362-Unit Apartment Project at SeaFlower in Bradenton: Construction is underway on The Fields at SeaFlower, a 362-unit apartment community at 7840 Sea Lily Drive, Bradenton, F."
   },
   "items": [
     {
@@ -22,6 +22,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-10-15T19:51:05.000Z"
+    },
+    {
+      "headline": "AT&T Renews 7K-SF Lease at Rudin’s 3 Times Square",
+      "summary": "Home is where the heart is, and telecommunications giant AT&T is quite at home in the heart of Times Square . The wireless carrier has renewed and extended its lease at Rudin ’s 3 Times Square for another five years, Commercial Observer has learned. AT&T occupies 6,623 square feet of ground-floor and lower-level retail space at the 925,000-square-foot Midtown office tower . AT&T moved into the 30-story property, located on Seventh Avenue between West 42nd and West 43rd streets, in 2008.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/10/att-lease-rudin-3-times-square/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-10-20T19:06:40.000Z"
     },
     {
       "headline": "Hines Says Retail Recovery Is an Income and Scarcity Call",
@@ -60,13 +69,13 @@
       "published_at": "2026-10-08T15:52:06.000Z"
     },
     {
-      "headline": "Record Diesel Prices Squeeze Retail Development Pipeline",
-      "summary": "Diesel averaged $6.38 per gallon on Sept. 28, up from about $3.81 in late February, adding to construction and supply-chain costs for retail developers and retailers. Just over 60M SF of retail is under construction, 4% above the all-time low CoStar has recorded, while JLL put Q2 vacancy at 4.4% and net absorption at 10.2M SF. Retailers such as Aldi, Burlington, TJ Maxx and Dollar Tree plan large store expansions, but flat rents and rising costs mean limited new supply to absorb them.…",
+      "headline": "Southern California Retail Vacancy Falls to 6.15% in Q3",
+      "summary": "Retail tenants absorbed about 757,600 SF across Los Angeles and Orange counties and the Inland Empire in Q3 2026, while overall vacancy dropped 12 basis points to 6.15%. Orange County vacancy fell 25 basis points to a five-year low of 3.55% with rents up 3% to $2.65 per SF, while the Inland Empire led absorption at 527,000 SF. Los Angeles County lagged with 50,000 SF of absorption, down 77% from Q2, so the recovery is uneven even as community centers lead and construction stays limited.…",
       "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/record-diesel-prices-squeeze-retail-development-pipeline/",
+      "url": "https://www.credaily.com/briefs/southern-california-retail-vacancy-falls-to-6-15-in-q3/",
       "section": "cre_daily",
       "retail": true,
-      "published_at": "2026-10-06T16:30:01.000Z"
+      "published_at": "2026-10-20T17:49:16.000Z"
     },
     {
       "headline": "Camera Brand Fujifilm Takes 13K SF at 210 Lafayette Street in SoHo",
@@ -94,15 +103,6 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-10-07T16:04:39.000Z"
-    },
-    {
-      "headline": "Southern California Retail Markets Tighten as Tenant Demand Picks Up",
-      "summary": "Southern California’s retail real estate market continued to tighten in the third quarter of 2026, with positive net absorption and declining vacancy across much of the region, according to a new report released Monday from Colliers . Retail tenants absorbed about 757,600 square feet during the quarter across Los Angeles and Orange counties and the Inland Empire. Overall vacancy fell 12 basis points from the second quarter to 6.15 percent, while leasing activity totaled 2.5 million square feet.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/california-retail-q3/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-10-19T20:30:52.000Z"
     },
     {
       "headline": "Soho retail going strong with Fujifilm deal for 210 Lafayette St.",
@@ -150,6 +150,15 @@
       "published_at": "2026-10-07T17:35:27.000Z"
     },
     {
+      "headline": "Upper East Side Church Site Becomes 20-Story, 60-Unit Condo Tower With Private Garage",
+      "summary": "The 20-story condominium at 260 East 72nd Street will feature 60 units, ground-floor retail, and is projected for comple…",
+      "source": "Traded",
+      "url": "https://traded.co/blog/upper-east-side-church-site-becomes-20-story-60-unit-condo-tower-with-private-garage/",
+      "section": "traded",
+      "retail": true,
+      "published_at": "2026-10-20T00:00:00.000Z"
+    },
+    {
       "headline": "SL Green putting finishing touches on $225M redesign at 245 Park Ave.",
       "summary": "The project includes a new wraparound public plaza, a striking new Park Avenue podium facade by KPF, lavish tenant amenities and, soon, a restaurant from John Meadow’s LDV Hospitality.",
       "source": "New York Post",
@@ -177,76 +186,31 @@
       "published_at": "2026-10-14T15:47:27.000Z"
     },
     {
-      "headline": "Italian Restaurant Casa Serra to Open at 227 Front Street in South Street Seaport",
-      "summary": "Lower Manhattan’s South Street Seaport will be living la dolce vita with its latest restaurant lease. Casa Serra , a sister restaurant to East Village eatery House of Pasta , has inked a 2,824-square-foot lease at the Durst Organization ’s 227 Front Street , the landlord announced Tuesday. The 15-year lease has an asking rent of $100 per square foot.…",
+      "headline": "Design Firm Twelve Doubles HQ at Two Trees’ 45 Main Street to 14K SF",
+      "summary": "Design firm Twelve has upped its Brooklyn office headquarters by twofold. Twelve inked a 7,000-square-foot lease expansion at Dumbo’s 45 Main Street , according to a spokesperson for landlord Two Trees Management . The deal doubles Twelve’s office footprint to 14,000 square feet, spanning part of the 12-story office building’s sixth floor. The seven-year lease carried an asking rent of $52 per square foot. Crain’s New York first reported on the deal.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/casa-serra-lease-seaport-227-front-street/",
+      "url": "https://commercialobserver.com/2026/10/twelve-lease-expansion-two-trees-45-main-street/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-10-06T16:14:32.000Z"
+      "published_at": "2026-10-20T19:42:42.000Z"
     },
     {
-      "headline": "New York Office Tenant Improvement Totals Rise in 2026 Amid Market Shifts",
-      "summary": "Manhattan tenant improvement (TI) allowances — costs that commercial landlords cover for tenants to remodel spaces — have dramatically evolved since the pandemic. Gone are the days in which these allowances functioned as a simple deal sweetener to entice the city’s white-shoe law firms and digital media startups. Instead, brokers and landlords say it is a structural — albeit costly — necessity in today’s deal-making.…",
+      "headline": "Brooklyn Powerhouse Sports to Open 11K-SF Facility in Sunset Park",
+      "summary": "Brooklyn Powerhouse Sports , a new fitness and athletic training facility, is opening its first location. Brooklyn Powerhouse has signed a 10,871-square-foot lease at Capstone Equities ’ 14 53rd Street , known as the Whale Building , near the shore of New York Harbor in Sunset Park, Commercial Observer has learned. The company will set up batting cages and a small office at the location.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/new-york-office-tenant-improvement-allowances-2026/",
+      "url": "https://commercialobserver.com/2026/10/brooklyn-powerhouse-sports-lease-sunset-park-14-53rd-street/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-10-20T13:30:42.000Z"
+      "published_at": "2026-10-20T19:03:48.000Z"
     },
     {
-      "headline": "Data Software Firm Databricks Doubles Down With 120K SF at 5 Bryant Park",
-      "summary": "Data software company Databricks has doubled its office footprint at 5 Bryant Park less than a year after its arrival. The company inked the major lease expansion to accommodate the expanding headcount of its New York City-based research, development and engineering hub, according to a Databricks blog post on Monday. Its doubled office space now spans a total of 120,000 square feet across five floors of the Savanna -owned tower.…",
+      "headline": "Personal Training Studio LIV Method Takes 12K SF in Meatpacking District",
+      "summary": "The LIV Method , a private luxury training and wellness studio, will open a new location in Manhattan’s Meatpacking District in January, Commercial Observer has learned. The studio, which offers customers a curated and personalized approach to training, wellness and longevity, has inked a 12,028-square-foot lease at Sage ’s 2 Gansevoort Street , according to the landlord. The new location will be LIV Method’s third Manhattan studio.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/databricks-lease-expansion-5-bryant-park-savanna/",
+      "url": "https://commercialobserver.com/2026/10/liv-method-lease-2-gansevoort-street/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-10-19T19:32:52.000Z"
-    },
-    {
-      "headline": "Eagle AI Takes 7K-SF Office at 120 Fifth Avenue in Flatiron District",
-      "summary": "The eagle has landed at Bromley Companies ’ Flatiron District office property. Eagle AI , an artificial intelligence-based solutions provider, has taken 6,500 square feet of office space at 120 Fifth Avenue , according to the landlord. The deal, signed in September, is for an entire floor. Bromley did not provide the length of the lease or the asking rent. The average asking rent for office space in Midtown Manhattan was $85.08 per square foot during the third quarter of 2026, according to Colliers data.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/eagle-ai-lease-office-120-fifth-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-10-19T18:04:36.000Z"
-    },
-    {
-      "headline": "Onni’s Fulton Market Tower Is Back to Office, and 250,000 SF Bigger",
-      "summary": "Onni Group plans a 30-story office tower at 357 N. Green Street in Chicago's Fulton Market, featuring 900,000 square fee…",
-      "source": "Traded",
-      "url": "https://traded.co/blog/onni-s-fulton-market-tower-is-back-to-office-and-250-000-sf-bigger/",
-      "section": "traded",
-      "retail": true,
-      "published_at": "2026-10-19T00:00:00.000Z"
-    },
-    {
-      "headline": "Taubco and Landau Properties Top Off $126M-SF One Kane Waterfront Office Project in Bay Harbor Islands",
-      "summary": "Taubco and Landau Properties have topped off One Kane, a seven-story, 126,000-square-foot office development aimed at fi…",
-      "source": "Traded",
-      "url": "https://traded.co/blog/taubco-and-landau-properties-top-off-126m-sf-one-kane-waterfront-office-project-in-bay-harbor-islands/",
-      "section": "traded",
-      "retail": true,
-      "published_at": "2026-10-19T00:00:00.000Z"
-    },
-    {
-      "headline": "Charlotte Cafe Opening Fourth Manhattan Shop at Chelsea’s 219 Ninth Avenue",
-      "summary": "A cafe chain and catering service is opening a fourth Manhattan location in Chelsea, Commercial Observer has learned. The European-inspired Charlotte Cafe has signed a 10-year, 1,500-square-foot lease with landlord Willen Feygin at 219 Ninth Avenue , where it will take over a space vacated by a bank, according to broker Meridian Capital Group .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/charlotte-cafe-lease-219-ninth-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-10-19T18:50:13.000Z"
-    },
-    {
-      "headline": "Tishman Speyer signs $351M ground lease with Cooper Union for Chrysler Building",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/tishman-speyer-signs-351m-ground-lease-with-cooper-union-for-chrysler-building/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-10-20T11:25:00.000Z"
+      "published_at": "2026-10-20T21:30:04.000Z"
     },
     {
       "headline": "San Francisco’s doomed mall probed as future data center",
@@ -258,22 +222,40 @@
       "published_at": "2026-10-19T22:23:18.000Z"
     },
     {
-      "headline": "Skin Care Brand FaceGym to Open New Tribeca Location at 110 Reade Street",
-      "summary": "Time to face the music. FaceGym , a skin care brand that describes itself as a “facial fitness” studio, has inked a 10-year, 2,400-square-foot lease for a new Tribeca spot at 110 Reade Street , according to landlord broker Platinum Commercial . Founded in 2014 in London, FaceGym offers customers “facial workouts” and “combines muscle manipulation techniques” to provide lifting and sculpting services without surgery, according to its website.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/facegym-lease-tribeca-110-reade-street/",
-      "section": "commercial_observer",
+      "headline": "Trattoria Dell’Arte, Fiorello’s and Bond 45 to get second life thanks to Tilman Fertitta deal",
+      "summary": "Restaurant giant Landry’s Inc., owned by Texas mega-billionaire Tilman Fertitta, is taking over bankrupt Fireman Hospitality Group’s three most successful restaurants as part of a $22 million purchase with a third company, Ciao Hospitality Group.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/20/business/trattoria-dellarte-fiorellos-and-bond-45-to-get-second-life-thanks-to-tilman-fertitta-deal/",
+      "section": "new_york_post",
       "retail": true,
-      "published_at": "2026-10-16T15:40:35.000Z"
+      "published_at": "2026-10-20T23:17:58.000Z"
     },
     {
-      "headline": "Empira Secures $81M Construction Loan for 160-Unit Coral Gables Apartment Project",
-      "summary": "Empira Group secured $81 million in construction financing from Pearlmark for The Aurelian, a 12-story luxury apartment…",
-      "source": "Traded",
-      "url": "https://traded.co/blog/empira-secures-81m-construction-loan-for-160-unit-coral-gables-apartment-project/",
-      "section": "traded",
+      "headline": "Billionaire residents of NYC’s famed Pierre remain in the dark after contested $2B sale collapsed",
+      "summary": "A previously reported $182 million repair estimate hangs over the famed hotel and co-op as negotiations with Taj leave shareholders’ potential costs unresolved.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/20/real-estate/nycs-pierre-faces-repair-questions-after-2b-sale-collapses/",
+      "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-10-16T00:00:00.000Z"
+      "published_at": "2026-10-20T21:41:56.000Z"
+    },
+    {
+      "headline": "Kinsmen, SK Development, sign $163.5M construction loan with Arc70 for 184-unit proposal in East Village",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/kinsmen-sk-development-sign-163-5m-construction-loan-with-arc70-for-184-unit-proposal-in-east-village/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-10-21T04:57:00.000Z"
+    },
+    {
+      "headline": "Naftali Group signs $334M construction loan with Chase for 218-unit condo project in Williamsburg",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/naftali-group-signs-334m-construction-loan-with-chase-for-218-unit-condo-project-in-williamsburg/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-10-21T04:44:00.000Z"
     },
     {
       "headline": "This New Loan Is Bringing Investors to Abandoned Towns",
@@ -285,13 +267,40 @@
       "published_at": "2026-10-14T13:55:00.000Z"
     },
     {
-      "headline": "Upper East Side Church Site Becomes 20-Story, 60-Unit Condo Tower With Private Garage",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "headline": "America’s densest apartment development with 4,000 units and skyscraping heights may rise along NYC’s waterfront",
+      "summary": "A nine-story city office building at 100 Gold St. in Manhattan's Financial District stands to be demolished and replaced with a massive-scale development.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/19/real-estate/nyc-development-aims-to-bring-4000-homes-to-fidi/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-10-19T18:00:25.000Z"
+    },
+    {
+      "headline": "This Shaker-Inspired Office Embodies Work-Life Balance",
+      "summary": "The Los Angeles designers Elora Joshi and Andrew Greene created their dream work space by pairing vintage artifacts with modern upgrades.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/10/21/realestate/this-shaker-inspired-office-embodies-work-life-balance.html",
+      "section": "the_new_york_times",
+      "retail": false,
+      "published_at": "2026-10-21T12:24:47.000Z"
+    },
+    {
+      "headline": "Simi Capital Enters Texas With 359,000-Square-Foot Houston Industrial Acquisition",
+      "summary": "Simi Capital and Decker Capital acquired a three-property industrial portfolio in northwest Houston and Katy totaling ap…",
       "source": "Traded",
-      "url": "https://traded.co/blog/upper-east-side-church-site-becomes-20-story-60-unit-condo-tower-with-private-garage/",
+      "url": "https://traded.co/blog/simi-capital-enters-texas-with-359-000-square-foot-houston-industrial-acquisition/",
       "section": "traded",
       "retail": false,
-      "published_at": "2026-10-19T00:00:00.000Z"
+      "published_at": "2026-10-20T00:00:00.000Z"
+    },
+    {
+      "headline": "Construction Begins on 362-Unit Apartment Project at SeaFlower in Bradenton",
+      "summary": "Construction is underway on The Fields at SeaFlower, a 362-unit apartment community at 7840 Sea Lily Drive, Bradenton, F…",
+      "source": "Traded",
+      "url": "https://traded.co/blog/construction-begins-on-362-unit-apartment-project-at-seaflower-in-bradenton/",
+      "section": "traded",
+      "retail": false,
+      "published_at": "2026-10-20T00:00:00.000Z"
     },
     {
       "headline": "A New Type of Mortgage Is Reviving Long Abandoned Neighborhoods",
@@ -303,15 +312,6 @@
       "published_at": "2026-10-12T01:00:00.000Z"
     },
     {
-      "headline": "Soaring Financing Costs Threaten Commercial Real-Estate Deals",
-      "summary": "Plus, senior housing’s comeback is under way with latest billion dollar deal.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/real-estate/soaring-financing-costs-threaten-commercial-real-estate-deals-b5f0c7cc?mod=LatestNewsRealEstate",
-      "section": "the_wall_street_journal",
-      "retail": false,
-      "published_at": "2026-10-07T14:00:00.000Z"
-    },
-    {
       "headline": "The Holdouts Working Around New York City’s Airbnb Crackdown",
       "summary": "A crackdown on short-term rentals drastically reduced the business. Here’s how the hangers-on are making it work.",
       "source": "The Wall Street Journal",
@@ -321,22 +321,13 @@
       "published_at": "2026-10-17T11:00:00.000Z"
     },
     {
-      "headline": "Homeownership Drifts Further Out of Reach as Mortgage Rates Rise",
-      "summary": "Mortgage rates have pushed above 7 percent and home prices remain elevated, hurting the prospects of would-be buyers.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/15/business/economy/housing-market-mortgage-rates.html",
-      "section": "the_new_york_times",
+      "headline": "Stagnant Housing Market? Not for Luxury Homes",
+      "summary": "And, real-estate giant CBRE is acquiring a company that equips data centers in a $1 billion deal.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/real-estate/stagnant-housing-market-not-for-luxury-homes-779f3746?mod=LatestNewsRealEstate",
+      "section": "the_wall_street_journal",
       "retail": false,
-      "published_at": "2026-10-15T18:12:20.000Z"
-    },
-    {
-      "headline": "Mortgage Rates Hover at 7.4%, Highest Since 2023",
-      "summary": "The average 30-year, fixed-rate mortgage has steadily risen in recent weeks, compounding affordability challenges for many Americans.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/15/business/economy/mortgage-rates-home-buying.html",
-      "section": "the_new_york_times",
-      "retail": false,
-      "published_at": "2026-10-15T16:09:19.000Z"
+      "published_at": "2026-10-21T14:00:00.000Z"
     }
   ]
 }
