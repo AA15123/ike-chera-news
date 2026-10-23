@@ -1,19 +1,28 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-10-22",
-  "generated_at": "2026-10-22T15:01:20.413Z",
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T14:53:19.369Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. **WSJ** is the Dow Jones real-estate feed with lifestyle and opinion dropped. **The New York Times** keeps real-estate and property stories only. **Traded** is commercial deal briefs from its news listing. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Snowflake Spa to Open New Location at 619 Ninth Avenue in Hell’s Kitchen: It’s giving self-care vibes. Snowflake Spa , a massage therapy and wellness provider, is getting ready to open another location in Manhattan’s Hell’s Kitchen neighborhood at 619 Ninth Avenue .\n\nPNC Bank Inks 4K-SF Retail Lease at 312 West 43rd Street: Residents at the Ellery , a mixed-use residential development in Manhattan’s Hell’s Kitchen neighborhood, are getting another retailer at the base of their 33-story home. PNC Bank has signed a 3,500-square-foot retail lease at the base of the property at 312 West 43rd Street , according to co-developers and co-owners.\n\nAT&T Renews 7K-SF Lease at Rudin’s 3 Times Square: Home is where the heart is, and telecommunications giant AT&T is quite at home in the heart of Times Square . The wireless carrier has renewed and extended its lease at Rudin ’s 3 Times Square for another five years, Commercial Observer has learned.\n\nMexican Eatery Casa Carmen to Open Third Manhattan Location: Mexican restaurant Casa Carmen is opening its third Manhattan location in Midtown East, Commercial Observer has learned. The restaurant concept started by chef Carmen “Titita” Ramírez Degollado signed a 15-year, 6,917-square-foot lease to serve up traditional Mexican cuisine at Sage ’s 437 Madison Avenue , according.",
-    "cre_daily": "Hines Says Retail Recovery Is an Income and Scarcity Call: Hines Research says retail pricing has recovered across open-air centers and enclosed malls in the U.S. and Europe, while lagging Asian markets could offer opportunity.\n\nMark IV Breaks Ground on 41,500 SF Round Rock Retail Plaza: Mark IV Capital broke ground in October on a 41,521 SF plaza at The District in Round Rock, with six single-story buildings and room for nine to 14 restaurant and lifestyle tenants.\n\nRetail Vacancy Falls to 4.3% as Q3 Absorption Hits 10.5M SF: National retail vacancy fell 10 basis points to 4.3% in Q3, while shopping center vacancy slipped to 5.4% and mall vacancy dropped 30 basis points to 8.2%. Leasing totaled 38.4M SF and net absorption hit 10.5M SF, led by general retail at 5.4M SF, with shopping centers at 3.0M SF and malls at 1.9M SF.\n\nSouthern California Retail Vacancy Falls to 6.15% in Q3: Retail tenants absorbed about 757,600 SF across Los Angeles and Orange counties and the Inland Empire in Q3 2026, while overall vacancy dropped 12 basis points to 6.15%. Orange County vacancy fell 25 basis points to a five-year low of 3.55% with rents up 3% to $2.65 per SF, while the Inland Empire led absorption at.",
-    "new_york_post": "Soho retail going strong with Fujifilm deal for 210 Lafayette St.: Fujifilm has signed a lease at Comjen Associates’ 210 Lafayette St., where it will occupy 12,700 square feet on three levels.\n\nSan Francisco’s doomed mall probed as future data center: The firm told the City of San Francisco that it is working with an unidentified partner who is interested in the 350,000-square-foot portion of the mall that was once home to a Bloomingdale's.\n\nTrattoria Dell’Arte, Fiorello’s and Bond 45 to get second life thanks to Tilman Fertitta deal: Restaurant giant Landry’s Inc., owned by Texas mega-billionaire Tilman Fertitta, is taking over bankrupt Fireman Hospitality Group’s three most successful restaurants as part of a $22 million purchase with a third company, Ciao Hospitality Group.\n\nBillionaire residents of NYC’s famed Pierre remain in the dark after contested $2B sale collapsed: A previously reported $182 million repair estimate hangs over the famed hotel and co-op as negotiations with Taj leave shareholders’ potential costs unresolved.",
-    "pincusco": "Kinsmen, SK Development, sign $163.5M construction loan with Arc70 for 184-unit proposal in East Village.\n\nRevamp NYC files plans for 99 units in Financial District.\n\nSugar Hill Capital signs $67.25M refi with CPC for 392-unit portfolio in Manhattan, Brooklyn.\n\nSLG files plans for 346 Madison office building in Grand Central.",
-    "the_new_york_times": "This Shaker-Inspired Office Embodies Work-Life Balance: The Los Angeles designers Elora Joshi and Andrew Greene created their dream work space by pairing vintage artifacts with modern upgrades.",
-    "the_wall_street_journal": "This New Loan Is Bringing Investors to Abandoned Towns: Plus, the developer of a $10 billion real-estate project is asking its condo buyers for money.\n\nA New Type of Mortgage Is Reviving Long Abandoned Neighborhoods: The loan—based on potential rental income, not the borrower’s wealth—is helping real-estate investors buy and renovate homes.\n\nThe Holdouts Working Around New York City’s Airbnb Crackdown: A crackdown on short-term rentals drastically reduced the business. Here’s how the hangers-on are making it work.\n\nStagnant Housing Market? Not for Luxury Homes: And, real-estate giant CBRE is acquiring a company that equips data centers in a $1 billion deal.",
-    "traded": "OPEN Impact Real Estate and JLL to Lead Leasing at Bronx’s Historic BankNote Building: OPEN Impact Real Estate and JLL will lead leasing at the 405,000-square-foot BankNote Building in the Bronx, where 100,0."
+    "commercial_observer": "Italian Kitchen Manufacturer Officine Gullo to Open Store at 95 Madison Avenue: Hey now, hey now , these kitchens are what dreams are made of. Italy’s Officine Gullo , a manufacturer of luxury commercial and residential kitchens, has taken 3,200 square feet of ground-floor retail space at Sunlight Development ’s 95 Madison Avenue in Manhattan’s NoMad neighborhood, Commercial Observer has learned.\n\nSnowflake Spa to Open New Location at 619 Ninth Avenue in Hell’s Kitchen: It’s giving self-care vibes. Snowflake Spa , a massage therapy and wellness provider, is getting ready to open another location in Manhattan’s Hell’s Kitchen neighborhood at 619 Ninth Avenue .\n\nPNC Bank Inks 4K-SF Retail Lease at 312 West 43rd Street: Residents at the Ellery , a mixed-use residential development in Manhattan’s Hell’s Kitchen neighborhood, are getting another retailer at the base of their 33-story home. PNC Bank has signed a 3,500-square-foot retail lease at the base of the property at 312 West 43rd Street , according to co-developers and co-owners.\n\nAT&T Renews 7K-SF Lease at Rudin’s 3 Times Square: Home is where the heart is, and telecommunications giant AT&T is quite at home in the heart of Times Square . The wireless carrier has renewed and extended its lease at Rudin ’s 3 Times Square for another five years, Commercial Observer has learned.",
+    "cre_daily": "Hines Says Retail Recovery Is an Income and Scarcity Call: Hines Research says retail pricing has recovered across open-air centers and enclosed malls in the U.S. and Europe, while lagging Asian markets could offer opportunity.\n\nMark IV Breaks Ground on 41,500 SF Round Rock Retail Plaza: Mark IV Capital broke ground in October on a 41,521 SF plaza at The District in Round Rock, with six single-story buildings and room for nine to 14 restaurant and lifestyle tenants.\n\nPSP and Nuveen Launch $790M Grocery-Anchored Retail JV: PSP Investments and Nuveen Real Estate launched a joint venture with an initial $790M to buy open-air shopping centers anchored by grocers, necessity retailers and essential services.\n\nRetail Vacancy Falls to 4.3% as Q3 Absorption Hits 10.5M SF: National retail vacancy fell 10 basis points to 4.3% in Q3, while shopping center vacancy slipped to 5.4% and mall vacancy dropped 30 basis points to 8.2%. Leasing totaled 38.4M SF and net absorption hit 10.5M SF, led by general retail at 5.4M SF, with shopping centers at 3.0M SF and malls at 1.9M SF.",
+    "new_york_post": "A $100K income can rent 2,200 square feet in famed Southern city — and a fraction of that in New York: A new Zillow analysis finds households earning $100,000 can afford 77% of US rental listings, as housing costs vary sharply across major cities.\n\nTrattoria Dell’Arte, Fiorello’s and Bond 45 to get second life thanks to Tilman Fertitta deal: Restaurant giant Landry’s Inc., owned by Texas mega-billionaire Tilman Fertitta, is taking over bankrupt Fireman Hospitality Group’s three most successful restaurants as part of a $22 million purchase with a third company, Ciao Hospitality Group.\n\nBillionaire residents of NYC’s famed Pierre remain in the dark after contested $2B sale collapsed: A previously reported $182 million repair estimate hangs over the famed hotel and co-op as negotiations with Taj leave shareholders’ potential costs unresolved.",
+    "pincusco": "Akram Saeidi pays $2.5M for retail in West Farms.\n\nSolomon Kafif, Avner Levy pay $6.4M for retail in Mt Eden.\n\nIcon Realty Management signs $48.5M refi loan with Santander Bank for hotel in Chelsea.\n\nGjovan Rroku signs $16.2M construction loan with NorthEast Community for dev site in Concourse Village.",
+    "the_new_york_times": "This Shaker-Inspired Office Embodies Work-Life Balance: The Los Angeles designers Elora Joshi and Andrew Greene created their dream work space by pairing vintage artifacts with modern upgrades.\n\nMortgage Rates Remain Above 7%, Pushing Home Prices Lower in Some Areas: The 30-year, fixed-rate mortgage dropped slightly to 7.32 percent as prospective home buyers continue to struggle with affordability. But home prices are starting to drop in some areas.",
+    "the_wall_street_journal": "A New Type of Mortgage Is Reviving Long Abandoned Neighborhoods: The loan—based on potential rental income, not the borrower’s wealth—is helping real-estate investors buy and renovate homes.\n\nThe Holdouts Working Around New York City’s Airbnb Crackdown: A crackdown on short-term rentals drastically reduced the business. Here’s how the hangers-on are making it work.\n\nStagnant Housing Market? Not for Luxury Homes: And, real-estate giant CBRE is acquiring a company that equips data centers in a $1 billion deal.\n\nAmerica’s New Housing Market Is All About Luxury—and It Runs on Cash: Surging mortgage rates are sending many buyers to the sidelines, while affluent shoppers are driving overall prices higher with big cash purchases.",
+    "traded": "Boraie Development Breaks Ground on $320M Canal Crossing Project in Jersey City.\n\nCovina Begins Construction on Six-Story Affordable Senior Housing Project: Sixty affordable apartments for seniors aged 62 and older are under construction at 233 N. Second Avenue in Covina, with.\n\nOakland Project Grows From 73 to 334 Units With New 20-Story Tower: A proposal for 334 residential units at 3403 Piedmont Avenue in Oakland includes a new 20-story tower and conversion of.\n\nFormer Hoboken Public Works Garage Site Tops Out as 345-Unit Urby Tower: Hoboken Urby, a 16-story building at 256 Observer Highway, will provide 345 rental apartments, 38 of which are affordabl."
   },
   "items": [
+    {
+      "headline": "Italian Kitchen Manufacturer Officine Gullo to Open Store at 95 Madison Avenue",
+      "summary": "Hey now, hey now , these kitchens are what dreams are made of. Italy’s Officine Gullo , a manufacturer of luxury commercial and residential kitchens, has taken 3,200 square feet of ground-floor retail space at Sunlight Development ’s 95 Madison Avenue in Manhattan’s NoMad neighborhood, Commercial Observer has learned. The 10-year lease represents Officine Gullo’s new flagship space in New York City.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/10/officine-gullo-lease-store-95-madison-avenue/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-10-22T20:17:56.000Z"
+    },
     {
       "headline": "Snowflake Spa to Open New Location at 619 Ninth Avenue in Hell’s Kitchen",
       "summary": "It’s giving self-care vibes. Snowflake Spa , a massage therapy and wellness provider, is getting ready to open another location in Manhattan’s Hell’s Kitchen neighborhood at 619 Ninth Avenue . The tenant inked a 10-year, 2,200-square-foot lease for ground-floor and basement retail space at the mixed-use property, tenant broker Lee & Associates NYC announced Wednesday.…",
@@ -60,6 +69,15 @@
       "published_at": "2026-10-16T16:26:36.000Z"
     },
     {
+      "headline": "Carnegie Diner & Cafe Operator to Open New Restaurant at 7 Penn Plaza",
+      "summary": "Carnegie Hospitality is opening its next Carnegie Diner & Cafe in Manhattan’s Penn District. The restaurateur signed on the dotted line last month to take over fast-casual chain Smashburger ’s lease at the Feil Organization ’s 7 Penn Plaza , Commercial Observer has learned. The tri-party deal included a 10-year lease extension for the 5,609-square-foot retail space at the corner of Seventh Avenue and West 31st Street.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/10/carnegie-diner-lease-7-penn-plaza-feil-organization/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-10-22T20:36:26.000Z"
+    },
+    {
       "headline": "Mexican Eatery Casa Carmen to Open Third Manhattan Location",
       "summary": "Mexican restaurant Casa Carmen is opening its third Manhattan location in Midtown East, Commercial Observer has learned. The restaurant concept started by chef Carmen “Titita” Ramírez Degollado signed a 15-year, 6,917-square-foot lease to serve up traditional Mexican cuisine at Sage ’s 437 Madison Avenue , according to tenant broker Retail by MONA as well as the landlord . Asking rent for the space was $200 per square foot, according to Retail by MONA.…",
       "source": "Commercial Observer",
@@ -67,6 +85,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-10-21T18:10:21.000Z"
+    },
+    {
+      "headline": "PSP and Nuveen Launch $790M Grocery-Anchored Retail JV",
+      "summary": "PSP Investments and Nuveen Real Estate launched a joint venture with an initial $790M to buy open-air shopping centers anchored by grocers, necessity retailers and essential services. The partners have closed about 3M SF across 19 properties in eight states, including two portfolios of six centers (801,000 SF) and 11 properties (1.9M SF). PSP says it is narrowing U.S. retail exposure to grocery-anchored centers that deliver inflation-linked income, a bet on daily-needs tenants and high-barrier metros.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/psp-and-nuveen-launch-790m-grocery-anchored-retail-jv/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-10-22T17:01:08.000Z"
     },
     {
       "headline": "Retail Vacancy Falls to 4.3% as Q3 Absorption Hits 10.5M SF",
@@ -78,13 +105,13 @@
       "published_at": "2026-10-13T16:30:55.000Z"
     },
     {
-      "headline": "TJ Maxx Signs 29K-SF Deal to Replace H&M at 150 East 86th Street",
-      "summary": "Discount department store T.J. Maxx is replacing H&M in a busy retail spread on Manhattan’s Upper East Side, Commercial Observer has learned. T.J. Maxx has signed a lease for 28,837 square feet at Extell Development ’s retail condominium unit at 150 East 86th Street , according to a source close to the deal and a third-quarter Manhattan retail report from CBRE .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/tj-maxx-lease-150-east-86th-street/",
-      "section": "commercial_observer",
+      "headline": "Retail Starts Hit a 10-Year Low as Pipeline Falls to 58.3M SF",
+      "summary": "CoStar says 58.3M SF of retail was under construction in Q3, down from 60.6M SF in Q2 and 63.3M SF in Q1, roughly 4% under the 10-year average of 60.7M SF. New starts totaled about 7.7M SF, down from 10.7M SF in Q2 and the lowest quarterly figure since at least 2016, as elevated land, construction and borrowing costs strain feasibility. Dallas-Fort Worth, Houston and Austin hold nearly 27% of the national pipeline, and CoStar expects further shrinkage before any meaningful recovery.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/retail-starts-hit-a-10-year-low-as-pipeline-falls-to-58-3m-sf/",
+      "section": "cre_daily",
       "retail": true,
-      "published_at": "2026-10-08T15:52:06.000Z"
+      "published_at": "2026-10-22T17:07:28.000Z"
     },
     {
       "headline": "Southern California Retail Vacancy Falls to 6.15% in Q3",
@@ -114,15 +141,6 @@
       "published_at": "2026-10-13T20:52:41.000Z"
     },
     {
-      "headline": "Soho retail going strong with Fujifilm deal for 210 Lafayette St.",
-      "summary": "Fujifilm has signed a lease at Comjen Associates’ 210 Lafayette St., where it will occupy 12,700 square feet on three levels.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/10/18/business/soho-retail-going-strong-with-fujifilm-deal-for-210-lafayette-st/",
-      "section": "new_york_post",
-      "retail": true,
-      "published_at": "2026-10-18T18:38:22.000Z"
-    },
-    {
       "headline": "Eyewear Brand Gentle Monster Takes 29K SF at Kushner’s Puck Building",
       "summary": "A luxury eyewear brand has its sights set on one of SoHo’s most high-profile retail vacancies. South Korean eyewear brand Gentle Monster has inked a 28,500-square-foot deal at the Kushner Companies ’ Puck Building , Commercial Observer has learned. The lease term is more than 10 years, according to a source with knowledge of the deal.…",
       "source": "Commercial Observer",
@@ -130,33 +148,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-10-13T19:26:39.000Z"
-    },
-    {
-      "headline": "Miami Retail Pipeline Hits 1.3M SF, Highest Since Early 2023",
-      "summary": "Miami-Dade’s retail pipeline reached 1.3M SF in the third quarter, double last year’s level, as developers gain confidence in a market with 3% direct vacancy. Leasing slowed to 257K SF across 118 deals from 413K SF across 150 deals in Q2, and absorption turned negative, yet triple-net asking rents set a record $44.34 per SF. Heavy preleasing is letting developers underwrite new projects, but vacancy below 3% in core submarkets means tenants must stay flexible to find space.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/miami-retail-pipeline-hits-1-3m-sf-highest-since-early-2023/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-10-12T15:41:44.000Z"
-    },
-    {
-      "headline": "Charter School Inks 56K-SF Lease in Retail Center Near Miami Suburb",
-      "summary": "Charter school network BridgePrep Academy will open another location, this time inside a shopping center in Miami-Dade County. The school operator, which has 19 locations across Florida, signed a 56,000-square-foot lease at the open-air California Club Shopping Center in Ives Estates, near Aventura, 15 miles north of Downtown Miami. The 273,050-square-foot property, owned by RK Centers , sits west of Interstate 95 at 750 Ives Dairy Road .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/bridgeprep-academy-california-club-shopping-center/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-10-09T20:50:00.000Z"
-    },
-    {
-      "headline": "Luxury Spending Falls 6%, Raising Risks for High-End Retail",
-      "summary": "Citi says U.S. luxury credit card spending fell 6% year over year in September, after 4% declines in both July and August, challenging a source of strength for luxury retail. Higher earners drive demand: Moody’s Analytics found households earning about $250,000 or more account for 49.7% of consumer spending, up from roughly 36% three decades earlier. The data does not show falling rents or occupancy yet, but landlords with luxury tenants have reason to watch tenant performance as consumer confidence weakens.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/luxury-spending-falls-6-raising-risks-for-high-end-retail/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-10-08T16:43:20.000Z"
     },
     {
       "headline": "Japanese Restaurant Udon Shin to Open First NYC Spot at 37 West 17th Street",
@@ -177,13 +168,22 @@
       "published_at": "2026-10-14T15:47:27.000Z"
     },
     {
-      "headline": "Designer Indecor Home Inks 17K-SF Lease at GFP’s 247 West 37th Street",
-      "summary": "Home is where the decor is. Indecor Home , a designer and manufacturer of bath accessories, shower curtains, rugs and other textiles, has taken 16,806 square feet of office and showroom space across the entire fifth floor of GFP Real Estate ’s 247 West 37th Street in Manhattan’s Garment District, the landlord announced Wednesday. The tenant will relocate from 240 Madison Avenue and use its new space as executive, sales and design offices, as well as a home products showroom. The length of the lease was 10 years.…",
+      "headline": "IT Firm Mphasis Expands by 14K SF at Rudin’s 41 Madison Avenue",
+      "summary": "Blackstone -backed information technology firm Mphasis has more than doubled its office footprint at 41 Madison Avenue to 27,709 square feet, and tacked on another decade to its tenure. The deal adds 14,151 square feet to Mphasis’ footprint at Rudin ’s office tower northeast of Madison Square Park , according to the landlord. Mphasis, headquartered in Bengaluru, India, will expand its New York City office onto the building’s entire 36th floor, while continuing to occupy the 35th floor below.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/indecor-home-lease-gfp-247-west-37th-street/",
+      "url": "https://commercialobserver.com/2026/10/mphasis-lease-expansion-rudin-41-madison-avenue/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-10-21T17:29:54.000Z"
+      "published_at": "2026-10-22T18:27:05.000Z"
+    },
+    {
+      "headline": "Nonprofit Pursuit Transformation Inks 41K-SF Lease at LIC’s the Jacx",
+      "summary": "Pursuit Transformation , a nonprofit company that trains adults in tech careers, has signed a 41,000-square-foot lease to relocate its New York City headquarters to Tishman Speyer ’s the Jacx , a 700,000-square-foot office development on Jackson Avenue in Long Island City, Queens, according to tenant broker Newmark .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/10/pursuit-transformation-lease-lic-jacx/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-10-22T17:17:36.000Z"
     },
     {
       "headline": "Brooklyn Powerhouse Sports to Open 11K-SF Facility in Sunset Park",
@@ -195,13 +195,31 @@
       "published_at": "2026-10-20T19:03:48.000Z"
     },
     {
-      "headline": "San Francisco’s doomed mall probed as future data center",
-      "summary": "The firm told the City of San Francisco that it is working with an unidentified partner who is interested in the 350,000-square-foot portion of the mall that was once home to a Bloomingdale's.",
+      "headline": "A $100K income can rent 2,200 square feet in famed Southern city — and a fraction of that in New York",
+      "summary": "A new Zillow analysis finds households earning $100,000 can afford 77% of US rental listings, as housing costs vary sharply across major cities.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/10/19/real-estate/closed-san-francisco-mall-could-become-massive-ai-data-center/",
+      "url": "https://nypost.com/2026/10/22/real-estate/what-a-100k-salary-can-rent-in-nyc-vs-other-us-cities/",
       "section": "new_york_post",
       "retail": true,
-      "published_at": "2026-10-19T22:23:18.000Z"
+      "published_at": "2026-10-22T16:50:38.000Z"
+    },
+    {
+      "headline": "Akram Saeidi pays $2.5M for retail in West Farms",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/akram-saeidi-pays-2-5m-for-retail-in-west-farms/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-10-23T07:44:00.000Z"
+    },
+    {
+      "headline": "Solomon Kafif, Avner Levy pay $6.4M for retail in Mt Eden",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/solomon-kafif-avner-levy-pay-6-4m-for-retail-in-mt-eden/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-10-23T07:20:00.000Z"
     },
     {
       "headline": "Trattoria Dell’Arte, Fiorello’s and Bond 45 to get second life thanks to Tilman Fertitta deal",
@@ -222,67 +240,67 @@
       "published_at": "2026-10-20T21:41:56.000Z"
     },
     {
-      "headline": "Kinsmen, SK Development, sign $163.5M construction loan with Arc70 for 184-unit proposal in East Village",
+      "headline": "Icon Realty Management signs $48.5M refi loan with Santander Bank for hotel in Chelsea",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/kinsmen-sk-development-sign-163-5m-construction-loan-with-arc70-for-184-unit-proposal-in-east-village/",
+      "url": "https://www.pincusco.com/icon-realty-management-signs-48-5m-refi-loan-with-santander-bank-for-hotel-in-chelsea/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-10-21T04:57:00.000Z"
+      "published_at": "2026-10-23T07:47:00.000Z"
     },
     {
-      "headline": "This New Loan Is Bringing Investors to Abandoned Towns",
-      "summary": "Plus, the developer of a $10 billion real-estate project is asking its condo buyers for money.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/real-estate/this-new-loan-is-bringing-investors-to-abandoned-towns-a12c957b?mod=LatestNewsRealEstate",
-      "section": "the_wall_street_journal",
-      "retail": false,
-      "published_at": "2026-10-14T13:55:00.000Z"
-    },
-    {
-      "headline": "Revamp NYC files plans for 99 units in Financial District",
+      "headline": "Gjovan Rroku signs $16.2M construction loan with NorthEast Community for dev site in Concourse Village",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/revamp-nyc-files-plans-for-99-units-in-financial-district/",
+      "url": "https://www.pincusco.com/gjovan-rroku-signs-16-2m-construction-loan-with-northeast-community-for-industrial-in-concourse-village/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-10-22T08:42:00.000Z"
+      "published_at": "2026-10-23T07:31:00.000Z"
     },
     {
-      "headline": "Sugar Hill Capital signs $67.25M refi with CPC for 392-unit portfolio in Manhattan, Brooklyn",
+      "headline": "Peter J. Pappas Jr. signs $27M refi with Ellington Management for office in Chelsea",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/sugar-hill-capital-signs-67-25m-refi-with-cpc-for-392-unit-portfolio-in-manhattan-brooklyn/",
+      "url": "https://www.pincusco.com/peter-j-pappas-jr-signs-27m-refi-with-ellington-management-for-office-in-chelsea/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-10-22T07:23:00.000Z"
+      "published_at": "2026-10-23T07:25:00.000Z"
     },
     {
-      "headline": "America’s densest apartment development with 4,000 units and skyscraping heights may rise along NYC’s waterfront",
-      "summary": "A nine-story city office building at 100 Gold St. in Manhattan's Financial District stands to be demolished and replaced with a massive-scale development.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/10/19/real-estate/nyc-development-aims-to-bring-4000-homes-to-fidi/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-10-19T18:00:25.000Z"
-    },
-    {
-      "headline": "SLG files plans for 346 Madison office building in Grand Central",
+      "headline": "Boraie Development Breaks Ground on $320M Canal Crossing Project in Jersey City",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/slg-files-plans-for-346-madison-office-building-in-grand-central/",
-      "section": "pincusco",
+      "source": "Traded",
+      "url": "https://traded.co/blog/boraie-development-breaks-ground-on-320m-canal-crossing-project-in-jersey-city/",
+      "section": "traded",
       "retail": false,
-      "published_at": "2026-10-22T07:54:00.000Z"
+      "published_at": "2026-10-22T00:00:00.000Z"
     },
     {
-      "headline": "Hiwin Group USA pays $10.6M for air rights for Midtown West project",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/hiwin-group-usa-pays-10-6m-for-air-rights-for-midtown-west-project/",
-      "section": "pincusco",
+      "headline": "Covina Begins Construction on Six-Story Affordable Senior Housing Project",
+      "summary": "Sixty affordable apartments for seniors aged 62 and older are under construction at 233 N. Second Avenue in Covina, with…",
+      "source": "Traded",
+      "url": "https://traded.co/blog/covina-begins-construction-on-six-story-affordable-senior-housing-project/",
+      "section": "traded",
       "retail": false,
-      "published_at": "2026-10-22T06:59:00.000Z"
+      "published_at": "2026-10-22T00:00:00.000Z"
+    },
+    {
+      "headline": "Oakland Project Grows From 73 to 334 Units With New 20-Story Tower",
+      "summary": "A proposal for 334 residential units at 3403 Piedmont Avenue in Oakland includes a new 20-story tower and conversion of…",
+      "source": "Traded",
+      "url": "https://traded.co/blog/oakland-project-grows-from-73-to-334-units-with-new-20-story-tower/",
+      "section": "traded",
+      "retail": false,
+      "published_at": "2026-10-22T00:00:00.000Z"
+    },
+    {
+      "headline": "Former Hoboken Public Works Garage Site Tops Out as 345-Unit Urby Tower",
+      "summary": "Hoboken Urby, a 16-story building at 256 Observer Highway, will provide 345 rental apartments, 38 of which are affordabl…",
+      "source": "Traded",
+      "url": "https://traded.co/blog/former-hoboken-public-works-garage-site-tops-out-as-345-unit-urby-tower/",
+      "section": "traded",
+      "retail": false,
+      "published_at": "2026-10-22T00:00:00.000Z"
     },
     {
       "headline": "This Shaker-Inspired Office Embodies Work-Life Balance",
@@ -303,15 +321,6 @@
       "published_at": "2026-10-12T01:00:00.000Z"
     },
     {
-      "headline": "OPEN Impact Real Estate and JLL to Lead Leasing at Bronx’s Historic BankNote Building",
-      "summary": "OPEN Impact Real Estate and JLL will lead leasing at the 405,000-square-foot BankNote Building in the Bronx, where 100,0…",
-      "source": "Traded",
-      "url": "https://traded.co/blog/open-impact-real-estate-and-jll-to-lead-leasing-at-bronx-s-historic-banknote-building/",
-      "section": "traded",
-      "retail": false,
-      "published_at": "2026-10-21T00:00:00.000Z"
-    },
-    {
       "headline": "The Holdouts Working Around New York City’s Airbnb Crackdown",
       "summary": "A crackdown on short-term rentals drastically reduced the business. Here’s how the hangers-on are making it work.",
       "source": "The Wall Street Journal",
@@ -321,6 +330,15 @@
       "published_at": "2026-10-17T11:00:00.000Z"
     },
     {
+      "headline": "Mortgage Rates Remain Above 7%, Pushing Home Prices Lower in Some Areas",
+      "summary": "The 30-year, fixed-rate mortgage dropped slightly to 7.32 percent as prospective home buyers continue to struggle with affordability. But home prices are starting to drop in some areas.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/10/22/business/mortgage-rates-housing-costs.html",
+      "section": "the_new_york_times",
+      "retail": false,
+      "published_at": "2026-10-22T19:18:58.000Z"
+    },
+    {
       "headline": "Stagnant Housing Market? Not for Luxury Homes",
       "summary": "And, real-estate giant CBRE is acquiring a company that equips data centers in a $1 billion deal.",
       "source": "The Wall Street Journal",
@@ -328,6 +346,15 @@
       "section": "the_wall_street_journal",
       "retail": false,
       "published_at": "2026-10-21T14:00:00.000Z"
+    },
+    {
+      "headline": "America’s New Housing Market Is All About Luxury—and It Runs on Cash",
+      "summary": "Surging mortgage rates are sending many buyers to the sidelines, while affluent shoppers are driving overall prices higher with big cash purchases.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/economy/housing/americas-new-housing-market-is-all-about-luxuryand-it-runs-on-cash-8a5fcb8e?mod=LatestNewsRealEstate",
+      "section": "the_wall_street_journal",
+      "retail": false,
+      "published_at": "2026-10-19T09:30:00.000Z"
     }
   ]
 }
