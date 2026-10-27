@@ -1,17 +1,17 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T16:42:27.995Z",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T15:49:15.881Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. **WSJ** is the Dow Jones real-estate feed with lifestyle and opinion dropped. **The New York Times** keeps real-estate and property stories only. **Traded** is commercial deal briefs from its news listing. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Italian Kitchen Manufacturer Officine Gullo to Open Store at 95 Madison Avenue: Hey now, hey now , these kitchens are what dreams are made of. Italy’s Officine Gullo , a manufacturer of luxury commercial and residential kitchens, has taken 3,200 square feet of ground-floor retail space at Sunlight Development ’s 95 Madison Avenue in Manhattan’s NoMad neighborhood, Commercial Observer has learned.\n\nSnowflake Spa to Open New Location at 619 Ninth Avenue in Hell’s Kitchen: It’s giving self-care vibes. Snowflake Spa , a massage therapy and wellness provider, is getting ready to open another location in Manhattan’s Hell’s Kitchen neighborhood at 619 Ninth Avenue .\n\nPNC Bank Inks 4K-SF Retail Lease at 312 West 43rd Street: Residents at the Ellery , a mixed-use residential development in Manhattan’s Hell’s Kitchen neighborhood, are getting another retailer at the base of their 33-story home. PNC Bank has signed a 3,500-square-foot retail lease at the base of the property at 312 West 43rd Street , according to co-developers and co-owners.\n\nAT&T Renews 7K-SF Lease at Rudin’s 3 Times Square: Home is where the heart is, and telecommunications giant AT&T is quite at home in the heart of Times Square . The wireless carrier has renewed and extended its lease at Rudin ’s 3 Times Square for another five years, Commercial Observer has learned.",
+    "commercial_observer": "Italian Kitchen Manufacturer Officine Gullo to Open Store at 95 Madison Avenue: Hey now, hey now , these kitchens are what dreams are made of. Italy’s Officine Gullo , a manufacturer of luxury commercial and residential kitchens, has taken 3,200 square feet of ground-floor retail space at Sunlight Development ’s 95 Madison Avenue in Manhattan’s NoMad neighborhood, Commercial Observer has learned.\n\nSnowflake Spa to Open New Location at 619 Ninth Avenue in Hell’s Kitchen: It’s giving self-care vibes. Snowflake Spa , a massage therapy and wellness provider, is getting ready to open another location in Manhattan’s Hell’s Kitchen neighborhood at 619 Ninth Avenue .\n\nPNC Bank Inks 4K-SF Retail Lease at 312 West 43rd Street: Residents at the Ellery , a mixed-use residential development in Manhattan’s Hell’s Kitchen neighborhood, are getting another retailer at the base of their 33-story home. PNC Bank has signed a 3,500-square-foot retail lease at the base of the property at 312 West 43rd Street , according to co-developers and co-owners.\n\nBarings Buys SoCal Grocery-Anchored Shopping Center for $66M: Investment management firm Barings has put down $66.2 million to acquire a fully leased grocery-anchored shopping center in Orange County, Calif. First Washington Realty sold the Village Center at Rose , a 118,876-square-foot retail property at 600-858 North Rose Drive in Placentia, Calif., CBRE announced Monday.",
     "cre_daily": "Institutions Turn to JVs for Grocery-Anchored Retail: Institutional investors are using joint ventures to gain exposure to retail, especially grocery-anchored centers, citing supply-and-demand fundamentals and long-term income growth.\n\nGrocery-Anchored Retail Premium Hinges on Store and Lease: Grocery-anchored retail is among the most competitive investment niches, with 2025 transaction volume near $11B and cap rates averaging 6.7%, but the grocery label alone doesn’t justify a premium.\n\nHines Says Retail Recovery Is an Income and Scarcity Call: Hines Research says retail pricing has recovered across open-air centers and enclosed malls in the U.S. and Europe, while lagging Asian markets could offer opportunity.\n\nMark IV Breaks Ground on 41,500 SF Round Rock Retail Plaza: Mark IV Capital broke ground in October on a 41,521 SF plaza at The District in Round Rock, with six single-story buildings and room for nine to 14 restaurant and lifestyle tenants.",
-    "new_york_post": "New images released of 20-story Anagram apartment tower along NYC’s Gowanus Canal: The building at 450 Union St. is rising to 20 stories above the once toxic, (mostly) cleaned-up waterway that emerged as the neighborhood’s scenic centerpiece.\n\nJackson Pollock and Lee Krasner’s light-filled studio space lists for $8M on a NYC ‘secret street’: The 9 MacDougal Alley townhouse that the art-world luminaries used as their studio space in the early 1950s has listed for sale.",
-    "pincusco": "Brian Popper, Mitchell Mekles sign $12M refi with Webster Bank for retail in Kingsbridge.\n\nPlatinum Realty Associates pays $4.5M for retail in Flatbush through bankruptcy.\n\nIndigo Developers signs $15.2M construction loan with IceCap for 96-unit rental in Mt Hope.\n\nSitex Group signs $22.2M rehab construction loan with CIBC for industrial in Eastchester.",
+    "new_york_post": "Rare compound on NYC’s famed ‘skybridge’ street returns for sale — seeking an $8M discount: Filmmaker Neil Burger and architect Diana Kellogg are selling their longtime Tribeca home, complete with a creative studio and private parking.\n\nNew images released of 20-story Anagram apartment tower along NYC’s Gowanus Canal: The building at 450 Union St. is rising to 20 stories above the once toxic, (mostly) cleaned-up waterway that emerged as the neighborhood’s scenic centerpiece.\n\nJackson Pollock and Lee Krasner’s light-filled studio space lists for $8M on a NYC ‘secret street’: The 9 MacDougal Alley townhouse that the art-world luminaries used as their studio space in the early 1950s has listed for sale.",
+    "pincusco": "Aurora Capital pays $55.7M to Leser, Horizon for retail, unsold condo units, in Kips Bay.\n\nHeller Realty signs $12.5M refi with Citibank for retail at Parc Vendome in Hell’s Kitchen.",
     "the_new_york_times": "‘You Can See Everything’ Gives ‘Clayface’ a Run for Its Money at the Box Office: “Clayface” was No. 1 at the box office, but “You Can See Everything,” a documentary about the disgraced Theranos founder, surged in its second weekend.\n\nThis Shaker-Inspired Office Embodies Work-Life Balance: The Los Angeles designers Elora Joshi and Andrew Greene created their dream work space by pairing vintage artifacts with modern upgrades.\n\nMy Landlord Replaced Our Doormen With A.I. Can I Get a Rent Reduction?: The answer depends on whether the change constitutes a reduction in services offered in the building.\n\nMortgage Rates Remain Above 7%, Pushing Home Prices Lower in Some Areas: The 30-year, fixed-rate mortgage dropped slightly to 7.32 percent as prospective home buyers continue to struggle with affordability. But home prices are starting to drop in some areas.",
-    "the_wall_street_journal": "The Holdouts Working Around New York City’s Airbnb Crackdown: A crackdown on short-term rentals drastically reduced the business. Here’s how the hangers-on are making it work.\n\nThe Once-Obscure Corner of Commercial Real Estate Now Riding the AI Boom: Big investors are piling into industrial outdoor storage, seizing on the demand from data-center developers for these 10-acre yards.\n\nStagnant Housing Market? Not for Luxury Homes: And, real-estate giant CBRE is acquiring a company that equips data centers in a $1 billion deal.\n\nAmerica’s New Housing Market Is All About Luxury—and It Runs on Cash: Surging mortgage rates are sending many buyers to the sidelines, while affluent shoppers are driving overall prices higher with big cash purchases.",
-    "traded": "Allen Morris Unveils Ponce Park’s Luxury Penthouses, With 3 of 8 Already Sold: Allen Morris Company has launched eight penthouses at Ponce Park, ranging from 2,241 to 7,644 square feet, with three al.\n\nThe 30-Second Site Test: How EPIRE’s Alessandro Bonati Is Betting on Luxury Condos and Disciplined Development: EPIRE founder Alessandro Bonati explains how a strict luxury-condo thesis, design-led architecture and practical ameniti.\n\nPhilip Levine Plans $36M Office Development on Alton Road in Miami Beach: Former Miami Beach Mayor Philip Levine plans a $36 million, eight-story office building at 930 and 960 Alton Road, featu."
+    "the_wall_street_journal": "NYC’s Office-Conversion Projects Are Back After a Big Summer Scare: New York City issued 16 new permits after determining that a near-partial collapse in the former Pfizer building didn’t represent an inherent risk.\n\nThe Once-Obscure Corner of Commercial Real Estate Now Riding the AI Boom: Big investors are piling into industrial outdoor storage, seizing on the demand from data-center developers for these 10-acre yards.\n\nStagnant Housing Market? Not for Luxury Homes: And, real-estate giant CBRE is acquiring a company that equips data centers in a $1 billion deal.\n\nAmerica’s New Housing Market Is All About Luxury—and It Runs on Cash: Surging mortgage rates are sending many buyers to the sidelines, while affluent shoppers are driving overall prices higher with big cash purchases.",
+    "traded": "Peter Fine Advances 333-Unit Mixed-Use Development in the Bronx: Developer Peter Fine is constructing a 15-story mixed-use building at 1959 Jerome Avenue in Morris Heights, offering 333.\n\nAmTrustRE Invests Up to $70M to Revamp Madison Avenue Office Tower in Midtown Manhattan: AmTrustRE is modernizing its 22-story, 570,000-square-foot office tower at 260 Madison Avenue, investing $60 million to.\n\nBentley Unveils Torcal Electric SUV at Dezer Development’s Miami Residences.\n\nHVN Development’s Tommy Beadel Proposes 77-Unit Affordable Housing Project in Sherman Oaks: HVN Development has proposed a five-story, 77-unit affordable housing project at 5003 N. Kester Avenue in Sherman Oaks,."
   },
   "items": [
     {
@@ -40,6 +40,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-10-15T19:51:05.000Z"
+    },
+    {
+      "headline": "Barings Buys SoCal Grocery-Anchored Shopping Center for $66M",
+      "summary": "Investment management firm Barings has put down $66.2 million to acquire a fully leased grocery-anchored shopping center in Orange County, Calif. First Washington Realty sold the Village Center at Rose , a 118,876-square-foot retail property at 600-858 North Rose Drive in Placentia, Calif., CBRE announced Monday. The transaction is equal to about $557 per square foot. The 10.15-acre shopping center was built 30 years ago at the northeast corner of North Rose Drive and Alta Vista Street.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/10/barings-first-washington-ralphs-retail-california/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-10-26T18:15:54.000Z"
     },
     {
       "headline": "Institutions Turn to JVs for Grocery-Anchored Retail",
@@ -141,15 +150,6 @@
       "published_at": "2026-10-13T20:52:41.000Z"
     },
     {
-      "headline": "Eyewear Brand Gentle Monster Takes 29K SF at Kushner’s Puck Building",
-      "summary": "A luxury eyewear brand has its sights set on one of SoHo’s most high-profile retail vacancies. South Korean eyewear brand Gentle Monster has inked a 28,500-square-foot deal at the Kushner Companies ’ Puck Building , Commercial Observer has learned. The lease term is more than 10 years, according to a source with knowledge of the deal.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/gentle-monster-lease-kushner-puck-building-rei/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-10-13T19:26:39.000Z"
-    },
-    {
       "headline": "Japanese Restaurant Udon Shin to Open First NYC Spot at 37 West 17th Street",
       "summary": "Udon Shin , a popular Japanese restaurant with only two other U.S. locations, is gearing up to open its first New York City eatery, Commercial Observer has learned. Udon Shin has signed a 10-year, 2,500-square-foot lease at 37 West 17th Street in Manhattan’s Flatiron District, according to tenant broker Aaron Gavios of Gavios Realty Group . Asking rent was $30,000 per month for the space previously occupied by now-closed Italian restaurant Basta Pasta.…",
       "source": "Commercial Observer",
@@ -168,13 +168,22 @@
       "published_at": "2026-10-14T15:47:27.000Z"
     },
     {
-      "headline": "Waste Storage Manufacturer Citibin Triples Footprint to 15K SF at Industry City",
-      "summary": "One man’s trash is another man’s lease expansion. Citibin , a maker of trash, recycling and compost enclosures, has tripled its warehouse and office footprint at Brooklyn’s Industry City , Commercial Observer has learned. Citibin upped its lease from 4,600 to 15,000 square feet in a five-year deal at the Sunset Park campus, where the manufacturer’s inventory, installers, offices and design teams operate under one roof.…",
+      "headline": "Gerber Life Insurance Signs 13K-SF Lease at Two Trees’ 45 Main Street",
+      "summary": "Gerber Life Insurance , the children’s life insurance provider, has signed a 12,868-square-foot office lease at Two Trees Management ’s office property at 45 Main Street in Brooklyn’s Dumbo neighborhood, Commercial Observer has learned. The new space will serve as a satellite office for Gerber Life’s technology teams, according to Two Trees. Gerber is based in White Plains, N.Y. The length of the deal and the exact asking rent were not disclosed.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/citibin-lease-expansion-industry-city/",
+      "url": "https://commercialobserver.com/2026/10/gerber-life-insurance-lease-two-trees-45-main-street/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-10-26T11:00:25.000Z"
+      "published_at": "2026-10-27T15:41:35.000Z"
+    },
+    {
+      "headline": "Fintech Firm Ramp Adds Another 175K SF at 28-40 West 23rd Street",
+      "summary": "Financial technology firm Ramp has scaled up its 28-40 West 23rd Street operations for the second time this year. The firm secured another 175,000 square feet at Williams Equities ’ Flatiron District complex, Commercial Observer has learned. The long-term lease expansion comes on the heels of a 153,300-square-foot addition inked in March — one of Manhattan’s largest first-quarter office deals .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/10/ramp-lease-expansion-28-40-west-23rd-street/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-10-27T10:30:30.000Z"
     },
     {
       "headline": "Brooklyn Powerhouse Sports to Open 11K-SF Facility in Sunset Park",
@@ -186,76 +195,76 @@
       "published_at": "2026-10-20T19:03:48.000Z"
     },
     {
-      "headline": "Industrial Color Expands to 59K SF at Rudin’s 32 Avenue of the Americas",
-      "summary": "Industrial Color , a creative production company and network of production studios, has renewed and expanded its lease at Rudin ’s Tribeca office property at 32 Avenue of the Americas , Commercial Observer has learned. The company, which has been a tenant at the Tribeca property for over 20 years, signed a 15-year renewal on the 46,638-square-foot space it currently occupies on the building’s entire 22nd floor and part of the 20th floor.…",
+      "headline": "Amazon’s Same-Day Delivery Expansion Reignites Demand for Last-Mile Logistics",
+      "summary": "When Amazon makes moves in the delivery business, the entire retail industry tends to reorient itself around the e-commerce giant. So, when a September report from Business Insider revealed preliminary plans for Amazon to embark on a “ massive blitz in same-day delivery ” with a proposed expansion of facilities code-named Project Mercury, industrial real estate took notice.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/industrial-color-lease-rudin-32-avenue-of-the-americas/",
+      "url": "https://commercialobserver.com/2026/10/amazon-same-day-delivery-logistics-real-estate/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-10-26T16:30:53.000Z"
+      "published_at": "2026-10-27T13:33:45.000Z"
     },
     {
-      "headline": "Allen Morris Unveils Ponce Park’s Luxury Penthouses, With 3 of 8 Already Sold",
-      "summary": "Allen Morris Company has launched eight penthouses at Ponce Park, ranging from 2,241 to 7,644 square feet, with three al…",
+      "headline": "Aurora Capital pays $55.7M to Leser, Horizon for retail, unsold condo units, in Kips Bay",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/aurora-capital-pays-55-7m-to-leser-horizon-for-retail-unsold-condo-units-in-kips-bay/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-10-27T11:27:00.000Z"
+    },
+    {
+      "headline": "Shorenstein Signs 78K SF in Office Leases at Repositioned D.C. Building",
+      "summary": "Shorenstein announced Monday that it has secured approximately three office leases totaling 78,000 square feet at its recently repositioned building in Washington, D.C.’s East End. Policy analysis and consulting firm Capstone signed the largest lease at approximately 43,000 square feet. Government relations and lobbying firm Monument Advocacy signed for 25,000 square feet, and the nonprofit Skoll Foundation signed for 10,000 square feet, according to Avison Young , which represented Shorenstein.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/10/shorenstein-signs-78k-sf-in-office-leases-at-repositioned-d-c-building/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-10-26T20:50:14.000Z"
+    },
+    {
+      "headline": "Heller Realty signs $12.5M refi with Citibank for retail at Parc Vendome in Hell’s Kitchen",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/heller-realty-signs-12-5m-refi-with-citibank-for-retail-at-parc-vendome-in-hells-kitchen/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-10-27T11:55:00.000Z"
+    },
+    {
+      "headline": "NYC’s Office-Conversion Projects Are Back After a Big Summer Scare",
+      "summary": "New York City issued 16 new permits after determining that a near-partial collapse in the former Pfizer building didn’t represent an inherent risk.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/real-estate/commercial/nycs-office-conversion-projects-are-back-after-a-big-summer-scare-d010bfa5?mod=LatestNewsRealEstate",
+      "section": "the_wall_street_journal",
+      "retail": false,
+      "published_at": "2026-10-27T13:19:00.000Z"
+    },
+    {
+      "headline": "Rare compound on NYC’s famed ‘skybridge’ street returns for sale — seeking an $8M discount",
+      "summary": "Filmmaker Neil Burger and architect Diana Kellogg are selling their longtime Tribeca home, complete with a creative studio and private parking.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/26/real-estate/rare-compound-on-nycs-famed-skybridge-street-asks-22m/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-10-26T19:19:51.000Z"
+    },
+    {
+      "headline": "Peter Fine Advances 333-Unit Mixed-Use Development in the Bronx",
+      "summary": "Developer Peter Fine is constructing a 15-story mixed-use building at 1959 Jerome Avenue in Morris Heights, offering 333…",
       "source": "Traded",
-      "url": "https://traded.co/blog/allen-morris-unveils-ponce-park-s-luxury-penthouses-with-3-of-8-already-sold/",
+      "url": "https://traded.co/blog/peter-fine-advances-333-unit-mixed-use-development-in-the-bronx/",
       "section": "traded",
-      "retail": true,
-      "published_at": "2026-10-23T00:00:00.000Z"
-    },
-    {
-      "headline": "Brian Popper, Mitchell Mekles sign $12M refi with Webster Bank for retail in Kingsbridge",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/brian-popper-mitchell-mekles-sign-12m-refi-with-webster-bank-for-mixed-use-in-kingsbridge/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-10-26T09:10:00.000Z"
-    },
-    {
-      "headline": "Platinum Realty Associates pays $4.5M for retail in Flatbush through bankruptcy",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/platinum-realty-associates-pays-4-5m-for-retail-in-flatbush/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-10-26T08:52:00.000Z"
-    },
-    {
-      "headline": "Indigo Developers signs $15.2M construction loan with IceCap for 96-unit rental in Mt Hope",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/indigo-developers-signs-15-2m-construction-loan-with-icecap-for-96-unit-rental-in-mt-hope/",
-      "section": "pincusco",
       "retail": false,
-      "published_at": "2026-10-26T11:32:00.000Z"
+      "published_at": "2026-10-26T00:00:00.000Z"
     },
     {
-      "headline": "Sitex Group signs $22.2M rehab construction loan with CIBC for industrial in Eastchester",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/sitex-group-signs-22-2m-rehab-construction-loan-with-cibc-for-industrial-in-eastchester/",
-      "section": "pincusco",
+      "headline": "AmTrustRE Invests Up to $70M to Revamp Madison Avenue Office Tower in Midtown Manhattan",
+      "summary": "AmTrustRE is modernizing its 22-story, 570,000-square-foot office tower at 260 Madison Avenue, investing $60 million to…",
+      "source": "Traded",
+      "url": "https://traded.co/blog/amtrustre-invests-up-to-70m-to-revamp-madison-avenue-office-tower-in-midtown-manhattan/",
+      "section": "traded",
       "retail": false,
-      "published_at": "2026-10-26T11:15:00.000Z"
-    },
-    {
-      "headline": "AG Holding Group signs $12.55M construction loan with IceCap for 65-unit project in Kingsbridge",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/ag-holding-group-signs-12-55m-construction-loan-with-icecap-for-65-unit-project-in-kingsbridge/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-10-26T09:43:00.000Z"
-    },
-    {
-      "headline": "Yecheskel Weiss signs $10.2M construction loan for 41-unit dev site in Longwood",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/yecheskel-weiss-signs-10-2m-construction-loan-for-industrial-in-longwood/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-10-26T09:00:00.000Z"
+      "published_at": "2026-10-26T00:00:00.000Z"
     },
     {
       "headline": "New images released of 20-story Anagram apartment tower along NYC’s Gowanus Canal",
@@ -276,13 +285,22 @@
       "published_at": "2026-10-23T16:27:01.000Z"
     },
     {
-      "headline": "ZD Jasper Realty files plans for 93 units in Astoria, second at two-tower complex",
+      "headline": "Bentley Unveils Torcal Electric SUV at Dezer Development’s Miami Residences",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/zd-jasper-realty-files-plans-for-93-units-in-astoria-second-at-two-tower-complex/",
-      "section": "pincusco",
+      "source": "Traded",
+      "url": "https://traded.co/blog/bentley-unveils-torcal-electric-suv-at-dezer-development-s-miami-residences/",
+      "section": "traded",
       "retail": false,
-      "published_at": "2026-10-26T11:11:00.000Z"
+      "published_at": "2026-10-26T00:00:00.000Z"
+    },
+    {
+      "headline": "HVN Development’s Tommy Beadel Proposes 77-Unit Affordable Housing Project in Sherman Oaks",
+      "summary": "HVN Development has proposed a five-story, 77-unit affordable housing project at 5003 N. Kester Avenue in Sherman Oaks,…",
+      "source": "Traded",
+      "url": "https://traded.co/blog/hvn-development-s-tommy-beadel-proposes-77-unit-affordable-housing-project-in-sherman-oaks/",
+      "section": "traded",
+      "retail": false,
+      "published_at": "2026-10-26T00:00:00.000Z"
     },
     {
       "headline": "‘You Can See Everything’ Gives ‘Clayface’ a Run for Its Money at the Box Office",
@@ -294,24 +312,6 @@
       "published_at": "2026-10-25T17:16:13.000Z"
     },
     {
-      "headline": "The 30-Second Site Test: How EPIRE’s Alessandro Bonati Is Betting on Luxury Condos and Disciplined Development",
-      "summary": "EPIRE founder Alessandro Bonati explains how a strict luxury-condo thesis, design-led architecture and practical ameniti…",
-      "source": "Traded",
-      "url": "https://traded.co/blog/the-30-second-site-test-how-epire-s-alessandro-bonati-is-betting-on-luxury-condos-and-disciplined-development/",
-      "section": "traded",
-      "retail": false,
-      "published_at": "2026-10-23T00:00:00.000Z"
-    },
-    {
-      "headline": "Philip Levine Plans $36M Office Development on Alton Road in Miami Beach",
-      "summary": "Former Miami Beach Mayor Philip Levine plans a $36 million, eight-story office building at 930 and 960 Alton Road, featu…",
-      "source": "Traded",
-      "url": "https://traded.co/blog/philip-levine-plans-36m-office-development-on-alton-road-in-miami-beach/",
-      "section": "traded",
-      "retail": false,
-      "published_at": "2026-10-23T00:00:00.000Z"
-    },
-    {
       "headline": "This Shaker-Inspired Office Embodies Work-Life Balance",
       "summary": "The Los Angeles designers Elora Joshi and Andrew Greene created their dream work space by pairing vintage artifacts with modern upgrades.",
       "source": "The New York Times",
@@ -319,15 +319,6 @@
       "section": "the_new_york_times",
       "retail": false,
       "published_at": "2026-10-21T12:24:47.000Z"
-    },
-    {
-      "headline": "The Holdouts Working Around New York City’s Airbnb Crackdown",
-      "summary": "A crackdown on short-term rentals drastically reduced the business. Here’s how the hangers-on are making it work.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/real-estate/luxury-homes/the-holdouts-working-around-new-york-citys-airbnb-crackdown-e5eb27bd?mod=LatestNewsRealEstate",
-      "section": "the_wall_street_journal",
-      "retail": false,
-      "published_at": "2026-10-17T11:00:00.000Z"
     },
     {
       "headline": "The Once-Obscure Corner of Commercial Real Estate Now Riding the AI Boom",
