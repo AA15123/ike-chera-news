@@ -1,17 +1,17 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T16:32:52.976Z",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T16:50:51.056Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. **WSJ** is the Dow Jones real-estate feed with lifestyle and opinion dropped. **The New York Times** keeps real-estate and property stories only. **Traded** is commercial deal briefs from its news listing. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Italian Kitchen Manufacturer Officine Gullo to Open Store at 95 Madison Avenue: Hey now, hey now , these kitchens are what dreams are made of. Italy’s Officine Gullo , a manufacturer of luxury commercial and residential kitchens, has taken 3,200 square feet of ground-floor retail space at Sunlight Development ’s 95 Madison Avenue in Manhattan’s NoMad neighborhood, Commercial Observer has learned.\n\nSnowflake Spa to Open New Location at 619 Ninth Avenue in Hell’s Kitchen: It’s giving self-care vibes. Snowflake Spa , a massage therapy and wellness provider, is getting ready to open another location in Manhattan’s Hell’s Kitchen neighborhood at 619 Ninth Avenue .\n\nPNC Bank Inks 4K-SF Retail Lease at 312 West 43rd Street: Residents at the Ellery , a mixed-use residential development in Manhattan’s Hell’s Kitchen neighborhood, are getting another retailer at the base of their 33-story home. PNC Bank has signed a 3,500-square-foot retail lease at the base of the property at 312 West 43rd Street , according to co-developers and co-owners.\n\nAT&T Renews 7K-SF Lease at Rudin’s 3 Times Square: Home is where the heart is, and telecommunications giant AT&T is quite at home in the heart of Times Square . The wireless carrier has renewed and extended its lease at Rudin ’s 3 Times Square for another five years, Commercial Observer has learned.",
     "cre_daily": "Institutions Turn to JVs for Grocery-Anchored Retail: Institutional investors are using joint ventures to gain exposure to retail, especially grocery-anchored centers, citing supply-and-demand fundamentals and long-term income growth.\n\nGrocery-Anchored Retail Premium Hinges on Store and Lease: Grocery-anchored retail is among the most competitive investment niches, with 2025 transaction volume near $11B and cap rates averaging 6.7%, but the grocery label alone doesn’t justify a premium.\n\nHines Says Retail Recovery Is an Income and Scarcity Call: Hines Research says retail pricing has recovered across open-air centers and enclosed malls in the U.S. and Europe, while lagging Asian markets could offer opportunity.\n\nMark IV Breaks Ground on 41,500 SF Round Rock Retail Plaza: Mark IV Capital broke ground in October on a 41,521 SF plaza at The District in Round Rock, with six single-story buildings and room for nine to 14 restaurant and lifestyle tenants.",
     "new_york_post": "The Orchard — Queens’ tallest building — is almost all leased out in just 9 months: The building also signed its first retail tenants.",
-    "pincusco": "Double U Realty signs $22.3M construction loan with Colorado Federal for retail expansion in Greenpoint.\n\nMinsun Kim pays $13.4M for office and retail in Midtown East.\n\n101 Chicken pays $2.1M for retail in Williamsburg.",
-    "the_new_york_times": "A Punishing Housing Market Is Squeezing Renters: Higher mortgage rates and slowing residential construction are again giving landlords the upper hand.\n\n‘You Can See Everything’ Gives ‘Clayface’ a Run for Its Money at the Box Office: “Clayface” was No. 1 at the box office, but “You Can See Everything,” a documentary about the disgraced Theranos founder, surged in its second weekend.\n\nThis Shaker-Inspired Office Embodies Work-Life Balance: The Los Angeles designers Elora Joshi and Andrew Greene created their dream work space by pairing vintage artifacts with modern upgrades.\n\nMy Landlord Replaced Our Doormen With A.I. Can I Get a Rent Reduction?: The answer depends on whether the change constitutes a reduction in services offered in the building.",
+    "pincusco": "Bahai community of New York pays $9M to SL Green Realty for office condo in FiDi.\n\nJade Management Group files plans for 99 units in Mt Hope.\n\nJoyland Management files plans for 99 units in Chelsea.",
+    "the_new_york_times": "A Punishing Housing Market Is Squeezing Renters: Higher mortgage rates and slowing residential construction are again giving landlords the upper hand.\n\nHong Kong Leader Apologizes for Deadly Apartment Building Fire: John Lee, the city’s chief executive, said his housing secretary would step down, but he vehemently defended the government.\n\nMy Landlord Replaced Our Doormen With A.I. Can I Get a Rent Reduction?: The answer depends on whether the change constitutes a reduction in services offered in the building.",
     "the_wall_street_journal": "NYC Office Conversions Charge Ahead After Summer Scare: Plus, the little-known real-estate business riding high on AI.\n\nNYC’s Office-Conversion Projects Are Back After a Big Summer Scare: New York City issued 16 new permits after determining that a near-partial collapse in the former Pfizer building didn’t represent an inherent risk.\n\nThe Once-Obscure Corner of Commercial Real Estate Now Riding the AI Boom: Big investors are piling into industrial outdoor storage, seizing on the demand from data-center developers for these 10-acre yards.\n\nStagnant Housing Market? Not for Luxury Homes: And, real-estate giant CBRE is acquiring a company that equips data centers in a $1 billion deal.",
-    "traded": "Ramp Expands to 460,300 SF at Williams Equities’ Flatiron Office Buildings.\n\nFogo de Chão Signs 19,700-Square-Foot Lease at West Covina’s Eastland Center: Fogo de Chão will open a new location at Eastland Center in West Covina, California, on November 2, 2026, occupying 19,7.\n\nDriftwood Capital, MV Real Estate Holdings and Merrimac Ventures Secure $145M Loan for Riverside Wharf in Miami: Driftwood Capital, MV Real Estate Holdings, and Merrimac Ventures secured a $145 million construction loan from Centenni.\n\nSilverLining Development’s Aden Wiener Proposes 13-Story, 106-Unit Bronx Apartment Building: SilverLining Development is proposing a 13-story rental building at 1701 Boone Avenue in the Bronx, featuring 106 apartm."
+    "traded": "NewQuest and Transwestern Break Ground on 412,588-Square-Foot Kyle Park Retail Center in Texas.\n\nCarmel Partners Secures $152M Truist Loan for 390-Unit Marina Shores Project in Long Beach: Carmel Partners secured $152 million in construction financing from Truist for Marina Shores, a 390-unit mixed-use devel.\n\nNathan Berman and David Werner’s Pfizer HQ Conversion Clears the Way for 16 More Office Conversions: New York City has issued initial construction permits for 16 office-to-residential conversion projects since the July 20."
   },
   "items": [
     {
@@ -150,40 +150,22 @@
       "published_at": "2026-10-19T15:29:15.000Z"
     },
     {
-      "headline": "Japanese Restaurant Udon Shin to Open First NYC Spot at 37 West 17th Street",
-      "summary": "Udon Shin , a popular Japanese restaurant with only two other U.S. locations, is gearing up to open its first New York City eatery, Commercial Observer has learned. Udon Shin has signed a 10-year, 2,500-square-foot lease at 37 West 17th Street in Manhattan’s Flatiron District, according to tenant broker Aaron Gavios of Gavios Realty Group . Asking rent was $30,000 per month for the space previously occupied by now-closed Italian restaurant Basta Pasta.…",
+      "headline": "Robely, U.S. Legwork Each Ink 5K-SF Deals at Rosen’s 37 West 37th Street",
+      "summary": "Two tenants have taken full-floor leases at the Rosen family’s 37 West 37th Street office property. New York-based importer U.S. Legwork and manufacturer Robely — both wholesale distributors — each relocated to 5,119 square feet at the 12-story Midtown South building, according to Koeppel Rosen , the landlord’s leasing and management agent. U.S. Legwork will occupy the building’s entire fourth floor while Robely will take the fifth floor, each for terms of 10 years and 10 months.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/udon-shin-lease-restaurant-37-west-17th-street/",
+      "url": "https://commercialobserver.com/2026/10/robely-us-legwork-leases-37-west-37th-street/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-10-14T20:08:25.000Z"
+      "published_at": "2026-10-29T13:17:11.000Z"
     },
     {
-      "headline": "Double U Realty signs $22.3M construction loan with Colorado Federal for retail expansion in Greenpoint",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/double-u-realty-signs-22-3m-construction-loan-with-colorado-federal-for-retail-in-greenpoint/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-10-28T12:11:00.000Z"
-    },
-    {
-      "headline": "Shorenstein Buys Fully Leased SoHo Office Property From Tishman Speyer",
-      "summary": "Tishman Speyer has sold the 12-story, 155,000-square-foot office building at 148 Lafayette Street in SoHo, at the corner of Lafayette and Howard streets, to Shorenstein Properties for $132.5 million, or $866 per square foot, according to Tishman. The deal was repped by Newmark ‘s Adam Spies , Doug Harmon, Adam Doneger , Marcella Fasulo, Avery Silverstein and Joshua King .…",
+      "headline": "Children’s Rescue Fund Adds 9K SF at the Bronx’s 521 Bergen Avenue",
+      "summary": "Nonprofit housing and supportive family services provider Children’s Rescue Fund has upped its footprint at 521 Bergen Avenue . The charity’s executive offices expanded by 8,648 square feet on the South Bronx office property’s second floor in early October, according to an announcement by landlord brokerage JLL . The deal gives Children’s Rescue Fund a total footprint of 26,646 square feet and completes the lease-up of the redeveloped building, all six stories of which are entirely occupied by nonprofits.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/shorenstein-buy-fully-leased-soho-office-property-tishman-speyer/",
+      "url": "https://commercialobserver.com/2026/10/childrens-rescue-fund-521-bergen-avenue-lease-expansion/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-10-27T18:15:51.000Z"
-    },
-    {
-      "headline": "Blood Cancer Nonprofit DKMS Takes 15K SF at 115 Broadway",
-      "summary": "DKMS , an international nonprofit fighting blood cancer and blood disorders, has signed a new office lease within Manhattan’s Financial District. The organization took 15,000 square feet across the 14th floor of 115 Broadway . The 22-story building makes up half of the Gothic-style Trinity Centre owned by Capital Properties and Madison International Realty .…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/dkms-mag-partners-trinity-centre-leases/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-10-27T20:48:28.000Z"
+      "published_at": "2026-10-28T20:10:02.000Z"
     },
     {
       "headline": "Brooklyn Powerhouse Sports to Open 11K-SF Facility in Sunset Park",
@@ -195,13 +177,13 @@
       "published_at": "2026-10-20T19:03:48.000Z"
     },
     {
-      "headline": "Minsun Kim pays $13.4M for office and retail in Midtown East",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/minsun-kim-pays-13-4m-for-office-and-retail-in-midtown-east/",
-      "section": "pincusco",
+      "headline": "Life Time Inks 20-Year Lease at Crescent Heights’ Miami Dev Site",
+      "summary": "Health club chain Life Time is coming to Miami’s Edgewater neighborhood. The high-end gym operator, formerly known as Life Time Fitness, signed a 20-year lease at 3180 Biscayne Boulevard , a 2.6-acre, full-block development site owned by Crescent Heights , according to documents filed to Miami-Dade County. The gym will likely be part of a mixed-use development using the Live Local Act , a Florida law that grants developers faster approvals if at least 40 percent of units are priced as workforce housing.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/10/life-time-crescent-heights-galbut-edgewater-florida/",
+      "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-10-28T13:52:00.000Z"
+      "published_at": "2026-10-28T18:20:14.000Z"
     },
     {
       "headline": "Amazon’s Same-Day Delivery Expansion Reignites Demand for Last-Mile Logistics",
@@ -213,49 +195,49 @@
       "published_at": "2026-10-27T13:33:45.000Z"
     },
     {
-      "headline": "Ramp Expands to 460,300 SF at Williams Equities’ Flatiron Office Buildings",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "Traded",
-      "url": "https://traded.co/blog/ramp-expands-to-460-300-sf-at-williams-equities-flatiron-office-buildings/",
-      "section": "traded",
-      "retail": true,
-      "published_at": "2026-10-27T00:00:00.000Z"
-    },
-    {
-      "headline": "Personal Training Studio LIV Method Takes 12K SF in Meatpacking District",
-      "summary": "The LIV Method , a private luxury training and wellness studio, will open a new location in Manhattan’s Meatpacking District in January, Commercial Observer has learned. The studio, which offers customers a curated and personalized approach to training, wellness and longevity, has inked a 12,028-square-foot lease at Sage ’s 2 Gansevoort Street , according to the landlord. The new location will be LIV Method’s third Manhattan studio.…",
+      "headline": "Day Care Operator Inks 21K-SF Lease in Brooklyn’s Gravesend",
+      "summary": "A new Ukrainian day care, Ukrainian New Generation Kids Daycare , has signed a 21,000-square-foot lease at Yakov Ostrovsky ‘s 1940 Shore Parkway in Gravesend, Brooklyn. The day care center is expected to open in the entirety of the four-story commercial building in the second quarter of 2027, and will be able to accommodate 300 children, according to Ripco Real Estate , which represented both the landlord and the tenant in this deal. The length of the lease was not disclosed.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/liv-method-lease-2-gansevoort-street/",
+      "url": "https://commercialobserver.com/2026/10/day-care-operator-inks-21k-sf-lease-in-brooklyns-gravesend/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-10-20T21:30:04.000Z"
+      "published_at": "2026-10-29T14:18:46.000Z"
     },
     {
-      "headline": "Fogo de Chão Signs 19,700-Square-Foot Lease at West Covina’s Eastland Center",
-      "summary": "Fogo de Chão will open a new location at Eastland Center in West Covina, California, on November 2, 2026, occupying 19,7…",
+      "headline": "Blacksmith Software, Sona Technologies Lease 26K SF at Moinian’s 245 Fifth Avenue",
+      "summary": "The Moinian Group signed two new technology firms at one of its Midtown South buildings. Blacksmith Software , which provides support services to users of coding platform GitHub , leased 14,000 square feet, the entire seventh floor, of 245 Fifth Avenue , while AI-driven human resources firm Sona Technologies took all of the 12,000-square-foot 19th floor, according to the landlord.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/10/blacksmith-software-sona-technologies-lease-245-fifth-avenue/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-10-28T19:33:55.000Z"
+    },
+    {
+      "headline": "NewQuest and Transwestern Break Ground on 412,588-Square-Foot Kyle Park Retail Center in Texas",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "Traded",
-      "url": "https://traded.co/blog/fogo-de-chao-signs-19-700-square-foot-lease-at-west-covina-s-eastland-center/",
+      "url": "https://traded.co/blog/newquest-and-transwestern-break-ground-on-412-588-square-foot-kyle-park-retail-center-in-texas/",
       "section": "traded",
       "retail": true,
-      "published_at": "2026-11-19T00:00:00.000Z"
+      "published_at": "2026-10-28T00:00:00.000Z"
     },
     {
-      "headline": "101 Chicken pays $2.1M for retail in Williamsburg",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/101-chicken-pays-2-1m-for-retail-in-williamsburg/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-10-28T13:48:00.000Z"
-    },
-    {
-      "headline": "Driftwood Capital, MV Real Estate Holdings and Merrimac Ventures Secure $145M Loan for Riverside Wharf in Miami",
-      "summary": "Driftwood Capital, MV Real Estate Holdings, and Merrimac Ventures secured a $145 million construction loan from Centenni…",
+      "headline": "Carmel Partners Secures $152M Truist Loan for 390-Unit Marina Shores Project in Long Beach",
+      "summary": "Carmel Partners secured $152 million in construction financing from Truist for Marina Shores, a 390-unit mixed-use devel…",
       "source": "Traded",
-      "url": "https://traded.co/blog/driftwood-capital-mv-real-estate-holdings-and-merrimac-ventures-secure-145m-loan-for-riverside-wharf-in-miami/",
+      "url": "https://traded.co/blog/carmel-partners-secures-152m-truist-loan-for-390-unit-marina-shores-project-in-long-beach/",
       "section": "traded",
       "retail": false,
-      "published_at": "2026-10-27T00:00:00.000Z"
+      "published_at": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "headline": "Bahai community of New York pays $9M to SL Green Realty for office condo in FiDi",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/bahai-community-of-new-york-pays-9m-to-sl-green-realty-for-office-in-fidi/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-10-29T12:39:00.000Z"
     },
     {
       "headline": "NYC Office Conversions Charge Ahead After Summer Scare",
@@ -267,6 +249,15 @@
       "published_at": "2026-10-28T13:55:00.000Z"
     },
     {
+      "headline": "Nathan Berman and David Werner’s Pfizer HQ Conversion Clears the Way for 16 More Office Conversions",
+      "summary": "New York City has issued initial construction permits for 16 office-to-residential conversion projects since the July 20…",
+      "source": "Traded",
+      "url": "https://traded.co/blog/nathan-berman-and-david-werner-s-pfizer-hq-conversion-clears-the-way-for-16-more-office-conversions/",
+      "section": "traded",
+      "retail": false,
+      "published_at": "2026-10-28T00:00:00.000Z"
+    },
+    {
       "headline": "NYC’s Office-Conversion Projects Are Back After a Big Summer Scare",
       "summary": "New York City issued 16 new permits after determining that a near-partial collapse in the former Pfizer building didn’t represent an inherent risk.",
       "source": "The Wall Street Journal",
@@ -276,13 +267,22 @@
       "published_at": "2026-10-27T13:19:00.000Z"
     },
     {
-      "headline": "SilverLining Development’s Aden Wiener Proposes 13-Story, 106-Unit Bronx Apartment Building",
-      "summary": "SilverLining Development is proposing a 13-story rental building at 1701 Boone Avenue in the Bronx, featuring 106 apartm…",
-      "source": "Traded",
-      "url": "https://traded.co/blog/silverlining-development-s-aden-wiener-proposes-13-story-106-unit-bronx-apartment-building/",
-      "section": "traded",
+      "headline": "Jade Management Group files plans for 99 units in Mt Hope",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/jade-management-group-files-plans-for-99-units-in-mt-hope/",
+      "section": "pincusco",
       "retail": false,
-      "published_at": "2026-10-27T00:00:00.000Z"
+      "published_at": "2026-10-29T14:05:00.000Z"
+    },
+    {
+      "headline": "Joyland Management files plans for 99 units in Chelsea",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/joyland-management-files-plans-for-99-units-in-chelsea/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-10-29T13:36:00.000Z"
     },
     {
       "headline": "A Punishing Housing Market Is Squeezing Renters",
@@ -291,25 +291,16 @@
       "url": "https://www.nytimes.com/2026/10/28/business/housing-market-rent-pressure.html",
       "section": "the_new_york_times",
       "retail": false,
-      "published_at": "2026-10-28T14:04:45.000Z"
+      "published_at": "2026-10-28T18:43:55.000Z"
     },
     {
-      "headline": "‘You Can See Everything’ Gives ‘Clayface’ a Run for Its Money at the Box Office",
-      "summary": "“Clayface” was No. 1 at the box office, but “You Can See Everything,” a documentary about the disgraced Theranos founder, surged in its second weekend.",
+      "headline": "Hong Kong Leader Apologizes for Deadly Apartment Building Fire",
+      "summary": "John Lee, the city’s chief executive, said his housing secretary would step down, but he vehemently defended the government.",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/25/business/media/elizabeth-holmes-clayface-box-office.html",
+      "url": "https://www.nytimes.com/2026/10/29/world/asia/hong-kong-fire-john-lee-apology.html",
       "section": "the_new_york_times",
       "retail": false,
-      "published_at": "2026-10-25T17:16:13.000Z"
-    },
-    {
-      "headline": "This Shaker-Inspired Office Embodies Work-Life Balance",
-      "summary": "The Los Angeles designers Elora Joshi and Andrew Greene created their dream work space by pairing vintage artifacts with modern upgrades.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/21/realestate/this-shaker-inspired-office-embodies-work-life-balance.html",
-      "section": "the_new_york_times",
-      "retail": false,
-      "published_at": "2026-10-21T12:24:47.000Z"
+      "published_at": "2026-10-29T11:34:49.000Z"
     },
     {
       "headline": "The Once-Obscure Corner of Commercial Real Estate Now Riding the AI Boom",
