@@ -1,17 +1,16 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-10-30",
-  "generated_at": "2026-10-30T16:39:05.757Z",
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T15:41:10.468Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. **WSJ** is the Dow Jones real-estate feed with lifestyle and opinion dropped. **The New York Times** keeps real-estate and property stories only. **Traded** is commercial deal briefs from its news listing. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Italian Kitchen Manufacturer Officine Gullo to Open Store at 95 Madison Avenue: Hey now, hey now , these kitchens are what dreams are made of. Italy’s Officine Gullo , a manufacturer of luxury commercial and residential kitchens, has taken 3,200 square feet of ground-floor retail space at Sunlight Development ’s 95 Madison Avenue in Manhattan’s NoMad neighborhood, Commercial Observer has learned.\n\nSnowflake Spa to Open New Location at 619 Ninth Avenue in Hell’s Kitchen: It’s giving self-care vibes. Snowflake Spa , a massage therapy and wellness provider, is getting ready to open another location in Manhattan’s Hell’s Kitchen neighborhood at 619 Ninth Avenue .\n\nAT&T Renews 7K-SF Lease at Rudin’s 3 Times Square: Home is where the heart is, and telecommunications giant AT&T is quite at home in the heart of Times Square . The wireless carrier has renewed and extended its lease at Rudin ’s 3 Times Square for another five years, Commercial Observer has learned.\n\nNBA Store Seeks New, Larger Location Up to 25K Square Feet: Jump ball. The NBA Store, which is operated by Fanatics -owned sports apparel company Lids , is planning to relocate from its longtime retail location at 545 Fifth Avenue into a larger space, Commercial Observer can first report.",
     "cre_daily": "Institutions Turn to JVs for Grocery-Anchored Retail: Institutional investors are using joint ventures to gain exposure to retail, especially grocery-anchored centers, citing supply-and-demand fundamentals and long-term income growth.\n\nGrocery-Anchored Retail Premium Hinges on Store and Lease: Grocery-anchored retail is among the most competitive investment niches, with 2025 transaction volume near $11B and cap rates averaging 6.7%, but the grocery label alone doesn’t justify a premium.\n\nPSP and Nuveen Launch $790M Grocery-Anchored Retail JV: PSP Investments and Nuveen Real Estate launched a joint venture with an initial $790M to buy open-air shopping centers anchored by grocers, necessity retailers and essential services.\n\nYounger Partners Buys 261K SF Terrell Power Center: Younger Partners Investments bought Crossroads at Terrell, a fully leased 260,876 SF power center 30 miles east of Dallas, from RealtyLink for an undisclosed price. A regional bank’s senior loan and preferred equity from a national REIT financed the deal, and the center ranked as Texas’ third most-visited retail.",
-    "new_york_post": "The Orchard — Queens’ tallest building — is almost all leased out in just 9 months: The building also signed its first retail tenants.",
-    "pincusco": "Anonymous buyer pays $16.85M to Aurora, A&H Acquisitions for retail in Midtown East,.\n\nBig Six Towers co-op in Woodside signs $141.9M rehab construction loan with city.\n\nEdward J. Minskoff Equities signs $160.9M construction loan with Apollo for office near JFK.\n\nPhantom Capital pays $6M to Atlantis Development for 23-unit rental in Belmont.",
-    "the_new_york_times": "A Punishing Housing Market Is Squeezing Renters: Higher mortgage rates and slowing residential construction are again giving landlords the upper hand.\n\nFloridians Weigh Cutting Property Taxes — And Local Public Services: At the polls on Tuesday, Florida voters will decide whether or not to reduce property taxes — and funding to local governments.\n\nHousing Issues Are on the Ballot. Here’s What to Know.: This election cycle, voters across the country will be asked to weigh in on proposals to shrink lot sizes, slash property taxes and more.\n\nHong Kong Leader Apologizes for Deadly Apartment Building Fire: John Lee, the city’s chief executive, said his housing secretary would step down, but he vehemently defended the government.",
-    "the_wall_street_journal": "NYC Office Conversions Charge Ahead After Summer Scare: Plus, the little-known real-estate business riding high on AI.\n\nNYC’s Office-Conversion Projects Are Back After a Big Summer Scare: New York City issued 16 new permits after determining that a near-partial collapse in the former Pfizer building didn’t represent an inherent risk.\n\n‘Yes In God’s Backyard’: Churches Are Turning Their Land Into Affordable Housing: The YIGBY movement has churches building apartments on their property, easing shortages while sustaining their ministries.\n\nThe Once-Obscure Corner of Commercial Real Estate Now Riding the AI Boom: Big investors are piling into industrial outdoor storage, seizing on the demand from data-center developers for these 10-acre yards.",
-    "traded": "Farrell Companies Advances 27-Home Development at Farrell Estates Wellington With $49M Construction Loan: Farrell Companies is developing 27 single-family homes on a 23-acre site within Palm Beach Polo and Country Club in Well.\n\nJoyland Group Plans 28-Story Tower on Former Chelsea Fur Center Site.\n\nPacific Development and Affirmed Housing Win BART Deal for 643 Homes in Fremont’s Emerging Downtown: Pacific Development and Affirmed Housing are negotiating to develop a 643-home project at Fremont BART Station, includin.\n\nMontperia Group’s Manufacturing-Zoned Borough Park Corner Could Become 150-Unit Rental Tower: Montperia Group proposes a 13-story mixed-use building at 900 60th Street, featuring 150 apartments, with 35 to 42 as af."
+    "pincusco": "Anonymous buyer pays $16.85M to Aurora, A&H Acquisitions for retail in Midtown East,.\n\nCAVU Property signs $72.6M construction loan for two LIC projects with 174 units total.\n\nBig Six Towers co-op in Woodside signs $141.9M rehab construction loan with city.\n\nSarbjit Singh files plans for 55 units in Brownsville.",
+    "the_new_york_times": "No One Wants to Serve on the Condo Board. Now What?: Owners should know that there can be serious financial risks if they don’t set a sustainable path forward for the building.\n\nFloridians Weigh Cutting Property Taxes — And Local Public Services: At the polls on Tuesday, Florida voters will decide whether or not to reduce property taxes — and funding to local governments.\n\nHousing Issues Are on the Ballot. Here’s What to Know.: This election cycle, voters across the country will be asked to weigh in on proposals to shrink lot sizes, slash property taxes and more.\n\nHong Kong Leader Apologizes for Deadly Apartment Building Fire: John Lee, the city’s chief executive, said his housing secretary would step down, but he vehemently defended the government.",
+    "the_wall_street_journal": "Weil Gotshal’s Demise Created a Surprise NYC Office Windfall: The white-shoe law firm’s collapse opens a big block of Fifth Avenue office space, though it is unclear whether the firm or its landlord will benefit.\n\nNYC Office Conversions Charge Ahead After Summer Scare: Plus, the little-known real-estate business riding high on AI.\n\nNYC’s Office-Conversion Projects Are Back After a Big Summer Scare: New York City issued 16 new permits after determining that a near-partial collapse in the former Pfizer building didn’t represent an inherent risk.\n\n‘Yes In God’s Backyard’: Churches Are Turning Their Land Into Affordable Housing: The YIGBY movement has churches building apartments on their property, easing shortages while sustaining their ministries.",
+    "traded": "Seattle’s 70-Year-Old University Village Heads to Simon Property Group: Simon Property Group has agreed to acquire University Village, a nearly 600,000-square-foot shopping center in Seattle,.\n\nJoyland Group Plans 28-Story Tower on Former Chelsea Fur Center Site: Joyland Group plans a 28-story residential tower at 228 West 29th Street in Manhattan, featuring 99 residences and retai.\n\nWorld’s First Riva-Branded Condo Tower Opens Sales Gallery at Fort Lauderdale Boat Show: WellDuo and Vertical Developments, in partnership with Italian yachtmaker Riva, open a yacht-inspired gallery for the 36.\n\nCommunity Development Partners Starts $59M Canvas Affordable Housing Project in Fremont: Community Development Partners has begun construction on Canvas, a $59 million affordable housing development in Fremont."
   },
   "items": [
     {
@@ -141,15 +140,6 @@
       "published_at": "2026-10-29T18:50:11.000Z"
     },
     {
-      "headline": "The Orchard — Queens’ tallest building — is almost all leased out in just 9 months",
-      "summary": "The building also signed its first retail tenants.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/10/27/business/the-orchard-queens-tallest-building-is-almost-all-leased-out-ahead-of-2027-opening/",
-      "section": "new_york_post",
-      "retail": true,
-      "published_at": "2026-10-27T22:36:36.000Z"
-    },
-    {
       "headline": "Camera Brand Fujifilm Takes 13K SF at 210 Lafayette Street in SoHo",
       "summary": "A Japanese camera manufacturer is setting up shop in Manhattan’s photogenic SoHo neighborhood. Fujifilm signed a lease for 12,700 square feet at Comjem Associates ’ 210 Lafayette Street for what could be a brick-and-mortar retail location similar to stores operated by B&H or Adorama . Not much else is known about the deal, but Fujifilm’s new space between Kenmare and Spring streets will span three levels, the New York Post reported .…",
       "source": "Commercial Observer",
@@ -157,24 +147,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-10-19T15:29:15.000Z"
-    },
-    {
-      "headline": "Turner School Renews 8K-SF Lease at Feil’s 145 West 30th Street",
-      "summary": "Turner School , a continuing education provider specializing in commercial and industrial building operations and management, has renewed its 8,300-square-foot lease at the Feil Organization ’s 145 West 30th Street in Midtown South, according to the landlord. This is a “long-term lease” with an asking rent of $55 per square foot, a Feil spokesperson told Commercial Observer. Turner has been a tenant at the 12-story, loft-style commercial office building in Midtown Manhattan since 2008.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/turner-school-lease-renewal-feil-145-west-30th-street/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-10-29T16:56:59.000Z"
-    },
-    {
-      "headline": "Robely, U.S. Legwork Each Ink 5K-SF Deals at Rosen’s 37 West 37th Street",
-      "summary": "Two tenants have taken full-floor leases at the Rosen family’s 37 West 37th Street office property. New York-based importer U.S. Legwork and manufacturer Robely — both wholesale distributors — each relocated to 5,119 square feet at the 12-story Midtown South building, according to Koeppel Rosen , the landlord’s leasing and management agent. U.S. Legwork will occupy the building’s entire fourth floor while Robely will take the fifth floor, each for terms of 10 years and 10 months.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/robely-us-legwork-leases-37-west-37th-street/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-10-29T13:17:11.000Z"
     },
     {
       "headline": "Brooklyn Powerhouse Sports to Open 11K-SF Facility in Sunset Park",
@@ -213,6 +185,15 @@
       "published_at": "2026-10-30T15:30:00.000Z"
     },
     {
+      "headline": "Seattle’s 70-Year-Old University Village Heads to Simon Property Group",
+      "summary": "Simon Property Group has agreed to acquire University Village, a nearly 600,000-square-foot shopping center in Seattle,…",
+      "source": "Traded",
+      "url": "https://traded.co/blog/seattle-s-70-year-old-university-village-heads-to-simon-property-group/",
+      "section": "traded",
+      "retail": true,
+      "published_at": "2026-10-30T00:00:00.000Z"
+    },
+    {
       "headline": "Vici Properties’ Q3 Earnings Hampered by Market Headwinds, Caesars Lease Unknowns",
       "summary": "Vici Properties ’ third-quarter share price performance was hit hard amid escalating capital costs facing net-lease real estate investment trusts (REITs) and uncertainty facing a regional master lease agreement with Caesars Entertainment . The REIT, which is focused heavily on casino and entertainment properties, reported that third-quarter funds from operations (FFO) attributable to common stockholders decreased 55.1 percent to $342 million compared to $762 million, or 71 cents per share, netted in the the…",
       "source": "Commercial Observer",
@@ -220,6 +201,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-10-29T16:58:41.000Z"
+    },
+    {
+      "headline": "CAVU Property signs $72.6M construction loan for two LIC projects with 174 units total",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/cavu-property-signs-72-6m-construction-loan-for-two-lic-projects-with-174-units-total/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-10-30T17:04:00.000Z"
     },
     {
       "headline": "Big Six Towers co-op in Woodside signs $141.9M rehab construction loan with city",
@@ -231,22 +221,22 @@
       "published_at": "2026-10-30T16:18:00.000Z"
     },
     {
-      "headline": "Edward J. Minskoff Equities signs $160.9M construction loan with Apollo for office near JFK",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/edward-j-minskoff-equities-signs-160-9m-construction-loan-with-apollo-for-office-near-jfk/",
-      "section": "pincusco",
+      "headline": "Weil Gotshal’s Demise Created a Surprise NYC Office Windfall",
+      "summary": "The white-shoe law firm’s collapse opens a big block of Fifth Avenue office space, though it is unclear whether the firm or its landlord will benefit.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/real-estate/commercial/weil-gotshals-demise-created-a-surprise-nyc-office-windfall-78fa1184?mod=LatestNewsRealEstate",
+      "section": "the_wall_street_journal",
       "retail": false,
-      "published_at": "2026-10-30T15:01:00.000Z"
+      "published_at": "2026-10-30T19:36:00.000Z"
     },
     {
-      "headline": "Farrell Companies Advances 27-Home Development at Farrell Estates Wellington With $49M Construction Loan",
-      "summary": "Farrell Companies is developing 27 single-family homes on a 23-acre site within Palm Beach Polo and Country Club in Well…",
+      "headline": "Joyland Group Plans 28-Story Tower on Former Chelsea Fur Center Site",
+      "summary": "Joyland Group plans a 28-story residential tower at 228 West 29th Street in Manhattan, featuring 99 residences and retai…",
       "source": "Traded",
-      "url": "https://traded.co/blog/farrell-companies-advances-27-home-development-at-farrell-estates-wellington-with-49m-construction-loan/",
+      "url": "https://traded.co/blog/joyland-group-plans-28-story-tower-on-former-chelsea-fur-center-site/",
       "section": "traded",
       "retail": false,
-      "published_at": "2026-10-29T00:00:00.000Z"
+      "published_at": "2026-10-30T00:00:00.000Z"
     },
     {
       "headline": "NYC Office Conversions Charge Ahead After Summer Scare",
@@ -267,49 +257,58 @@
       "published_at": "2026-10-27T13:19:00.000Z"
     },
     {
-      "headline": "Phantom Capital pays $6M to Atlantis Development for 23-unit rental in Belmont",
+      "headline": "Sarbjit Singh files plans for 55 units in Brownsville",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/phantom-capital-pays-6m-to-atlantis-development-for-23-unit-rental-in-belmont/",
+      "url": "https://www.pincusco.com/sarbjit-singh-files-plans-for-55-units-in-brownsville/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-10-30T15:38:00.000Z"
+      "published_at": "2026-10-31T15:32:00.000Z"
     },
     {
-      "headline": "Joyland Group Plans 28-Story Tower on Former Chelsea Fur Center Site",
+      "headline": "Robert Miller files plans for 8 units in South Slope",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/robert-miller-files-plans-for-8-units-in-south-slope/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-10-31T13:45:00.000Z"
+    },
+    {
+      "headline": "Monarch Realty Holdings files plans for 93 units in Boerum Hill",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/monarch-realty-holdings-files-plans-for-93-units-in-boerum-hill/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-10-31T13:00:00.000Z"
+    },
+    {
+      "headline": "World’s First Riva-Branded Condo Tower Opens Sales Gallery at Fort Lauderdale Boat Show",
+      "summary": "WellDuo and Vertical Developments, in partnership with Italian yachtmaker Riva, open a yacht-inspired gallery for the 36…",
       "source": "Traded",
-      "url": "https://traded.co/blog/joyland-group-plans-28-story-tower-on-former-chelsea-fur-center-site/",
+      "url": "https://traded.co/blog/world-s-first-riva-branded-condo-tower-opens-sales-gallery-at-fort-lauderdale-boat-show/",
       "section": "traded",
       "retail": false,
       "published_at": "2026-10-30T00:00:00.000Z"
     },
     {
-      "headline": "Pacific Development and Affirmed Housing Win BART Deal for 643 Homes in Fremont’s Emerging Downtown",
-      "summary": "Pacific Development and Affirmed Housing are negotiating to develop a 643-home project at Fremont BART Station, includin…",
+      "headline": "Community Development Partners Starts $59M Canvas Affordable Housing Project in Fremont",
+      "summary": "Community Development Partners has begun construction on Canvas, a $59 million affordable housing development in Fremont…",
       "source": "Traded",
-      "url": "https://traded.co/blog/pacific-development-and-affirmed-housing-win-bart-deal-for-643-homes-in-fremont-s-emerging-downtown/",
+      "url": "https://traded.co/blog/community-development-partners-starts-59m-canvas-affordable-housing-project-in-fremont/",
       "section": "traded",
       "retail": false,
-      "published_at": "2026-10-29T00:00:00.000Z"
+      "published_at": "2026-10-30T00:00:00.000Z"
     },
     {
-      "headline": "Montperia Group’s Manufacturing-Zoned Borough Park Corner Could Become 150-Unit Rental Tower",
-      "summary": "Montperia Group proposes a 13-story mixed-use building at 900 60th Street, featuring 150 apartments, with 35 to 42 as af…",
-      "source": "Traded",
-      "url": "https://traded.co/blog/montperia-group-s-manufacturing-zoned-borough-park-corner-could-become-150-unit-rental-tower/",
-      "section": "traded",
-      "retail": false,
-      "published_at": "2026-10-29T00:00:00.000Z"
-    },
-    {
-      "headline": "A Punishing Housing Market Is Squeezing Renters",
-      "summary": "Higher mortgage rates and slowing residential construction are again giving landlords the upper hand.",
+      "headline": "No One Wants to Serve on the Condo Board. Now What?",
+      "summary": "Owners should know that there can be serious financial risks if they don’t set a sustainable path forward for the building.",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/28/business/housing-market-rent-pressure.html",
+      "url": "https://www.nytimes.com/2026/10/31/realestate/condo-board-members-shortage.html",
       "section": "the_new_york_times",
       "retail": false,
-      "published_at": "2026-10-28T18:43:55.000Z"
+      "published_at": "2026-10-31T09:02:06.000Z"
     },
     {
       "headline": "Floridians Weigh Cutting Property Taxes — And Local Public Services",
@@ -346,24 +345,6 @@
       "section": "the_new_york_times",
       "retail": false,
       "published_at": "2026-10-29T11:34:49.000Z"
-    },
-    {
-      "headline": "The Once-Obscure Corner of Commercial Real Estate Now Riding the AI Boom",
-      "summary": "Big investors are piling into industrial outdoor storage, seizing on the demand from data-center developers for these 10-acre yards.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/real-estate/commercial/the-once-obscure-corner-of-commercial-real-estate-now-riding-the-ai-boom-0bce5259?mod=LatestNewsRealEstate",
-      "section": "the_wall_street_journal",
-      "retail": false,
-      "published_at": "2026-10-26T09:30:00.000Z"
-    },
-    {
-      "headline": "My Landlord Replaced Our Doormen With A.I. Can I Get a Rent Reduction?",
-      "summary": "The answer depends on whether the change constitutes a reduction in services offered in the building.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/10/24/realestate/ai-doorman-new-york-city.html",
-      "section": "the_new_york_times",
-      "retail": false,
-      "published_at": "2026-10-24T09:02:13.000Z"
     }
   ]
 }
