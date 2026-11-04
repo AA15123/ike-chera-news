@@ -1,17 +1,16 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-11-03",
-  "generated_at": "2026-11-03T17:41:14.301Z",
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T17:55:02.135Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. **WSJ** is the Dow Jones real-estate feed with lifestyle and opinion dropped. **The New York Times** keeps real-estate and property stories only. **Traded** is commercial deal briefs from its news listing. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Italian Kitchen Manufacturer Officine Gullo to Open Store at 95 Madison Avenue: Hey now, hey now , these kitchens are what dreams are made of. Italy’s Officine Gullo , a manufacturer of luxury commercial and residential kitchens, has taken 3,200 square feet of ground-floor retail space at Sunlight Development ’s 95 Madison Avenue in Manhattan’s NoMad neighborhood, Commercial Observer has learned.\n\nSnowflake Spa to Open New Location at 619 Ninth Avenue in Hell’s Kitchen: It’s giving self-care vibes. Snowflake Spa , a massage therapy and wellness provider, is getting ready to open another location in Manhattan’s Hell’s Kitchen neighborhood at 619 Ninth Avenue .\n\nAT&T Renews 7K-SF Lease at Rudin’s 3 Times Square: Home is where the heart is, and telecommunications giant AT&T is quite at home in the heart of Times Square . The wireless carrier has renewed and extended its lease at Rudin ’s 3 Times Square for another five years, Commercial Observer has learned.\n\nGot Your Six Cannabis Dispensary Secures Manhattan Flagship: A cannabis store is opening its Manhattan flagship location at the base of a luxury Tribeca condominium building. Got Your Six , a licensed dispensary based in New Jersey, has signed a 2,300-square-foot lease at 256 West Street , also known as 92 Laight Street .",
+    "commercial_observer": "Italian Kitchen Manufacturer Officine Gullo to Open Store at 95 Madison Avenue: Hey now, hey now , these kitchens are what dreams are made of. Italy’s Officine Gullo , a manufacturer of luxury commercial and residential kitchens, has taken 3,200 square feet of ground-floor retail space at Sunlight Development ’s 95 Madison Avenue in Manhattan’s NoMad neighborhood, Commercial Observer has learned.\n\nGot Your Six Cannabis Dispensary Secures Manhattan Flagship: A cannabis store is opening its Manhattan flagship location at the base of a luxury Tribeca condominium building. Got Your Six , a licensed dispensary based in New Jersey, has signed a 2,300-square-foot lease at 256 West Street , also known as 92 Laight Street .\n\nNBA Store Seeks New, Larger Location Up to 25K Square Feet: Jump ball. The NBA Store, which is operated by Fanatics -owned sports apparel company Lids , is planning to relocate from its longtime retail location at 545 Fifth Avenue into a larger space, Commercial Observer can first report.\n\nCarnegie Diner & Cafe Operator to Open New Restaurant at 7 Penn Plaza: Carnegie Hospitality is opening its next Carnegie Diner & Cafe in Manhattan’s Penn District. The restaurateur signed on the dotted line last month to take over fast-casual chain Smashburger ’s lease at the Feil Organization ’s 7 Penn Plaza , Commercial Observer has learned.",
     "cre_daily": "Institutions Turn to JVs for Grocery-Anchored Retail: Institutional investors are using joint ventures to gain exposure to retail, especially grocery-anchored centers, citing supply-and-demand fundamentals and long-term income growth.\n\nGrocery-Anchored Retail Premium Hinges on Store and Lease: Grocery-anchored retail is among the most competitive investment niches, with 2025 transaction volume near $11B and cap rates averaging 6.7%, but the grocery label alone doesn’t justify a premium.\n\nPSP and Nuveen Launch $790M Grocery-Anchored Retail JV: PSP Investments and Nuveen Real Estate launched a joint venture with an initial $790M to buy open-air shopping centers anchored by grocers, necessity retailers and essential services.\n\nYounger Partners Buys 261K SF Terrell Power Center: Younger Partners Investments bought Crossroads at Terrell, a fully leased 260,876 SF power center 30 miles east of Dallas, from RealtyLink for an undisclosed price. A regional bank’s senior loan and preferred equity from a national REIT financed the deal, and the center ranked as Texas’ third most-visited retail.",
-    "new_york_post": "Global law firm Vedder getting new NYC digs with move to Sixth Ave. tower: The firm signed for 49,000 square feet, the entire 34th floor, at Rockefeller Group’s 1221 Sixth.",
-    "pincusco": "David Yeroshalmi pays $6M to BLDG, partner for two retail properties in Soundview.\n\nMSquared signs $49.6M rehab construction loan with Citibank for 117-unit rental in East Flatbush.\n\nJoel Schwimmer pays $2M to Jacob Fulop for office condo in Williamsburg.\n\nCSC signs $36.6M refi with BridgeCity for office in Midtown East, portion of $83.5M reported.",
+    "pincusco": "Dilip Jhuremalani pays $4.1M for retail in Jackson Heights.\n\nGuardian Realty signs $16.5M construction loan with Broadview for 20 units in Borough Park.\n\nZeetex Realty sign $16.1M construction loan for 52-unit project in Fordham Manor.",
     "the_new_york_times": "Bringing Up Baby in a One-Bedroom Apartment: Amid a housing shortage and skyrocketing rent, new New York City parents are learning to embrace the squeeze.\n\nNo One Wants to Serve on the Condo Board. Now What?: Owners should know that there can be serious financial risks if they don’t set a sustainable path forward for the building.\n\nFloridians Weigh Cutting Property Taxes — And Local Public Services: At the polls on Tuesday, Florida voters will decide whether or not to reduce property taxes — and funding to local governments.",
-    "the_wall_street_journal": "Weil Gotshal’s Demise Created a Surprise NYC Office Windfall: The white-shoe law firm’s collapse opens a big block of Fifth Avenue office space, though it is unclear whether the firm or its landlord will benefit.\n\nNYC Office Conversions Charge Ahead After Summer Scare: Plus, the little-known real-estate business riding high on AI.\n\nNYC’s Office-Conversion Projects Are Back After a Big Summer Scare: New York City issued 16 new permits after determining that a near-partial collapse in the former Pfizer building didn’t represent an inherent risk.\n\n‘Yes In God’s Backyard’: Churches Are Turning Their Land Into Affordable Housing: The YIGBY movement has churches building apartments on their property, easing shortages while sustaining their ministries.",
-    "traded": "BLDG Management’s The Orchard in Long Island City Hits 90% Leased as Tokimo, Intuit and Mollytea Sign Retail Deals: The Orchard, a 70-story residential tower in Long Island City, has leased over 90% of its 824 apartments, highlighting s.\n\nBrookfield and CPP Investments Close $5.2B LXP Industrial Trust Buyout, Take 52M SF Logistics Portfolio Private: Brookfield Asset Management and Canada Pension Plan Investment Board completed their $5.2 billion acquisition of LXP Ind.\n\nTwo Roads Development and Alpha Blue Ventures Sell Out Forté on Flagler as Final Condos Close at $10.2M Each: Forté on Flagler has fully sold out, with the final two residences closing for approximately $10.2 million each, bringin.\n\nYtech Unveils 52-Story Brickell Tower With Just Three Homes per Floor."
+    "the_wall_street_journal": "Brookfield Walks Away From Luxury L.A. Tower Rather Than Refinance: And, U.S. tax law classifies this upscale Miami neighborhood as “economically distressed.”.\n\nWeil Gotshal’s Demise Created a Surprise NYC Office Windfall: The white-shoe law firm’s collapse opens a big block of Fifth Avenue office space, though it is unclear whether the firm or its landlord will benefit.\n\nNYC Office Conversions Charge Ahead After Summer Scare: Plus, the little-known real-estate business riding high on AI.\n\nNYC’s Office-Conversion Projects Are Back After a Big Summer Scare: New York City issued 16 new permits after determining that a near-partial collapse in the former Pfizer building didn’t represent an inherent risk.",
+    "traded": "BLDG Management’s The Orchard in Long Island City Hits 90% Leased as Tokimo, Intuit and Mollytea Sign Retail Deals: The Orchard, a 70-story residential tower in Long Island City, has leased over 90% of its 824 apartments, highlighting s.\n\nKolter Urban and BH Group Break Ground on Gulf-Front Estates Following $197 Million Construction Loan.\n\nTwo Roads Development and Alpha Blue Ventures Sell Out Forté on Flagler as Final Condos Close at $10.2M Each: Forté on Flagler has fully sold out, with the final two residences closing for approximately $10.2 million each, bringin.\n\nKiferbaum Development Group Wins Approval for Six-Story Mixed-Use Project on Chicago’s Division Street: Kiferbaum Development Group received Zoning Board of Appeals approval for a six-story mixed-use project at 225 W."
   },
   "items": [
     {
@@ -22,15 +21,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-10-22T20:17:56.000Z"
-    },
-    {
-      "headline": "Snowflake Spa to Open New Location at 619 Ninth Avenue in Hell’s Kitchen",
-      "summary": "It’s giving self-care vibes. Snowflake Spa , a massage therapy and wellness provider, is getting ready to open another location in Manhattan’s Hell’s Kitchen neighborhood at 619 Ninth Avenue . The tenant inked a 10-year, 2,200-square-foot lease for ground-floor and basement retail space at the mixed-use property, tenant broker Lee & Associates NYC announced Wednesday.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/snowflake-spa-lease-619-ninth-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-10-21T16:25:53.000Z"
     },
     {
       "headline": "Institutions Turn to JVs for Grocery-Anchored Retail",
@@ -49,15 +39,6 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-10-23T16:47:25.000Z"
-    },
-    {
-      "headline": "AT&T Renews 7K-SF Lease at Rudin’s 3 Times Square",
-      "summary": "Home is where the heart is, and telecommunications giant AT&T is quite at home in the heart of Times Square . The wireless carrier has renewed and extended its lease at Rudin ’s 3 Times Square for another five years, Commercial Observer has learned. AT&T occupies 6,623 square feet of ground-floor and lower-level retail space at the 925,000-square-foot Midtown office tower . AT&T moved into the 30-story property, located on Seventh Avenue between West 42nd and West 43rd streets, in 2008.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/att-lease-rudin-3-times-square/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-10-20T19:06:40.000Z"
     },
     {
       "headline": "Got Your Six Cannabis Dispensary Secures Manhattan Flagship",
@@ -141,13 +122,13 @@
       "published_at": "2026-10-22T17:07:28.000Z"
     },
     {
-      "headline": "Southern California Retail Vacancy Falls to 6.15% in Q3",
-      "summary": "Retail tenants absorbed about 757,600 SF across Los Angeles and Orange counties and the Inland Empire in Q3 2026, while overall vacancy dropped 12 basis points to 6.15%. Orange County vacancy fell 25 basis points to a five-year low of 3.55% with rents up 3% to $2.65 per SF, while the Inland Empire led absorption at 527,000 SF. Los Angeles County lagged with 50,000 SF of absorption, down 77% from Q2, so the recovery is uneven even as community centers lead and construction stays limited.…",
+      "headline": "Banks Lock Up Manhattan Retail Space as Availability Hits Low",
+      "summary": "Bank of America took 16,000 square feet at 19 Union Square West and Citibank took 14,000 square feet at 170 West 72nd Street, two of Manhattan’s largest third-quarter retail leases. Most bank activity is renewals and strategic relocations by existing tenants, and banks are returning to corner locations in a market where space is hard to replace. Prime corridor availability fell to a record-low 157 spaces, and one JLL broker has five or six more bank deals in progress, a sign of broader retail strength.…",
       "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/southern-california-retail-vacancy-falls-to-6-15-in-q3/",
+      "url": "https://www.credaily.com/briefs/banks-lock-up-manhattan-retail-space-as-availability-hits-low/",
       "section": "cre_daily",
       "retail": true,
-      "published_at": "2026-10-20T17:49:16.000Z"
+      "published_at": "2026-11-04T17:31:27.000Z"
     },
     {
       "headline": "Hudson Valley Boutique Shop Signs Lease in Manhattan’s Nolita",
@@ -159,31 +140,31 @@
       "published_at": "2026-10-29T18:50:11.000Z"
     },
     {
-      "headline": "Global law firm Vedder getting new NYC digs with move to Sixth Ave. tower",
-      "summary": "The firm signed for 49,000 square feet, the entire 34th floor, at Rockefeller Group’s 1221 Sixth.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/11/01/business/global-law-firm-vedder-getting-new-nyc-digs-with-move-to-sixth-ave-tower/",
-      "section": "new_york_post",
-      "retail": true,
-      "published_at": "2026-11-01T18:02:17.000Z"
-    },
-    {
-      "headline": "Brooklyn Powerhouse Sports to Open 11K-SF Facility in Sunset Park",
-      "summary": "Brooklyn Powerhouse Sports , a new fitness and athletic training facility, is opening its first location. Brooklyn Powerhouse has signed a 10,871-square-foot lease at Capstone Equities ’ 14 53rd Street , known as the Whale Building , near the shore of New York Harbor in Sunset Park, Commercial Observer has learned. The company will set up batting cages and a small office at the location.…",
+      "headline": "Fintech Firm Octaura Holdings Inks 29K SF at ESRT’s 111 West 33rd Street",
+      "summary": "Octaura Holdings , an electronic trading, data and analytics provider, is moving its offices to 111 West 33rd Street near Midtown Manhattan’s Herald Square . The 28,914-square-foot deal with Empire State Realty Trust (ESRT) spans the entire 17th floor of the 26-story office building, the landlord announced Monday. Octaura currently lists its Manhattan headquarters at Haymes Investment Company ’s 5 Penn Plaza , but it was not immediately clear whether the company intends to depart that space.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/brooklyn-powerhouse-sports-lease-sunset-park-14-53rd-street/",
+      "url": "https://commercialobserver.com/2026/11/octaura-holdings-office-lease-esrt-111-west-33rd-street/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-10-20T19:03:48.000Z"
+      "published_at": "2026-11-03T20:08:14.000Z"
     },
     {
-      "headline": "Brookfield and CPP Investments Close $5.2B LXP Industrial Trust Buyout, Take 52M SF Logistics Portfolio Private",
-      "summary": "Brookfield Asset Management and Canada Pension Plan Investment Board completed their $5.2 billion acquisition of LXP Ind…",
-      "source": "Traded",
-      "url": "https://traded.co/blog/brookfield-and-cpp-investments-close-5-2b-lxp-industrial-trust-buyout-take-52m-sf-logistics-portfolio-private/",
-      "section": "traded",
+      "headline": "Catalyst IOS Doubles HQ at SL Green’s 800 Third Avenue to 12K SF",
+      "summary": "Catalyst IOS , an investment manager specializing in industrial outdoor storage (IOS), has doubled the size of its 800 Third Avenue headquarters, Commercial Observer has learned. Catalyst’s new 12,000-square-foot office takes up the entire 35th floor of SL Green Realty ’s Midtown East Manhattan tower. The company will move from its current 6,000-square-foot space on the 27th floor, according to a company spokesperson. The deal carries a five-year term, and the asking rent was not disclosed.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/11/catalyst-ios-office-lease-expansion-sl-green-800-third-avenue/",
+      "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-11-02T00:00:00.000Z"
+      "published_at": "2026-11-03T18:44:56.000Z"
+    },
+    {
+      "headline": "Architecture Firm Corgan Expands to 41K SF at Empire State Building",
+      "summary": "Empire State Realty Trust (ESRT) signed more than 28,600 square feet of leases at the Empire State Building in the third quarter of this year. In the largest deal, architecture firm Corgan signed a 12.4-year, 15,157-square-foot lease in the building in an expansion from its current 26,035 square feet, giving it a total footprint of 41,192 square feet at the landmarked office building, according to ESRT’s third-quarter earnings report .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/11/corgan-expansion-lease-empire-state-building/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-11-03T22:17:34.000Z"
     },
     {
       "headline": "Life Time Inks 20-Year Lease at Crescent Heights’ Miami Dev Site",
@@ -204,22 +185,67 @@
       "published_at": "2026-10-27T13:33:45.000Z"
     },
     {
-      "headline": "David Yeroshalmi pays $6M to BLDG, partner for two retail properties in Soundview",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/david-yeroshalmi-pays-6m-to-bldg-partner-for-two-retail-properties-in-soundview/",
-      "section": "pincusco",
+      "headline": "Apparel Brand American Giant Leases Brooklyn Store at 83-85 Metropolitan Avenue",
+      "summary": "San Francisco-based apparel brand American Giant has arrived in Brooklyn. The manufacturer of sportswear and casual clothing made exclusively in the United States has signed a lease for 3,400 square feet at 83-85 Metropolitan Avenue in North Williamsburg, where it will open its first Brooklyn store, according to a source familiar with the deal.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/11/american-giant-retail-lease-83-85-metropolitan-avenue/",
+      "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-11-03T15:08:00.000Z"
+      "published_at": "2026-11-03T22:00:03.000Z"
     },
     {
-      "headline": "MSquared signs $49.6M rehab construction loan with Citibank for 117-unit rental in East Flatbush",
+      "headline": "Day Care Operator Inks 21K-SF Lease in Brooklyn’s Gravesend",
+      "summary": "A new Ukrainian day care, Ukrainian New Generation Kids Daycare , has signed a 21,000-square-foot lease at Yakov Ostrovsky ‘s 1940 Shore Parkway in Gravesend, Brooklyn. The day care center is expected to open in the entirety of the four-story commercial building in the second quarter of 2027, and will be able to accommodate 300 children, according to Ripco Real Estate , which represented both the landlord and the tenant in this deal. The length of the lease was not disclosed.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/10/day-care-operator-inks-21k-sf-lease-in-brooklyns-gravesend/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-10-29T14:18:46.000Z"
+    },
+    {
+      "headline": "Dilip Jhuremalani pays $4.1M for retail in Jackson Heights",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/msquared-signs-49-6m-rehab-construction-loan-with-citibank-for-117-unit-rental-in-east-flatbush/",
+      "url": "https://www.pincusco.com/dilip-jhuremalani-pays-4-1m-for-retail-in-jackson-heights/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-11-04T12:11:00.000Z"
+    },
+    {
+      "headline": "Guardian Realty signs $16.5M construction loan with Broadview for 20 units in Borough Park",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/guardian-realty-signs-16-5m-construction-loan-with-broadview-for-20-units-in-borough-park/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-11-03T15:12:00.000Z"
+      "published_at": "2026-11-04T15:22:00.000Z"
+    },
+    {
+      "headline": "Brookfield Walks Away From Luxury L.A. Tower Rather Than Refinance",
+      "summary": "And, U.S. tax law classifies this upscale Miami neighborhood as “economically distressed.”",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/real-estate/commercial/brookfield-walks-away-from-luxury-l-a-tower-rather-than-refinance-4ce8f763?mod=LatestNewsRealEstate",
+      "section": "the_wall_street_journal",
+      "retail": false,
+      "published_at": "2026-11-04T15:00:00.000Z"
+    },
+    {
+      "headline": "Zeetex Realty sign $16.1M construction loan for 52-unit project in Fordham Manor",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/zeetex-realty-sign-16-1m-construction-loan-for-52-unit-project-in-fordham-manor/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-11-04T12:34:00.000Z"
+    },
+    {
+      "headline": "Kolter Urban and BH Group Break Ground on Gulf-Front Estates Following $197 Million Construction Loan",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "Traded",
+      "url": "https://traded.co/blog/kolter-urban-and-bh-group-break-ground-on-gulf-front-estates-following-197-million-construction-loan/",
+      "section": "traded",
+      "retail": false,
+      "published_at": "2026-11-03T00:00:00.000Z"
     },
     {
       "headline": "Two Roads Development and Alpha Blue Ventures Sell Out Forté on Flagler as Final Condos Close at $10.2M Each",
@@ -258,40 +284,13 @@
       "published_at": "2026-10-27T13:19:00.000Z"
     },
     {
-      "headline": "Joel Schwimmer pays $2M to Jacob Fulop for office condo in Williamsburg",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/joel-schwimmer-pays-2m-to-jacob-fulop-for-office-condo-in-williamsburg/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-03T13:00:00.000Z"
-    },
-    {
-      "headline": "CSC signs $36.6M refi with BridgeCity for office in Midtown East, portion of $83.5M reported",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/csc-signs-36-6m-refi-with-bridgecity-for-office-in-midtown-east-portion-of-83-5m-reported/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-03T12:37:00.000Z"
-    },
-    {
-      "headline": "Maheshchand Ratanji pays $6.2M for fee under hotel in East Williamsburg",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/maheshchand-ratanji-pays-6-2m-for-fee-under-hotel-in-east-williamsburg/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-03T12:14:00.000Z"
-    },
-    {
-      "headline": "Ytech Unveils 52-Story Brickell Tower With Just Three Homes per Floor",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "headline": "Kiferbaum Development Group Wins Approval for Six-Story Mixed-Use Project on Chicago’s Division Street",
+      "summary": "Kiferbaum Development Group received Zoning Board of Appeals approval for a six-story mixed-use project at 225 W.",
       "source": "Traded",
-      "url": "https://traded.co/blog/ytech-unveils-52-story-brickell-tower-with-just-three-homes-per-floor/",
+      "url": "https://traded.co/blog/kiferbaum-development-group-wins-approval-for-six-story-mixed-use-project-on-chicago-s-division-street/",
       "section": "traded",
       "retail": false,
-      "published_at": "2026-11-02T00:00:00.000Z"
+      "published_at": "2026-11-03T00:00:00.000Z"
     },
     {
       "headline": "Bringing Up Baby in a One-Bedroom Apartment",
@@ -319,15 +318,6 @@
       "section": "the_new_york_times",
       "retail": false,
       "published_at": "2026-10-30T13:27:28.000Z"
-    },
-    {
-      "headline": "‘Yes In God’s Backyard’: Churches Are Turning Their Land Into Affordable Housing",
-      "summary": "The YIGBY movement has churches building apartments on their property, easing shortages while sustaining their ministries.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/us-news/yes-in-gods-backyard-churches-are-turning-their-land-into-affordable-housing-e696ca01?mod=LatestNewsRealEstate",
-      "section": "the_wall_street_journal",
-      "retail": false,
-      "published_at": "2026-10-29T19:08:00.000Z"
     }
   ]
 }
