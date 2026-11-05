@@ -1,16 +1,17 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-11-04",
-  "generated_at": "2026-11-04T17:55:02.135Z",
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T17:56:37.936Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. **WSJ** is the Dow Jones real-estate feed with lifestyle and opinion dropped. **The New York Times** keeps real-estate and property stories only. **Traded** is commercial deal briefs from its news listing. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Italian Kitchen Manufacturer Officine Gullo to Open Store at 95 Madison Avenue: Hey now, hey now , these kitchens are what dreams are made of. Italy’s Officine Gullo , a manufacturer of luxury commercial and residential kitchens, has taken 3,200 square feet of ground-floor retail space at Sunlight Development ’s 95 Madison Avenue in Manhattan’s NoMad neighborhood, Commercial Observer has learned.\n\nGot Your Six Cannabis Dispensary Secures Manhattan Flagship: A cannabis store is opening its Manhattan flagship location at the base of a luxury Tribeca condominium building. Got Your Six , a licensed dispensary based in New Jersey, has signed a 2,300-square-foot lease at 256 West Street , also known as 92 Laight Street .\n\nNBA Store Seeks New, Larger Location Up to 25K Square Feet: Jump ball. The NBA Store, which is operated by Fanatics -owned sports apparel company Lids , is planning to relocate from its longtime retail location at 545 Fifth Avenue into a larger space, Commercial Observer can first report.\n\nCarnegie Diner & Cafe Operator to Open New Restaurant at 7 Penn Plaza: Carnegie Hospitality is opening its next Carnegie Diner & Cafe in Manhattan’s Penn District. The restaurateur signed on the dotted line last month to take over fast-casual chain Smashburger ’s lease at the Feil Organization ’s 7 Penn Plaza , Commercial Observer has learned.",
-    "cre_daily": "Institutions Turn to JVs for Grocery-Anchored Retail: Institutional investors are using joint ventures to gain exposure to retail, especially grocery-anchored centers, citing supply-and-demand fundamentals and long-term income growth.\n\nGrocery-Anchored Retail Premium Hinges on Store and Lease: Grocery-anchored retail is among the most competitive investment niches, with 2025 transaction volume near $11B and cap rates averaging 6.7%, but the grocery label alone doesn’t justify a premium.\n\nPSP and Nuveen Launch $790M Grocery-Anchored Retail JV: PSP Investments and Nuveen Real Estate launched a joint venture with an initial $790M to buy open-air shopping centers anchored by grocers, necessity retailers and essential services.\n\nYounger Partners Buys 261K SF Terrell Power Center: Younger Partners Investments bought Crossroads at Terrell, a fully leased 260,876 SF power center 30 miles east of Dallas, from RealtyLink for an undisclosed price. A regional bank’s senior loan and preferred equity from a national REIT financed the deal, and the center ranked as Texas’ third most-visited retail.",
-    "pincusco": "Dilip Jhuremalani pays $4.1M for retail in Jackson Heights.\n\nGuardian Realty signs $16.5M construction loan with Broadview for 20 units in Borough Park.\n\nZeetex Realty sign $16.1M construction loan for 52-unit project in Fordham Manor.",
+    "cre_daily": "Institutions Turn to JVs for Grocery-Anchored Retail: Institutional investors are using joint ventures to gain exposure to retail, especially grocery-anchored centers, citing supply-and-demand fundamentals and long-term income growth.\n\nGrocery-Anchored Retail Premium Hinges on Store and Lease: Grocery-anchored retail is among the most competitive investment niches, with 2025 transaction volume near $11B and cap rates averaging 6.7%, but the grocery label alone doesn’t justify a premium.\n\nYounger Partners Buys 261K SF Terrell Power Center: Younger Partners Investments bought Crossroads at Terrell, a fully leased 260,876 SF power center 30 miles east of Dallas, from RealtyLink for an undisclosed price. A regional bank’s senior loan and preferred equity from a national REIT financed the deal, and the center ranked as Texas’ third most-visited retail.\n\nBanks Lock Up Manhattan Retail Space as Availability Hits Low: Bank of America took 16,000 square feet at 19 Union Square West and Citibank took 14,000 square feet at 170 West 72nd Street, two of Manhattan’s largest third-quarter retail leases.",
+    "new_york_post": "One of NYC’s final Gilded Age buildings sells for $42M — but is set for heartbreaking demolition: The 1891 Schieffelin-Bowne House marks a key milestone in Sedesco's yearslong Midtown assemblage, with plans for a 1,100-foot luxury tower taking shape.\n\nCalifornia voters approve $11.25B housing bond, saddling state with decades of new debt: Written by state lawmakers, the measure aims to provide up to 40,000 multifamily rental units and assist another 40,000 households in buying a home.\n\nOakland Coliseum operator axes 1,600 workers as historic stadium sale goes down: The operator of the storied Oakland Coliseum and Oakland Arena is laying off workers en masse as Oakland officials prepare to sell both venues.",
+    "pincusco": "Zvi Mosery signs $12M loan with Apple Bank for office, retail in SoHo.\n\nGuardian Realty signs $16.5M construction loan with Broadview for 20 units in Borough Park.\n\nJapanese contractor pays $13M to RYCO Capital for mixed-use in Greenwich Village.",
     "the_new_york_times": "Bringing Up Baby in a One-Bedroom Apartment: Amid a housing shortage and skyrocketing rent, new New York City parents are learning to embrace the squeeze.\n\nNo One Wants to Serve on the Condo Board. Now What?: Owners should know that there can be serious financial risks if they don’t set a sustainable path forward for the building.\n\nFloridians Weigh Cutting Property Taxes — And Local Public Services: At the polls on Tuesday, Florida voters will decide whether or not to reduce property taxes — and funding to local governments.",
     "the_wall_street_journal": "Brookfield Walks Away From Luxury L.A. Tower Rather Than Refinance: And, U.S. tax law classifies this upscale Miami neighborhood as “economically distressed.”.\n\nWeil Gotshal’s Demise Created a Surprise NYC Office Windfall: The white-shoe law firm’s collapse opens a big block of Fifth Avenue office space, though it is unclear whether the firm or its landlord will benefit.\n\nNYC Office Conversions Charge Ahead After Summer Scare: Plus, the little-known real-estate business riding high on AI.\n\nNYC’s Office-Conversion Projects Are Back After a Big Summer Scare: New York City issued 16 new permits after determining that a near-partial collapse in the former Pfizer building didn’t represent an inherent risk.",
-    "traded": "BLDG Management’s The Orchard in Long Island City Hits 90% Leased as Tokimo, Intuit and Mollytea Sign Retail Deals: The Orchard, a 70-story residential tower in Long Island City, has leased over 90% of its 824 apartments, highlighting s.\n\nKolter Urban and BH Group Break Ground on Gulf-Front Estates Following $197 Million Construction Loan.\n\nTwo Roads Development and Alpha Blue Ventures Sell Out Forté on Flagler as Final Condos Close at $10.2M Each: Forté on Flagler has fully sold out, with the final two residences closing for approximately $10.2 million each, bringin.\n\nKiferbaum Development Group Wins Approval for Six-Story Mixed-Use Project on Chicago’s Division Street: Kiferbaum Development Group received Zoning Board of Appeals approval for a six-story mixed-use project at 225 W."
+    "traded": "Kolter Urban and BH Group Break Ground on Gulf-Front Estates Following $197 Million Construction Loan: Kolter Urban and BH Group have begun construction on Olana Naples, a boutique beachfront project featuring 12 luxury res.\n\nEBALDC Replaces Planned 28-Story Oakland Tower With 112-Unit Affordable One Fallon Project.\n\nMavrek and Fengate Secure Full Building Permit for 380-Unit Julep West Loop Tower With Aldi: Mavrek Development and Fengate Asset Management are advancing Julep West Loop, a 25-story tower at 1016 W. Jackson Boule."
   },
   "items": [
     {
@@ -68,24 +69,6 @@
       "published_at": "2026-10-22T20:36:26.000Z"
     },
     {
-      "headline": "Mexican Eatery Casa Carmen to Open Third Manhattan Location",
-      "summary": "Mexican restaurant Casa Carmen is opening its third Manhattan location in Midtown East, Commercial Observer has learned. The restaurant concept started by chef Carmen “Titita” Ramírez Degollado signed a 15-year, 6,917-square-foot lease to serve up traditional Mexican cuisine at Sage ’s 437 Madison Avenue , according to tenant broker Retail by MONA as well as the landlord . Asking rent for the space was $200 per square foot, according to Retail by MONA.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/casa-carmen-lease-sage-437-madison-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-10-21T18:10:21.000Z"
-    },
-    {
-      "headline": "PSP and Nuveen Launch $790M Grocery-Anchored Retail JV",
-      "summary": "PSP Investments and Nuveen Real Estate launched a joint venture with an initial $790M to buy open-air shopping centers anchored by grocers, necessity retailers and essential services. The partners have closed about 3M SF across 19 properties in eight states, including two portfolios of six centers (801,000 SF) and 11 properties (1.9M SF). PSP says it is narrowing U.S. retail exposure to grocery-anchored centers that deliver inflation-linked income, a bet on daily-needs tenants and high-barrier metros.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/psp-and-nuveen-launch-790m-grocery-anchored-retail-jv/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-10-22T17:01:08.000Z"
-    },
-    {
       "headline": "Financial Tech Platform Intuit Takes 4K SF at the Orchard in LIC",
       "summary": "The Orchard , Queens’ tallest residential tower, has signed several new retail leases totaling 7,468 square feet, building owner and developer BLDG Management announced Thursday. In September, financial services platform Intuit , the company behind programs including TurboTax , QuickBooks , Credit Karma and Mailchimp , signed a 3,546-square-foot lease at the 70-story property at 42-06 Orchard Street in Queens’ Long Island City neighborhood.…",
       "source": "Commercial Observer",
@@ -95,15 +78,6 @@
       "published_at": "2026-10-29T19:56:44.000Z"
     },
     {
-      "headline": "BLDG Management’s The Orchard in Long Island City Hits 90% Leased as Tokimo, Intuit and Mollytea Sign Retail Deals",
-      "summary": "The Orchard, a 70-story residential tower in Long Island City, has leased over 90% of its 824 apartments, highlighting s…",
-      "source": "Traded",
-      "url": "https://traded.co/blog/bldg-management-s-the-orchard-in-long-island-city-hits-90-leased-as-tokimo-intuit-and-mollytea-sign-retail-deals/",
-      "section": "traded",
-      "retail": true,
-      "published_at": "2026-11-02T00:00:00.000Z"
-    },
-    {
       "headline": "Younger Partners Buys 261K SF Terrell Power Center",
       "summary": "Younger Partners Investments bought Crossroads at Terrell, a fully leased 260,876 SF power center 30 miles east of Dallas, from RealtyLink for an undisclosed price. A regional bank’s senior loan and preferred equity from a national REIT financed the deal, and the center ranked as Texas’ third most-visited retail destination in 2025, per Placer.ai.…",
       "source": "CRE Daily",
@@ -111,15 +85,6 @@
       "section": "cre_daily",
       "retail": true,
       "published_at": "2026-10-27T17:31:28.000Z"
-    },
-    {
-      "headline": "Retail Starts Hit a 10-Year Low as Pipeline Falls to 58.3M SF",
-      "summary": "CoStar says 58.3M SF of retail was under construction in Q3, down from 60.6M SF in Q2 and 63.3M SF in Q1, roughly 4% under the 10-year average of 60.7M SF. New starts totaled about 7.7M SF, down from 10.7M SF in Q2 and the lowest quarterly figure since at least 2016, as elevated land, construction and borrowing costs strain feasibility. Dallas-Fort Worth, Houston and Austin hold nearly 27% of the national pipeline, and CoStar expects further shrinkage before any meaningful recovery.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/retail-starts-hit-a-10-year-low-as-pipeline-falls-to-58-3m-sf/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-10-22T17:07:28.000Z"
     },
     {
       "headline": "Banks Lock Up Manhattan Retail Space as Availability Hits Low",
@@ -140,31 +105,40 @@
       "published_at": "2026-10-29T18:50:11.000Z"
     },
     {
-      "headline": "Fintech Firm Octaura Holdings Inks 29K SF at ESRT’s 111 West 33rd Street",
-      "summary": "Octaura Holdings , an electronic trading, data and analytics provider, is moving its offices to 111 West 33rd Street near Midtown Manhattan’s Herald Square . The 28,914-square-foot deal with Empire State Realty Trust (ESRT) spans the entire 17th floor of the 26-story office building, the landlord announced Monday. Octaura currently lists its Manhattan headquarters at Haymes Investment Company ’s 5 Penn Plaza , but it was not immediately clear whether the company intends to depart that space.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/11/octaura-holdings-office-lease-esrt-111-west-33rd-street/",
-      "section": "commercial_observer",
+      "headline": "CVS Split Would Create Two Public Companies by 2028",
+      "summary": "CVS Health plans to separate into a healthcare solutions company and a retail pharmacy company, with the split expected to finish in the first half of 2028. The healthcare company keeps the CVS Health name and brands including Aetna and Caremark, while CVS Pharmacy will operate roughly 9,000 stores, MinuteClinic and mail pharmacy. A standalone 9,000-store retail tenant matters to net lease owners, though the announcement coverage gives no detail on how leases or guarantees will be handled.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/cvs-split-would-create-two-public-companies-by-2028/",
+      "section": "cre_daily",
       "retail": true,
-      "published_at": "2026-11-03T20:08:14.000Z"
+      "published_at": "2026-11-04T17:24:26.000Z"
     },
     {
-      "headline": "Catalyst IOS Doubles HQ at SL Green’s 800 Third Avenue to 12K SF",
-      "summary": "Catalyst IOS , an investment manager specializing in industrial outdoor storage (IOS), has doubled the size of its 800 Third Avenue headquarters, Commercial Observer has learned. Catalyst’s new 12,000-square-foot office takes up the entire 35th floor of SL Green Realty ’s Midtown East Manhattan tower. The company will move from its current 6,000-square-foot space on the 27th floor, according to a company spokesperson. The deal carries a five-year term, and the asking rent was not disclosed.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/11/catalyst-ios-office-lease-expansion-sl-green-800-third-avenue/",
-      "section": "commercial_observer",
+      "headline": "Retail Net Absorption Hits 9.6M SF in Q3",
+      "summary": "U.S. retail net absorption reached 9.6 million SF in Q3, the fifth consecutive positive quarter, led by neighborhood, community and strip centers at 2.4 million SF. Completions hit a quarterly low of 5.5 million SF and a record-low four-quarter total of 7.4 million SF, keeping availability at 4.8% and lifting asking rents 2.5%. Leasing is strong but investment volume fell 6% to $16.8 billion, so landlords hold pricing power while buyers stay cautious on asset-level pricing. Key Takeaways U.S.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/retail-net-absorption-hits-9-6m-sf-in-q3/",
+      "section": "cre_daily",
       "retail": true,
-      "published_at": "2026-11-03T18:44:56.000Z"
+      "published_at": "2026-11-04T17:22:52.000Z"
     },
     {
-      "headline": "Architecture Firm Corgan Expands to 41K SF at Empire State Building",
-      "summary": "Empire State Realty Trust (ESRT) signed more than 28,600 square feet of leases at the Empire State Building in the third quarter of this year. In the largest deal, architecture firm Corgan signed a 12.4-year, 15,157-square-foot lease in the building in an expansion from its current 26,035 square feet, giving it a total footprint of 41,192 square feet at the landmarked office building, according to ESRT’s third-quarter earnings report .…",
+      "headline": "Zvi Mosery signs $12M loan with Apple Bank for office, retail in SoHo",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/zvi-mosery-signs-12m-loan-with-apple-bank-for-office-in-soho/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-11-05T12:39:00.000Z"
+    },
+    {
+      "headline": "Sports Clothing Brand RBX Direct Signs 5K-SF Garment District Lease",
+      "summary": "An activewear brand has signed a lease for an office and showroom in Manhattan’s Garment District. RBX Direct took 4,800 square feet at Lal Sani ’s 102 West 38th Street , where asking rent was $35 per square foot, according to landlord broker Adams & Company . Adams & Company did not disclose the length of the lease or the name of the landlord, but the most recent filings in property records show the building has not traded hands since 1994 when it was purchased by Sani.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/11/corgan-expansion-lease-empire-state-building/",
+      "url": "https://commercialobserver.com/2026/11/rbx-direct-lease-102-west-38th-street/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-11-03T22:17:34.000Z"
+      "published_at": "2026-11-05T15:46:40.000Z"
     },
     {
       "headline": "Life Time Inks 20-Year Lease at Crescent Heights’ Miami Dev Site",
@@ -203,13 +177,13 @@
       "published_at": "2026-10-29T14:18:46.000Z"
     },
     {
-      "headline": "Dilip Jhuremalani pays $4.1M for retail in Jackson Heights",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/dilip-jhuremalani-pays-4-1m-for-retail-in-jackson-heights/",
-      "section": "pincusco",
+      "headline": "For Mall Giant Macerich, More Turnaround in Q3",
+      "summary": "Mall owner Macerich ’s net operating income (NOI) and revenue were up annually in the third quarter of 2026 behind strong leasing and generally favorable conditions for owners of top-shelf brick-and-mortar retail. The Santa Monica, Calif.-based real estate investment trust (REIT), however, recorded a loss attributable to the company of more than $16.73 million for the quarter.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/11/macerich-third-quarter-2026/",
+      "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-11-04T12:11:00.000Z"
+      "published_at": "2026-11-05T13:40:26.000Z"
     },
     {
       "headline": "Guardian Realty signs $16.5M construction loan with Broadview for 20 units in Borough Park",
@@ -230,17 +204,8 @@
       "published_at": "2026-11-04T15:00:00.000Z"
     },
     {
-      "headline": "Zeetex Realty sign $16.1M construction loan for 52-unit project in Fordham Manor",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/zeetex-realty-sign-16-1m-construction-loan-for-52-unit-project-in-fordham-manor/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-04T12:34:00.000Z"
-    },
-    {
       "headline": "Kolter Urban and BH Group Break Ground on Gulf-Front Estates Following $197 Million Construction Loan",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "summary": "Kolter Urban and BH Group have begun construction on Olana Naples, a boutique beachfront project featuring 12 luxury res…",
       "source": "Traded",
       "url": "https://traded.co/blog/kolter-urban-and-bh-group-break-ground-on-gulf-front-estates-following-197-million-construction-loan/",
       "section": "traded",
@@ -248,13 +213,13 @@
       "published_at": "2026-11-03T00:00:00.000Z"
     },
     {
-      "headline": "Two Roads Development and Alpha Blue Ventures Sell Out Forté on Flagler as Final Condos Close at $10.2M Each",
-      "summary": "Forté on Flagler has fully sold out, with the final two residences closing for approximately $10.2 million each, bringin…",
-      "source": "Traded",
-      "url": "https://traded.co/blog/two-roads-development-and-alpha-blue-ventures-sell-out-forte-on-flagler-as-final-condos-close-at-10-2m-each/",
-      "section": "traded",
+      "headline": "One of NYC’s final Gilded Age buildings sells for $42M — but is set for heartbreaking demolition",
+      "summary": "The 1891 Schieffelin-Bowne House marks a key milestone in Sedesco's yearslong Midtown assemblage, with plans for a 1,100-foot luxury tower taking shape.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/04/real-estate/one-of-nycs-final-gilded-age-buildings-sells-for-42m/",
+      "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-11-02T00:00:00.000Z"
+      "published_at": "2026-11-04T20:59:50.000Z"
     },
     {
       "headline": "Weil Gotshal’s Demise Created a Surprise NYC Office Windfall",
@@ -284,13 +249,49 @@
       "published_at": "2026-10-27T13:19:00.000Z"
     },
     {
-      "headline": "Kiferbaum Development Group Wins Approval for Six-Story Mixed-Use Project on Chicago’s Division Street",
-      "summary": "Kiferbaum Development Group received Zoning Board of Appeals approval for a six-story mixed-use project at 225 W.",
+      "headline": "Japanese contractor pays $13M to RYCO Capital for mixed-use in Greenwich Village",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/japanese-contractor-pays-13m-to-ryco-capital-for-mixed-use-in-greenwich-village/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-11-05T11:21:00.000Z"
+    },
+    {
+      "headline": "California voters approve $11.25B housing bond, saddling state with decades of new debt",
+      "summary": "Written by state lawmakers, the measure aims to provide up to 40,000 multifamily rental units and assist another 40,000 households in buying a home.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/04/real-estate/california-approves-prop-1-state-bonds-for-housing-affordability/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-11-04T19:03:11.000Z"
+    },
+    {
+      "headline": "Oakland Coliseum operator axes 1,600 workers as historic stadium sale goes down",
+      "summary": "The operator of the storied Oakland Coliseum and Oakland Arena is laying off workers en masse as Oakland officials prepare to sell both venues.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/04/us-news/oakland-coliseum-operator-cuts-1600-jobs-amid-sale-of-historic-stadium/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-11-04T17:02:22.000Z"
+    },
+    {
+      "headline": "EBALDC Replaces Planned 28-Story Oakland Tower With 112-Unit Affordable One Fallon Project",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "Traded",
-      "url": "https://traded.co/blog/kiferbaum-development-group-wins-approval-for-six-story-mixed-use-project-on-chicago-s-division-street/",
+      "url": "https://traded.co/blog/ebaldc-replaces-planned-28-story-oakland-tower-with-112-unit-affordable-one-fallon-project/",
       "section": "traded",
       "retail": false,
-      "published_at": "2026-11-03T00:00:00.000Z"
+      "published_at": "2026-11-04T00:00:00.000Z"
+    },
+    {
+      "headline": "Mavrek and Fengate Secure Full Building Permit for 380-Unit Julep West Loop Tower With Aldi",
+      "summary": "Mavrek Development and Fengate Asset Management are advancing Julep West Loop, a 25-story tower at 1016 W. Jackson Boule…",
+      "source": "Traded",
+      "url": "https://traded.co/blog/mavrek-and-fengate-secure-full-building-permit-for-380-unit-julep-west-loop-tower-with-aldi/",
+      "section": "traded",
+      "retail": false,
+      "published_at": "2026-11-04T00:00:00.000Z"
     },
     {
       "headline": "Bringing Up Baby in a One-Bedroom Apartment",
