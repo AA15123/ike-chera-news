@@ -1,19 +1,28 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-11-08",
-  "generated_at": "2026-11-08T16:35:46.577Z",
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T20:38:07.890Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. **WSJ** is the Dow Jones real-estate feed with lifestyle and opinion dropped. **The New York Times** keeps real-estate and property stories only. **Traded** is commercial deal briefs from its news listing. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Got Your Six Cannabis Dispensary Secures Manhattan Flagship: A cannabis store is opening its Manhattan flagship location at the base of a luxury Tribeca condominium building. Got Your Six , a licensed dispensary based in New Jersey, has signed a 2,300-square-foot lease at 256 West Street , also known as 92 Laight Street .\n\nNBA Store Seeks New, Larger Location Up to 25K Square Feet: Jump ball. The NBA Store, which is operated by Fanatics -owned sports apparel company Lids , is planning to relocate from its longtime retail location at 545 Fifth Avenue into a larger space, Commercial Observer can first report.\n\nFinancial Tech Platform Intuit Takes 4K SF at the Orchard in LIC: The Orchard , Queens’ tallest residential tower, has signed several new retail leases totaling 7,468 square feet, building owner and developer BLDG Management announced Thursday.\n\nHudson Valley Boutique Shop Signs Lease in Manhattan’s Nolita: A Beacon, N.Y., knickknack shop is making its New York City debut with a store in Manhattan’s Nolita neighborhood, Commercial Observer has learned. Solstad House General Store signed a five-year, 1,200-square-foot lease at Emmanuel Stark ’s 167 Mott Street , with an asking rent of $6,750 per month, according to broker.",
+    "commercial_observer": "Bondi Sushi to Open at Rockefeller’s 1221 Avenue of the Americas: Ah, salmon skin roll . New York and Miami-based Japanese restaurant brand Bondi Sushi has leased 4,400 square feet at Rockefeller Group ’s 1221 Avenue of the Americas in Rockefeller Center , the property owner announced Monday.\n\nGot Your Six Cannabis Dispensary Secures Manhattan Flagship: A cannabis store is opening its Manhattan flagship location at the base of a luxury Tribeca condominium building. Got Your Six , a licensed dispensary based in New Jersey, has signed a 2,300-square-foot lease at 256 West Street , also known as 92 Laight Street .\n\nNBA Store Seeks New, Larger Location Up to 25K Square Feet: Jump ball. The NBA Store, which is operated by Fanatics -owned sports apparel company Lids , is planning to relocate from its longtime retail location at 545 Fifth Avenue into a larger space, Commercial Observer can first report.\n\nFinancial Tech Platform Intuit Takes 4K SF at the Orchard in LIC: The Orchard , Queens’ tallest residential tower, has signed several new retail leases totaling 7,468 square feet, building owner and developer BLDG Management announced Thursday.",
     "cre_daily": "Younger Partners Buys 261K SF Terrell Power Center: Younger Partners Investments bought Crossroads at Terrell, a fully leased 260,876 SF power center 30 miles east of Dallas, from RealtyLink for an undisclosed price. A regional bank’s senior loan and preferred equity from a national REIT financed the deal, and the center ranked as Texas’ third most-visited retail.\n\nBanks Lock Up Manhattan Retail Space as Availability Hits Low: Bank of America took 16,000 square feet at 19 Union Square West and Citibank took 14,000 square feet at 170 West 72nd Street, two of Manhattan’s largest third-quarter retail leases.\n\nCVS Split Would Create Two Public Companies by 2028: CVS Health plans to separate into a healthcare solutions company and a retail pharmacy company, with the split expected to finish in the first half of 2028. The healthcare company keeps the CVS Health name and brands including Aetna and Caremark, while CVS Pharmacy will operate roughly 9,000 stores, MinuteClinic and.\n\nRetail Net Absorption Hits 9.6M SF in Q3: U.S. retail net absorption reached 9.6 million SF in Q3, the fifth consecutive positive quarter, led by neighborhood, community and strip centers at 2.4 million SF.",
-    "new_york_post": "Heisman Trophy has new home — Larry Silverstein’s landmarked 120 Broadway: The 10-year lease also calls for the trophy, an exact replica of the original, to be on view in the public lobby and in the building’s 10th-floor tenants’ amenities center.\n\nMarital home of Russell Brand and Katy Perry asks $275K/month amid rape conviction: The Hollywood Hills spread the pair bought as newlyweds is seeking a new tenant as the comic faces prison.\n\nOne of NYC’s final Gilded Age buildings sells for $42M — but is set for heartbreaking demolition: The 1891 Schieffelin-Bowne House marks a key milestone in Sedesco's yearslong Midtown assemblage, with plans for a 1,100-foot luxury tower taking shape.\n\nCalifornia college system drops $193M on sprawling cliffside hotel — as in-state students fork over $50K a year on tuition: The University of California system is dropping nearly $200 million on a luxury hotel overlooking the Pacific Ocean.",
-    "pincusco": "Brightshore Capital pays $143.1M to SB Development for 190-unit rental in LIC.\n\nGerard Koeppel pays $5.8M to Albert Dayan for mixed-use in Greenpoint.\n\nCriterion Group seeks zoning change to build 321-unit project in Bushwick.",
+    "new_york_post": "Manhattan leasing remains red hot in October: October was yet another boffo month for Manhattan office leasing. CBRE reported activity hit 3.46 million square feet, or 61% above the five-year monthly average.\n\nCalifornia waterfront grocery store to be demolished after 67-year run, ending battle over 848 homes project: One of San Francisco's most famous waterfront grocery stores is heading to the wrecking ball after nearly seven decades.\n\nDeal for 60 Wall St. bodes well for Lower Manhattan: Bushburg, which has successfully turned several other downtown office buildings into apartments, may bring the giant, dormant tower back to life the same way.",
+    "pincusco": "Lagfin sells SoHo retail to anonymous buyer for $33.5M.\n\nThe Group pays $7.2M to W Financial for two retail properties in Greenwich Village.\n\nInfinity Real Estate pays $7.5M to Amerant Bank for retail in Lower East Side.\n\nExpress Builders signs $69.1M construction loan with Popular for parcel with 3 plans in Fordham Heights.",
     "the_new_york_times": "Bringing Up Baby in a One-Bedroom Apartment: Amid a housing shortage and skyrocketing rent, new New York City parents are learning to embrace the squeeze.\n\nNo One Wants to Serve on the Condo Board. Now What?: Owners should know that there can be serious financial risks if they don’t set a sustainable path forward for the building.",
     "the_wall_street_journal": "Brookfield Walks Away From Luxury L.A. Tower Rather Than Refinance: And, U.S. tax law classifies this upscale Miami neighborhood as “economically distressed.”.\n\nWeil Gotshal’s Demise Created a Surprise NYC Office Windfall: The white-shoe law firm’s collapse opens a big block of Fifth Avenue office space, though it is unclear whether the firm or its landlord will benefit.\n\nNYC Office Conversions Charge Ahead After Summer Scare: Plus, the little-known real-estate business riding high on AI.\n\nNYC’s Office-Conversion Projects Are Back After a Big Summer Scare: New York City issued 16 new permits after determining that a near-partial collapse in the former Pfizer building didn’t represent an inherent risk.",
-    "traded": "Provident Industrial Completes 497,280-SF Gateway Logistics Park Phase in El Paso: Provident Industrial completed the fourth phase of Gateway Logistics Park in El Paso, Texas, adding 497,280 square feet.\n\nChicago’s Historic Rector Building Delivers 117 Apartments in Office Conversion: R2 Cos. and Lagfin transformed seven floors of the historic 1905 Rector Building at 79 W."
+    "traded": "Kadima Developers Secures $32.5M Loan for 121-Unit Seven Park Condo Project in Hallandale Beach: Kadima Developers secured a $32.5 million construction loan from S3 Capital Partners for Seven Park, an eight-story mixe.\n\nLincoln Property Company and McCourt Partners Advance 47-Story Office Tower."
   },
   "items": [
+    {
+      "headline": "Bondi Sushi to Open at Rockefeller’s 1221 Avenue of the Americas",
+      "summary": "Ah, salmon skin roll . New York and Miami-based Japanese restaurant brand Bondi Sushi has leased 4,400 square feet at Rockefeller Group ’s 1221 Avenue of the Americas in Rockefeller Center , the property owner announced Monday. The length of the lease and the asking rent were not disclosed. The average asking rent for retail space in Manhattan’s nearby Plaza District along Fifth Avenue between 49th and 59th streets was $2,471 per square foot during the third quarter of 2026, according to CBRE data.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/11/bondi-sushi-lease-1221-avenue-of-the-americas-rockefeller-center/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-11-09T17:35:57.000Z"
+    },
     {
       "headline": "Got Your Six Cannabis Dispensary Secures Manhattan Flagship",
       "summary": "A cannabis store is opening its Manhattan flagship location at the base of a luxury Tribeca condominium building. Got Your Six , a licensed dispensary based in New Jersey, has signed a 2,300-square-foot lease at 256 West Street , also known as 92 Laight Street . The corner retail lease between Laight and Vestry streets occupies part of the ground floor at Riverloft Condominiums , a 13-story luxury complex, and is near Hudson River Park . Crain’s New York first reported on the deal.…",
@@ -96,22 +105,31 @@
       "published_at": "2026-10-27T16:49:04.000Z"
     },
     {
-      "headline": "Simon Property Raises 2026 FFO Guidance After 4.7% Q3 Gain",
-      "summary": "Real Estate FFO rose 4.7% to $1.277 billion, or $3.37 per share, in Q3, and Simon lifted full-year guidance to $13.30 to $13.40 per share, up $0.10. Occupancy reached 96.5% in U.S. malls and Premium Outlets, base minimum rent rose 6.1% to $62.75 per SF, and reported retailer sales climbed 14.8% to $852 per SF. Net income fell to $1.54 per share from $1.86 on $99.6 million of non-cash losses, while the dividend rose 4.5% to $2.30 and Simon repurchased $236.5 million of its stock.…",
+      "headline": "First Washington’s Alex Nyhan on Grocery-Anchored Retail",
+      "summary": "Guest: Alex Nyhan, CEO, First Washington Realty Alex Nyhan is CEO of First Washington Realty, one of the largest owners and operators of grocery-anchored and neighborhood retail in the country, with nearly 150 shopping centers across 22 states. He joined the company in 2014 after stints as a special assistant in the mayor’s office in Washington, DC, and at Forest City Enterprises, where he worked on a 42-acre waterfront redevelopment on the Anacostia River.…",
       "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/simon-property-raises-2026-ffo-guidance-after-4-7-q3-gain/",
+      "url": "https://www.credaily.com/briefs/first-washingtons-alex-nyhan-on-grocery-anchored-retail/",
       "section": "cre_daily",
       "retail": true,
-      "published_at": "2026-11-06T17:17:15.000Z"
+      "published_at": "2026-11-08T17:00:00.000Z"
     },
     {
-      "headline": "AI Firm Modal Labs Takes 157K SF at Rudin’s 32 Avenue of the Americas",
-      "summary": "Modal Labs , an artificial intelligence-based cloud infrastructure company, has signed a 156,763-square-foot lease at Rudin ‘s 32 Avenue of the Americas in Manhattan’s Tribeca neighborhood, according to CBRE ’s October Manhattan office report and confirmed by a source with knowledge of the deal. Modal Labs’ website lists 233 Spring Street in Hudson Square as its current New York City headquarters. The AI firm plans to relocate from its Spring Street spot in mid-2027.…",
+      "headline": "Investment Bank Oppenheimer Relocates HQ to 220K-SF Office at 32 Old Slip",
+      "summary": "Investment bank and wealth management giant Oppenheimer & Company plans to relocate its headquarters within Lower Manhattan. Oppenheimer & Company, a subsidiary of Oppenheimer Holdings , has signed an approximately 220,000-square-foot lease across six full floors at RXR ’s 32 Old Slip office property in Manhattan’s Financial District, according to the company and tenant broker JLL . The firm will relocate in early 2028 from nearby 2 Wall Street .…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/11/modal-labs-lease-rudin-32-avenue-of-the-americas/",
+      "url": "https://commercialobserver.com/2026/11/oppenheimer-lease-relocation-32-old-slip/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-11-06T14:28:20.000Z"
+      "published_at": "2026-11-09T17:49:40.000Z"
+    },
+    {
+      "headline": "Manhattan leasing remains red hot in October",
+      "summary": "October was yet another boffo month for Manhattan office leasing. CBRE reported activity hit 3.46 million square feet, or 61% above the five-year monthly average. Asking rents rose to $81.61 per square foot, up 6% year-over-year. CBRE and Cushman & Wakefield have reported increased Manhattan office leasing rents. Cushman & Wakefield had similar findings. It...",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/08/business/manhattan-leasing-remains-red-hot-in-october/",
+      "section": "new_york_post",
+      "retail": true,
+      "published_at": "2026-11-08T18:15:43.000Z"
     },
     {
       "headline": "Sports Clothing Brand RBX Direct Signs 5K-SF Garment District Lease",
@@ -121,15 +139,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-11-05T15:46:40.000Z"
-    },
-    {
-      "headline": "Silverstein Catches Hail Mary Lease With Heisman at 120 Broadway",
-      "summary": "Heisman , the organization responsible for bequeathing the holy grail of trophies to college football players, is moving to an equally prestigious office. Heisman signed a 10-year lease for 5,000 square feet at Silverstein Properties ’ 120 Broadway , where it will occupy the 13th floor in 2027, according to the landlord.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/11/heisman-lease-silverstein-120-broadway/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-11-06T17:12:17.000Z"
     },
     {
       "headline": "Life Time Inks 20-Year Lease at Crescent Heights’ Miami Dev Site",
@@ -150,6 +159,15 @@
       "published_at": "2026-10-27T13:33:45.000Z"
     },
     {
+      "headline": "Retail Broker Matt Ogle Returns to CBRE After 11 Years at JLL",
+      "summary": "CBRE has clawed back an old associate from JLL after he’d spent more than 20 years at other firms, Commercial Observer has learned. Matt Ogle has rejoined the brokerage as executive vice president of retail leasing in New York after two decades representing major occupiers like Chelsea Piers Fitness in regional expansions, according to CBRE. Ogle has been at JLL for the last 11 years, most recently holding the title of executive managing director.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/11/matt-ogle-hire-cbre-jll/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-11-09T17:55:24.000Z"
+    },
+    {
       "headline": "Apparel Brand American Giant Leases Brooklyn Store at 83-85 Metropolitan Avenue",
       "summary": "San Francisco-based apparel brand American Giant has arrived in Brooklyn. The manufacturer of sportswear and casual clothing made exclusively in the United States has signed a lease for 3,400 square feet at 83-85 Metropolitan Avenue in North Williamsburg, where it will open its first Brooklyn store, according to a source familiar with the deal.…",
       "source": "Commercial Observer",
@@ -168,22 +186,31 @@
       "published_at": "2026-10-29T14:18:46.000Z"
     },
     {
-      "headline": "Heisman Trophy has new home — Larry Silverstein’s landmarked 120 Broadway",
-      "summary": "The 10-year lease also calls for the trophy, an exact replica of the original, to be on view in the public lobby and in the building’s 10th-floor tenants’ amenities center.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/11/05/business/heisman-trophy-has-new-home-larry-silversteins-landmarked-120-broadway/",
-      "section": "new_york_post",
+      "headline": "Lagfin sells SoHo retail to anonymous buyer for $33.5M",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/lagfin-sells-soho-retail-to-anonymous-buyer-for-33-5m/",
+      "section": "pincusco",
       "retail": true,
-      "published_at": "2026-11-05T20:22:47.000Z"
+      "published_at": "2026-11-09T14:15:00.000Z"
     },
     {
-      "headline": "Marital home of Russell Brand and Katy Perry asks $275K/month amid rape conviction",
-      "summary": "The Hollywood Hills spread the pair bought as newlyweds is seeking a new tenant as the comic faces prison.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/11/05/real-estate/marital-home-of-russell-brand-and-katy-perry-asks-275k-month/",
-      "section": "new_york_post",
+      "headline": "The Group pays $7.2M to W Financial for two retail properties in Greenwich Village",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/the-group-pays-7-2m-to-w-financial-for-two-retail-properties-in-greenwich-village/",
+      "section": "pincusco",
       "retail": true,
-      "published_at": "2026-11-05T18:59:34.000Z"
+      "published_at": "2026-11-09T12:56:00.000Z"
+    },
+    {
+      "headline": "Infinity Real Estate pays $7.5M to Amerant Bank for retail in Lower East Side",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/infinity-real-estate-pays-7-5m-to-amerant-bank-for-retail-in-lower-east-side/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-11-09T12:35:00.000Z"
     },
     {
       "headline": "For Mall Giant Macerich, More Turnaround in Q3",
@@ -195,13 +222,49 @@
       "published_at": "2026-11-05T13:40:26.000Z"
     },
     {
-      "headline": "Provident Industrial Completes 497,280-SF Gateway Logistics Park Phase in El Paso",
-      "summary": "Provident Industrial completed the fourth phase of Gateway Logistics Park in El Paso, Texas, adding 497,280 square feet…",
-      "source": "Traded",
-      "url": "https://traded.co/blog/provident-industrial-completes-497-280-sf-gateway-logistics-park-phase-in-el-paso/",
-      "section": "traded",
+      "headline": "California waterfront grocery store to be demolished after 67-year run, ending battle over 848 homes project",
+      "summary": "One of San Francisco's most famous waterfront grocery stores is heading to the wrecking ball after nearly seven decades.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/09/real-estate/california-grocery-store-to-be-demolished-after-67-year-run/",
+      "section": "new_york_post",
       "retail": true,
-      "published_at": "2026-11-05T00:00:00.000Z"
+      "published_at": "2026-11-09T19:09:54.000Z"
+    },
+    {
+      "headline": "Express Builders signs $69.1M construction loan with Popular for parcel with 3 plans in Fordham Heights",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/express-builders-signs-69-1m-construction-loan-with-popular-for-parcel-with-3-plans-in-fordham-heights/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-11-09T15:17:00.000Z"
+    },
+    {
+      "headline": "Renovation Group signs $9.5M construction loan with Colorado Federal for 11-unit project in Park Slope",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/renovation-group-signs-9-5m-construction-loan-with-colorado-federal-for-11-unit-project-in-park-slope/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-11-09T12:29:00.000Z"
+    },
+    {
+      "headline": "Extell signs $27M project loan with Guggenheim for dev sites in Lincoln Square",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/extell-signs-27m-project-loan-with-guggenheim-for-dev-sites-in-lincoln-square/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-11-09T05:00:00.000Z"
+    },
+    {
+      "headline": "Kadima Developers Secures $32.5M Loan for 121-Unit Seven Park Condo Project in Hallandale Beach",
+      "summary": "Kadima Developers secured a $32.5 million construction loan from S3 Capital Partners for Seven Park, an eight-story mixe…",
+      "source": "Traded",
+      "url": "https://traded.co/blog/kadima-developers-secures-32-5m-loan-for-121-unit-seven-park-condo-project-in-hallandale-beach/",
+      "section": "traded",
+      "retail": false,
+      "published_at": "2026-11-09T00:00:00.000Z"
     },
     {
       "headline": "Brookfield Walks Away From Luxury L.A. Tower Rather Than Refinance",
@@ -213,13 +276,13 @@
       "published_at": "2026-11-04T15:00:00.000Z"
     },
     {
-      "headline": "One of NYC’s final Gilded Age buildings sells for $42M — but is set for heartbreaking demolition",
-      "summary": "The 1891 Schieffelin-Bowne House marks a key milestone in Sedesco's yearslong Midtown assemblage, with plans for a 1,100-foot luxury tower taking shape.",
+      "headline": "Deal for 60 Wall St. bodes well for Lower Manhattan",
+      "summary": "Bushburg, which has successfully turned several other downtown office buildings into apartments, may bring the giant, dormant tower back to life the same way.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/11/04/real-estate/one-of-nycs-final-gilded-age-buildings-sells-for-42m/",
+      "url": "https://nypost.com/2026/11/08/business/deal-for-60-wall-st-bodes-well-for-lower-manhattan/",
       "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-11-04T20:59:50.000Z"
+      "published_at": "2026-11-08T17:51:53.000Z"
     },
     {
       "headline": "Weil Gotshal’s Demise Created a Surprise NYC Office Windfall",
@@ -249,49 +312,13 @@
       "published_at": "2026-10-27T13:19:00.000Z"
     },
     {
-      "headline": "California college system drops $193M on sprawling cliffside hotel — as in-state students fork over $50K a year on tuition",
-      "summary": "The University of California system is dropping nearly $200 million on a luxury hotel overlooking the Pacific Ocean.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/11/07/real-estate/uc-system-buys-193-million-ritz-carlton-as-california-college-costs-top-50k/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-11-07T21:13:23.000Z"
-    },
-    {
-      "headline": "Brightshore Capital pays $143.1M to SB Development for 190-unit rental in LIC",
+      "headline": "Lincoln Property Company and McCourt Partners Advance 47-Story Office Tower",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/brightshore-capital-pays-143-1m-to-sb-development-for-190-unit-rental-in-lic/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-06T15:33:00.000Z"
-    },
-    {
-      "headline": "Gerard Koeppel pays $5.8M to Albert Dayan for mixed-use in Greenpoint",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/gerard-koeppel-pays-5-8m-to-albert-dayan-for-mixed-use-in-greenpoint/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-06T15:21:00.000Z"
-    },
-    {
-      "headline": "Criterion Group seeks zoning change to build 321-unit project in Bushwick",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/criterion-group-seeks-zoning-change-to-build-321-unit-project-in-bushwick/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-06T10:46:51.000Z"
-    },
-    {
-      "headline": "Chicago’s Historic Rector Building Delivers 117 Apartments in Office Conversion",
-      "summary": "R2 Cos. and Lagfin transformed seven floors of the historic 1905 Rector Building at 79 W. Monroe in Chicago's Loop into…",
       "source": "Traded",
-      "url": "https://traded.co/blog/chicago-s-historic-rector-building-delivers-117-apartments-in-office-conversion/",
+      "url": "https://traded.co/blog/lincoln-property-company-and-mccourt-partners-advance-47-story-office-tower/",
       "section": "traded",
       "retail": false,
-      "published_at": "2026-11-05T00:00:00.000Z"
+      "published_at": "2026-11-09T00:00:00.000Z"
     },
     {
       "headline": "Bringing Up Baby in a One-Bedroom Apartment",
