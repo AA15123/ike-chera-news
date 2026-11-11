@@ -1,17 +1,16 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-11-10",
-  "generated_at": "2026-11-10T17:38:39.892Z",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T17:50:03.684Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. **WSJ** is the Dow Jones real-estate feed with lifestyle and opinion dropped. **The New York Times** keeps real-estate and property stories only. **Traded** is commercial deal briefs from its news listing. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Bondi Sushi to Open at Rockefeller’s 1221 Avenue of the Americas: Ah, salmon skin roll . New York and Miami-based Japanese restaurant brand Bondi Sushi has leased 4,400 square feet at Rockefeller Group ’s 1221 Avenue of the Americas in Rockefeller Center , the property owner announced Monday.\n\nGot Your Six Cannabis Dispensary Secures Manhattan Flagship: A cannabis store is opening its Manhattan flagship location at the base of a luxury Tribeca condominium building. Got Your Six , a licensed dispensary based in New Jersey, has signed a 2,300-square-foot lease at 256 West Street , also known as 92 Laight Street .\n\nNBA Store Seeks New, Larger Location Up to 25K Square Feet: Jump ball. The NBA Store, which is operated by Fanatics -owned sports apparel company Lids , is planning to relocate from its longtime retail location at 545 Fifth Avenue into a larger space, Commercial Observer can first report.\n\nFinancial Tech Platform Intuit Takes 4K SF at the Orchard in LIC: The Orchard , Queens’ tallest residential tower, has signed several new retail leases totaling 7,468 square feet, building owner and developer BLDG Management announced Thursday.",
+    "commercial_observer": "Bondi Sushi to Open at Rockefeller’s 1221 Avenue of the Americas: Ah, salmon skin roll . New York and Miami-based Japanese restaurant brand Bondi Sushi has leased 4,400 square feet at Rockefeller Group ’s 1221 Avenue of the Americas in Rockefeller Center , the property owner announced Monday.\n\nGot Your Six Cannabis Dispensary Secures Manhattan Flagship: A cannabis store is opening its Manhattan flagship location at the base of a luxury Tribeca condominium building. Got Your Six , a licensed dispensary based in New Jersey, has signed a 2,300-square-foot lease at 256 West Street , also known as 92 Laight Street .\n\nFinancial Tech Platform Intuit Takes 4K SF at the Orchard in LIC: The Orchard , Queens’ tallest residential tower, has signed several new retail leases totaling 7,468 square feet, building owner and developer BLDG Management announced Thursday.\n\nHudson Valley Boutique Shop Signs Lease in Manhattan’s Nolita: A Beacon, N.Y., knickknack shop is making its New York City debut with a store in Manhattan’s Nolita neighborhood, Commercial Observer has learned. Solstad House General Store signed a five-year, 1,200-square-foot lease at Emmanuel Stark ’s 167 Mott Street , with an asking rent of $6,750 per month, according to broker.",
     "cre_daily": "Banks Lock Up Manhattan Retail Space as Availability Hits Low: Bank of America took 16,000 square feet at 19 Union Square West and Citibank took 14,000 square feet at 170 West 72nd Street, two of Manhattan’s largest third-quarter retail leases.\n\nCVS Split Would Create Two Public Companies by 2028: CVS Health plans to separate into a healthcare solutions company and a retail pharmacy company, with the split expected to finish in the first half of 2028. The healthcare company keeps the CVS Health name and brands including Aetna and Caremark, while CVS Pharmacy will operate roughly 9,000 stores, MinuteClinic and.\n\nRetail Net Absorption Hits 9.6M SF in Q3: U.S. retail net absorption reached 9.6 million SF in Q3, the fifth consecutive positive quarter, led by neighborhood, community and strip centers at 2.4 million SF.\n\nFirst Washington’s Alex Nyhan on Grocery-Anchored Retail: Guest: Alex Nyhan, CEO, First Washington Realty Alex Nyhan is CEO of First Washington Realty, one of the largest owners and operators of grocery-anchored and neighborhood retail in the country, with nearly 150 shopping centers across 22 states.",
-    "new_york_post": "Manhattan leasing remains red hot in October: October was yet another boffo month for Manhattan office leasing. CBRE reported activity hit 3.46 million square feet, or 61% above the five-year monthly average.\n\nCalifornia waterfront grocery store to be demolished after 67-year run, ending battle over 848 homes project: One of San Francisco's most famous waterfront grocery stores is heading to the wrecking ball after nearly seven decades.\n\nDeal for 60 Wall St. bodes well for Lower Manhattan: Bushburg, which has successfully turned several other downtown office buildings into apartments, may bring the giant, dormant tower back to life the same way.",
-    "pincusco": "Yecheskel Weiss signs $6.9M construction loan with IceCap for 99-unit project in Bedford Park.\n\nAl Faisal Holding signs $235M refi with Fortress for Crowne Plaza hotel in Midtown West.\n\nKoeppel Rosen LLC signs $20M refi with Minnesota Life for office in Penn Plaza.\n\nGreenhouse owners seek zoning change to build 226-unit tower in Woodside.",
-    "the_new_york_times": "Bringing Up Baby in a One-Bedroom Apartment: Amid a housing shortage and skyrocketing rent, new New York City parents are learning to embrace the squeeze.",
-    "the_wall_street_journal": "Brookfield Walks Away From Luxury L.A. Tower Rather Than Refinance: And, U.S. tax law classifies this upscale Miami neighborhood as “economically distressed.”.\n\nWeil Gotshal’s Demise Created a Surprise NYC Office Windfall: The white-shoe law firm’s collapse opens a big block of Fifth Avenue office space, though it is unclear whether the firm or its landlord will benefit.\n\nNYC Office Conversions Charge Ahead After Summer Scare: Plus, the little-known real-estate business riding high on AI.\n\nCan Hotels, Libraries and Apartment Towers Absorb America’s Timber Glut?: Architects and developers are turning to mass timber as an alternative to traditional structural materials such as steel and concrete for large buildings.",
-    "traded": "Kadima Developers Secures $32.5M Loan for 121-Unit Seven Park Condo Project in Hallandale Beach: Kadima Developers secured a $32.5 million construction loan from S3 Capital Partners for Seven Park, an eight-story mixe.\n\nTruAmerica Multifamily Breaks Ground on 154-Unit River Walk Townhomes in Santa Clarita: TruAmerica Multifamily has begun construction on River Walk Townhomes, a 154-unit rental development in Santa Clarita, f.\n\nLincoln Property Company and McCourt Partners Advance 47-Story Office Tower: Lincoln Property Company and McCourt Partners are proposing a 47-story office tower at 536 Mission Street, featuring 1.2."
+    "new_york_post": "California waterfront grocery store to be demolished after 67-year run, ending battle over 848 homes project: One of San Francisco's most famous waterfront grocery stores is heading to the wrecking ball after nearly seven decades.\n\nMassive 3-home portfolio lists for a bargain price — and Kansas may even pay you to move there: There's no place like home — especially if that home is a grandiose, historic estate located in the heart of America.",
+    "pincusco": "Jacob Fulop files plans for 198 units in East Harlem.\n\nIzaki Group Investments files plans for 15 units in NoHo.\n\nAronov Group signs $24M refi loan for three properties in Jamaica Estates.\n\nRelated Companies signs $130M refi with Wells Fargo for 108-unit mixed-use in Tribeca.",
+    "the_wall_street_journal": "Brookfield Walks Away From Luxury L.A. Tower Rather Than Refinance: And, U.S. tax law classifies this upscale Miami neighborhood as “economically distressed.”.\n\nWeil Gotshal’s Demise Created a Surprise NYC Office Windfall: The white-shoe law firm’s collapse opens a big block of Fifth Avenue office space, though it is unclear whether the firm or its landlord will benefit.\n\nA Mini-Exodus Unfolds at Blackstone’s Marquee Real Estate Team: Plus, Boise’s rent rebound shows a splintering apartment market.\n\nCan Hotels, Libraries and Apartment Towers Absorb America’s Timber Glut?: Architects and developers are turning to mass timber as an alternative to traditional structural materials such as steel and concrete for large buildings.",
+    "traded": "Elecor Brings Speakeasy to Fifth Avenue Tower With 13,000-SF Amenity Floor: Elecor Properties is renovating 13,000 square feet on the eighth floor of 712 Fifth Avenue, adding amenities such as a s.\n\nOnni Plans Padel Court and Plunge Pools in $25M Revamp of Loop Tower Across From Google’s Thompson Center: Onni Group acquired 161 N. Clark Street for $125 million in March 2026 and plans a $25 million renovation, adding 60,000.\n\nHotel Novak Djokovic Brings Aman’s New Wellness Brand to a 1,049-Foot Brickell Tower.\n\nRelated Lands $141M to Turn Former Office Depot HQ Into 544 Apartments: Related Group, alongside BH Group and PEBB Enterprises, secured an additional $140.7 million from Wells Fargo for Broken."
   },
   "items": [
     {
@@ -31,15 +30,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-11-02T16:40:07.000Z"
-    },
-    {
-      "headline": "NBA Store Seeks New, Larger Location Up to 25K Square Feet",
-      "summary": "Jump ball. The NBA Store, which is operated by Fanatics -owned sports apparel company Lids , is planning to relocate from its longtime retail location at 545 Fifth Avenue into a larger space, Commercial Observer can first report. The retailer of team jerseys, collectibles and other basketball-related merchandise is exploring seven potential locations around Midtown Manhattan to expand from its current 15,000 square feet of sellable retail space that it has leased since 2015 at the corner of 45th Street and Fifth…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/10/nba-store-manhattan-relocation-expansion/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-10-27T19:15:32.000Z"
     },
     {
       "headline": "Financial Tech Platform Intuit Takes 4K SF at the Orchard in LIC",
@@ -114,13 +104,13 @@
       "published_at": "2026-10-30T16:48:44.000Z"
     },
     {
-      "headline": "Manhattan leasing remains red hot in October",
-      "summary": "October was yet another boffo month for Manhattan office leasing. CBRE reported activity hit 3.46 million square feet, or 61% above the five-year monthly average. Asking rents rose to $81.61 per square foot, up 6% year-over-year. CBRE and Cushman & Wakefield have reported increased Manhattan office leasing rents. Cushman & Wakefield had similar findings. It...",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/11/08/business/manhattan-leasing-remains-red-hot-in-october/",
-      "section": "new_york_post",
+      "headline": "Equity Management Firm Forest Avenue Capital Inks 7K-SF Lease at 45 East 53rd Street",
+      "summary": "Park 53 , a 19-story boutique office property at 45 East 53rd Street in Midtown Manhattan, has welcomed three new tenants across space on three floors, spanning a total of 19,145 square feet, Commercial Observer has learned. The largest lease was a 7,145-square-foot deal for equity management firm Forest Avenue Capital , which will occupy space on the seventh floor and relocate from 9 West 57th Street , according to landlord broker JLL .…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/11/forest-avenue-capital-lease-45-east-53rd-street-park-53/",
+      "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-11-08T18:15:43.000Z"
+      "published_at": "2026-11-10T19:33:52.000Z"
     },
     {
       "headline": "Sports Clothing Brand RBX Direct Signs 5K-SF Garment District Lease",
@@ -132,13 +122,22 @@
       "published_at": "2026-11-05T15:46:40.000Z"
     },
     {
-      "headline": "Stabilizing Footprints, Demand Shifts Drive U.S. Office Leasing to 62M SF in Q3",
-      "summary": "U.S. office leasing was on the rise in the third quarter of 2026, as tenant footprints stabilized and competitive employers sought high-quality office space amid dwindling supply. Office leasing volume nationwide totaled 62 million square feet in the third quarter, according to Newmark , in an 18 percent year-over-year uptick that was still 21 percent below pre-pandemic quarterly averages. Newmark’s quarterly report tracks leases spanning 10,000 square feet or more across 62 U.S. markets.…",
+      "headline": "Simon Nearing $555M CMBS Package to Refi Dadeland Mall in South Florida",
+      "summary": "Simon Property Group and Prime Property Fund are closing in on a $555 million commercial mortgage-backed securities debt package to refinance the Dadeland Mall in suburban Miami-Dade County. Wells Fargo , Bank of Montreal and J.P. Morgan Chase Bank are originating the 10-year, fixed-rate, interest-only loan, according to Fitch Ratings . The agency valued the 1.5 million-square-foot mall at $909 million, applying a 7 percent capitalization rate. The transaction — which is expected to close Dec.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/11/footprint-demand-us-office-leasing-q3/",
+      "url": "https://commercialobserver.com/2026/11/dadeland-mall-miami-simon-prime/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-11-09T21:12:11.000Z"
+      "published_at": "2026-11-10T22:00:30.000Z"
+    },
+    {
+      "headline": "Elecor Brings Speakeasy to Fifth Avenue Tower With 13,000-SF Amenity Floor",
+      "summary": "Elecor Properties is renovating 13,000 square feet on the eighth floor of 712 Fifth Avenue, adding amenities such as a s…",
+      "source": "Traded",
+      "url": "https://traded.co/blog/elecor-brings-speakeasy-to-fifth-avenue-tower-with-13-000-sf-amenity-floor/",
+      "section": "traded",
+      "retail": true,
+      "published_at": "2026-11-10T00:00:00.000Z"
     },
     {
       "headline": "Life Time Inks 20-Year Lease at Crescent Heights’ Miami Dev Site",
@@ -150,13 +149,13 @@
       "published_at": "2026-10-28T18:20:14.000Z"
     },
     {
-      "headline": "Retail Broker Matt Ogle Returns to CBRE After 11 Years at JLL",
-      "summary": "CBRE has clawed back an old associate from JLL after he’d spent more than 20 years at other firms, Commercial Observer has learned. Matt Ogle has rejoined the brokerage as executive vice president of retail leasing in New York after two decades representing major occupiers like Chelsea Piers Fitness in regional expansions, according to CBRE. Ogle had been at JLL for the last 11 years, most recently holding the title of executive managing director.…",
+      "headline": "Sui Yoga to Open 13K-SF Studio at 71 Fifth Avenue",
+      "summary": "Wellness and fitness operator Sui Yoga has selected 71 Fifth Avenue for its second Manhattan location. The hot yoga, Pilates and strength training studio inked a 13-year deal for 13,000 square feet at the Midtown South building, located one block west of Union Square at the corner of Fifth Avenue and East 15th Street. Asking rent was $1.7 million per year. The deal involved the property’s previous landlord, Madison Capital , as well as its new owner.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/11/matt-ogle-hire-cbre-jll/",
+      "url": "https://commercialobserver.com/2026/11/sui-yoga-lease-71-fifth-avenue-retail/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-11-09T17:55:24.000Z"
+      "published_at": "2026-11-10T19:43:33.000Z"
     },
     {
       "headline": "Apparel Brand American Giant Leases Brooklyn Store at 83-85 Metropolitan Avenue",
@@ -195,22 +194,13 @@
       "published_at": "2026-11-09T19:09:54.000Z"
     },
     {
-      "headline": "Yecheskel Weiss signs $6.9M construction loan with IceCap for 99-unit project in Bedford Park",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/yecheskel-weiss-signs-6-9m-new-construction-loan-with-icecap-group-for-two-1-4-family-properties-in-bedford-park/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-10T14:47:00.000Z"
-    },
-    {
-      "headline": "Kadima Developers Secures $32.5M Loan for 121-Unit Seven Park Condo Project in Hallandale Beach",
-      "summary": "Kadima Developers secured a $32.5 million construction loan from S3 Capital Partners for Seven Park, an eight-story mixe…",
+      "headline": "Onni Plans Padel Court and Plunge Pools in $25M Revamp of Loop Tower Across From Google’s Thompson Center",
+      "summary": "Onni Group acquired 161 N. Clark Street for $125 million in March 2026 and plans a $25 million renovation, adding 60,000…",
       "source": "Traded",
-      "url": "https://traded.co/blog/kadima-developers-secures-32-5m-loan-for-121-unit-seven-park-condo-project-in-hallandale-beach/",
+      "url": "https://traded.co/blog/onni-plans-padel-court-and-plunge-pools-in-25m-revamp-of-loop-tower-across-from-google-s-thompson-center/",
       "section": "traded",
       "retail": false,
-      "published_at": "2026-11-09T00:00:00.000Z"
+      "published_at": "2026-11-10T00:00:00.000Z"
     },
     {
       "headline": "Brookfield Walks Away From Luxury L.A. Tower Rather Than Refinance",
@@ -222,15 +212,6 @@
       "published_at": "2026-11-04T15:00:00.000Z"
     },
     {
-      "headline": "Deal for 60 Wall St. bodes well for Lower Manhattan",
-      "summary": "Bushburg, which has successfully turned several other downtown office buildings into apartments, may bring the giant, dormant tower back to life the same way.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/11/08/business/deal-for-60-wall-st-bodes-well-for-lower-manhattan/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-11-08T17:51:53.000Z"
-    },
-    {
       "headline": "Weil Gotshal’s Demise Created a Surprise NYC Office Windfall",
       "summary": "The white-shoe law firm’s collapse opens a big block of Fifth Avenue office space, though it is unclear whether the firm or its landlord will benefit.",
       "source": "The Wall Street Journal",
@@ -240,76 +221,94 @@
       "published_at": "2026-10-30T19:36:00.000Z"
     },
     {
-      "headline": "NYC Office Conversions Charge Ahead After Summer Scare",
-      "summary": "Plus, the little-known real-estate business riding high on AI.",
+      "headline": "Massive 3-home portfolio lists for a bargain price — and Kansas may even pay you to move there",
+      "summary": "There's no place like home — especially if that home is a grandiose, historic estate located in the heart of America.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/11/real-estate/2m-buys-a-condo-in-california-or-a-historic-estate-in-kansas/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-11-11T16:59:18.000Z"
+    },
+    {
+      "headline": "Jacob Fulop files plans for 198 units in East Harlem",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/jacob-fulop-files-plans-for-198-units-in-east-harlem/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-11-11T15:43:00.000Z"
+    },
+    {
+      "headline": "Izaki Group Investments files plans for 15 units in NoHo",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/izaki-group-investments-files-plans-for-15-units-in-noho/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-11-11T15:14:00.000Z"
+    },
+    {
+      "headline": "Aronov Group signs $24M refi loan for three properties in Jamaica Estates",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/aronov-group-signs-24m-refi-loan-for-three-properties-in-jamaica-estates/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-11-11T15:06:00.000Z"
+    },
+    {
+      "headline": "Related Companies signs $130M refi with Wells Fargo for 108-unit mixed-use in Tribeca",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/related-companies-signs-130m-refi-with-wells-fargo-for-108-unit-mixed-use-in-tribeca/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-11-11T13:55:00.000Z"
+    },
+    {
+      "headline": "Stagg Group files plans for 99 units in Mt Hope",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/stagg-group-files-plans-for-99-units-in-mt-hope/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-11-11T13:02:00.000Z"
+    },
+    {
+      "headline": "Related Companies files plans for 376 units in Willets Point",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/related-companies-files-plans-for-376-units-in-willets-point/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-11-11T12:49:00.000Z"
+    },
+    {
+      "headline": "Hotel Novak Djokovic Brings Aman’s New Wellness Brand to a 1,049-Foot Brickell Tower",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "Traded",
+      "url": "https://traded.co/blog/novak-djokovic-brings-aman-s-new-wellness-brand-to-a-1-049-foot-brickell-tower/",
+      "section": "traded",
+      "retail": false,
+      "published_at": "2026-11-10T00:00:00.000Z"
+    },
+    {
+      "headline": "Related Lands $141M to Turn Former Office Depot HQ Into 544 Apartments",
+      "summary": "Related Group, alongside BH Group and PEBB Enterprises, secured an additional $140.7 million from Wells Fargo for Broken…",
+      "source": "Traded",
+      "url": "https://traded.co/blog/related-lands-141m-to-turn-former-office-depot-hq-into-544-apartments/",
+      "section": "traded",
+      "retail": false,
+      "published_at": "2026-11-10T00:00:00.000Z"
+    },
+    {
+      "headline": "A Mini-Exodus Unfolds at Blackstone’s Marquee Real Estate Team",
+      "summary": "Plus, Boise’s rent rebound shows a splintering apartment market",
       "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/real-estate/commercial/nyc-office-conversions-charge-ahead-after-summer-scare-3295ca49?mod=LatestNewsRealEstate",
+      "url": "https://www.wsj.com/real-estate/a-mini-exodus-unfolds-at-blackstones-marquee-real-estate-team-72f94e52?mod=LatestNewsRealEstate",
       "section": "the_wall_street_journal",
       "retail": false,
-      "published_at": "2026-10-28T13:55:00.000Z"
-    },
-    {
-      "headline": "Al Faisal Holding signs $235M refi with Fortress for Crowne Plaza hotel in Midtown West",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/al-faisal-holding-signs-235m-refi-with-fortress-for-crown-plaza-hotel-in-midtown-west/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-10T15:00:00.000Z"
-    },
-    {
-      "headline": "Koeppel Rosen LLC signs $20M refi with Minnesota Life for office in Penn Plaza",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/koeppel-rosen-llc-signs-20m-refi-with-minnesota-life-for-office-in-penn-plaza/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-10T14:26:00.000Z"
-    },
-    {
-      "headline": "Greenhouse owners seek zoning change to build 226-unit tower in Woodside",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/greenhouse-owners-seek-zoning-change-to-build-226-unit-tower-in-woodside/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-10T13:09:32.000Z"
-    },
-    {
-      "headline": "Feng Lin pays $4.1M to Shelly Yao for mixed-use in Flushing",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/feng-lin-pays-4-1m-to-shelly-yao-for-mixed-use-in-flushing/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-10T11:44:00.000Z"
-    },
-    {
-      "headline": "TruAmerica Multifamily Breaks Ground on 154-Unit River Walk Townhomes in Santa Clarita",
-      "summary": "TruAmerica Multifamily has begun construction on River Walk Townhomes, a 154-unit rental development in Santa Clarita, f…",
-      "source": "Traded",
-      "url": "https://traded.co/blog/truamerica-multifamily-breaks-ground-on-154-unit-river-walk-townhomes-in-santa-clarita/",
-      "section": "traded",
-      "retail": false,
-      "published_at": "2026-11-09T00:00:00.000Z"
-    },
-    {
-      "headline": "Lincoln Property Company and McCourt Partners Advance 47-Story Office Tower",
-      "summary": "Lincoln Property Company and McCourt Partners are proposing a 47-story office tower at 536 Mission Street, featuring 1.2…",
-      "source": "Traded",
-      "url": "https://traded.co/blog/lincoln-property-company-and-mccourt-partners-advance-47-story-office-tower/",
-      "section": "traded",
-      "retail": false,
-      "published_at": "2026-11-09T00:00:00.000Z"
-    },
-    {
-      "headline": "Bringing Up Baby in a One-Bedroom Apartment",
-      "summary": "Amid a housing shortage and skyrocketing rent, new New York City parents are learning to embrace the squeeze.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/01/realestate/raising-kids-small-apartments-new-york.html",
-      "section": "the_new_york_times",
-      "retail": false,
-      "published_at": "2026-11-02T16:22:45.000Z"
+      "published_at": "2026-11-11T14:55:00.000Z"
     },
     {
       "headline": "Can Hotels, Libraries and Apartment Towers Absorb America’s Timber Glut?",
