@@ -1,17 +1,18 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-11-13",
-  "generated_at": "2026-11-13T17:37:11.683Z",
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T16:29:37.692Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. **WSJ** is the Dow Jones real-estate feed with lifestyle and opinion dropped. **The New York Times** keeps real-estate and property stories only. **Traded** is commercial deal briefs from its news listing. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Australian Fashion Brand Mode Mischief Inks Lease at SoHo’s 65 Spring Street: Australian fashion brand Mode Mischief has signed a 2,000-square-foot retail lease at 65 Spring Street in Manhattan’s SoHo, Commercial Observer has learned. The deal converts the spot where the apparel company has held a pop-up location since May into its permanent home for the next five years.\n\nBondi Sushi to Open at Rockefeller’s 1221 Avenue of the Americas: Ah, salmon skin roll . New York and Miami-based Japanese restaurant brand Bondi Sushi has leased 4,400 square feet at Rockefeller Group ’s 1221 Avenue of the Americas in Rockefeller Center , the property owner announced Monday.\n\nGot Your Six Cannabis Dispensary Secures Manhattan Flagship: A cannabis store is opening its Manhattan flagship location at the base of a luxury Tribeca condominium building. Got Your Six , a licensed dispensary based in New Jersey, has signed a 2,300-square-foot lease at 256 West Street , also known as 92 Laight Street .\n\nMD Squared Property Group Takes 16K SF at Feil’s 145 West 30th Street: MD Squared Property Group , a New York City-based property management firm, has signed a 16,376-square-foot lease at the Feil Organization ’s 145 West 30th Street in Midtown South, Commercial Observer has learned. The deal brings the 12-story office building to 100 percent occupancy.",
+    "commercial_observer": "Australian Fashion Brand Mode Mischief Inks Lease at SoHo’s 65 Spring Street: Australian fashion brand Mode Mischief has signed a 2,000-square-foot retail lease at 65 Spring Street in Manhattan’s SoHo, Commercial Observer has learned. The deal converts the spot where the apparel company has held a pop-up location since May into its permanent home for the next five years.\n\nBondi Sushi to Open at Rockefeller’s 1221 Avenue of the Americas: Ah, salmon skin roll . New York and Miami-based Japanese restaurant brand Bondi Sushi has leased 4,400 square feet at Rockefeller Group ’s 1221 Avenue of the Americas in Rockefeller Center , the property owner announced Monday.\n\nGot Your Six Cannabis Dispensary Secures Manhattan Flagship: A cannabis store is opening its Manhattan flagship location at the base of a luxury Tribeca condominium building. Got Your Six , a licensed dispensary based in New Jersey, has signed a 2,300-square-foot lease at 256 West Street , also known as 92 Laight Street .\n\nCreative Design Firm Collins Relocates NYC HQ to 11K SF at 207 Front Street: Creative design studio Collins is moving its New York headquarters across the East River . The award-winning firm inked an 11,380-square-foot lease across four floors at Seaport Associates ’ 207 Front Street , the tenant’s broker confirmed.",
     "cre_daily": "JLL: Retail Vacancy Dips to 4.3% as Openings Beat Closures: U.S. retail net absorption totaled 8.3M SF in Q3 after 10.2M in Q2, and vacancy slipped to 4.3%.\n\nBanks Lock Up Manhattan Retail Space as Availability Hits Low: Bank of America took 16,000 square feet at 19 Union Square West and Citibank took 14,000 square feet at 170 West 72nd Street, two of Manhattan’s largest third-quarter retail leases.\n\nCVS Split Would Create Two Public Companies by 2028: CVS Health plans to separate into a healthcare solutions company and a retail pharmacy company, with the split expected to finish in the first half of 2028. The healthcare company keeps the CVS Health name and brands including Aetna and Caremark, while CVS Pharmacy will operate roughly 9,000 stores, MinuteClinic and.\n\nRetail Net Absorption Hits 9.6M SF in Q3: U.S. retail net absorption reached 9.6 million SF in Q3, the fifth consecutive positive quarter, led by neighborhood, community and strip centers at 2.4 million SF.",
-    "new_york_post": "Mamdani trying to force distressed building owners to sell to nonprofits — even after creditors refuse: The troubled 850-unit portfolio has racked up more than 2,300 housing code violations.\n\nMassive 3-home portfolio lists for a bargain price — and Kansas may even pay you to move there: There's no place like home — especially if that home is a grandiose, historic estate located in the heart of America.",
-    "pincusco": "Joel Weiss signs $5.3M construction loan with Broadview for 17-unit project in Ridgewood.\n\nJeweler Fine Emerald pays $8.2M to Touro University for office condos in Midtown West.\n\nChetrit Organization signs $55M refi with Maxim Capital for office in Garment District.\n\nNamdar, Mason Asset pay $60.6M to Madison Capital, Lubert-Adler for office in Flatiron District.",
-    "the_new_york_times": "Mortgage Rates Remain High as Affordability Challenges Persist: The average 30-year, fixed-rate home loan fell slightly, to 7.11 percent, pushing buyers and sellers to the sidelines until conditions improve.\n\nDeed Theft Is Rising, Along With Property Values: The victims are often older people or immigrants, with thieves going after vacant land or unoccupied homes. But there are ways to protect yourself.\n\nRex Reed’s Longtime Dakota Apartment Is on the Market: The asking price for the two-bedroom co-op, which the film critic bought nearly six decades ago, is $5.99 million.",
-    "the_wall_street_journal": "Brookfield Walks Away From Luxury L.A. Tower Rather Than Refinance: And, U.S. tax law classifies this upscale Miami neighborhood as “economically distressed.”.\n\nWeil Gotshal’s Demise Created a Surprise NYC Office Windfall: The white-shoe law firm’s collapse opens a big block of Fifth Avenue office space, though it is unclear whether the firm or its landlord will benefit.\n\nPalm Beach Developer Drops $160 Million Deal Over Fears of NIMBY Neighbor: Todd Michael Glaser nixed plans to buy and raze a compound next to billionaire John Middleton after failing to get his blessing.\n\nPalm Beach’s $100 Million Listings Club Adds Another Waterfront Property: A hedge-funder and an investor bought the Intracoastal estate for about $51.6 million two years ago and made a number of updates.",
-    "traded": "56 Maple and Fulton Asset Management Target Investors for River North Office Makeover.\n\nRMG Housing Advances 75-Unit Affordable Apartment Project in Los Angeles: RMG Housing is constructing a six-story affordable housing project with 75 apartments at 3455 West Slauson Avenue in Hyd.\n\nThompson Dorfman Launches $15M Waterfront Luxury Home Development at Mallard Pointe in Belvedere: Thompson Dorfman Partners is developing Mallard Pointe, a luxury collection of 23 residences on Belvedere Lagoon, with p."
+    "new_york_post": "Famed gallerist’s loft in NYC ‘It’ building asks $6M — a home previously owned by Calvin Klein: The sprawling two- to three-bedroom Police Building aerie is a combo of two separate units joined together by the fashion designer Klein.",
+    "pincusco": "Joel Weiss signs $5.3M construction loan with Broadview for 17-unit project in Ridgewood.\n\nJeweler Fine Emerald pays $8.2M to Touro University for office condos in Midtown West.",
+    "the_new_york_times": "Mortgage Rates Remain High as Affordability Challenges Persist: The average 30-year, fixed-rate home loan fell slightly, to 7.11 percent, pushing buyers and sellers to the sidelines until conditions improve.\n\nMy Condo Wants Charging Spots for Electric Cars. How Do We Add Them Fairly?: Installing EV charging can be complicated, requiring buy-in from your association, building management and the local electric utility provider.\n\nDeed Theft Is Rising, Along With Property Values: The victims are often older people or immigrants, with thieves going after vacant land or unoccupied homes. But there are ways to protect yourself.\n\nRex Reed’s Longtime Dakota Apartment Is on the Market: The asking price for the two-bedroom co-op, which the film critic bought nearly six decades ago, is $5.99 million.",
+    "the_real_deal": "Gary Barnett buys air rights for Midtown supertall: Gary Barnett is buying assets and air rights left and right this week. Extell Development acquired air rights attached to 34 and 36 East 61st Street from Hartz Mountain Industries for $34.9 million, the Commercial Observer reported.\n\nNew York City reels from deadly building collapse: A terrible tragedy shone a harsh light on a Brooklyn building after the Flatbush property collapsed, killing eight and injuring 18 more. The incident at 1321 Flatbush Avenue happened around 4:30 p.m., when the building fell into an open construction site next door.\n\nFormer Compass Development Marketing employee alleges sex, age discrimination: Compass Development Marketing Group and Naftali Group have a good thing going. Compass’ new development group has launched sales for a number of Naftali projects in recent years, including the Henry at 211 West 84th Street, the Willow at 201 East 23rd Street and 255 East 77th Street.\n\nBen Beitel sells luxury Brooklyn building for $52M: Two real estate players with interests in multiple businesses found themselves on opposite sides of a luxury multifamily deal in Brooklyn. Doron Greenberg purchased the property at 100 Lenox Road in Prospect Lefferts Gardens through an affiliate of Metis Equities for $52 million, the Commercial Observer reported.",
+    "the_wall_street_journal": "Brookfield Walks Away From Luxury L.A. Tower Rather Than Refinance: And, U.S. tax law classifies this upscale Miami neighborhood as “economically distressed.”.\n\nPalm Beach Developer Drops $160 Million Deal Over Fears of NIMBY Neighbor: Todd Michael Glaser nixed plans to buy and raze a compound next to billionaire John Middleton after failing to get his blessing.\n\nPalm Beach’s $100 Million Listings Club Adds Another Waterfront Property: A hedge-funder and an investor bought the Intracoastal estate for about $51.6 million two years ago and made a number of updates.\n\nA Mini-Exodus Unfolds at Blackstone’s Marquee Real Estate Team: Plus, Boise’s rent rebound shows a splintering apartment market.",
+    "traded": "ICON and ASCO Equipment Bring 3D-Printed Commercial Construction to San Antonio With 12,649-SF Project: ICON is 3D-printing a 12,649-square-foot exhibition and training center for ASCO Equipment in San Antonio, Texas, with c.\n\nMixed Use Falcone Group Secures $85.5M Bank OZK Loan for $133M Oakland Park Development.\n\nCamber Property Group and RiseBoro Complete $75M, 127-Unit Affordable Housing Development in Bushwick: Camber Property Group and RiseBoro Community Partnership have developed a $75 million affordable housing complex at 1601.\n\n56 Maple and Fulton Asset Management Target Investors for River North Office Makeover: 56 Maple and Fulton Asset Management are transforming 444 N. Orleans Street in Chicago's River North into a 25,000+ squa."
   },
   "items": [
     {
@@ -96,6 +97,24 @@
       "published_at": "2026-11-06T17:17:15.000Z"
     },
     {
+      "headline": "Creative Design Firm Collins Relocates NYC HQ to 11K SF at 207 Front Street",
+      "summary": "Creative design studio Collins is moving its New York headquarters across the East River . The award-winning firm inked an 11,380-square-foot lease across four floors at Seaport Associates ’ 207 Front Street , the tenant’s broker confirmed. The lease covers the entire office portion of the four-story landmarked building, according to Crain’s New York Business , which first reported on the transaction. The five-year deal includes a five-year extension option, and asking rent was around $50 per square foot.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/11/collins-lease-207-front-street-seaport/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-11-13T21:53:12.000Z"
+    },
+    {
+      "headline": "Irvine Company Signs Nearly 2.5M SF of Office Leases in Q3",
+      "summary": "Irvine Company signed nearly 2.5 million square feet of office leases in the third quarter, led by deals with Taco Bell and medical technology firm Envista and seizing on the overall demand for Orange County, Calif., space compared with its neighbors. The Newport Beach-based private real estate giant completed 182 leases across its national office portfolio from July through September, generating 722,000 square feet of positive net absorption, Commercial Observer can first report.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/11/calif-irvine-co-office-leases/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-11-13T18:45:03.000Z"
+    },
+    {
       "headline": "MD Squared Property Group Takes 16K SF at Feil’s 145 West 30th Street",
       "summary": "MD Squared Property Group , a New York City-based property management firm, has signed a 16,376-square-foot lease at the Feil Organization ’s 145 West 30th Street in Midtown South, Commercial Observer has learned. The deal brings the 12-story office building to 100 percent occupancy. “Reaching 100 percent capacity is an important milestone and reflects the continued demand we’re seeing for well-located, full-floor office space,” Andrew Wiener , head of commercial leasing at Feil, said in a statement.…",
       "source": "Commercial Observer",
@@ -121,6 +140,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-11-05T15:46:40.000Z"
+    },
+    {
+      "headline": "ICON and ASCO Equipment Bring 3D-Printed Commercial Construction to San Antonio With 12,649-SF Project",
+      "summary": "ICON is 3D-printing a 12,649-square-foot exhibition and training center for ASCO Equipment in San Antonio, Texas, with c…",
+      "source": "Traded",
+      "url": "https://traded.co/blog/icon-and-asco-equipment-bring-3d-printed-commercial-construction-to-san-antonio-with-12-649-sf-project/",
+      "section": "traded",
+      "retail": true,
+      "published_at": "2026-11-13T00:00:00.000Z"
     },
     {
       "headline": "New Music Venue Signs Lease at Refinery at Domino",
@@ -159,6 +187,24 @@
       "published_at": "2026-11-05T13:40:26.000Z"
     },
     {
+      "headline": "Gary Barnett buys air rights for Midtown supertall",
+      "summary": "Gary Barnett is buying assets and air rights left and right this week. Extell Development acquired air rights attached to 34 and 36 East 61st Street from Hartz Mountain Industries for $34.9 million, the Commercial Observer reported. The air rights could allow Barnett to expand plans for the proposed supertall at 655 Madison Avenue in Midtown. Neither company responded to a request for comment from the publication. It’s been relatively quiet on the project since the end of last year.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/11/13/gary-barnett-buys-air-rights-for-midtown-supertall/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-11-13T16:24:20.000Z"
+    },
+    {
+      "headline": "Mixed Use Falcone Group Secures $85.5M Bank OZK Loan for $133M Oakland Park Development",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "Traded",
+      "url": "https://traded.co/blog/falcone-group-secures-85-5m-bank-ozk-loan-for-133m-oakland-park-development/",
+      "section": "traded",
+      "retail": false,
+      "published_at": "2026-11-13T00:00:00.000Z"
+    },
+    {
       "headline": "Joel Weiss signs $5.3M construction loan with Broadview for 17-unit project in Ridgewood",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
@@ -177,13 +223,58 @@
       "published_at": "2026-11-04T15:00:00.000Z"
     },
     {
-      "headline": "Weil Gotshal’s Demise Created a Surprise NYC Office Windfall",
-      "summary": "The white-shoe law firm’s collapse opens a big block of Fifth Avenue office space, though it is unclear whether the firm or its landlord will benefit.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/real-estate/commercial/weil-gotshals-demise-created-a-surprise-nyc-office-windfall-78fa1184?mod=LatestNewsRealEstate",
-      "section": "the_wall_street_journal",
+      "headline": "Famed gallerist’s loft in NYC ‘It’ building asks $6M — a home previously owned by Calvin Klein",
+      "summary": "The sprawling two- to three-bedroom Police Building aerie is a combo of two separate units joined together by the fashion designer Klein.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/14/real-estate/sleek-loft-in-nycs-police-building-lists-for-6m/",
+      "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-10-30T19:36:00.000Z"
+      "published_at": "2026-11-14T14:13:00.000Z"
+    },
+    {
+      "headline": "New York City reels from deadly building collapse",
+      "summary": "A terrible tragedy shone a harsh light on a Brooklyn building after the Flatbush property collapsed, killing eight and injuring 18 more. The incident at 1321 Flatbush Avenue happened around 4:30 p.m., when the building fell into an open construction site next door. The dead include two children and two construction workers. Rescue efforts unfolded overnight before they were called off about 24 hours after the initial incident. The cause of the collapse has not been officially established.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/11/14/new-york-city-reels-from-deadly-building-collapse/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-11-14T13:00:00.000Z"
+    },
+    {
+      "headline": "Former Compass Development Marketing employee alleges sex, age discrimination",
+      "summary": "Compass Development Marketing Group and Naftali Group have a good thing going. Compass’ new development group has launched sales for a number of Naftali projects in recent years, including the Henry at 211 West 84th Street, the Willow at 201 East 23rd Street and 255 East 77th Street. But the group’s project pipeline with one of the city’s top developers is at the heart of a former employee’s lawsuit filed in the Southern District of New York.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/11/13/former-compass-new-dev-employee-sues-firm/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-11-13T22:30:00.000Z"
+    },
+    {
+      "headline": "Ben Beitel sells luxury Brooklyn building for $52M",
+      "summary": "Two real estate players with interests in multiple businesses found themselves on opposite sides of a luxury multifamily deal in Brooklyn. Doron Greenberg purchased the property at 100 Lenox Road in Prospect Lefferts Gardens through an affiliate of Metis Equities for $52 million, the Commercial Observer reported. The deal for the eight-story, 95-unit property breaks down to more than $547,000 per unit. The seller was Pulse Bedford Development, an entity associated with Ben Beitel of the Beitel Group.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/11/13/ben-beitel-sells-luxury-brooklyn-building-for-52m/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-11-13T17:00:00.000Z"
+    },
+    {
+      "headline": "Amid the blue wave election, a YIMBY ripple",
+      "summary": "Overlooked by all the talk about the “blue wave” election was an important San Francisco race between two Democrats with conflicting views on housing development. California state Sen. Scott Wiener’s victory in a combative House contest sends a clear message that pursuing a YIMBY agenda can boost a political career rather than sabotage it.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/11/14/scott-wieners-win-shows-promise-of-pro-housing-politics/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-11-14T13:00:00.000Z"
+    },
+    {
+      "headline": "NY Dirt: Trades urge reform after deadly building collapse",
+      "summary": "The building trades joined families mourning the loss of eight people who died in a Flatbush building collapse to demand better safety measures and justice for victims. Three construction workers were identified among those who died after a multifamily building at 1321 Flatbush Avenue collapsed into the neighboring job site at 2625 Bedford Avenue. Two men from Guinea also lost their lives on Wednesday, along with a man from Colombia, his 9-year-old daughter and her 10-year-old cousin.…",
+      "source": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/2026/11/14/building-trades-urge-reform-after-deadly-brooklyn-collapse/",
+      "section": "the_real_deal",
+      "retail": false,
+      "published_at": "2026-11-14T12:30:00.000Z"
     },
     {
       "headline": "Jeweler Fine Emerald pays $8.2M to Touro University for office condos in Midtown West",
@@ -195,33 +286,6 @@
       "published_at": "2026-11-13T15:12:00.000Z"
     },
     {
-      "headline": "Chetrit Organization signs $55M refi with Maxim Capital for office in Garment District",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/chetrit-organization-signs-55m-refi-with-maxim-capital-for-office-in-garment-district/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-13T15:08:00.000Z"
-    },
-    {
-      "headline": "Namdar, Mason Asset pay $60.6M to Madison Capital, Lubert-Adler for office in Flatiron District",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/namdar-mason-asset-pay-60-6m-to-madison-capital-lubert-adler-for-office-in-flatiron-district/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-13T14:47:00.000Z"
-    },
-    {
-      "headline": "Hung Pin Hung pays $44.2M to Tishman Realty for 52-unit project in Gramercy",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/hung-pin-hung-pays-44-2m-to-tishman-realty-for-52-unit-project-in-gramercy/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-13T14:37:00.000Z"
-    },
-    {
       "headline": "Mortgage Rates Remain High as Affordability Challenges Persist",
       "summary": "The average 30-year, fixed-rate home loan fell slightly, to 7.11 percent, pushing buyers and sellers to the sidelines until conditions improve.",
       "source": "The New York Times",
@@ -231,58 +295,40 @@
       "published_at": "2026-11-13T14:28:29.000Z"
     },
     {
-      "headline": "Mamdani trying to force distressed building owners to sell to nonprofits — even after creditors refuse",
-      "summary": "The troubled 850-unit portfolio has racked up more than 2,300 housing code violations.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/11/12/real-estate/mamdani-trying-to-force-distressed-building-owners-to-sell/",
-      "section": "new_york_post",
+      "headline": "Camber Property Group and RiseBoro Complete $75M, 127-Unit Affordable Housing Development in Bushwick",
+      "summary": "Camber Property Group and RiseBoro Community Partnership have developed a $75 million affordable housing complex at 1601…",
+      "source": "Traded",
+      "url": "https://traded.co/blog/camber-property-group-and-riseboro-complete-75m-127-unit-affordable-housing-development-in-bushwick/",
+      "section": "traded",
       "retail": false,
-      "published_at": "2026-11-12T21:32:06.000Z"
-    },
-    {
-      "headline": "SL Green servicer files $399M pre-foreclosure at CIM Group’s Garment District office building",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/sl-green-servicer-files-399m-pre-foreclosure-at-cim-groups-garment-district-office-building/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-12T15:34:13.000Z"
+      "published_at": "2026-11-13T00:00:00.000Z"
     },
     {
       "headline": "56 Maple and Fulton Asset Management Target Investors for River North Office Makeover",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "summary": "56 Maple and Fulton Asset Management are transforming 444 N. Orleans Street in Chicago's River North into a 25,000+ squa…",
       "source": "Traded",
       "url": "https://traded.co/blog/56-maple-and-fulton-asset-management-target-investors-for-river-north-office-makeover/",
       "section": "traded",
       "retail": false,
-      "published_at": "2026-11-12T00:00:00.000Z"
+      "published_at": "2026-11-13T00:00:00.000Z"
     },
     {
-      "headline": "RMG Housing Advances 75-Unit Affordable Apartment Project in Los Angeles",
-      "summary": "RMG Housing is constructing a six-story affordable housing project with 75 apartments at 3455 West Slauson Avenue in Hyd…",
-      "source": "Traded",
-      "url": "https://traded.co/blog/rmg-housing-advances-75-unit-affordable-apartment-project-in-los-angeles/",
-      "section": "traded",
+      "headline": "My Condo Wants Charging Spots for Electric Cars. How Do We Add Them Fairly?",
+      "summary": "Installing EV charging can be complicated, requiring buy-in from your association, building management and the local electric utility provider.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/14/realestate/my-condo-wants-charging-spots-for-electric-cars-how-do-we-add-them-fairly.html",
+      "section": "the_new_york_times",
       "retail": false,
-      "published_at": "2026-11-12T00:00:00.000Z"
+      "published_at": "2026-11-14T10:01:55.000Z"
     },
     {
-      "headline": "Massive 3-home portfolio lists for a bargain price — and Kansas may even pay you to move there",
-      "summary": "There's no place like home — especially if that home is a grandiose, historic estate located in the heart of America.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/11/11/real-estate/2m-buys-a-condo-in-california-or-a-historic-estate-in-kansas/",
-      "section": "new_york_post",
+      "headline": "Deed Theft Is Rising, Along With Property Values",
+      "summary": "The victims are often older people or immigrants, with thieves going after vacant land or unoccupied homes. But there are ways to protect yourself.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/13/your-money/deed-title-theft-houses.html",
+      "section": "the_new_york_times",
       "retail": false,
-      "published_at": "2026-11-11T16:59:18.000Z"
-    },
-    {
-      "headline": "Thompson Dorfman Launches $15M Waterfront Luxury Home Development at Mallard Pointe in Belvedere",
-      "summary": "Thompson Dorfman Partners is developing Mallard Pointe, a luxury collection of 23 residences on Belvedere Lagoon, with p…",
-      "source": "Traded",
-      "url": "https://traded.co/blog/thompson-dorfman-launches-15m-waterfront-luxury-home-development-at-mallard-pointe-in-belvedere/",
-      "section": "traded",
-      "retail": false,
-      "published_at": "2026-11-11T00:00:00.000Z"
+      "published_at": "2026-11-14T00:27:27.000Z"
     },
     {
       "headline": "Palm Beach Developer Drops $160 Million Deal Over Fears of NIMBY Neighbor",
@@ -292,15 +338,6 @@
       "section": "the_wall_street_journal",
       "retail": false,
       "published_at": "2026-11-13T16:10:00.000Z"
-    },
-    {
-      "headline": "Deed Theft Is Rising, Along With Property Values",
-      "summary": "The victims are often older people or immigrants, with thieves going after vacant land or unoccupied homes. But there are ways to protect yourself.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/13/your-money/deed-title-theft-houses.html",
-      "section": "the_new_york_times",
-      "retail": false,
-      "published_at": "2026-11-13T14:00:05.000Z"
     },
     {
       "headline": "Rex Reed’s Longtime Dakota Apartment Is on the Market",
@@ -319,6 +356,15 @@
       "section": "the_wall_street_journal",
       "retail": false,
       "published_at": "2026-11-12T16:10:00.000Z"
+    },
+    {
+      "headline": "A Mini-Exodus Unfolds at Blackstone’s Marquee Real Estate Team",
+      "summary": "Plus, Boise’s rent rebound shows a splintering apartment market",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/real-estate/a-mini-exodus-unfolds-at-blackstones-marquee-real-estate-team-72f94e52?mod=LatestNewsRealEstate",
+      "section": "the_wall_street_journal",
+      "retail": false,
+      "published_at": "2026-11-11T14:55:00.000Z"
     }
   ]
 }
