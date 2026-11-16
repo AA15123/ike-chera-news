@@ -1,16 +1,16 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15T16:56:26.116Z",
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T20:15:29.396Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. **WSJ** is the Dow Jones real-estate feed with lifestyle and opinion dropped. **The New York Times** keeps real-estate and property stories only. **Traded** is commercial deal briefs from its news listing. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Australian Fashion Brand Mode Mischief Inks Lease at SoHo’s 65 Spring Street: Australian fashion brand Mode Mischief has signed a 2,000-square-foot retail lease at 65 Spring Street in Manhattan’s SoHo, Commercial Observer has learned. The deal converts the spot where the apparel company has held a pop-up location since May into its permanent home for the next five years.\n\nBondi Sushi to Open at Rockefeller’s 1221 Avenue of the Americas: Ah, salmon skin roll . New York and Miami-based Japanese restaurant brand Bondi Sushi has leased 4,400 square feet at Rockefeller Group ’s 1221 Avenue of the Americas in Rockefeller Center , the property owner announced Monday.\n\nGot Your Six Cannabis Dispensary Secures Manhattan Flagship: A cannabis store is opening its Manhattan flagship location at the base of a luxury Tribeca condominium building. Got Your Six , a licensed dispensary based in New Jersey, has signed a 2,300-square-foot lease at 256 West Street , also known as 92 Laight Street .\n\nCreative Design Firm Collins Relocates NYC HQ to 11K SF at 207 Front Street: Creative design studio Collins is moving its New York headquarters across the East River . The award-winning firm inked an 11,380-square-foot lease across four floors at Seaport Associates ’ 207 Front Street , the tenant’s broker confirmed.",
+    "commercial_observer": "Australian Fashion Brand Mode Mischief Inks Lease at SoHo’s 65 Spring Street: Australian fashion brand Mode Mischief has signed a 2,000-square-foot retail lease at 65 Spring Street in Manhattan’s SoHo, Commercial Observer has learned. The deal converts the spot where the apparel company has held a pop-up location since May into its permanent home for the next five years.\n\nBondi Sushi to Open at Rockefeller’s 1221 Avenue of the Americas: Ah, salmon skin roll . New York and Miami-based Japanese restaurant brand Bondi Sushi has leased 4,400 square feet at Rockefeller Group ’s 1221 Avenue of the Americas in Rockefeller Center , the property owner announced Monday.\n\nCreative Design Firm Collins Relocates NYC HQ to 11K SF at 207 Front Street: Creative design studio Collins is moving its New York headquarters across the East River . The award-winning firm inked an 11,380-square-foot lease across four floors at Seaport Associates ’ 207 Front Street , the tenant’s broker confirmed.\n\nForman Capital Lends $51M on North Carolina Shopping Center Project: Sagemark Development has landed $50.7 million of construction financing to build a shopping center in North Carolina’s Raleigh-Durham region, Commercial Observer has learned. Forman Capital supplied the loan for the developer’s Adams Crossing project in Sanford, N.C.",
     "cre_daily": "JLL: Retail Vacancy Dips to 4.3% as Openings Beat Closures: U.S. retail net absorption totaled 8.3M SF in Q3 after 10.2M in Q2, and vacancy slipped to 4.3%.\n\nBanks Lock Up Manhattan Retail Space as Availability Hits Low: Bank of America took 16,000 square feet at 19 Union Square West and Citibank took 14,000 square feet at 170 West 72nd Street, two of Manhattan’s largest third-quarter retail leases.\n\nCVS Split Would Create Two Public Companies by 2028: CVS Health plans to separate into a healthcare solutions company and a retail pharmacy company, with the split expected to finish in the first half of 2028. The healthcare company keeps the CVS Health name and brands including Aetna and Caremark, while CVS Pharmacy will operate roughly 9,000 stores, MinuteClinic and.\n\nRetail Net Absorption Hits 9.6M SF in Q3: U.S. retail net absorption reached 9.6 million SF in Q3, the fifth consecutive positive quarter, led by neighborhood, community and strip centers at 2.4 million SF.",
-    "new_york_post": "Famed gallerist’s loft in NYC ‘It’ building asks $6M — a home previously owned by Calvin Klein: The sprawling two- to three-bedroom Police Building aerie is a combo of two separate units joined together by the fashion designer Klein.",
-    "pincusco": "Joel Weiss signs $5.3M construction loan with Broadview for 17-unit project in Ridgewood.\n\nJeweler Fine Emerald pays $8.2M to Touro University for office condos in Midtown West.\n\nChetrit Organization signs $55M refi with Maxim Capital for office in Garment District.\n\nNamdar, Mason Asset pay $60.6M to Madison Capital, Lubert-Adler for office in Flatiron District.",
-    "the_new_york_times": "They Want to Be Doctors. Student Loan Caps Are Complicating Their Dreams.: This year, the first class of medical students will begin their journey to becoming physicians under new rules limiting how much they can borrow for school.\n\nMortgage Rates Remain High as Affordability Challenges Persist: The average 30-year, fixed-rate home loan fell slightly, to 7.11 percent, pushing buyers and sellers to the sidelines until conditions improve.\n\nMy Condo Wants Charging Spots for Electric Cars. How Do We Add Them Fairly?: Installing EV charging can be complicated, requiring buy-in from your association, building management and the local electric utility provider.\n\nDeed Theft Is Rising, Along With Property Values: The victims are often older people or immigrants, with thieves going after vacant land or unoccupied homes. But there are ways to protect yourself.",
-    "the_wall_street_journal": "Brookfield Walks Away From Luxury L.A. Tower Rather Than Refinance: And, U.S. tax law classifies this upscale Miami neighborhood as “economically distressed.”.\n\nThey’re Lucky Enough to Have a 3% Mortgage—and Feel Like They Can Never Move: Meet the one in five mortgage holders who are America’s three percenters.\n\nPalm Beach Developer Drops $160 Million Deal Over Fears of NIMBY Neighbor: Todd Michael Glaser nixed plans to buy and raze a compound next to billionaire John Middleton after failing to get his blessing.\n\nPalm Beach’s $100 Million Listings Club Adds Another Waterfront Property: A hedge-funder and an investor bought the Intracoastal estate for about $51.6 million two years ago and made a number of updates.",
+    "new_york_post": "Charming $10.5M NYC rooftop farmhouse finds a new owner just 1 month after listing for sale: This eye-catching Manhattan penthouse at 719 Greenwich St. is about to become someone's home, home on the range.\n\nGary Barnett’s Extell on development rampage in Manhattan: Although Barnett has his critics among competitors who call his strategy “ruthless,” no developer can boast of so many Manhattan projects as diverse as Extell’s.\n\nFamed gallerist’s loft in NYC ‘It’ building asks $6M — a home previously owned by Calvin Klein: The sprawling two- to three-bedroom Police Building aerie is a combo of two separate units joined together by the fashion designer Klein.",
+    "pincusco": "Shu Lin, Long Pan pay $3M to Jun’s Construction for retail in Astoria.\n\nBolla Oil pays $7.2M to Jacobs Real Estate for retail in Rosedale.\n\nShlomo Arje pays $4.5M for Conway Capital mixed-use in Park Slope short sale.\n\nJeffrey Groner pays $3.1M to Peak Capital Advisors for mixed-use in Sunnyside.",
+    "the_new_york_times": "Milton Glaser’s Chelsea Apartment Is for Sale: Milton and Shirley Glaser filled their apartment with art and collectibles. With its ample storage, so could its next owner.\n\nThey Want to Be Doctors. Student Loan Caps Are Complicating Their Dreams.: This year, the first class of medical students will begin their journey to becoming physicians under new rules limiting how much they can borrow for school.\n\nMortgage Rates Remain High as Affordability Challenges Persist: The average 30-year, fixed-rate home loan fell slightly, to 7.11 percent, pushing buyers and sellers to the sidelines until conditions improve.\n\nMy Condo Wants Charging Spots for Electric Cars. How Do We Add Them Fairly?: Installing EV charging can be complicated, requiring buy-in from your association, building management and the local electric utility provider.",
+    "the_wall_street_journal": "Hardly Anyone Shops at This Mall—and That’s Made It a Huge Success: A Long Island retail emporium eliminated most stores and reinvented itself with games and entertainment such as laser tag and axe-throwing.\n\nBrookfield Walks Away From Luxury L.A. Tower Rather Than Refinance: And, U.S. tax law classifies this upscale Miami neighborhood as “economically distressed.”.\n\nThey’re Lucky Enough to Have a 3% Mortgage—and Feel Like They Can Never Move: Meet the one in five mortgage holders who are America’s three percenters.\n\nPalm Beach Developer Drops $160 Million Deal Over Fears of NIMBY Neighbor: Todd Michael Glaser nixed plans to buy and raze a compound next to billionaire John Middleton after failing to get his blessing.",
     "traded": "ICON and ASCO Equipment Bring 3D-Printed Commercial Construction to San Antonio With 12,649-SF Project: ICON is 3D-printing a 12,649-square-foot exhibition and training center for ASCO Equipment in San Antonio, Texas, with c.\n\nMixed Use Falcone Group Secures $85.5M Bank OZK Loan for $133M Oakland Park Development.\n\nCamber Property Group and RiseBoro Complete $75M, 127-Unit Affordable Housing Development in Bushwick: Camber Property Group and RiseBoro Community Partnership have developed a $75 million affordable housing complex at 1601.\n\n56 Maple and Fulton Asset Management Target Investors for River North Office Makeover: 56 Maple and Fulton Asset Management are transforming 444 N. Orleans Street in Chicago's River North into a 25,000+ squa."
   },
   "items": [
@@ -31,15 +31,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-11-09T17:35:57.000Z"
-    },
-    {
-      "headline": "Got Your Six Cannabis Dispensary Secures Manhattan Flagship",
-      "summary": "A cannabis store is opening its Manhattan flagship location at the base of a luxury Tribeca condominium building. Got Your Six , a licensed dispensary based in New Jersey, has signed a 2,300-square-foot lease at 256 West Street , also known as 92 Laight Street . The corner retail lease between Laight and Vestry streets occupies part of the ground floor at Riverloft Condominiums , a 13-story luxury complex, and is near Hudson River Park . Crain’s New York first reported on the deal.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/11/got-your-six-cannabis-dispensary-256-west-street-lease/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-11-02T16:40:07.000Z"
     },
     {
       "headline": "JLL: Retail Vacancy Dips to 4.3% as Openings Beat Closures",
@@ -105,31 +96,13 @@
       "published_at": "2026-11-13T21:53:12.000Z"
     },
     {
-      "headline": "Irvine Company Signs Nearly 2.5M SF of Office Leases in Q3",
-      "summary": "Irvine Company signed nearly 2.5 million square feet of office leases in the third quarter, led by deals with Taco Bell and medical technology firm Envista and seizing on the overall demand for Orange County, Calif., space compared with its neighbors. The Newport Beach-based private real estate giant completed 182 leases across its national office portfolio from July through September, generating 722,000 square feet of positive net absorption, Commercial Observer can first report.…",
+      "headline": "Forman Capital Lends $51M on North Carolina Shopping Center Project",
+      "summary": "Sagemark Development has landed $50.7 million of construction financing to build a shopping center in North Carolina’s Raleigh-Durham region, Commercial Observer has learned. Forman Capital supplied the loan for the developer’s Adams Crossing project in Sanford, N.C. The 223,153-square-foot development will be anchored by BJ’s Wholesale Club , Academy Sports + Outdoors and Burlington Stores .…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/11/calif-irvine-co-office-leases/",
+      "url": "https://commercialobserver.com/2026/11/forman-capital-north-carolina-shopping-center-bjs-wholesale/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-11-13T18:45:03.000Z"
-    },
-    {
-      "headline": "MD Squared Property Group Takes 16K SF at Feil’s 145 West 30th Street",
-      "summary": "MD Squared Property Group , a New York City-based property management firm, has signed a 16,376-square-foot lease at the Feil Organization ’s 145 West 30th Street in Midtown South, Commercial Observer has learned. The deal brings the 12-story office building to 100 percent occupancy. “Reaching 100 percent capacity is an important milestone and reflects the continued demand we’re seeing for well-located, full-floor office space,” Andrew Wiener , head of commercial leasing at Feil, said in a statement.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/11/md-squared-property-group-lease-feil-145-west-30th-street/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-11-13T17:21:56.000Z"
-    },
-    {
-      "headline": "Child Center of NY Signs 16K-SF Lease in New Astoria Office Development",
-      "summary": "A children’s counseling center is opening another location in Queens after signing a lease in Astoria. The Child Center of NY , a nonprofit that provides children with life skills and behavioral health guidance, has signed a 16,082-square-foot lease at Stellar Management ’s 35-01 36th Avenue . The Astoria location will be added to Child Center’s roster of over 70 locations, according to landlord broker NY Space Finders . The lease term is for 10 years and the asking rent for the space was $50 per square foot.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/11/child-center-ny-lease-35-01-36th-avenue/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-11-13T16:19:21.000Z"
+      "published_at": "2026-11-16T18:29:52.000Z"
     },
     {
       "headline": "Sports Clothing Brand RBX Direct Signs 5K-SF Garment District Lease",
@@ -141,6 +114,15 @@
       "published_at": "2026-11-05T15:46:40.000Z"
     },
     {
+      "headline": "Shu Lin, Long Pan pay $3M to Jun’s Construction for retail in Astoria",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/shu-lin-long-pan-pay-3m-to-juns-construction-for-retail-in-astoria/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-11-16T13:39:00.000Z"
+    },
+    {
       "headline": "ICON and ASCO Equipment Bring 3D-Printed Commercial Construction to San Antonio With 12,649-SF Project",
       "summary": "ICON is 3D-printing a 12,649-square-foot exhibition and training center for ASCO Equipment in San Antonio, Texas, with c…",
       "source": "Traded",
@@ -148,15 +130,6 @@
       "section": "traded",
       "retail": true,
       "published_at": "2026-11-13T00:00:00.000Z"
-    },
-    {
-      "headline": "New Music Venue Signs Lease at Refinery at Domino",
-      "summary": "Two Trees Management has signed an entertainment tenant at the Refinery at Domino on the Williamsburg, Brooklyn, waterfront. London-based tvg Hospitality , which was founded by Mumford & Sons keyboardist Ben Lovett , and Emerson Hospitality signed the 20,000-square-foot lease for what will be a 750-seat venue called Domino , according to Two Trees.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/11/ben-lovett-tvg-hospitality-refinery-at-domino-lease/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-11-12T21:58:53.000Z"
     },
     {
       "headline": "Sui Yoga to Open 13K-SF Studio at 71 Fifth Avenue",
@@ -177,6 +150,24 @@
       "published_at": "2026-11-03T22:00:03.000Z"
     },
     {
+      "headline": "Bolla Oil pays $7.2M to Jacobs Real Estate for retail in Rosedale",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/bolla-oil-pays-7-2m-to-jacobs-real-estate-for-retail-in-rosedale/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-11-16T13:52:00.000Z"
+    },
+    {
+      "headline": "Hardly Anyone Shops at This Mall—and That’s Made It a Huge Success",
+      "summary": "A Long Island retail emporium eliminated most stores and reinvented itself with games and entertainment such as laser tag and axe-throwing.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/real-estate/commercial/hardly-anyone-shops-at-this-malland-thats-made-it-a-huge-success-9a2893f8?mod=LatestNewsRealEstate",
+      "section": "the_wall_street_journal",
+      "retail": true,
+      "published_at": "2026-11-16T01:00:00.000Z"
+    },
+    {
       "headline": "For Mall Giant Macerich, More Turnaround in Q3",
       "summary": "Mall owner Macerich ’s net operating income (NOI) and revenue were up annually in the third quarter of 2026 behind strong leasing and generally favorable conditions for owners of top-shelf brick-and-mortar retail. The Santa Monica, Calif.-based real estate investment trust (REIT), however, recorded a loss attributable to the company of more than $16.73 million for the quarter.…",
       "source": "Commercial Observer",
@@ -184,6 +175,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-11-05T13:40:26.000Z"
+    },
+    {
+      "headline": "Shlomo Arje pays $4.5M for Conway Capital mixed-use in Park Slope short sale",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/shlomo-arje-pays-4-5m-to-conway-capital-for-mixed-use-in-park-slope/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-11-16T13:42:00.000Z"
     },
     {
       "headline": "Mixed Use Falcone Group Secures $85.5M Bank OZK Loan for $133M Oakland Park Development",
@@ -195,15 +195,6 @@
       "published_at": "2026-11-13T00:00:00.000Z"
     },
     {
-      "headline": "Joel Weiss signs $5.3M construction loan with Broadview for 17-unit project in Ridgewood",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/joel-weiss-signs-5-3m-construction-loan-with-broadview-for-17-unit-project-in-ridgewood/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-12T13:12:00.000Z"
-    },
-    {
       "headline": "Brookfield Walks Away From Luxury L.A. Tower Rather Than Refinance",
       "summary": "And, U.S. tax law classifies this upscale Miami neighborhood as “economically distressed.”",
       "source": "The Wall Street Journal",
@@ -211,6 +202,24 @@
       "section": "the_wall_street_journal",
       "retail": false,
       "published_at": "2026-11-04T15:00:00.000Z"
+    },
+    {
+      "headline": "Charming $10.5M NYC rooftop farmhouse finds a new owner just 1 month after listing for sale",
+      "summary": "This eye-catching Manhattan penthouse at 719 Greenwich St. is about to become someone's home, home on the range.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/16/real-estate/nyc-penthouse-with-rooftop-farmhouse-goes-into-contract/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-11-16T17:19:51.000Z"
+    },
+    {
+      "headline": "Gary Barnett’s Extell on development rampage in Manhattan",
+      "summary": "Although Barnett has his critics among competitors who call his strategy “ruthless,” no developer can boast of so many Manhattan projects as diverse as Extell’s.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/15/business/gary-barnetts-extell-on-development-rampage-in-manhattan/",
+      "section": "new_york_post",
+      "retail": false,
+      "published_at": "2026-11-15T19:46:08.000Z"
     },
     {
       "headline": "Famed gallerist’s loft in NYC ‘It’ building asks $6M — a home previously owned by Calvin Klein",
@@ -222,49 +231,49 @@
       "published_at": "2026-11-14T14:13:00.000Z"
     },
     {
+      "headline": "Milton Glaser’s Chelsea Apartment Is for Sale",
+      "summary": "Milton and Shirley Glaser filled their apartment with art and collectibles. With its ample storage, so could its next owner.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/16/realestate/milton-glasers-chelsea-apartment-is-for-sale.html",
+      "section": "the_new_york_times",
+      "retail": false,
+      "published_at": "2026-11-16T14:55:00.000Z"
+    },
+    {
+      "headline": "Jeffrey Groner pays $3.1M to Peak Capital Advisors for mixed-use in Sunnyside",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/jeffrey-groner-pays-3-1m-to-peak-capital-advisors-for-mixed-use-in-sunnyside/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-11-16T14:42:00.000Z"
+    },
+    {
+      "headline": "Milstein Properties signs $49.9M refi with Wells Fargo for 239 units in Flatiron",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/milstein-properties-signs-49-9m-refi-with-wells-fargo-for-239-unit-rental-in-flatiron-district/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-11-16T13:46:00.000Z"
+    },
+    {
+      "headline": "Sunlight Development pays $7M for industrial in Flushing",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/sunlight-development-pays-7m-for-industrial-in-flushing/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-11-16T13:37:00.000Z"
+    },
+    {
       "headline": "They Want to Be Doctors. Student Loan Caps Are Complicating Their Dreams.",
       "summary": "This year, the first class of medical students will begin their journey to becoming physicians under new rules limiting how much they can borrow for school.",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/2026/11/15/business/medical-school-student-loan-caps.html",
       "section": "the_new_york_times",
       "retail": false,
-      "published_at": "2026-11-15T10:01:41.000Z"
-    },
-    {
-      "headline": "Jeweler Fine Emerald pays $8.2M to Touro University for office condos in Midtown West",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/jewelry-seller-fine-emerald-pays-8-2m-to-touro-university-for-office-condos-in-midtown-west/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-13T15:12:00.000Z"
-    },
-    {
-      "headline": "Chetrit Organization signs $55M refi with Maxim Capital for office in Garment District",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/chetrit-organization-signs-55m-refi-with-maxim-capital-for-office-in-garment-district/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-13T15:08:00.000Z"
-    },
-    {
-      "headline": "Namdar, Mason Asset pay $60.6M to Madison Capital, Lubert-Adler for office in Flatiron District",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/namdar-mason-asset-pay-60-6m-to-madison-capital-lubert-adler-for-office-in-flatiron-district/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-13T14:47:00.000Z"
-    },
-    {
-      "headline": "Hung Pin Hung pays $44.2M to Tishman Realty for 52-unit project in Gramercy",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/hung-pin-hung-pays-44-2m-to-tishman-realty-for-52-unit-project-in-gramercy/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-13T14:37:00.000Z"
+      "published_at": "2026-11-15T10:01:42.000Z"
     },
     {
       "headline": "Mortgage Rates Remain High as Affordability Challenges Persist",
@@ -309,7 +318,7 @@
       "url": "https://www.nytimes.com/2026/11/14/realestate/my-condo-wants-charging-spots-for-electric-cars-how-do-we-add-them-fairly.html",
       "section": "the_new_york_times",
       "retail": false,
-      "published_at": "2026-11-14T10:01:55.000Z"
+      "published_at": "2026-11-14T10:01:56.000Z"
     },
     {
       "headline": "Deed Theft Is Rising, Along With Property Values",
@@ -318,7 +327,7 @@
       "url": "https://www.nytimes.com/2026/11/13/your-money/deed-title-theft-houses.html",
       "section": "the_new_york_times",
       "retail": false,
-      "published_at": "2026-11-14T00:27:27.000Z"
+      "published_at": "2026-11-14T00:27:28.000Z"
     },
     {
       "headline": "Palm Beach Developer Drops $160 Million Deal Over Fears of NIMBY Neighbor",
@@ -328,24 +337,6 @@
       "section": "the_wall_street_journal",
       "retail": false,
       "published_at": "2026-11-13T16:10:00.000Z"
-    },
-    {
-      "headline": "Rex Reed’s Longtime Dakota Apartment Is on the Market",
-      "summary": "The asking price for the two-bedroom co-op, which the film critic bought nearly six decades ago, is $5.99 million.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/13/realestate/rex-reed-dakota-apartment-market.html",
-      "section": "the_new_york_times",
-      "retail": false,
-      "published_at": "2026-11-13T10:02:34.000Z"
-    },
-    {
-      "headline": "Palm Beach’s $100 Million Listings Club Adds Another Waterfront Property",
-      "summary": "A hedge-funder and an investor bought the Intracoastal estate for about $51.6 million two years ago and made a number of updates.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/real-estate/luxury-homes/knighthead-capital-ara-cohen-palm-beach-home-da8141f4?mod=LatestNewsRealEstate",
-      "section": "the_wall_street_journal",
-      "retail": false,
-      "published_at": "2026-11-12T16:10:00.000Z"
     }
   ]
 }
