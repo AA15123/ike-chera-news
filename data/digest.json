@@ -1,19 +1,28 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-11-17",
-  "generated_at": "2026-11-17T19:03:21.113Z",
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T18:45:56.006Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. **WSJ** is the Dow Jones real-estate feed with lifestyle and opinion dropped. **The New York Times** keeps real-estate and property stories only. **Traded** is commercial deal briefs from its news listing. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Australian Fashion Brand Mode Mischief Inks Lease at SoHo’s 65 Spring Street: Australian fashion brand Mode Mischief has signed a 2,000-square-foot retail lease at 65 Spring Street in Manhattan’s SoHo, Commercial Observer has learned. The deal converts the spot where the apparel company has held a pop-up location since May into its permanent home for the next five years.\n\nBondi Sushi to Open at Rockefeller’s 1221 Avenue of the Americas: Ah, salmon skin roll . New York and Miami-based Japanese restaurant brand Bondi Sushi has leased 4,400 square feet at Rockefeller Group ’s 1221 Avenue of the Americas in Rockefeller Center , the property owner announced Monday.\n\nForman Capital Lends $51M on North Carolina Shopping Center Project: Sagemark Development has landed $50.7 million of construction financing to build a shopping center in North Carolina’s Raleigh-Durham region, Commercial Observer has learned. Forman Capital supplied the loan for the developer’s Adams Crossing project in Sanford, N.C.\n\nMason Tenders’ District Council Trust Funds Extends 40K-SF Lease at 520 Eighth Avenue: The administrative offices of Mason Tenders’ District Council Trust Funds plan to remain in Manhattan’s Penn District for at least another decade. The labor union fund, which provides employee benefits to active and retired workers in the construction industry, secured a 10-year extension deal at GFP Real Estate ’s.",
-    "cre_daily": "JLL: Retail Vacancy Dips to 4.3% as Openings Beat Closures: U.S. retail net absorption totaled 8.3M SF in Q3 after 10.2M in Q2, and vacancy slipped to 4.3%.\n\nRetail Investors Eye 2027 With Tight Supply, Rising Cap Rates: Retail investors enter 2027 weighing whether sellers’ pricing will match institutional targets, with cap rates expected to climb gradually and volume landing slightly below 2026 levels.\n\nBanks Lock Up Manhattan Retail Space as Availability Hits Low: Bank of America took 16,000 square feet at 19 Union Square West and Citibank took 14,000 square feet at 170 West 72nd Street, two of Manhattan’s largest third-quarter retail leases.\n\nCVS Split Would Create Two Public Companies by 2028: CVS Health plans to separate into a healthcare solutions company and a retail pharmacy company, with the split expected to finish in the first half of 2028. The healthcare company keeps the CVS Health name and brands including Aetna and Caremark, while CVS Pharmacy will operate roughly 9,000 stores, MinuteClinic and.",
-    "new_york_post": "Charming $10.5M NYC rooftop farmhouse finds a new owner just 1 month after listing for sale: This eye-catching Manhattan penthouse at 719 Greenwich St. is about to become someone's home, home on the range.\n\nGary Barnett’s Extell on development rampage in Manhattan: Although Barnett has his critics among competitors who call his strategy “ruthless,” no developer can boast of so many Manhattan projects as diverse as Extell’s.\n\nFamed gallerist’s loft in NYC ‘It’ building asks $6M — a home previously owned by Calvin Klein: The sprawling two- to three-bedroom Police Building aerie is a combo of two separate units joined together by the fashion designer Klein.\n\nSan Francisco’s luxury housing market shatters records as $10M-plus sales surge amid the AI boom: Nine homes sold for over $10 million in October, per Compass, while fierce bidding wars and dwindling inventory reshaped the city's real estate market.",
-    "pincusco": "NYC School Construction Authority pays $22.4M to Leser Group for school in Soundview.\n\nMaguire Capital buys $92M note secured by Baruch Singer’s office building in Midwood, property in foreclosure.\n\nPouya Toobian pays $2.8M for two mixed-use properties in Glendale.\n\nDaniel Kaykov files plans for six or seven units at Williamsburg site.",
-    "the_new_york_times": "They Want to Be Doctors. Student Loan Caps Are Complicating Their Dreams.: This year’s medical students will be the first to face new rules limiting how much they can borrow for school.\n\nMilton Glaser’s Chelsea Apartment Is for Sale: Milton and Shirley Glaser filled their apartment with art and collectibles. With its ample storage, so could its next owner.\n\nMortgage Rates Remain High as Affordability Challenges Persist: The average 30-year, fixed-rate home loan fell slightly, to 7.11 percent, pushing buyers and sellers to the sidelines until conditions improve.\n\nMy Condo Wants Charging Spots for Electric Cars. How Do We Add Them Fairly?: Installing EV charging can be complicated, requiring buy-in from your association, building management and the local electric utility provider.",
-    "the_wall_street_journal": "Hardly Anyone Shops at This Mall—and That’s Made It a Huge Success: A Long Island retail emporium eliminated most stores and reinvented itself with games and entertainment such as laser tag and axe-throwing.\n\nBrookfield Walks Away From Luxury L.A. Tower Rather Than Refinance: And, U.S. tax law classifies this upscale Miami neighborhood as “economically distressed.”.\n\nWhy Big Investors Are Burning Lenders on Apartment Loans: Deep-pocketed landlords like Brookfield may be the most willing to cut their losses on troubled properties.\n\nThey’re Lucky Enough to Have a 3% Mortgage—and Feel Like They Can Never Move: Meet the one in five mortgage holders who are America’s three percenters.",
-    "traded": "Leland Burk’s $800M Preston-Royal Development Wins Dallas Approval With 199-Foot Height Cap: The Dallas City Council approved Leland Burk’s $800 million Preston-Royal redevelopment project, which includes 150 hote.\n\nEVO Entertainment and Myrtle Development Advance $50M Movie Theater and Bowling Complex in Downtown Clearwater: EVO Entertainment and Myrtle Development LLC are constructing an 83,000-square-foot entertainment complex in downtown Cl.\n\nSand Hill Property Company Adds 194 Apartments to Palo Alto Project: Sand Hill Property Company plans to construct 194 apartments and a three-story office building at 3300 El Camino Real in.\n\nInfinity Collective Plans 14-Story, $28M Mixed-Use Development on Miami Beach’s Alton Road: Infinity Collective plans a 14-story mixed-use project at 1680 Alton Road in Miami Beach, featuring 142 apartments, 51,1."
+    "commercial_observer": "Danny Meyer Signs Greenwich Village Lease for New Restaurant: Fresh off his plans to open an eatery at the former Hotel Bossert in Brooklyn Heights, Michelin -star chef Danny Meyer is turning a hungry eye back on Manhattan. Meyer’s Union Square Hospitality Group signed a 10-year, roughly 8,000-square-foot lease at 21 West Eighth Street in Greenwich Village.\n\nAustralian Fashion Brand Mode Mischief Inks Lease at SoHo’s 65 Spring Street: Australian fashion brand Mode Mischief has signed a 2,000-square-foot retail lease at 65 Spring Street in Manhattan’s SoHo, Commercial Observer has learned. The deal converts the spot where the apparel company has held a pop-up location since May into its permanent home for the next five years.\n\nBondi Sushi to Open at Rockefeller’s 1221 Avenue of the Americas: Ah, salmon skin roll . New York and Miami-based Japanese restaurant brand Bondi Sushi has leased 4,400 square feet at Rockefeller Group ’s 1221 Avenue of the Americas in Rockefeller Center , the property owner announced Monday.\n\nWilliamsburg Secures Highest Retail Asking Rent in Brooklyn in 2026: REBNY: Williamsburg remains the shopping capital of Brooklyn. A flurry of leases and rising rents have defined the area in 2026, according to the Real Estate Board of New York (REBNY) ’ s most recent Brooklyn retail report, shared exclusively with Commercial Observer.",
+    "cre_daily": "JLL: Retail Vacancy Dips to 4.3% as Openings Beat Closures: U.S. retail net absorption totaled 8.3M SF in Q3 after 10.2M in Q2, and vacancy slipped to 4.3%.\n\nRetail Investors Eye 2027 With Tight Supply, Rising Cap Rates: Retail investors enter 2027 weighing whether sellers’ pricing will match institutional targets, with cap rates expected to climb gradually and volume landing slightly below 2026 levels.\n\nFirst Washington’s Alex Nyhan on Grocery-Anchored Retail: Guest: Alex Nyhan, CEO, First Washington Realty Alex Nyhan is CEO of First Washington Realty, one of the largest owners and operators of grocery-anchored and neighborhood retail in the country, with nearly 150 shopping centers across 22 states.\n\nSimon Property Raises 2026 FFO Guidance After 4.7% Q3 Gain: Real Estate FFO rose 4.7% to $1.277 billion, or $3.37 per share, in Q3, and Simon lifted full-year guidance to $13.30 to $13.40 per share, up $0.10. Occupancy reached 96.5% in U.S.",
+    "new_york_post": "Ken Griffin sells NYC duplex to Jets owner for $58M — months after Mamdani’s pied-à-terre tax stunt: Hedge fund billionaire Ken Griffin has sold a sprawling Park Avenue duplex to New York Jets owner Woody Johnson for $58 million -- just months after Mayor Zohran Mamdani targeted the Citadel founder in a creepy video touting the lefty's new pied-à-terre tax.\n\nCharming $10.5M NYC rooftop farmhouse finds a new owner just 1 month after listing for sale: This eye-catching Manhattan penthouse at 719 Greenwich St. is about to become someone's home, home on the range.\n\nGary Barnett’s Extell on development rampage in Manhattan: Although Barnett has his critics among competitors who call his strategy “ruthless,” no developer can boast of so many Manhattan projects as diverse as Extell’s.\n\nFamed gallerist’s loft in NYC ‘It’ building asks $6M — a home previously owned by Calvin Klein: The sprawling two- to three-bedroom Police Building aerie is a combo of two separate units joined together by the fashion designer Klein.",
+    "pincusco": "Ashkenazy Acquisition signs $42M refi with Customers for retail in Little Neck.\n\nVornado pays $28M for office building in Grand Central through bankruptcy.\n\nGenesis Companies signs $459.3M loan with Berkadia, city to rehab NYCHA housing in Washington Heights.",
+    "the_new_york_times": "Milton Glaser’s Chelsea Apartment Is for Sale: Milton and Shirley Glaser filled their apartment with art and collectibles. With its ample storage, so could its next owner.\n\nMy Condo Wants Charging Spots for Electric Cars. How Do We Add Them Fairly?: Installing EV charging can be complicated, requiring buy-in from your association, building management and the local electric utility provider.\n\nRex Reed’s Longtime Dakota Apartment Is on the Market: The asking price for the two-bedroom co-op, which the film critic bought nearly six decades ago, is $5.99 million.",
+    "the_wall_street_journal": "The Secret to This Mall’s Success Isn’t Shopping: Plus, Manhattan’s Fifth Avenue again tops worldwide rankings for highest retail rents.\n\nHardly Anyone Shops at This Mall—and That’s Made It a Huge Success: A Long Island retail emporium eliminated most stores and reinvented itself with games and entertainment such as laser tag and axe-throwing.\n\nWhy Big Investors Are Burning Lenders on Apartment Loans: Deep-pocketed landlords like Brookfield may be the most willing to cut their losses on troubled properties.\n\nThey’re Lucky Enough to Have a 3% Mortgage—and Feel Like They Can Never Move: Meet the one in five mortgage holders who are America’s three percenters.",
+    "traded": "Mapletree Breaks Ground on 953K-SF, Two-Building Logistics Park in Manalapan, New Jersey: Mapletree Investments has begun construction on a 952,720-square-foot logistics campus at 370 Smithburg Road in Manalapa.\n\nCrow Holdings and PGIM Break Ground on 3.7M-SF Industrial Campus at the Tri-State Crossroads.\n\nMark Wahlberg’s Municipal Gym Makes Florida Debut at $200M Downtown Tampa Tower."
   },
   "items": [
+    {
+      "headline": "Danny Meyer Signs Greenwich Village Lease for New Restaurant",
+      "summary": "Fresh off his plans to open an eatery at the former Hotel Bossert in Brooklyn Heights, Michelin -star chef Danny Meyer is turning a hungry eye back on Manhattan. Meyer’s Union Square Hospitality Group signed a 10-year, roughly 8,000-square-foot lease at 21 West Eighth Street in Greenwich Village. The property is owned by Grace Jean , tenant broker TSCG — formerly known as The Shopping Center Group — confirmed. The deal was signed Oct. 15.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/11/danny-meyer-lease-21-west-eighth-street/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-11-17T21:44:40.000Z"
+    },
     {
       "headline": "Australian Fashion Brand Mode Mischief Inks Lease at SoHo’s 65 Spring Street",
       "summary": "Australian fashion brand Mode Mischief has signed a 2,000-square-foot retail lease at 65 Spring Street in Manhattan’s SoHo, Commercial Observer has learned. The deal converts the spot where the apparel company has held a pop-up location since May into its permanent home for the next five years. The asking rent was $575 per square foot, a source close to the deal told CO. Current Real Estate Advisors ’ Oded Nachmani represented the brand in this deal, which takes effect in January.…",
@@ -51,31 +60,13 @@
       "published_at": "2026-11-17T15:38:38.000Z"
     },
     {
-      "headline": "Banks Lock Up Manhattan Retail Space as Availability Hits Low",
-      "summary": "Bank of America took 16,000 square feet at 19 Union Square West and Citibank took 14,000 square feet at 170 West 72nd Street, two of Manhattan’s largest third-quarter retail leases. Most bank activity is renewals and strategic relocations by existing tenants, and banks are returning to corner locations in a market where space is hard to replace. Prime corridor availability fell to a record-low 157 spaces, and one JLL broker has five or six more bank deals in progress, a sign of broader retail strength.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/banks-lock-up-manhattan-retail-space-as-availability-hits-low/",
-      "section": "cre_daily",
+      "headline": "Williamsburg Secures Highest Retail Asking Rent in Brooklyn in 2026: REBNY",
+      "summary": "Williamsburg remains the shopping capital of Brooklyn. A flurry of leases and rising rents have defined the area in 2026, according to the Real Estate Board of New York (REBNY) ’ s most recent Brooklyn retail report, shared exclusively with Commercial Observer. In its report, REBNY tracked 16 retail corridors across Brooklyn from the fourth quarter of 2025 through the third quarter of 2026.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/11/williamsburg-retail-rent-rebny-brooklyn-report/",
+      "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-11-04T17:31:27.000Z"
-    },
-    {
-      "headline": "CVS Split Would Create Two Public Companies by 2028",
-      "summary": "CVS Health plans to separate into a healthcare solutions company and a retail pharmacy company, with the split expected to finish in the first half of 2028. The healthcare company keeps the CVS Health name and brands including Aetna and Caremark, while CVS Pharmacy will operate roughly 9,000 stores, MinuteClinic and mail pharmacy. A standalone 9,000-store retail tenant matters to net lease owners, though the announcement coverage gives no detail on how leases or guarantees will be handled.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/cvs-split-would-create-two-public-companies-by-2028/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-11-04T17:24:26.000Z"
-    },
-    {
-      "headline": "Retail Net Absorption Hits 9.6M SF in Q3",
-      "summary": "U.S. retail net absorption reached 9.6 million SF in Q3, the fifth consecutive positive quarter, led by neighborhood, community and strip centers at 2.4 million SF. Completions hit a quarterly low of 5.5 million SF and a record-low four-quarter total of 7.4 million SF, keeping availability at 4.8% and lifting asking rents 2.5%. Leasing is strong but investment volume fell 6% to $16.8 billion, so landlords hold pricing power while buyers stay cautious on asset-level pricing. Key Takeaways U.S.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/retail-net-absorption-hits-9-6m-sf-in-q3/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-11-04T17:22:52.000Z"
+      "published_at": "2026-11-18T10:00:20.000Z"
     },
     {
       "headline": "First Washington’s Alex Nyhan on Grocery-Anchored Retail",
@@ -87,13 +78,40 @@
       "published_at": "2026-11-08T17:00:00.000Z"
     },
     {
-      "headline": "Forman Capital Lends $51M on North Carolina Shopping Center Project",
-      "summary": "Sagemark Development has landed $50.7 million of construction financing to build a shopping center in North Carolina’s Raleigh-Durham region, Commercial Observer has learned. Forman Capital supplied the loan for the developer’s Adams Crossing project in Sanford, N.C. The 223,153-square-foot development will be anchored by BJ’s Wholesale Club , Academy Sports + Outdoors and Burlington Stores .…",
+      "headline": "Simon Property Raises 2026 FFO Guidance After 4.7% Q3 Gain",
+      "summary": "Real Estate FFO rose 4.7% to $1.277 billion, or $3.37 per share, in Q3, and Simon lifted full-year guidance to $13.30 to $13.40 per share, up $0.10. Occupancy reached 96.5% in U.S. malls and Premium Outlets, base minimum rent rose 6.1% to $62.75 per SF, and reported retailer sales climbed 14.8% to $852 per SF. Net income fell to $1.54 per share from $1.86 on $99.6 million of non-cash losses, while the dividend rose 4.5% to $2.30 and Simon repurchased $236.5 million of its stock.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/simon-property-raises-2026-ffo-guidance-after-4-7-q3-gain/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-11-06T17:17:15.000Z"
+    },
+    {
+      "headline": "Car Wash Cap Rates Fall as Bonus Depreciation Lifts Demand",
+      "summary": "Global Net Lease has 15 gas station, convenience and car wash properties under contract for about $70M at a 6.5% cash cap rate, versus 7.7% for other occupied sales this year. Gas station and car wash buildings count as 15-year property, so 100% bonus depreciation can cover the whole building without much cost segregation work. The Boulder Group put average single-tenant net lease asking cap rates at 6.92% in Q3, up 10 bps, while GNL sold office at a 7.5% cash cap rate.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/car-wash-cap-rates-fall-as-bonus-depreciation-lifts-demand/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-11-13T16:38:52.000Z"
+    },
+    {
+      "headline": "Law Firm MoloLamken Relocates to 25K SF at RXR’s 590 Madison Avenue",
+      "summary": "Law firm MoloLamken is relocating its Midtown Manhattan offices to RXR ’s 590 Madison Avenue , Commercial Observer has learned. The boutique law firm, which specializes in complex litigation, struck a deal for 24,839 square feet across the entire 16th floor of the office tower, according to an RXR spokesperson. MoloLamken’s moving day should be a breeze – the firm’s new space sits just one block west of its current office at 430 Park Avenue . The firm’s new lease carries a 10-year term.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/11/forman-capital-north-carolina-shopping-center-bjs-wholesale/",
+      "url": "https://commercialobserver.com/2026/11/mololamken-590-madison-avenue-lease/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-11-16T18:29:52.000Z"
+      "published_at": "2026-11-18T17:52:25.000Z"
+    },
+    {
+      "headline": "Fashion Company Bestseller Renews 7K-SF Office, Showroom at 96 Spring Street",
+      "summary": "Danish fashion company Bestseller has inked a lease renewal for its 7,400-square-foot corporate office and wholesale showroom in Manhattan’s SoHo neighborhood, Commercial Observer has learned. The 10-year agreement encompasses the company’s fourth-floor space at Midwood Investment ’s 96 Spring Street , according to a source familiar with the deal.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/11/bestseller-lease-renewal-96-spring-street/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-11-17T21:21:45.000Z"
     },
     {
       "headline": "Mason Tenders’ District Council Trust Funds Extends 40K-SF Lease at 520 Eighth Avenue",
@@ -105,6 +123,15 @@
       "published_at": "2026-11-17T17:00:59.000Z"
     },
     {
+      "headline": "Fifth Avenue Retail Rents Jump 35% to Top Global Rankings",
+      "summary": "Upper Fifth Avenue retail rents rose 35% year over year to an average of $2,700 a square foot, the highest in the world, per Cushman & Wakefield. Availability on upper Fifth dropped 4.4 percentage points to 13% in Q3, and brands such as Meta, Prada and Kering have made big commitments. The rebound mirrors a wider Manhattan recovery in office rents and hotel rates, and demand has spread to lower Fifth Avenue.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/fifth-avenue-retail-rents-jump-35-to-top-global-rankings/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-11-17T15:37:36.000Z"
+    },
+    {
       "headline": "Sports Clothing Brand RBX Direct Signs 5K-SF Garment District Lease",
       "summary": "An activewear brand has signed a lease for an office and showroom in Manhattan’s Garment District. RBX Direct took 4,800 square feet at Lal Sani ’s 102 West 38th Street , where asking rent was $35 per square foot, according to landlord broker Adams & Company . Adams & Company did not disclose the length of the lease or the name of the landlord, but the most recent filings in property records show the building has not traded hands since 1994 when it was purchased by Sani.…",
       "source": "Commercial Observer",
@@ -114,13 +141,58 @@
       "published_at": "2026-11-05T15:46:40.000Z"
     },
     {
-      "headline": "Cubline Properties Seals $889M of Convenience Retail Acquisitions in 2026",
+      "headline": "Ashkenazy Acquisition signs $42M refi with Customers for retail in Little Neck",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/ashkenazy-acquisition-signs-42m-refi-with-customers-for-retail-in-little-neck/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-11-18T18:18:00.000Z"
+    },
+    {
+      "headline": "Curbline Properties Seals $889M of Convenience Retail Acquisitions in 2026",
       "summary": "The nation’s largest owner of convenience retail is on an acquisitions binge, and doesn’t appear to be slowing down as 2026 comes to a close. Curbline Properties , a publicly traded real estate investment trust (REIT) with a 6 million-square-foot portfolio of unanchored convenience real estate, announced this week that it has acquired 82 convenience shopping centers this year for $888.9 million, and that it has already acquired 15 assets for $138.5 million so far in the fourth quarter, with more on the way.…",
       "source": "Commercial Observer",
       "url": "https://commercialobserver.com/2026/11/cubline-properties-889m-retail-acquisitions-2026/",
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-11-17T18:32:20.000Z"
+    },
+    {
+      "headline": "Mapletree Breaks Ground on 953K-SF, Two-Building Logistics Park in Manalapan, New Jersey",
+      "summary": "Mapletree Investments has begun construction on a 952,720-square-foot logistics campus at 370 Smithburg Road in Manalapa…",
+      "source": "Traded",
+      "url": "https://traded.co/blog/mapletree-breaks-ground-on-953k-sf-two-building-logistics-park-in-manalapan-new-jersey/",
+      "section": "traded",
+      "retail": true,
+      "published_at": "2026-11-17T00:00:00.000Z"
+    },
+    {
+      "headline": "The Secret to This Mall’s Success Isn’t Shopping",
+      "summary": "Plus, Manhattan’s Fifth Avenue again tops worldwide rankings for highest retail rents.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/real-estate/commercial/the-secret-to-this-malls-success-isnt-shopping-5309ff12?mod=LatestNewsRealEstate",
+      "section": "the_wall_street_journal",
+      "retail": true,
+      "published_at": "2026-11-18T15:00:00.000Z"
+    },
+    {
+      "headline": "Aaru Signs 27K-SF Sublease in Union Square With Plans for 650 NYC Employees",
+      "summary": "A rapidly expanding artificial intelligence platform known for having “ rage rooms ” in its offices and other perks has signed a new lease near Manhattan’s Union Square . Aaru , founded only about two years ago, has signed a deal for 27,238 square feet to facilitate a five-year expansion plan from a headcount of 60 to about 650 employees in New York City at ZG Capital Partners ’ 836–838 Broadway , according to an announcement from Gov. Kathy Hochul . Aaru currently has offices at 199 Lafayette Street in Tribeca.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/11/aaru-sublease-836-838-broadway/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-11-18T14:52:49.000Z"
+    },
+    {
+      "headline": "Japanese Pub Chain Shin Jidai Picks 26 St. Marks Place for First U.S. Location",
+      "summary": "Shin Jidai , a Japanese casual pub brand, is coming stateside, and it’s selected Manhattan’s East Village for its first stop. The chain, through Shijidai Izakaya Group , has secured a 10-year lease at 26 St. Marks Place , according to a Tuesday announcement from tenant broker Lee & Associates NYC . Shin Jidai, founded in 2010, currently operates approximately 200 casual pubs, known as izakayas, across Japan.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/11/shin-jidai-26-st-marks-place-lease/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-11-17T18:58:38.000Z"
     },
     {
       "headline": "Sui Yoga to Open 13K-SF Studio at 71 Fifth Avenue",
@@ -132,13 +204,13 @@
       "published_at": "2026-11-10T19:43:33.000Z"
     },
     {
-      "headline": "Apparel Brand American Giant Leases Brooklyn Store at 83-85 Metropolitan Avenue",
-      "summary": "San Francisco-based apparel brand American Giant has arrived in Brooklyn. The manufacturer of sportswear and casual clothing made exclusively in the United States has signed a lease for 3,400 square feet at 83-85 Metropolitan Avenue in North Williamsburg, where it will open its first Brooklyn store, according to a source familiar with the deal.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/11/american-giant-retail-lease-83-85-metropolitan-avenue/",
-      "section": "commercial_observer",
+      "headline": "Crow Holdings and PGIM Break Ground on 3.7M-SF Industrial Campus at the Tri-State Crossroads",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "Traded",
+      "url": "https://traded.co/blog/crow-holdings-and-pgim-break-ground-on-3-7m-sf-industrial-campus-at-the-tri-state-crossroads/",
+      "section": "traded",
       "retail": true,
-      "published_at": "2026-11-03T22:00:03.000Z"
+      "published_at": "2026-11-17T00:00:00.000Z"
     },
     {
       "headline": "Hardly Anyone Shops at This Mall—and That’s Made It a Huge Success",
@@ -159,22 +231,13 @@
       "published_at": "2026-11-05T13:40:26.000Z"
     },
     {
-      "headline": "Brookfield Walks Away From Luxury L.A. Tower Rather Than Refinance",
-      "summary": "And, U.S. tax law classifies this upscale Miami neighborhood as “economically distressed.”",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/real-estate/commercial/brookfield-walks-away-from-luxury-l-a-tower-rather-than-refinance-4ce8f763?mod=LatestNewsRealEstate",
-      "section": "the_wall_street_journal",
+      "headline": "Ken Griffin sells NYC duplex to Jets owner for $58M — months after Mamdani’s pied-à-terre tax stunt",
+      "summary": "Hedge fund billionaire Ken Griffin has sold a sprawling Park Avenue duplex to New York Jets owner Woody Johnson for $58 million -- just months after Mayor Zohran Mamdani targeted the Citadel founder in a creepy video touting the lefty's new pied-à-terre tax.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/17/real-estate/ken-griffin-sells-nyc-duplex-to-jets-owner-woody-johnson-for-58m-months-after-mayor-mamdani-targeted-him/",
+      "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-11-04T15:00:00.000Z"
-    },
-    {
-      "headline": "NYC School Construction Authority pays $22.4M to Leser Group for school in Soundview",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/nyc-school-construction-authority-pays-22-4m-to-leser-group-for-school-in-soundview/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-17T15:33:00.000Z"
+      "published_at": "2026-11-17T23:45:28.000Z"
     },
     {
       "headline": "Charming $10.5M NYC rooftop farmhouse finds a new owner just 1 month after listing for sale",
@@ -204,67 +267,31 @@
       "published_at": "2026-11-14T14:13:00.000Z"
     },
     {
-      "headline": "San Francisco’s luxury housing market shatters records as $10M-plus sales surge amid the AI boom",
-      "summary": "Nine homes sold for over $10 million in October, per Compass, while fierce bidding wars and dwindling inventory reshaped the city's real estate market.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/11/17/real-estate/san-francisco-luxury-home-sales-hit-record-highs/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-11-17T17:25:20.000Z"
-    },
-    {
-      "headline": "Maguire Capital buys $92M note secured by Baruch Singer’s office building in Midwood, property in foreclosure",
+      "headline": "Vornado pays $28M for office building in Grand Central through bankruptcy",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/maguire-capital-group-buys-92m-note-secured-by-retail-building-in-midwood/",
+      "url": "https://www.pincusco.com/vornado-pays-28m-for-office-building-in-grand-central-through-bankruptcy/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-11-17T16:36:00.000Z"
+      "published_at": "2026-11-18T18:30:00.000Z"
     },
     {
-      "headline": "Pouya Toobian pays $2.8M for two mixed-use properties in Glendale",
+      "headline": "Genesis Companies signs $459.3M loan with Berkadia, city to rehab NYCHA housing in Washington Heights",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/pouya-toobian-pays-2-8m-for-two-mixed-use-properties-in-glendale/",
+      "url": "https://www.pincusco.com/genesis-companies-signs-459-3m-rehab-construction-loan-with-berkadia-city-for-nycha-housing-in-washington-heights/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-11-17T16:22:00.000Z"
+      "published_at": "2026-11-18T18:17:00.000Z"
     },
     {
-      "headline": "Daniel Kaykov files plans for six or seven units at Williamsburg site",
+      "headline": "Mark Wahlberg’s Municipal Gym Makes Florida Debut at $200M Downtown Tampa Tower",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/daniel-kaykov-files-plans-for-7-units-in-williamsburg/",
-      "section": "pincusco",
+      "source": "Traded",
+      "url": "https://traded.co/blog/mark-wahlberg-s-municipal-gym-makes-florida-debut-at-200m-downtown-tampa-tower/",
+      "section": "traded",
       "retail": false,
-      "published_at": "2026-11-17T16:08:00.000Z"
-    },
-    {
-      "headline": "Chera Realty acquires 63.88% stake in Astoria office from Rieder Holdings valued at $8.6M",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/chera-realty-acquires-63-88-stake-in-astoria-office-from-rieder-holdings-valued-at-8-6m/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-17T15:48:00.000Z"
-    },
-    {
-      "headline": "Muller Capital pays $3.3M to Loketch Group for mixed-use in Crown Heights",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/muller-capital-pays-3-3m-to-loketch-group-for-mixed-use-in-crown-heights/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-17T15:45:00.000Z"
-    },
-    {
-      "headline": "They Want to Be Doctors. Student Loan Caps Are Complicating Their Dreams.",
-      "summary": "This year’s medical students will be the first to face new rules limiting how much they can borrow for school.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/15/business/medical-school-student-loan-caps.html",
-      "section": "the_new_york_times",
-      "retail": false,
-      "published_at": "2026-11-16T21:26:48.000Z"
+      "published_at": "2026-11-17T00:00:00.000Z"
     },
     {
       "headline": "Milton Glaser’s Chelsea Apartment Is for Sale",
@@ -274,51 +301,6 @@
       "section": "the_new_york_times",
       "retail": false,
       "published_at": "2026-11-16T14:55:00.000Z"
-    },
-    {
-      "headline": "Leland Burk’s $800M Preston-Royal Development Wins Dallas Approval With 199-Foot Height Cap",
-      "summary": "The Dallas City Council approved Leland Burk’s $800 million Preston-Royal redevelopment project, which includes 150 hote…",
-      "source": "Traded",
-      "url": "https://traded.co/blog/leland-burk-s-800m-preston-royal-development-wins-dallas-approval-with-199-foot-height-cap/",
-      "section": "traded",
-      "retail": false,
-      "published_at": "2026-11-16T00:00:00.000Z"
-    },
-    {
-      "headline": "EVO Entertainment and Myrtle Development Advance $50M Movie Theater and Bowling Complex in Downtown Clearwater",
-      "summary": "EVO Entertainment and Myrtle Development LLC are constructing an 83,000-square-foot entertainment complex in downtown Cl…",
-      "source": "Traded",
-      "url": "https://traded.co/blog/evo-entertainment-and-myrtle-development-advance-50m-movie-theater-and-bowling-complex-in-downtown-clearwater/",
-      "section": "traded",
-      "retail": false,
-      "published_at": "2026-11-16T00:00:00.000Z"
-    },
-    {
-      "headline": "Sand Hill Property Company Adds 194 Apartments to Palo Alto Project",
-      "summary": "Sand Hill Property Company plans to construct 194 apartments and a three-story office building at 3300 El Camino Real in…",
-      "source": "Traded",
-      "url": "https://traded.co/blog/sand-hill-property-company-adds-194-apartments-to-palo-alto-project/",
-      "section": "traded",
-      "retail": false,
-      "published_at": "2026-11-16T00:00:00.000Z"
-    },
-    {
-      "headline": "Infinity Collective Plans 14-Story, $28M Mixed-Use Development on Miami Beach’s Alton Road",
-      "summary": "Infinity Collective plans a 14-story mixed-use project at 1680 Alton Road in Miami Beach, featuring 142 apartments, 51,1…",
-      "source": "Traded",
-      "url": "https://traded.co/blog/infinity-collective-plans-14-story-28m-mixed-use-development-on-miami-beach-s-alton-road/",
-      "section": "traded",
-      "retail": false,
-      "published_at": "2026-11-16T00:00:00.000Z"
-    },
-    {
-      "headline": "Mortgage Rates Remain High as Affordability Challenges Persist",
-      "summary": "The average 30-year, fixed-rate home loan fell slightly, to 7.11 percent, pushing buyers and sellers to the sidelines until conditions improve.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html",
-      "section": "the_new_york_times",
-      "retail": false,
-      "published_at": "2026-11-13T14:28:29.000Z"
     },
     {
       "headline": "Why Big Investors Are Burning Lenders on Apartment Loans",
@@ -346,6 +328,15 @@
       "section": "the_new_york_times",
       "retail": false,
       "published_at": "2026-11-14T10:01:56.000Z"
+    },
+    {
+      "headline": "Rex Reed’s Longtime Dakota Apartment Is on the Market",
+      "summary": "The asking price for the two-bedroom co-op, which the film critic bought nearly six decades ago, is $5.99 million.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/13/realestate/rex-reed-dakota-apartment-market.html",
+      "section": "the_new_york_times",
+      "retail": false,
+      "published_at": "2026-11-13T10:02:34.000Z"
     }
   ]
 }
