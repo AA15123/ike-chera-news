@@ -1,17 +1,17 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-11-19",
-  "generated_at": "2026-11-19T18:56:34.282Z",
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T18:28:24.935Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. **WSJ** is the Dow Jones real-estate feed with lifestyle and opinion dropped. **The New York Times** keeps real-estate and property stories only. **Traded** is commercial deal briefs from its news listing. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Danny Meyer Signs Greenwich Village Lease for New Restaurant: Fresh off his plans to open an eatery at the former Hotel Bossert in Brooklyn Heights, Michelin -star chef Danny Meyer is turning a hungry eye back on Manhattan. Meyer’s Union Square Hospitality Group signed a 10-year, roughly 8,000-square-foot lease at 21 West Eighth Street in Greenwich Village.\n\nAustralian Fashion Brand Mode Mischief Inks Lease at SoHo’s 65 Spring Street: Australian fashion brand Mode Mischief has signed a 2,000-square-foot retail lease at 65 Spring Street in Manhattan’s SoHo, Commercial Observer has learned. The deal converts the spot where the apparel company has held a pop-up location since May into its permanent home for the next five years.\n\nBondi Sushi to Open at Rockefeller’s 1221 Avenue of the Americas: Ah, salmon skin roll . New York and Miami-based Japanese restaurant brand Bondi Sushi has leased 4,400 square feet at Rockefeller Group ’s 1221 Avenue of the Americas in Rockefeller Center , the property owner announced Monday.\n\nWilliamsburg Secures Highest Retail Asking Rent in Brooklyn in 2026: REBNY: Williamsburg remains the shopping capital of Brooklyn. A flurry of leases and rising rents have defined the area in 2026, according to the Real Estate Board of New York (REBNY) ’ s most recent Brooklyn retail report, shared exclusively with Commercial Observer.",
-    "cre_daily": "JLL: Retail Vacancy Dips to 4.3% as Openings Beat Closures: U.S. retail net absorption totaled 8.3M SF in Q3 after 10.2M in Q2, and vacancy slipped to 4.3%.\n\nRetail Investors Eye 2027 With Tight Supply, Rising Cap Rates: Retail investors enter 2027 weighing whether sellers’ pricing will match institutional targets, with cap rates expected to climb gradually and volume landing slightly below 2026 levels.\n\nFirst Washington’s Alex Nyhan on Grocery-Anchored Retail: Guest: Alex Nyhan, CEO, First Washington Realty Alex Nyhan is CEO of First Washington Realty, one of the largest owners and operators of grocery-anchored and neighborhood retail in the country, with nearly 150 shopping centers across 22 states.\n\nSimon Property Raises 2026 FFO Guidance After 4.7% Q3 Gain: Real Estate FFO rose 4.7% to $1.277 billion, or $3.37 per share, in Q3, and Simon lifted full-year guidance to $13.30 to $13.40 per share, up $0.10. Occupancy reached 96.5% in U.S.",
-    "new_york_post": "Retired QB Chris Simms splashes out $4.59M for NYC home after selling $5.5M Connecticut estate: The retired quarterback has traded a 300-year-old Connecticut farmhouse for a smashing residence at Sutton Tower.\n\nCity inspectors rush to 160 locations tied to contractors working at fatal Brooklyn collapse site: City officials have halted construction at multiple sites tied to engineers involved in last week's deadly Brooklyn building collapse.\n\nKen Griffin sells NYC duplex to Jets owner for $58M — months after Mamdani’s pied-à-terre tax stunt: Hedge fund billionaire Ken Griffin has sold a sprawling Park Avenue duplex to New York Jets owner Woody Johnson for $58 million -- just months after Mayor Zohran Mamdani targeted the Citadel founder in a creepy video touting the lefty's new pied-à-terre tax.\n\nMassive 39-story skyscraper proposal sparks bitter battle in a ritzy Silicon Valley suburb: A Russian-owned Silicon Valley development faces fierce opposition as a California housing loophole fuels a high-stakes legal showdown.",
-    "pincusco": "Jericho Project, Aris Babayan sign $36.9M loan with UMB Bank for 79-unit apartment building in Williamsbridge.\n\nBeitel Group signs $360M construction loan with BDT & MSD Partners for 968-unit dev site in Harlem.\n\nOleg Krasnitskiy files plans for 42 units in Midwood.\n\nRed Apple Group files plans for 99 units in Chelsea.",
+    "cre_daily": "Houston Retail Demand Tops New Supply for First Time in a Year: Houston retail net absorption of 399,400 SF beat 339,800 SF of deliveries in Q3, the first quarter in 12 months in which demand topped new supply, according to Colliers. Rents rose 7.9% to $22.06 per SF, a fourth straight record, and sales volume climbed 18% to more than $953M, though vacancy edged up to 5.8% and.\n\nJLL: Retail Vacancy Dips to 4.3% as Openings Beat Closures: U.S. retail net absorption totaled 8.3M SF in Q3 after 10.2M in Q2, and vacancy slipped to 4.3%.\n\nRetail Investors Eye 2027 With Tight Supply, Rising Cap Rates: Retail investors enter 2027 weighing whether sellers’ pricing will match institutional targets, with cap rates expected to climb gradually and volume landing slightly below 2026 levels.\n\nFirst Washington’s Alex Nyhan on Grocery-Anchored Retail: Guest: Alex Nyhan, CEO, First Washington Realty Alex Nyhan is CEO of First Washington Realty, one of the largest owners and operators of grocery-anchored and neighborhood retail in the country, with nearly 150 shopping centers across 22 states.",
+    "new_york_post": "Retired QB Chris Simms splashes out $4.59M for NYC home after selling $5.5M Connecticut estate: The retired quarterback has traded a 300-year-old Connecticut farmhouse for a smashing residence at Sutton Tower.\n\nCity inspectors rush to 160 locations tied to contractors working at fatal Brooklyn collapse site: City officials have halted construction at multiple sites tied to engineers involved in last week's deadly Brooklyn building collapse.\n\nKen Griffin sells NYC duplex to Jets owner for $58M — months after Mamdani’s pied-à-terre tax stunt: Hedge fund billionaire Ken Griffin has sold a sprawling Park Avenue duplex to New York Jets owner Woody Johnson for $58 million -- just months after Mayor Zohran Mamdani targeted the Citadel founder in a creepy video touting the lefty's new pied-à-terre tax.",
+    "pincusco": "Simone Development Companies signs $50M construction loan for 128-unit hotel in Pelham Bay.\n\nKen Griffin, Vornado, Rudin get $3.3B loan, value land and air at $1.35B for Midtown East supertall office.\n\nJericho Project, Aris Babayan sign $36.9M loan with UMB Bank for 79-unit apartment building in Williamsbridge.\n\nInfinity Management files plans for 81 units in Tremont.",
     "the_new_york_times": "Milton Glaser’s Chelsea Apartment Is for Sale: Milton and Shirley Glaser filled their apartment with art and collectibles. With its ample storage, so could its next owner.\n\nMy Condo Wants Charging Spots for Electric Cars. How Do We Add Them Fairly?: Installing EV charging can be complicated, requiring buy-in from your association, building management and the local electric utility provider.\n\nRex Reed’s Longtime Dakota Apartment Is on the Market: The asking price for the two-bedroom co-op, which the film critic bought nearly six decades ago, is $5.99 million.",
     "the_wall_street_journal": "The Secret to This Mall’s Success Isn’t Shopping: Plus, Manhattan’s Fifth Avenue again tops worldwide rankings for highest retail rents.\n\nHardly Anyone Shops at This Mall—and That’s Made It a Huge Success: A Long Island retail emporium eliminated most stores and reinvented itself with games and entertainment such as laser tag and axe-throwing.\n\nWhy Big Investors Are Burning Lenders on Apartment Loans: Deep-pocketed landlords like Brookfield may be the most willing to cut their losses on troubled properties.\n\nThey’re Lucky Enough to Have a 3% Mortgage—and Feel Like They Can Never Move: Meet the one in five mortgage holders who are America’s three percenters.",
-    "traded": "HVN Development’s $11M Car-Free Building Brings 75 Affordable Apartments Near Venice: HVN Development is accepting applications for 75 affordable apartments at 3981-3985 South Meier Street in Mar Vista, Los.\n\nJonas Woods Unveils $600M Ivy Park Tower Along Dallas’ Katy Trail With 97-Room Hotel and Luxury Condos: Ivy Park is a proposed 30-story mixed-use tower in Dallas featuring a 97-room boutique hotel and 63 luxury condominiums,.\n\nBears Stadium Could Anchor $10B Bronzeville Lakefront Development: Capri Investment Group and GRIT Chicago propose a $10 billion Bronzeville Lakefront development, featuring a 75,000-seat.\n\nBrookfield Residential Wins Approval for 164-Unit Olive + Oak Development in San Ramon: Brookfield Residential has gained approval for Olive + Oak, a 7.2-acre residential redevelopment in San Ramon, featuring."
+    "traded": "Brooklyn Rental Vacant Since 2012 Fire Lands $12M City Loan to Become 134 Homes.\n\nTourbineau Real Estate Partners Expands San Mateo Office Conversion to Nearly 500 Apartments: Turbineau Real Estate Partners plans to redevelop Tower Plaza at 2121 El Camino Real in San Mateo into nearly 500 apartm.\n\nSade Real Estate Partners With Raffles to Convert Houston Tower Into 114 Luxury Condos: Sade Real Estate is converting its 40-story property at 2929 Weslayan into the Raffles Residences River Oaks, featuring.\n\nArlio Development Plans 24 New Single-Family Homes in Morgan Park, Chicago: Arlio Development is launching the Gallery Collection, a 24-home project on a vacant site near 11000 South Vincennes Ave."
   },
   "items": [
     {
@@ -22,6 +22,15 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-11-17T21:44:40.000Z"
+    },
+    {
+      "headline": "Houston Retail Demand Tops New Supply for First Time in a Year",
+      "summary": "Houston retail net absorption of 399,400 SF beat 339,800 SF of deliveries in Q3, the first quarter in 12 months in which demand topped new supply, according to Colliers. Rents rose 7.9% to $22.06 per SF, a fourth straight record, and sales volume climbed 18% to more than $953M, though vacancy edged up to 5.8% and leasing slowed. Construction jumped 48% to 4.4M SF, so a new supply wave could test a market where restaurant, fitness, medical and grocery demand is well diversified.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/houston-retail-demand-tops-new-supply-for-first-time-in-a-year/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-11-20T13:03:45.000Z"
     },
     {
       "headline": "Australian Fashion Brand Mode Mischief Inks Lease at SoHo’s 65 Spring Street",
@@ -78,15 +87,6 @@
       "published_at": "2026-11-08T17:00:00.000Z"
     },
     {
-      "headline": "Simon Property Raises 2026 FFO Guidance After 4.7% Q3 Gain",
-      "summary": "Real Estate FFO rose 4.7% to $1.277 billion, or $3.37 per share, in Q3, and Simon lifted full-year guidance to $13.30 to $13.40 per share, up $0.10. Occupancy reached 96.5% in U.S. malls and Premium Outlets, base minimum rent rose 6.1% to $62.75 per SF, and reported retailer sales climbed 14.8% to $852 per SF. Net income fell to $1.54 per share from $1.86 on $99.6 million of non-cash losses, while the dividend rose 4.5% to $2.30 and Simon repurchased $236.5 million of its stock.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/simon-property-raises-2026-ffo-guidance-after-4-7-q3-gain/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-11-06T17:17:15.000Z"
-    },
-    {
       "headline": "Car Wash Cap Rates Fall as Bonus Depreciation Lifts Demand",
       "summary": "Global Net Lease has 15 gas station, convenience and car wash properties under contract for about $70M at a 6.5% cash cap rate, versus 7.7% for other occupied sales this year. Gas station and car wash buildings count as 15-year property, so 100% bonus depreciation can cover the whole building without much cost segregation work. The Boulder Group put average single-tenant net lease asking cap rates at 6.92% in Q3, up 10 bps, while GNL sold office at a 7.5% cash cap rate.…",
       "source": "CRE Daily",
@@ -96,6 +96,15 @@
       "published_at": "2026-11-13T16:38:52.000Z"
     },
     {
+      "headline": "Namdar Takes Control of Destiny USA’s $430M Mall Debt",
+      "summary": "Namdar Realty Group, a Long Island firm known for distressed retail, acquired the debt on Destiny USA, New York’s largest shopping center, and is now lender of record in bond filings. Pyramid Management Group failed to close a bid to buy the $430 million CMBS for under 20 cents on the dollar, and the top tranche now trades near 17 cents.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/namdar-takes-control-of-destiny-usas-430m-mall-debt/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-11-20T13:54:01.000Z"
+    },
+    {
       "headline": "Outdoor Apparel Brand Kühl to Open First NYC Store at 520 Fifth Avenue",
       "summary": "Baby it’s cold outside, so you better bundle up with outdoor gear from New York City’s latest retail addition. Utah-based outdoor apparel brand Kühl is set to open its first store in New York City at Rabina ’s 520 Fifth Avenue in Midtown, the real estate investment and development firm announced this week.…",
       "source": "Commercial Observer",
@@ -103,15 +112,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-11-19T16:31:04.000Z"
-    },
-    {
-      "headline": "Fifth Avenue Retail Rents Jump 35% to Top Global Rankings",
-      "summary": "Upper Fifth Avenue retail rents rose 35% year over year to an average of $2,700 a square foot, the highest in the world, per Cushman & Wakefield. Availability on upper Fifth dropped 4.4 percentage points to 13% in Q3, and brands such as Meta, Prada and Kering have made big commitments. The rebound mirrors a wider Manhattan recovery in office rents and hotel rates, and demand has spread to lower Fifth Avenue.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/fifth-avenue-retail-rents-jump-35-to-top-global-rankings/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-11-17T15:37:36.000Z"
     },
     {
       "headline": "Actors Federal Credit Union Expands to 15K SF at 1560 Broadway",
@@ -186,6 +186,24 @@
       "published_at": "2026-11-18T20:50:10.000Z"
     },
     {
+      "headline": "Simone Development Companies signs $50M construction loan for 128-unit hotel in Pelham Bay",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/simone-development-companies-signs-50m-construction-loan-for-128-unit-hotel-in-pelham-bay/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-11-20T17:01:00.000Z"
+    },
+    {
+      "headline": "Ken Griffin, Vornado, Rudin get $3.3B loan, value land and air at $1.35B for Midtown East supertall office",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/ken-griffin-vornado-rudin-get-3-3b-loan-value-land-and-air-at-1-35b-for-midtown-east-supertall-office/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-11-20T16:25:00.000Z"
+    },
+    {
       "headline": "Jericho Project, Aris Babayan sign $36.9M loan with UMB Bank for 79-unit apartment building in Williamsbridge",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
@@ -195,15 +213,6 @@
       "published_at": "2026-11-19T15:56:00.000Z"
     },
     {
-      "headline": "Beitel Group signs $360M construction loan with BDT & MSD Partners for 968-unit dev site in Harlem",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/beitel-group-signs-360m-construction-loan-with-bdt-msd-partners-for-968-unit-dev-site-in-harlem/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-19T14:22:00.000Z"
-    },
-    {
       "headline": "Retired QB Chris Simms splashes out $4.59M for NYC home after selling $5.5M Connecticut estate",
       "summary": "The retired quarterback has traded a 300-year-old Connecticut farmhouse for a smashing residence at Sutton Tower.",
       "source": "New York Post",
@@ -211,6 +220,15 @@
       "section": "new_york_post",
       "retail": false,
       "published_at": "2026-11-19T16:02:54.000Z"
+    },
+    {
+      "headline": "Brooklyn Rental Vacant Since 2012 Fire Lands $12M City Loan to Become 134 Homes",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "Traded",
+      "url": "https://traded.co/blog/brooklyn-rental-vacant-since-2012-fire-lands-12m-city-loan-to-become-134-homes/",
+      "section": "traded",
+      "retail": false,
+      "published_at": "2026-11-19T00:00:00.000Z"
     },
     {
       "headline": "City inspectors rush to 160 locations tied to contractors working at fatal Brooklyn collapse site",
@@ -231,85 +249,58 @@
       "published_at": "2026-11-17T23:45:28.000Z"
     },
     {
-      "headline": "Oleg Krasnitskiy files plans for 42 units in Midwood",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/oleg-krasnitskiy-files-plans-for-42-units-in-midwood/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-19T16:21:00.000Z"
-    },
-    {
-      "headline": "Red Apple Group files plans for 99 units in Chelsea",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/red-apple-group-files-plans-for-99-units-in-chelsea/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-19T16:10:00.000Z"
-    },
-    {
-      "headline": "Trans World Equities signs $11.44M refi with CIBC for mixed-use in Flatiron District",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/trans-world-equities-signs-11-44m-refi-with-cibc-for-mixed-use-in-flatiron-district/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-19T15:37:00.000Z"
-    },
-    {
-      "headline": "Argentos of Broadway Stages seek zoning changes to build 238 units on two sites in Astoria",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/argentos-of-broadway-stages-seek-zoning-changes-to-build-238-units-on-two-sites-in-astoria/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-19T14:48:45.000Z"
-    },
-    {
-      "headline": "Massive 39-story skyscraper proposal sparks bitter battle in a ritzy Silicon Valley suburb",
-      "summary": "A Russian-owned Silicon Valley development faces fierce opposition as a California housing loophole fuels a high-stakes legal showdown.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/11/18/real-estate/39-story-menlo-park-tower-sparks-legal-fight/",
-      "section": "new_york_post",
-      "retail": false,
-      "published_at": "2026-11-18T21:16:58.000Z"
-    },
-    {
-      "headline": "HVN Development’s $11M Car-Free Building Brings 75 Affordable Apartments Near Venice",
-      "summary": "HVN Development is accepting applications for 75 affordable apartments at 3981-3985 South Meier Street in Mar Vista, Los…",
+      "headline": "Tourbineau Real Estate Partners Expands San Mateo Office Conversion to Nearly 500 Apartments",
+      "summary": "Turbineau Real Estate Partners plans to redevelop Tower Plaza at 2121 El Camino Real in San Mateo into nearly 500 apartm…",
       "source": "Traded",
-      "url": "https://traded.co/blog/hvn-development-s-11m-car-free-building-brings-75-affordable-apartments-near-venice/",
+      "url": "https://traded.co/blog/tourbineau-real-estate-partners-expands-san-mateo-office-conversion-to-nearly-500-apartments/",
       "section": "traded",
       "retail": false,
-      "published_at": "2026-11-18T00:00:00.000Z"
+      "published_at": "2026-12-15T00:00:00.000Z"
     },
     {
-      "headline": "Jonas Woods Unveils $600M Ivy Park Tower Along Dallas’ Katy Trail With 97-Room Hotel and Luxury Condos",
-      "summary": "Ivy Park is a proposed 30-story mixed-use tower in Dallas featuring a 97-room boutique hotel and 63 luxury condominiums,…",
-      "source": "Traded",
-      "url": "https://traded.co/blog/jonas-woods-unveils-600m-ivy-park-tower-along-dallas-katy-trail-with-97-room-hotel-and-luxury-condos/",
-      "section": "traded",
+      "headline": "Infinity Management files plans for 81 units in Tremont",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/infinity-management-files-plans-for-81-units-in-tremont/",
+      "section": "pincusco",
       "retail": false,
-      "published_at": "2026-11-18T00:00:00.000Z"
+      "published_at": "2026-11-20T17:18:00.000Z"
     },
     {
-      "headline": "Bears Stadium Could Anchor $10B Bronzeville Lakefront Development",
-      "summary": "Capri Investment Group and GRIT Chicago propose a $10 billion Bronzeville Lakefront development, featuring a 75,000-seat…",
-      "source": "Traded",
-      "url": "https://traded.co/blog/chicago-bears-stadium-could-anchor-10b-bronzeville-lakefront-development/",
-      "section": "traded",
+      "headline": "Yessennia Arocho files plans for 12 units in Morrisania",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/yessennia-arocho-files-plans-for-12-units-in-morrisania/",
+      "section": "pincusco",
       "retail": false,
-      "published_at": "2026-11-18T00:00:00.000Z"
+      "published_at": "2026-11-20T16:42:00.000Z"
     },
     {
-      "headline": "Brookfield Residential Wins Approval for 164-Unit Olive + Oak Development in San Ramon",
-      "summary": "Brookfield Residential has gained approval for Olive + Oak, a 7.2-acre residential redevelopment in San Ramon, featuring…",
+      "headline": "Ronald Perelman sells office townhouse in Lenox Hill for $12.75M",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/ronald-perelman-sells-office-townhouse-in-lenox-hill-for-12-8m/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-11-20T16:33:00.000Z"
+    },
+    {
+      "headline": "Sade Real Estate Partners With Raffles to Convert Houston Tower Into 114 Luxury Condos",
+      "summary": "Sade Real Estate is converting its 40-story property at 2929 Weslayan into the Raffles Residences River Oaks, featuring…",
       "source": "Traded",
-      "url": "https://traded.co/blog/brookfield-residential-wins-approval-for-164-unit-olive-oak-development-in-san-ramon/",
+      "url": "https://traded.co/blog/sade-real-estate-partners-with-raffles-to-convert-houston-tower-into-114-luxury-condos/",
       "section": "traded",
       "retail": false,
-      "published_at": "2026-11-18T00:00:00.000Z"
+      "published_at": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "headline": "Arlio Development Plans 24 New Single-Family Homes in Morgan Park, Chicago",
+      "summary": "Arlio Development is launching the Gallery Collection, a 24-home project on a vacant site near 11000 South Vincennes Ave…",
+      "source": "Traded",
+      "url": "https://traded.co/blog/arlio-development-plans-24-new-single-family-homes-in-morgan-park-chicago/",
+      "section": "traded",
+      "retail": false,
+      "published_at": "2026-11-19T00:00:00.000Z"
     },
     {
       "headline": "Milton Glaser’s Chelsea Apartment Is for Sale",
