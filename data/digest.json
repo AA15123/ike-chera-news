@@ -1,17 +1,17 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-11-23",
-  "generated_at": "2026-11-23T21:58:28.350Z",
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T20:35:22.008Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. **WSJ** is the Dow Jones real-estate feed with lifestyle and opinion dropped. **The New York Times** keeps real-estate and property stories only. **Traded** is commercial deal briefs from its news listing. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Danny Meyer Signs Greenwich Village Lease for New Restaurant: Fresh off his plans to open an eatery at the former Hotel Bossert in Brooklyn Heights, Michelin -star chef Danny Meyer is turning a hungry eye back on Manhattan. Meyer’s Union Square Hospitality Group signed a 10-year, roughly 8,000-square-foot lease at 21 West Eighth Street in Greenwich Village.\n\nAustralian Fashion Brand Mode Mischief Inks Lease at SoHo’s 65 Spring Street: Australian fashion brand Mode Mischief has signed a 2,000-square-foot retail lease at 65 Spring Street in Manhattan’s SoHo, Commercial Observer has learned. The deal converts the spot where the apparel company has held a pop-up location since May into its permanent home for the next five years.\n\nKids Art Studio ColorPop Workshop to Open at Tribeca’s 450 Washington Street: A pop of color can certainly brighten your day. ColorPop Workshop , an art studio offering children ages 3 to 12 a variety of classes, has inked a 1,000-square-foot deal at the base of Related Companies ’ 450 Washington Street in Manhattan’s Tribeca neighborhood, according to tenant broker Meridian Retail Leasing .\n\nWilliamsburg Secures Highest Retail Asking Rent in Brooklyn in 2026: REBNY: Williamsburg remains the shopping capital of Brooklyn. A flurry of leases and rising rents have defined the area in 2026, according to the Real Estate Board of New York (REBNY) ’ s most recent Brooklyn retail report, shared exclusively with Commercial Observer.",
     "cre_daily": "Houston Retail Demand Tops New Supply for First Time in a Year: Houston retail net absorption of 399,400 SF beat 339,800 SF of deliveries in Q3, the first quarter in 12 months in which demand topped new supply, according to Colliers. Rents rose 7.9% to $22.06 per SF, a fourth straight record, and sales volume climbed 18% to more than $953M, though vacancy edged up to 5.8% and.\n\nJLL: Retail Vacancy Dips to 4.3% as Openings Beat Closures: U.S. retail net absorption totaled 8.3M SF in Q3 after 10.2M in Q2, and vacancy slipped to 4.3%.\n\nRetail Investors Eye 2027 With Tight Supply, Rising Cap Rates: Retail investors enter 2027 weighing whether sellers’ pricing will match institutional targets, with cap rates expected to climb gradually and volume landing slightly below 2026 levels.\n\nCar Wash Cap Rates Fall as Bonus Depreciation Lifts Demand: Global Net Lease has 15 gas station, convenience and car wash properties under contract for about $70M at a 6.5% cash cap rate, versus 7.7% for other occupied sales this year. Gas station and car wash buildings count as 15-year property, so 100% bonus depreciation can cover the whole building without much cost.",
-    "new_york_post": "Panelists tout emergence of 42BELOW, the ‘hot new’ Midtown neighborhood: Retail-space occupancy has grown 65% faster in 42BELOW than in Manhattan overall, and vacant storefronts fell 19% over the past two years.\n\nLos Tacos signs big lease in Midtown: The Los Tacos' 12th Manhattan location is is expected to open in mid-2027.",
-    "pincusco": "MDG signs $52.6M ground lease with NYCHA, borrows $263.7M for rehab of 362 units in Lower East Side.\n\nUnion Theological Seminary pays $5.3M for retail condo in Morningside Heights.\n\nJoseph Kohn files plans for 37 units in Flatbush.\n\nQing Xiang Wang pays $7.1M to Hui Wang for office in College Point.",
-    "the_new_york_times": "‘Hunger Games’ Rebounds With $120 Million Opening for ‘Sunrise on the Reaping’ at Box Office: “The Hunger Games: Sunrise on the Reaping” had nearly three times the domestic opening box office total of its predecessor, extending a Lionsgate hot streak.\n\nMilton Glaser’s Chelsea Apartment Is for Sale: Milton and Shirley Glaser filled their apartment with art and collectibles. With its ample storage, so could its next owner.\n\nMy Condo’s Management Company Is Inept. Could A.I. Do a Better Job?: Just because a company advertises A.I.-driven efficiencies doesn’t mean those efficiencies will be passed along to you.\n\nTrump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad: The president suggested he would tax the same companies, though it was not clear how he would carry out the plan unveiled at a news conference.",
-    "the_wall_street_journal": "The Secret to This Mall’s Success Isn’t Shopping: Plus, Manhattan’s Fifth Avenue again tops worldwide rankings for highest retail rents.\n\nHardly Anyone Shops at This Mall—and That’s Made It a Huge Success: A Long Island retail emporium eliminated most stores and reinvented itself with games and entertainment such as laser tag and axe-throwing.\n\nWhy Big Investors Are Burning Lenders on Apartment Loans: Deep-pocketed landlords like Brookfield may be the most willing to cut their losses on troubled properties.\n\nThey’re Lucky Enough to Have a 3% Mortgage—and Feel Like They Can Never Move: Meet the one in five mortgage holders who are America’s three percenters.",
-    "traded": "Fortune International and Blue Road Pay Off $73M Nexo Residences Construction Loan.\n\nMeadowlands Convention Center Plan Advances With $4.25 Billion Development Vision.\n\nKPC Development's $300 Million Kali Hotel Rises Next to SoFi Stadium Ahead of 2028 Olympics: KPC Development Company is constructing a $300 million, 300-room Kali Hotel at Hollywood Park in Inglewood, expected to.\n\nLCOR Lands $150M Permit for 42-Story Rental Tower in Miami's Arts & Entertainment District: LCOR has received a $150 million construction permit for a 42-story mixed-use tower at 1775 Biscayne in Miami, featuring."
+    "new_york_post": "Panelists tout emergence of 42BELOW, the ‘hot new’ Midtown neighborhood: Retail-space occupancy has grown 65% faster in 42BELOW than in Manhattan overall, and vacant storefronts fell 19% over the past two years.\n\nLos Tacos signs big lease in Midtown: The Los Tacos' 12th Manhattan location is is expected to open in mid-2027.\n\nJoe Jonas sells Brooklyn home for $6.5M after breaking up with his model girlfriend: And the sale is a wash -- as that's what he paid for the residence at 30 Front St. when he bought it two years ago.",
+    "pincusco": "Faraj Srour signs $15.2M refi with Santander Bank for five retail properties in Midwood.\n\nMoshe Silberstein signs $28.5M construction loan with BridgeCity for 45-unit project in Williamsburg.\n\nIsrael Benchemhoun files plans for 55 units in Far Rockaway.\n\nMental health nonprofit pays $8.1M to Rabsky, Spencer Equity for office condo in Williamsburg.",
+    "the_new_york_times": "‘Hunger Games’ Rebounds With $120 Million Opening for ‘Sunrise on the Reaping’ at Box Office: “The Hunger Games: Sunrise on the Reaping” had nearly three times the domestic opening box office total of its predecessor, extending a Lionsgate hot streak.\n\nMilton Glaser’s Chelsea Apartment Is for Sale: Milton and Shirley Glaser filled their apartment with art and collectibles. With its ample storage, so could its next owner.\n\nMassive London Barracks Site to Become Luxury Housing: For nearly two centuries, St. John’s Wood Square housed army barracks.\n\nMy Condo’s Management Company Is Inept. Could A.I. Do a Better Job?: Just because a company advertises A.I.-driven efficiencies doesn’t mean those efficiencies will be passed along to you.",
+    "the_wall_street_journal": "The Secret to This Mall’s Success Isn’t Shopping: Plus, Manhattan’s Fifth Avenue again tops worldwide rankings for highest retail rents.\n\nHardly Anyone Shops at This Mall—and That’s Made It a Huge Success: A Long Island retail emporium eliminated most stores and reinvented itself with games and entertainment such as laser tag and axe-throwing.\n\nAnthropic’s New Millionaires Turbocharge San Francisco’s Red-Hot Housing Market: They can borrow cash against IPO shares to purchase seven-figure San Francisco homes. “They want to buy now,” a broker says.\n\nWhy Big Investors Are Burning Lenders on Apartment Loans: Deep-pocketed landlords like Brookfield may be the most willing to cut their losses on troubled properties.",
+    "traded": "Fortune International and Blue Road Pay Off $73M Nexo Residences Construction Loan: Fortune International Group and Blue Road fully repaid the $73 million construction loan for Nexo Residences in North Mi.\n\nHotel Former Canopy by Hilton Site in Brickell Gets $345M for Namdar's 42-Story Apartment Tower.\n\nMeadowlands Convention Center Plan Advances With $4.25 Billion Development Vision: The proposed convention and events complex at the former Izod Center in East Rutherford could cost between $3.8 billion.\n\nKPC Development's $300 Million Kali Hotel Rises Next to SoFi Stadium Ahead of 2028 Olympics: KPC Development Company is constructing a $300 million, 300-room Kali Hotel at Hollywood Park in Inglewood, expected to."
   },
   "items": [
     {
@@ -79,7 +79,7 @@
     },
     {
       "headline": "Thor Equities Buys San Francisco Office and Retail Building for $51M",
-      "summary": "Thor Equities Group is doubling down on San Francisco, particularly in its Union Square district. The New York-based real estate investment firm has acquired a 136,714-square-foot office and retail building at 55 Stockton Street for $50.55 million, Commercial Observer can first report. Property records show Zaber Corporation previously acquired the property in October 2016. The eight-story property was built in 1988 at the corner of Stockton and O’Farrell streets about one block from Union Square.…",
+      "summary": "Thor Equities Group is doubling down on San Francisco, particularly in its Union Square district. The New York-based real estate investment firm has acquired a 136,714-square-foot office and retail building at 55 Stockton Street for $50.55 million, Commercial Observer can first report. Property records show Zaber Corporation previously acquired the property in October 2016. Prime Finance provided $51.8 million in acquisition financing for 55 Stockton.…",
       "source": "Commercial Observer",
       "url": "https://commercialobserver.com/2026/11/thor-equities-55-stockton-san-francisco-office-retail/",
       "section": "commercial_observer",
@@ -123,31 +123,31 @@
       "published_at": "2026-11-17T15:37:36.000Z"
     },
     {
-      "headline": "Accounting Firm Mitchell & Titus Relocates HQ to 8K SF at One Battery Park Plaza",
-      "summary": "Accounting firm Mitchell & Titus is going back to its Rudin roots. The firm inked an 8,289-square-foot deal to relocate its headquarters to Rudin and Allianz Real Estate ’s One Battery Park Plaza , Commercial Observer can first report. The deal sees Mitchell Titus return to the Financial District office tower after seven years apart. “After a brief time away, we are returning to a place that truly feels like home,” Anthony Kendall , Mitchell Titus’ chairman and CEO, said in a statement.…",
+      "headline": "Hudson River Trading Expands to 551K SF at 3 World Trade Center",
+      "summary": "Hudson River Trading (HRT), a leading electronic and quantitative trading firm, has added a large chunk of office space to its global headquarters at 3 World Trade Center . HRT, which moved into its Financial District home in 2018, just signed a lease to add 340,000 square feet to its existing 211,207-square-foot office at 175 Greenwich Street , according to landlord Silverstein Properties . The new expansion brings HRT’s total footprint at 3 World Trade Center to approximately 551,207 square feet.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/11/mitchell-titus-lease-rudin-one-battery-park-plaza/",
+      "url": "https://commercialobserver.com/2026/11/hudson-river-trading-lease-expansion-3-world-trade-center/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-11-23T17:10:23.000Z"
+      "published_at": "2026-11-24T20:08:20.000Z"
     },
     {
-      "headline": "MDG signs $52.6M ground lease with NYCHA, borrows $263.7M for rehab of 362 units in Lower East Side",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/mdg-signs-52-6m-ground-lease-with-to-nycha-borrows-263-7m-for-rehab-of-362-units-in-lower-east-side/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-11-23T12:24:00.000Z"
-    },
-    {
-      "headline": "Rialto Refis 530 Fifth Avenue Retail Condo With $122M Loan",
-      "summary": "A joint venture between Aurora Capital Associates and AVRS Partners has landed a $122.1 million loan to refinance a Fifth Avenue retail condominium, Commercial Observer can first report. Rialto Capital Management supplied the floating-rate, interest-only loan for the sponsorship’s 58,989-square-foot retail condo at 530 Fifth Avenue .…",
+      "headline": "Miami Investor Buys Fort Lauderdale Retail Center for $35M",
+      "summary": "Core Investment Management has paid $35.4 million for a strip mall in Fort Lauderdale, following a four-year repositioning. The 73,756-square-foot asset called Gateway Shopping District features 11 buildings between 1914 and 1980 East Sunrise Boulevard . The strip mall is sandwiched between 18th Northeast Avenue and 20th Northeast Avenue, near the 799,851-square-foot Galleria Mall , which is slated to be redeveloped into a mixed-use development.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/11/rialto-530-fifth-avenue-retail/",
+      "url": "https://commercialobserver.com/2026/11/core-gateway-retail-fort-lauderdale-native-realty/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-11-23T11:30:41.000Z"
+      "published_at": "2026-11-24T19:15:01.000Z"
+    },
+    {
+      "headline": "Moinian Group Modifies 2 Washington Street’s $131M CMBS Loan, Secures New Tenant",
+      "summary": "What started with a tenant bankruptcy has evolved into a much happier ending for Moinian Group ’s 2 Washington Street in Battery Park City, and just in time for the holidays. The $131 million commercial mortgage-backed securities (CMBS) loan on the building, which was previously leased to the now-bankrupt hospitality company Sonder , has been successfully modified, and Moinian Group has signed a new, similar tenant in Prism , sources familiar with the situation told Commercial Observer.…",
+      "source": "Commercial Observer",
+      "url": "https://commercialobserver.com/2026/11/moinian-group-2-washington-mod-prism/",
+      "section": "commercial_observer",
+      "retail": true,
+      "published_at": "2026-11-23T22:27:22.000Z"
     },
     {
       "headline": "Los Tacos No. 1 to Open at 900 Third Avenue in Midtown East",
@@ -204,31 +204,13 @@
       "published_at": "2026-11-17T18:58:38.000Z"
     },
     {
-      "headline": "Sui Yoga to Open 13K-SF Studio at 71 Fifth Avenue",
-      "summary": "Wellness and fitness operator Sui Yoga has selected 71 Fifth Avenue for its second Manhattan location. The hot yoga, Pilates and strength training studio inked a 13-year deal for 13,000 square feet at the Midtown South building, located one block west of Union Square at the corner of Fifth Avenue and East 15th Street. Asking rent was $1.7 million per year. The deal involved the property’s previous landlord, Madison Capital , as well as its new owner.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/11/sui-yoga-lease-71-fifth-avenue-retail/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-11-10T19:43:33.000Z"
-    },
-    {
-      "headline": "Union Theological Seminary pays $5.3M for retail condo in Morningside Heights",
+      "headline": "Faraj Srour signs $15.2M refi with Santander Bank for five retail properties in Midwood",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/union-theological-seminary-pays-5-3m-for-retail-condo-in-morningside-heights/",
+      "url": "https://www.pincusco.com/faraj-srour-signs-15-2m-refi-with-santander-bank-for-five-retail-properties-in-midwood/",
       "section": "pincusco",
       "retail": true,
-      "published_at": "2026-11-23T15:09:00.000Z"
-    },
-    {
-      "headline": "REITs & Retail: James Corl of Cohen & Steers Shares His Investment Secrets",
-      "summary": "James Corl is the head of private real estate at Cohen & Steers , a publicly traded asset management firm with $100 billion worth of assets under management, of which $65 billion is in commercial real estate, mainly in publicly traded, U.S. and global real estate investment trust (REIT) stocks and other real estate securities. Corl has been at the firm, more or less, for the last 30 years.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/11/reits-retail-james-corl-cohen-steers-investment/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-11-23T11:30:57.000Z"
+      "published_at": "2026-11-24T14:56:00.000Z"
     },
     {
       "headline": "Hardly Anyone Shops at This Mall—and That’s Made It a Huge Success",
@@ -249,8 +231,17 @@
       "published_at": "2026-11-18T20:50:10.000Z"
     },
     {
-      "headline": "Fortune International and Blue Road Pay Off $73M Nexo Residences Construction Loan",
+      "headline": "Moshe Silberstein signs $28.5M construction loan with BridgeCity for 45-unit project in Williamsburg",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/moshe-silberstein-signs-28-5m-construction-loan-with-bridgecity-for-45-unit-project-in-williamsburg/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-11-24T15:02:00.000Z"
+    },
+    {
+      "headline": "Fortune International and Blue Road Pay Off $73M Nexo Residences Construction Loan",
+      "summary": "Fortune International Group and Blue Road fully repaid the $73 million construction loan for Nexo Residences in North Mi…",
       "source": "Traded",
       "url": "https://traded.co/blog/fortune-international-and-blue-road-pay-off-73m-nexo-residences-construction-loan/",
       "section": "traded",
@@ -258,35 +249,53 @@
       "published_at": "2026-11-23T00:00:00.000Z"
     },
     {
-      "headline": "Joseph Kohn files plans for 37 units in Flatbush",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/joseph-kohn-files-plans-for-37-units-in-flatbush/",
-      "section": "pincusco",
+      "headline": "Joe Jonas sells Brooklyn home for $6.5M after breaking up with his model girlfriend",
+      "summary": "And the sale is a wash -- as that's what he paid for the residence at 30 Front St. when he bought it two years ago.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/24/real-estate/joe-jonas-sells-brooklyn-home-for-6-5m/",
+      "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-11-23T15:44:00.000Z"
+      "published_at": "2026-11-24T20:24:44.000Z"
     },
     {
-      "headline": "Qing Xiang Wang pays $7.1M to Hui Wang for office in College Point",
+      "headline": "Israel Benchemhoun files plans for 55 units in Far Rockaway",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/qing-xiang-wang-pays-7-1m-to-hui-wang-for-office-in-college-point/",
+      "url": "https://www.pincusco.com/israel-benchemhoun-files-plans-for-55-units-in-far-rockaway/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-11-23T15:26:00.000Z"
+      "published_at": "2026-11-24T15:22:00.000Z"
     },
     {
-      "headline": "Arlene Waye files plans for 12 units in Columbia Waterfront",
+      "headline": "Mental health nonprofit pays $8.1M to Rabsky, Spencer Equity for office condo in Williamsburg",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/arlene-waye-files-plans-for-12-units-in-columbia-waterfront/",
+      "url": "https://www.pincusco.com/mental-health-nonprofit-pays-8-1m-to-rabsky-spencer-equity-for-office-condo-in-williamsburg/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-11-23T15:19:00.000Z"
+      "published_at": "2026-11-24T14:38:00.000Z"
+    },
+    {
+      "headline": "Yechiel Newhouse buys 122-unit affordable rental in Norwood for $34.1M from Joy Construction, JCAL",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/yechiel-newhouse-buys-122-unit-affordable-norwood-rental-from-joy-construction-jcal/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-11-24T14:07:00.000Z"
+    },
+    {
+      "headline": "Hotel Former Canopy by Hilton Site in Brickell Gets $345M for Namdar's 42-Story Apartment Tower",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "Traded",
+      "url": "https://traded.co/blog/former-canopy-by-hilton-site-in-brickell-gets-345m-for-namdar-s-42-story-apartment-tower/",
+      "section": "traded",
+      "retail": false,
+      "published_at": "2026-11-23T00:00:00.000Z"
     },
     {
       "headline": "Meadowlands Convention Center Plan Advances With $4.25 Billion Development Vision",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "summary": "The proposed convention and events complex at the former Izod Center in East Rutherford could cost between $3.8 billion…",
       "source": "Traded",
       "url": "https://traded.co/blog/meadowlands-convention-center-plan-advances-with-4-25-billion-development-vision/",
       "section": "traded",
@@ -298,15 +307,6 @@
       "summary": "KPC Development Company is constructing a $300 million, 300-room Kali Hotel at Hollywood Park in Inglewood, expected to…",
       "source": "Traded",
       "url": "https://traded.co/blog/kpc-development-s-300-million-kali-hotel-rises-next-to-sofi-stadium-ahead-of-2028-olympics/",
-      "section": "traded",
-      "retail": false,
-      "published_at": "2026-11-23T00:00:00.000Z"
-    },
-    {
-      "headline": "LCOR Lands $150M Permit for 42-Story Rental Tower in Miami's Arts & Entertainment District",
-      "summary": "LCOR has received a $150 million construction permit for a 42-story mixed-use tower at 1775 Biscayne in Miami, featuring…",
-      "source": "Traded",
-      "url": "https://traded.co/blog/lcor-lands-150m-permit-for-42-story-rental-tower-in-miami-s-arts-entertainment-district/",
       "section": "traded",
       "retail": false,
       "published_at": "2026-11-23T00:00:00.000Z"
@@ -330,6 +330,24 @@
       "published_at": "2026-11-16T14:55:00.000Z"
     },
     {
+      "headline": "Anthropic’s New Millionaires Turbocharge San Francisco’s Red-Hot Housing Market",
+      "summary": "They can borrow cash against IPO shares to purchase seven-figure San Francisco homes. “They want to buy now,” a broker says.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/real-estate/ai-san-francisco-housing-prices-92a41f7d?mod=LatestNewsRealEstate",
+      "section": "the_wall_street_journal",
+      "retail": false,
+      "published_at": "2026-11-24T10:30:00.000Z"
+    },
+    {
+      "headline": "Massive London Barracks Site to Become Luxury Housing",
+      "summary": "For nearly two centuries, St. John’s Wood Square housed army barracks. Soon, it will hold 120 high-end residences.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/24/realestate/historic-barracks-site-is-londons-latest-luxury-development.html",
+      "section": "the_new_york_times",
+      "retail": false,
+      "published_at": "2026-11-24T10:01:51.000Z"
+    },
+    {
       "headline": "My Condo’s Management Company Is Inept. Could A.I. Do a Better Job?",
       "summary": "Just because a company advertises A.I.-driven efficiencies doesn’t mean those efficiencies will be passed along to you.",
       "source": "The New York Times",
@@ -339,15 +357,6 @@
       "published_at": "2026-11-23T19:42:27.000Z"
     },
     {
-      "headline": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
-      "summary": "The president suggested he would tax the same companies, though it was not clear how he would carry out the plan unveiled at a news conference.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
-      "section": "the_new_york_times",
-      "retail": false,
-      "published_at": "2026-11-20T18:51:23.000Z"
-    },
-    {
       "headline": "Why Big Investors Are Burning Lenders on Apartment Loans",
       "summary": "Deep-pocketed landlords like Brookfield may be the most willing to cut their losses on troubled properties.",
       "source": "The Wall Street Journal",
@@ -355,24 +364,6 @@
       "section": "the_wall_street_journal",
       "retail": false,
       "published_at": "2026-11-17T10:30:00.000Z"
-    },
-    {
-      "headline": "They’re Lucky Enough to Have a 3% Mortgage—and Feel Like They Can Never Move",
-      "summary": "Meet the one in five mortgage holders who are America’s three percenters.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/economy/housing/theyre-lucky-enough-to-have-a-3-mortgageand-feel-like-they-can-never-move-76c8d15a?mod=LatestNewsRealEstate",
-      "section": "the_wall_street_journal",
-      "retail": false,
-      "published_at": "2026-11-15T10:30:00.000Z"
-    },
-    {
-      "headline": "My Condo Wants Charging Spots for Electric Cars. How Do We Add Them Fairly?",
-      "summary": "Installing EV charging can be complicated, requiring buy-in from your association, building management and the local electric utility provider.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/14/realestate/my-condo-wants-charging-spots-for-electric-cars-how-do-we-add-them-fairly.html",
-      "section": "the_new_york_times",
-      "retail": false,
-      "published_at": "2026-11-14T10:01:56.000Z"
     }
   ]
 }
