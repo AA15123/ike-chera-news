@@ -1,17 +1,17 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-11-25",
-  "generated_at": "2026-11-25T19:52:15.327Z",
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T19:29:42.186Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. **WSJ** is the Dow Jones real-estate feed with lifestyle and opinion dropped. **The New York Times** keeps real-estate and property stories only. **Traded** is commercial deal briefs from its news listing. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
     "commercial_observer": "Danny Meyer Signs Greenwich Village Lease for New Restaurant: Fresh off his plans to open an eatery at the former Hotel Bossert in Brooklyn Heights, Michelin -star chef Danny Meyer is turning a hungry eye back on Manhattan. Meyer’s Union Square Hospitality Group signed a 10-year, roughly 8,000-square-foot lease at 21 West Eighth Street in Greenwich Village.\n\nAustralian Fashion Brand Mode Mischief Inks Lease at SoHo’s 65 Spring Street: Australian fashion brand Mode Mischief has signed a 2,000-square-foot retail lease at 65 Spring Street in Manhattan’s SoHo, Commercial Observer has learned. The deal converts the spot where the apparel company has held a pop-up location since May into its permanent home for the next five years.\n\nKids Art Studio ColorPop Workshop to Open at Tribeca’s 450 Washington Street: A pop of color can certainly brighten your day. ColorPop Workshop , an art studio offering children ages 3 to 12 a variety of classes, has inked a 1,000-square-foot deal at the base of Related Companies ’ 450 Washington Street in Manhattan’s Tribeca neighborhood, according to tenant broker Meridian Retail Leasing .\n\nWilliamsburg Secures Highest Retail Asking Rent in Brooklyn in 2026: REBNY: Williamsburg remains the shopping capital of Brooklyn. A flurry of leases and rising rents have defined the area in 2026, according to the Real Estate Board of New York (REBNY) ’ s most recent Brooklyn retail report, shared exclusively with Commercial Observer.",
     "cre_daily": "Houston Retail Demand Tops New Supply for First Time in a Year: Houston retail net absorption of 399,400 SF beat 339,800 SF of deliveries in Q3, the first quarter in 12 months in which demand topped new supply, according to Colliers. Rents rose 7.9% to $22.06 per SF, a fourth straight record, and sales volume climbed 18% to more than $953M, though vacancy edged up to 5.8% and.\n\nRetail Investors Eye 2027 With Tight Supply, Rising Cap Rates: Retail investors enter 2027 weighing whether sellers’ pricing will match institutional targets, with cap rates expected to climb gradually and volume landing slightly below 2026 levels.\n\nCar Wash Cap Rates Fall as Bonus Depreciation Lifts Demand: Global Net Lease has 15 gas station, convenience and car wash properties under contract for about $70M at a 6.5% cash cap rate, versus 7.7% for other occupied sales this year. Gas station and car wash buildings count as 15-year property, so 100% bonus depreciation can cover the whole building without much cost.\n\nNamdar Takes Control of Destiny USA’s $430M Mall Debt: Namdar Realty Group, a Long Island firm known for distressed retail, acquired the debt on Destiny USA, New York’s largest shopping center, and is now lender of record in bond filings.",
-    "new_york_post": "Hudson River Trading expanding at 3 World Trade Center — one of NYC’s biggest office leases of the year: Larry Silverstein's 2.5 million square-foot tower is now 98% leased.\n\nJoe Jonas sells Brooklyn home for $6.5M after breaking up with his model girlfriend: And the sale is a wash -- as that's what he paid for the residence at 30 Front St. when he bought it two years ago.",
-    "pincusco": "Prestige Properties & Development signs $38M refi with Principal for Mall at Bay Plaza in Co-Op City.\n\nNorth Haven Net REIT pays $26.6M to Wharton Realty Group, Crown for SI retail, up from $16M in 2025.\n\nThe Bridge, Radson Development sign $100.3M construction loan for 190-unit project in Inwood.\n\nBD Hotels signs $47M refi loan with Wells Fargo for Pod 39 hotel in Murray Hill.",
-    "the_new_york_times": "Massive London Barracks Site to Become Luxury Housing: For nearly two centuries, St. John’s Wood Square housed army barracks.\n\nMy Condo’s Management Company Is Inept. Could A.I. Do a Better Job?: Just because a company advertises A.I.-driven efficiencies doesn’t mean those efficiencies will be passed along to you.",
-    "the_real_deal": "Aurora Capital, AVRS refinance Fifth Ave retail condo: This holiday season, Aurora Capital Associates and AVRS Partners can be thankful for a nine-figure loan. The joint venture partners secured a $122.1 million package to refinance the three-story retail condominium at 530 Fifth Avenue, the Commercial Observer reported.\n\nHudson River Trading takes another 340K sf at Silverstein’s 3 WTC: Fintech firm Hudson River Trading is expanding again at Silverstein Properties’ 3 World Trade Center, leasing an additional 340,000 square feet at the Financial District tower. The expansion, across multiple floors of the building, brings the quantitative trading firm’s footprint in the 80-story tower to approximately.\n\nGoose grabs $135M construction loan in Gowanus: Yitzchok Katz’s Goose Property Management is going into the holiday week with 135 million reasons to celebrate. Affinius Capital provided the developer with $135 million in construction financing for a project in Brooklyn’s Gowanus neighborhood, the Commercial Observer reported.\n\nWhat New York’s new law means for the private listing debate: New York lawmakers have put their stamp on the rules around private listings. Gov.",
-    "the_wall_street_journal": "The Secret to This Mall’s Success Isn’t Shopping: Plus, Manhattan’s Fifth Avenue again tops worldwide rankings for highest retail rents.\n\nHardly Anyone Shops at This Mall—and That’s Made It a Huge Success: A Long Island retail emporium eliminated most stores and reinvented itself with games and entertainment such as laser tag and axe-throwing.\n\nAnthropic’s New Millionaires Turbocharge San Francisco’s Red-Hot Housing Market: They can borrow cash against IPO shares to purchase seven-figure San Francisco homes. “They want to buy now,” a broker says.\n\nWhy Big Investors Are Burning Lenders on Apartment Loans: Deep-pocketed landlords like Brookfield may be the most willing to cut their losses on troubled properties."
+    "new_york_post": "Hudson River Trading expanding at 3 World Trade Center — one of NYC’s biggest office leases of the year: Larry Silverstein's 2.5 million square-foot tower is now 98% leased.\n\n2 homes at NYC’s famed Plaza stand to turn a profit following years of languishing sales: While the abrupt, upcoming closure of the Plaza Hotel is bad news for hotel guests, it could add long-term value to its condo owners. In October, the historic property — where home sales have infamously languished for years — announced that it would shutter in January for around four years to repair its unsafe.\n\nJoe Jonas sells Brooklyn home for $6.5M after breaking up with his model girlfriend: And the sale is a wash -- as that's what he paid for the residence at 30 Front St. when he bought it two years ago.",
+    "pincusco": "Avdoo signs $145M construction loan with Valley National Bank for condo project in Lenox Hill.\n\nThe Bridge, Radson Development sign $100.3M construction loan for 190-unit project in Inwood.\n\nHost Hotels pays $202M to Starwood for 1 Hotel Brooklyn Bridge in Brooklyn Heights.\n\nAscenterra Development pays $5.8M for multifamily in Carroll Gardens, plans 2-family conversion.",
+    "the_new_york_times": "Data Center Developer Wanted to Build Up, Not Out. Kansas City Said No.: The facilities that power A.I. and other big data needs are in high demand but widely despised.\n\nMassive London Barracks Site to Become Luxury Housing: For nearly two centuries, St. John’s Wood Square housed army barracks.\n\nMy Condo’s Management Company Is Inept. Could A.I. Do a Better Job?: Just because a company advertises A.I.-driven efficiencies doesn’t mean those efficiencies will be passed along to you.",
+    "the_wall_street_journal": "The Secret to This Mall’s Success Isn’t Shopping: Plus, Manhattan’s Fifth Avenue again tops worldwide rankings for highest retail rents.\n\nHardly Anyone Shops at This Mall—and That’s Made It a Huge Success: A Long Island retail emporium eliminated most stores and reinvented itself with games and entertainment such as laser tag and axe-throwing.\n\nJudge Upholds Mamdani’s NYC Rent Freeze, Foiling Landlord Opposition: The decision marks another victory for the New York City mayor against the real-estate industry.\n\nAnthropic’s New Millionaires Turbocharge San Francisco’s Red-Hot Housing Market: They can borrow cash against IPO shares to purchase seven-figure San Francisco homes. “They want to buy now,” a broker says.",
+    "traded": "Ellison Development Lands Venture X and ARK Invest for Halcyon, St. Pete’s 116,000-SF Office Tower.\n\nTPG and Cannon Hill Turn Former City Office Into $305 Million Tribeca Condos: Apollo Global Management affiliates provided a $305 million construction loan for 101 Franklin, a conversion project of.\n\nAdler Development Turns Former Melreese Golf Course Into $240 Million Miami City HQ: Adler Development is constructing an eight-story administration building and an 11-story parking garage at Miami Freedom.\n\nWhere Multifamily Fundamentals Are Strongest: Five Markets to Watch: Pittsburgh, Grand Rapids, Milwaukee, Birmingham, and Miami have emerged as the top five multifamily investment markets,."
   },
   "items": [
     {
@@ -49,15 +49,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-11-20T18:32:13.000Z"
-    },
-    {
-      "headline": "Aurora Capital, AVRS refinance Fifth Ave retail condo",
-      "summary": "This holiday season, Aurora Capital Associates and AVRS Partners can be thankful for a nine-figure loan. The joint venture partners secured a $122.1 million package to refinance the three-story retail condominium at 530 Fifth Avenue, the Commercial Observer reported. Rialto Capital Management provided the floating-rate, interest-only loan. The 59,000-square-foot retail condo is fully leased to five tenants: Chase Bank, Walgreens, Five Below, Vans and Ugg.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/11/25/aurora-capital-avrs-refinance-fifth-ave-retail-condo/",
-      "section": "the_real_deal",
-      "retail": true,
-      "published_at": "2026-11-25T15:38:13.000Z"
     },
     {
       "headline": "Retail Investors Eye 2027 With Tight Supply, Rising Cap Rates",
@@ -141,22 +132,13 @@
       "published_at": "2026-11-25T16:15:49.000Z"
     },
     {
-      "headline": "Prestige Properties & Development signs $38M refi with Principal for Mall at Bay Plaza in Co-Op City",
+      "headline": "Ellison Development Lands Venture X and ARK Invest for Halcyon, St. Pete’s 116,000-SF Office Tower",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/prestige-properties-development-signs-38m-refi-with-principal-for-mall-at-bay-plaza-in-co-op-city/",
-      "section": "pincusco",
+      "source": "Traded",
+      "url": "https://traded.co/blog/ellison-development-lands-venture-x-and-ark-invest-for-halcyon-st-pete-s-116-000-sf-office-tower/",
+      "section": "traded",
       "retail": true,
-      "published_at": "2026-11-25T11:09:00.000Z"
-    },
-    {
-      "headline": "Hudson River Trading takes another 340K sf at Silverstein’s 3 WTC",
-      "summary": "Fintech firm Hudson River Trading is expanding again at Silverstein Properties’ 3 World Trade Center, leasing an additional 340,000 square feet at the Financial District tower. The expansion, across multiple floors of the building, brings the quantitative trading firm’s footprint in the 80-story tower to approximately 550,000 square feet and pushes the tower to 98 percent occupancy, Silverstein announced. Asking rents were between $110 and $150 per square foot, a source with knowledge of the deal said.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/11/24/hudson-river-trading-takes-340k-sf-at-silversteins-3-wtc/",
-      "section": "the_real_deal",
-      "retail": true,
-      "published_at": "2026-11-24T20:50:04.000Z"
+      "published_at": "2026-11-25T00:00:00.000Z"
     },
     {
       "headline": "Hudson River Trading Expands to 551K SF at 3 World Trade Center",
@@ -213,15 +195,6 @@
       "published_at": "2026-11-17T18:58:38.000Z"
     },
     {
-      "headline": "North Haven Net REIT pays $26.6M to Wharton Realty Group, Crown for SI retail, up from $16M in 2025",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/north-haven-net-reit-pays-26-6m-to-wharton-realty-group-crown-for-si-retail-up-from-16m-in-2025/",
-      "section": "pincusco",
-      "retail": true,
-      "published_at": "2026-11-25T11:38:00.000Z"
-    },
-    {
       "headline": "Hardly Anyone Shops at This Mall—and That’s Made It a Huge Success",
       "summary": "A Long Island retail emporium eliminated most stores and reinvented itself with games and entertainment such as laser tag and axe-throwing.",
       "source": "The Wall Street Journal",
@@ -240,13 +213,13 @@
       "published_at": "2026-11-18T20:50:10.000Z"
     },
     {
-      "headline": "Goose grabs $135M construction loan in Gowanus",
-      "summary": "Yitzchok Katz’s Goose Property Management is going into the holiday week with 135 million reasons to celebrate. Affinius Capital provided the developer with $135 million in construction financing for a project in Brooklyn’s Gowanus neighborhood, the Commercial Observer reported. Galaxy Capital’s Henry Bodek arranged the debt.…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/11/25/goose-grabs-135m-construction-loan-in-gowanus/",
-      "section": "the_real_deal",
+      "headline": "Avdoo signs $145M construction loan with Valley National Bank for condo project in Lenox Hill",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/avdoo-signs-145m-construction-loan-with-valley-national-bank-for-development-in-lenox-hill/",
+      "section": "pincusco",
       "retail": false,
-      "published_at": "2026-11-25T19:00:00.000Z"
+      "published_at": "2026-11-26T14:16:00.000Z"
     },
     {
       "headline": "The Bridge, Radson Development sign $100.3M construction loan for 190-unit project in Inwood",
@@ -258,22 +231,31 @@
       "published_at": "2026-11-25T11:57:00.000Z"
     },
     {
-      "headline": "BD Hotels signs $47M refi loan with Wells Fargo for Pod 39 hotel in Murray Hill",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/bd-hotels-signs-47m-refi-loan-with-wells-fargo-for-pod-39-hotel-in-murray-hill/",
-      "section": "pincusco",
+      "headline": "TPG and Cannon Hill Turn Former City Office Into $305 Million Tribeca Condos",
+      "summary": "Apollo Global Management affiliates provided a $305 million construction loan for 101 Franklin, a conversion project of…",
+      "source": "Traded",
+      "url": "https://traded.co/blog/tpg-and-cannon-hill-turn-former-city-office-into-305-million-tribeca-condos/",
+      "section": "traded",
       "retail": false,
-      "published_at": "2026-11-25T11:15:00.000Z"
+      "published_at": "2026-11-25T00:00:00.000Z"
     },
     {
-      "headline": "What New York’s new law means for the private listing debate",
-      "summary": "New York lawmakers have put their stamp on the rules around private listings. Gov. Kathy Hochul signed the legislation last week, raising questions about how the new rules could impact a heated war between brokerages, listing platforms and multiple listing services over when and where listings are marketed and who gets to call those shots. The law requires agents to market both sale and rental listings through public-facing platforms unless the seller or landlord opts out by signing a disclosure…",
-      "source": "The Real Deal",
-      "url": "https://therealdeal.com/new-york/2026/11/25/what-new-yorks-new-law-means-for-the-private-listing-debate/",
-      "section": "the_real_deal",
+      "headline": "2 homes at NYC’s famed Plaza stand to turn a profit following years of languishing sales",
+      "summary": "While the abrupt, upcoming closure of the Plaza Hotel is bad news for hotel guests, it could add long-term value to its condo owners. In October, the historic property — where home sales have infamously languished for years — announced that it would shutter in January for around four years to repair its unsafe 119-year-old...",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/26/real-estate/nycs-famed-plaza-hotel-finally-sees-sales-go-positive/",
+      "section": "new_york_post",
       "retail": false,
-      "published_at": "2026-11-25T15:57:12.000Z"
+      "published_at": "2026-11-26T19:00:00.000Z"
+    },
+    {
+      "headline": "Host Hotels pays $202M to Starwood for 1 Hotel Brooklyn Bridge in Brooklyn Heights",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/host-hotels-pays-202m-to-starwood-for-1-hotel-brooklyn-bridge-in-brooklyn-heights/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-11-26T14:05:00.000Z"
     },
     {
       "headline": "Joe Jonas sells Brooklyn home for $6.5M after breaking up with his model girlfriend",
@@ -285,6 +267,51 @@
       "published_at": "2026-11-24T20:24:44.000Z"
     },
     {
+      "headline": "Ascenterra Development pays $5.8M for multifamily in Carroll Gardens, plans 2-family conversion",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/ascenterra-development-pays-5-8m-for-8-unit-walkup-in-carroll-gardens/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-11-26T14:24:00.000Z"
+    },
+    {
+      "headline": "SilverLining Development NY seeks zoning change to build 118-unit project in West Village",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/silverlining-development-ny-seeks-zoning-change-to-build-118-unit-project-in-west-village/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-11-26T10:30:02.000Z"
+    },
+    {
+      "headline": "Adler Development Turns Former Melreese Golf Course Into $240 Million Miami City HQ",
+      "summary": "Adler Development is constructing an eight-story administration building and an 11-story parking garage at Miami Freedom…",
+      "source": "Traded",
+      "url": "https://traded.co/blog/adler-development-turns-former-melreese-golf-course-into-240-million-miami-city-hq/",
+      "section": "traded",
+      "retail": false,
+      "published_at": "2026-11-25T00:00:00.000Z"
+    },
+    {
+      "headline": "Judge Upholds Mamdani’s NYC Rent Freeze, Foiling Landlord Opposition",
+      "summary": "The decision marks another victory for the New York City mayor against the real-estate industry.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/us-news/judge-upholds-mamdanis-nyc-rent-freeze-foiling-landlord-opposition-5d22231a?mod=LatestNewsRealEstate",
+      "section": "the_wall_street_journal",
+      "retail": false,
+      "published_at": "2026-11-25T21:52:00.000Z"
+    },
+    {
+      "headline": "Data Center Developer Wanted to Build Up, Not Out. Kansas City Said No.",
+      "summary": "The facilities that power A.I. and other big data needs are in high demand but widely despised. Some developers are trying to build them up instead of out.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/26/business/energy-environment/vertical-data-center-kansas-city.html",
+      "section": "the_new_york_times",
+      "retail": false,
+      "published_at": "2026-11-26T15:12:12.000Z"
+    },
+    {
       "headline": "Massive London Barracks Site to Become Luxury Housing",
       "summary": "For nearly two centuries, St. John’s Wood Square housed army barracks. Soon, it will hold 120 high-end residences.",
       "source": "The New York Times",
@@ -292,6 +319,15 @@
       "section": "the_new_york_times",
       "retail": false,
       "published_at": "2026-11-25T17:55:50.000Z"
+    },
+    {
+      "headline": "Where Multifamily Fundamentals Are Strongest: Five Markets to Watch",
+      "summary": "Pittsburgh, Grand Rapids, Milwaukee, Birmingham, and Miami have emerged as the top five multifamily investment markets,…",
+      "source": "Traded",
+      "url": "https://traded.co/blog/where-multifamily-fundamentals-are-strongest-five-markets-to-watch/",
+      "section": "traded",
+      "retail": false,
+      "published_at": "2026-11-25T00:00:00.000Z"
     },
     {
       "headline": "Anthropic’s New Millionaires Turbocharge San Francisco’s Red-Hot Housing Market",
@@ -310,15 +346,6 @@
       "section": "the_new_york_times",
       "retail": false,
       "published_at": "2026-11-23T19:42:27.000Z"
-    },
-    {
-      "headline": "Why Big Investors Are Burning Lenders on Apartment Loans",
-      "summary": "Deep-pocketed landlords like Brookfield may be the most willing to cut their losses on troubled properties.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/real-estate/commercial/why-big-investors-are-burning-lenders-on-apartment-loans-7129d849?mod=LatestNewsRealEstate",
-      "section": "the_wall_street_journal",
-      "retail": false,
-      "published_at": "2026-11-17T10:30:00.000Z"
     }
   ]
 }
