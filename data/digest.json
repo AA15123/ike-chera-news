@@ -1,16 +1,16 @@
 {
   "title": "Ike's Morning Digest",
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26T19:29:42.186Z",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T19:24:59.450Z",
   "coverage_window_hours": 40,
   "data_note": "Built from publisher RSS metadata (titles + teaser text). `coverage_window_hours` is the default (40h); several feeds use a longer `rollingHours` (see `scripts/build-digest.mjs`) so rows align with what is still on each publisher’s listing pages. Commercial Observer keeps its retail category + hub supplement; TRD adds a New York–filtered global retail tag feed. PincusCo uses the live site feed only (`/category/retail/feed/` is stale). **CRE Daily** retail briefs come from `credaily.com/sectors/retail/feed/`. **WSJ** is the Dow Jones real-estate feed with lifestyle and opinion dropped. **The New York Times** keeps real-estate and property stories only. **Traded** is commercial deal briefs from its news listing. Open each link for the full article (subscriptions may apply in the browser).",
   "section_overviews": {
-    "commercial_observer": "Danny Meyer Signs Greenwich Village Lease for New Restaurant: Fresh off his plans to open an eatery at the former Hotel Bossert in Brooklyn Heights, Michelin -star chef Danny Meyer is turning a hungry eye back on Manhattan. Meyer’s Union Square Hospitality Group signed a 10-year, roughly 8,000-square-foot lease at 21 West Eighth Street in Greenwich Village.\n\nAustralian Fashion Brand Mode Mischief Inks Lease at SoHo’s 65 Spring Street: Australian fashion brand Mode Mischief has signed a 2,000-square-foot retail lease at 65 Spring Street in Manhattan’s SoHo, Commercial Observer has learned. The deal converts the spot where the apparel company has held a pop-up location since May into its permanent home for the next five years.\n\nKids Art Studio ColorPop Workshop to Open at Tribeca’s 450 Washington Street: A pop of color can certainly brighten your day. ColorPop Workshop , an art studio offering children ages 3 to 12 a variety of classes, has inked a 1,000-square-foot deal at the base of Related Companies ’ 450 Washington Street in Manhattan’s Tribeca neighborhood, according to tenant broker Meridian Retail Leasing .\n\nWilliamsburg Secures Highest Retail Asking Rent in Brooklyn in 2026: REBNY: Williamsburg remains the shopping capital of Brooklyn. A flurry of leases and rising rents have defined the area in 2026, according to the Real Estate Board of New York (REBNY) ’ s most recent Brooklyn retail report, shared exclusively with Commercial Observer.",
-    "cre_daily": "Houston Retail Demand Tops New Supply for First Time in a Year: Houston retail net absorption of 399,400 SF beat 339,800 SF of deliveries in Q3, the first quarter in 12 months in which demand topped new supply, according to Colliers. Rents rose 7.9% to $22.06 per SF, a fourth straight record, and sales volume climbed 18% to more than $953M, though vacancy edged up to 5.8% and.\n\nRetail Investors Eye 2027 With Tight Supply, Rising Cap Rates: Retail investors enter 2027 weighing whether sellers’ pricing will match institutional targets, with cap rates expected to climb gradually and volume landing slightly below 2026 levels.\n\nCar Wash Cap Rates Fall as Bonus Depreciation Lifts Demand: Global Net Lease has 15 gas station, convenience and car wash properties under contract for about $70M at a 6.5% cash cap rate, versus 7.7% for other occupied sales this year. Gas station and car wash buildings count as 15-year property, so 100% bonus depreciation can cover the whole building without much cost.\n\nNamdar Takes Control of Destiny USA’s $430M Mall Debt: Namdar Realty Group, a Long Island firm known for distressed retail, acquired the debt on Destiny USA, New York’s largest shopping center, and is now lender of record in bond filings.",
-    "new_york_post": "Hudson River Trading expanding at 3 World Trade Center — one of NYC’s biggest office leases of the year: Larry Silverstein's 2.5 million square-foot tower is now 98% leased.\n\n2 homes at NYC’s famed Plaza stand to turn a profit following years of languishing sales: While the abrupt, upcoming closure of the Plaza Hotel is bad news for hotel guests, it could add long-term value to its condo owners. In October, the historic property — where home sales have infamously languished for years — announced that it would shutter in January for around four years to repair its unsafe.\n\nJoe Jonas sells Brooklyn home for $6.5M after breaking up with his model girlfriend: And the sale is a wash -- as that's what he paid for the residence at 30 Front St. when he bought it two years ago.",
-    "pincusco": "Avdoo signs $145M construction loan with Valley National Bank for condo project in Lenox Hill.\n\nThe Bridge, Radson Development sign $100.3M construction loan for 190-unit project in Inwood.\n\nHost Hotels pays $202M to Starwood for 1 Hotel Brooklyn Bridge in Brooklyn Heights.\n\nAscenterra Development pays $5.8M for multifamily in Carroll Gardens, plans 2-family conversion.",
+    "commercial_observer": "Danny Meyer Signs Greenwich Village Lease for New Restaurant: Fresh off his plans to open an eatery at the former Hotel Bossert in Brooklyn Heights, Michelin -star chef Danny Meyer is turning a hungry eye back on Manhattan. Meyer’s Union Square Hospitality Group signed a 10-year, roughly 8,000-square-foot lease at 21 West Eighth Street in Greenwich Village.\n\nKids Art Studio ColorPop Workshop to Open at Tribeca’s 450 Washington Street: A pop of color can certainly brighten your day. ColorPop Workshop , an art studio offering children ages 3 to 12 a variety of classes, has inked a 1,000-square-foot deal at the base of Related Companies ’ 450 Washington Street in Manhattan’s Tribeca neighborhood, according to tenant broker Meridian Retail Leasing .\n\nWilliamsburg Secures Highest Retail Asking Rent in Brooklyn in 2026: REBNY: Williamsburg remains the shopping capital of Brooklyn. A flurry of leases and rising rents have defined the area in 2026, according to the Real Estate Board of New York (REBNY) ’ s most recent Brooklyn retail report, shared exclusively with Commercial Observer.\n\nHost Hotels Rounds Out $202M Brooklyn Hotel Buy With $29M Retail, Parking Acquisition: Host Hotels & Resorts has secured three retail spaces and an indoor parking area at its newly acquired hotel asset in Brooklyn’s Dumbo neighborhood. The Bethesda, Md.-based real estate investment trust, through the entity Brooklyn Bridge Hotel Owner , acquired the commercial condo units and parking space at 90 Furman.",
+    "cre_daily": "Houston Retail Demand Tops New Supply for First Time in a Year: Houston retail net absorption of 399,400 SF beat 339,800 SF of deliveries in Q3, the first quarter in 12 months in which demand topped new supply, according to Colliers. Rents rose 7.9% to $22.06 per SF, a fourth straight record, and sales volume climbed 18% to more than $953M, though vacancy edged up to 5.8% and.\n\nSimon Pursues Zaytinya Eviction Over $2M in Unpaid Rent: Simon filed an unlawful detainer complaint on Nov. 17 over Zaytinya at Stanford Shopping Center in Palo Alto, alleging nearly $2 million in unpaid rent and charges.\n\nNamdar Takes Control of Destiny USA’s $430M Mall Debt: Namdar Realty Group, a Long Island firm known for distressed retail, acquired the debt on Destiny USA, New York’s largest shopping center, and is now lender of record in bond filings.\n\nThe Wharf’s Holiday Boat Parade Shows Placemaking Pays Off: The Wharf’s holiday boat parade, now in its 34th year, typically draws over 50,000 people and ranks among the top 10 sales days for its 65-plus eateries and bars. Operator District Wharf Properties runs about 100 events a year and doesn’t track a conventional return on the displays, judging success by visits, business.",
+    "new_york_post": "Hudson River Trading expanding at 3 World Trade Center — one of NYC’s biggest office leases of the year: Larry Silverstein's 2.5 million square-foot tower is now 98% leased.\n\n2 homes at NYC’s famed Plaza stand to turn a profit following years of languishing sales: While the abrupt, upcoming closure of the Plaza Hotel is bad news for hotel guests, it could add long-term value to its condo owners.\n\nJoe Jonas sells Brooklyn home for $6.5M after breaking up with his model girlfriend: And the sale is a wash -- as that's what he paid for the residence at 30 Front St. when he bought it two years ago.",
+    "pincusco": "Moses Kupferstein files plans for 40 units with retail in Morningside Heights.\n\nRH Brooklyn Capital signs $7.2M construction loan for 8-unit dev site in Clinton Hill.\n\nYellowstone Real Estate Investments files plans for 195 units in Midtown East.\n\nShoaib Sultan files plans for 27 units in Jamaica.",
     "the_new_york_times": "Data Center Developer Wanted to Build Up, Not Out. Kansas City Said No.: The facilities that power A.I. and other big data needs are in high demand but widely despised.\n\nMassive London Barracks Site to Become Luxury Housing: For nearly two centuries, St. John’s Wood Square housed army barracks.\n\nMy Condo’s Management Company Is Inept. Could A.I. Do a Better Job?: Just because a company advertises A.I.-driven efficiencies doesn’t mean those efficiencies will be passed along to you.",
-    "the_wall_street_journal": "The Secret to This Mall’s Success Isn’t Shopping: Plus, Manhattan’s Fifth Avenue again tops worldwide rankings for highest retail rents.\n\nHardly Anyone Shops at This Mall—and That’s Made It a Huge Success: A Long Island retail emporium eliminated most stores and reinvented itself with games and entertainment such as laser tag and axe-throwing.\n\nJudge Upholds Mamdani’s NYC Rent Freeze, Foiling Landlord Opposition: The decision marks another victory for the New York City mayor against the real-estate industry.\n\nAnthropic’s New Millionaires Turbocharge San Francisco’s Red-Hot Housing Market: They can borrow cash against IPO shares to purchase seven-figure San Francisco homes. “They want to buy now,” a broker says.",
+    "the_wall_street_journal": "The Secret to This Mall’s Success Isn’t Shopping: Plus, Manhattan’s Fifth Avenue again tops worldwide rankings for highest retail rents.\n\nHardly Anyone Shops at This Mall—and That’s Made It a Huge Success: A Long Island retail emporium eliminated most stores and reinvented itself with games and entertainment such as laser tag and axe-throwing.\n\nJudge Upholds Mamdani’s NYC Rent Freeze, Foiling Landlord Opposition: The decision marks another victory for the New York City mayor against the real-estate industry.\n\nNo Homes to Rent, No Way to Evict: Inside Spain’s Housing Crisis: The dysfunctional market for homes has become a politically explosive issue at the ballot box—and a warning for everyone else.",
     "traded": "Ellison Development Lands Venture X and ARK Invest for Halcyon, St. Pete’s 116,000-SF Office Tower.\n\nTPG and Cannon Hill Turn Former City Office Into $305 Million Tribeca Condos: Apollo Global Management affiliates provided a $305 million construction loan for 101 Franklin, a conversion project of.\n\nAdler Development Turns Former Melreese Golf Course Into $240 Million Miami City HQ: Adler Development is constructing an eight-story administration building and an 11-story parking garage at Miami Freedom.\n\nWhere Multifamily Fundamentals Are Strongest: Five Markets to Watch: Pittsburgh, Grand Rapids, Milwaukee, Birmingham, and Miami have emerged as the top five multifamily investment markets,."
   },
   "items": [
@@ -33,15 +33,6 @@
       "published_at": "2026-11-20T13:03:45.000Z"
     },
     {
-      "headline": "Australian Fashion Brand Mode Mischief Inks Lease at SoHo’s 65 Spring Street",
-      "summary": "Australian fashion brand Mode Mischief has signed a 2,000-square-foot retail lease at 65 Spring Street in Manhattan’s SoHo, Commercial Observer has learned. The deal converts the spot where the apparel company has held a pop-up location since May into its permanent home for the next five years. The asking rent was $575 per square foot, a source close to the deal told CO. Current Real Estate Advisors ’ Oded Nachmani represented the brand in this deal, which takes effect in January.…",
-      "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/11/mode-mischief-lease-soho-65-spring-street/",
-      "section": "commercial_observer",
-      "retail": true,
-      "published_at": "2026-11-13T16:08:57.000Z"
-    },
-    {
       "headline": "Kids Art Studio ColorPop Workshop to Open at Tribeca’s 450 Washington Street",
       "summary": "A pop of color can certainly brighten your day. ColorPop Workshop , an art studio offering children ages 3 to 12 a variety of classes, has inked a 1,000-square-foot deal at the base of Related Companies ’ 450 Washington Street in Manhattan’s Tribeca neighborhood, according to tenant broker Meridian Retail Leasing . “ColorPop started as a passion project.…",
       "source": "Commercial Observer",
@@ -49,15 +40,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-11-20T18:32:13.000Z"
-    },
-    {
-      "headline": "Retail Investors Eye 2027 With Tight Supply, Rising Cap Rates",
-      "summary": "Retail investors enter 2027 weighing whether sellers’ pricing will match institutional targets, with cap rates expected to climb gradually and volume landing slightly below 2026 levels. Tenant demand for second-generation space stays active because high construction costs hold back new projects, and national retail vacancy sits near record lows.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/retail-investors-eye-2027-with-tight-supply-rising-cap-rates/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-11-17T15:38:38.000Z"
     },
     {
       "headline": "Williamsburg Secures Highest Retail Asking Rent in Brooklyn in 2026: REBNY",
@@ -69,6 +51,15 @@
       "published_at": "2026-11-18T10:00:20.000Z"
     },
     {
+      "headline": "Simon Pursues Zaytinya Eviction Over $2M in Unpaid Rent",
+      "summary": "Simon filed an unlawful detainer complaint on Nov. 17 over Zaytinya at Stanford Shopping Center in Palo Alto, alleging nearly $2 million in unpaid rent and charges. The 10-year lease began at $96,834 a month plus percentage rent of 13.625% to 21.5% of sales, and Simon seeks over $3,000 daily in damages from Dec. 1. Other food tenants at the center have also struggled, including a True Food Kitchen bankruptcy, even as Simon reports 96.5% occupancy across its U.S. malls and outlets.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/simon-pursues-zaytinya-eviction-over-2m-in-unpaid-rent/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-11-27T18:47:25.000Z"
+    },
+    {
       "headline": "Host Hotels Rounds Out $202M Brooklyn Hotel Buy With $29M Retail, Parking Acquisition",
       "summary": "Host Hotels & Resorts has secured three retail spaces and an indoor parking area at its newly acquired hotel asset in Brooklyn’s Dumbo neighborhood. The Bethesda, Md.-based real estate investment trust, through the entity Brooklyn Bridge Hotel Owner , acquired the commercial condo units and parking space at 90 Furman Street from a Starwood Capital Group entity, according to property records filed Wednesday .…",
       "source": "Commercial Observer",
@@ -76,15 +67,6 @@
       "section": "commercial_observer",
       "retail": true,
       "published_at": "2026-11-25T19:12:24.000Z"
-    },
-    {
-      "headline": "Car Wash Cap Rates Fall as Bonus Depreciation Lifts Demand",
-      "summary": "Global Net Lease has 15 gas station, convenience and car wash properties under contract for about $70M at a 6.5% cash cap rate, versus 7.7% for other occupied sales this year. Gas station and car wash buildings count as 15-year property, so 100% bonus depreciation can cover the whole building without much cost segregation work. The Boulder Group put average single-tenant net lease asking cap rates at 6.92% in Q3, up 10 bps, while GNL sold office at a 7.5% cash cap rate.…",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/car-wash-cap-rates-fall-as-bonus-depreciation-lifts-demand/",
-      "section": "cre_daily",
-      "retail": true,
-      "published_at": "2026-11-13T16:38:52.000Z"
     },
     {
       "headline": "Hudson River Trading expanding at 3 World Trade Center — one of NYC’s biggest office leases of the year",
@@ -114,13 +96,22 @@
       "published_at": "2026-11-19T16:31:04.000Z"
     },
     {
-      "headline": "Fifth Avenue Retail Rents Jump 35% to Top Global Rankings",
-      "summary": "Upper Fifth Avenue retail rents rose 35% year over year to an average of $2,700 a square foot, the highest in the world, per Cushman & Wakefield. Availability on upper Fifth dropped 4.4 percentage points to 13% in Q3, and brands such as Meta, Prada and Kering have made big commitments. The rebound mirrors a wider Manhattan recovery in office rents and hotel rates, and demand has spread to lower Fifth Avenue.…",
+      "headline": "The Wharf’s Holiday Boat Parade Shows Placemaking Pays Off",
+      "summary": "The Wharf’s holiday boat parade, now in its 34th year, typically draws over 50,000 people and ranks among the top 10 sales days for its 65-plus eateries and bars. Operator District Wharf Properties runs about 100 events a year and doesn’t track a conventional return on the displays, judging success by visits, business activity and tradition. JLL research says experiential programming now works like an office amenity, and Placer.ai counts over 8 million visits a year at the 3.5 million SF Wharf.…",
       "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/fifth-avenue-retail-rents-jump-35-to-top-global-rankings/",
+      "url": "https://www.credaily.com/briefs/the-wharfs-holiday-boat-parade-shows-placemaking-pays-off/",
       "section": "cre_daily",
       "retail": true,
-      "published_at": "2026-11-17T15:37:36.000Z"
+      "published_at": "2026-11-27T18:15:37.000Z"
+    },
+    {
+      "headline": "Moses Kupferstein files plans for 40 units with retail in Morningside Heights",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/moses-kupferstein-files-plans-for-40-units-in-morningside-heights/",
+      "section": "pincusco",
+      "retail": true,
+      "published_at": "2026-11-27T17:38:00.000Z"
     },
     {
       "headline": "Brookfield Marks Catalyst Brands Stake Down 50% to $276M",
@@ -150,13 +141,13 @@
       "published_at": "2026-11-24T20:08:20.000Z"
     },
     {
-      "headline": "Miami Investor Buys Fort Lauderdale Retail Center for $35M",
-      "summary": "Core Investment Management has paid $35.4 million for a strip mall in Fort Lauderdale, following a four-year repositioning. The 73,756-square-foot asset called Gateway Shopping District features 11 buildings between 1914 and 1980 East Sunrise Boulevard . The strip mall is sandwiched between 18th Northeast Avenue and 20th Northeast Avenue, near the 799,851-square-foot Galleria Mall , which is slated to be redeveloped into a mixed-use development.…",
+      "headline": "This Holiday Season, New York City Retail’s Split Recovery Reaches a Critical Point",
+      "summary": "The last mile is the hardest, and New York City’s retail sector is flagging near the finish line. Peter Braus, president and principal owner of Lee & Associates NYC, sees a retail market balancing two extremes. On one hand, it’s becoming increasingly hard to find the right space in the right area. One of Braus’s current clients, a “very strong” Italian brand seeking a New York City home in SoHo or along Madison Avenue, is in an especially competitive spot.…",
       "source": "Commercial Observer",
-      "url": "https://commercialobserver.com/2026/11/core-gateway-retail-fort-lauderdale-native-realty/",
+      "url": "https://commercialobserver.com/2026/11/new-york-city-retail-split-recovery-vacancies/",
       "section": "commercial_observer",
       "retail": true,
-      "published_at": "2026-11-24T19:15:01.000Z"
+      "published_at": "2026-11-27T13:00:07.000Z"
     },
     {
       "headline": "Los Tacos No. 1 to Open at 900 Third Avenue in Midtown East",
@@ -195,6 +186,15 @@
       "published_at": "2026-11-17T18:58:38.000Z"
     },
     {
+      "headline": "California Retail Braces for 2027 Costs as AI Use Grows",
+      "summary": "Ed Del Beccaro of TRI Commercial/CORFAC says value-focused shopping continues in California, while upper-income cities like Palo Alto and Walnut Creek still support travel, beauty and experiential spending. Retailers expect 2027 costs to rise on mandated minimum wage increases, food tariffs and higher fuel prices, while sales are projected to stay flat or shrink, particularly at restaurants.…",
+      "source": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/california-retail-braces-for-2027-costs-as-ai-use-grows/",
+      "section": "cre_daily",
+      "retail": true,
+      "published_at": "2026-11-27T18:33:52.000Z"
+    },
+    {
       "headline": "Hardly Anyone Shops at This Mall—and That’s Made It a Huge Success",
       "summary": "A Long Island retail emporium eliminated most stores and reinvented itself with games and entertainment such as laser tag and axe-throwing.",
       "source": "The Wall Street Journal",
@@ -213,22 +213,13 @@
       "published_at": "2026-11-18T20:50:10.000Z"
     },
     {
-      "headline": "Avdoo signs $145M construction loan with Valley National Bank for condo project in Lenox Hill",
+      "headline": "RH Brooklyn Capital signs $7.2M construction loan for 8-unit dev site in Clinton Hill",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/avdoo-signs-145m-construction-loan-with-valley-national-bank-for-development-in-lenox-hill/",
+      "url": "https://www.pincusco.com/rh-brooklyn-capital-signs-7-2m-construction-loan-for-8-unit-dev-site-in-clinton-hill/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-11-26T14:16:00.000Z"
-    },
-    {
-      "headline": "The Bridge, Radson Development sign $100.3M construction loan for 190-unit project in Inwood",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/the-bridge-radson-development-sign-100-3m-construction-loan-for-190-unit-project-in-inwood/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-25T11:57:00.000Z"
+      "published_at": "2026-11-27T10:57:00.000Z"
     },
     {
       "headline": "TPG and Cannon Hill Turn Former City Office Into $305 Million Tribeca Condos",
@@ -241,21 +232,12 @@
     },
     {
       "headline": "2 homes at NYC’s famed Plaza stand to turn a profit following years of languishing sales",
-      "summary": "While the abrupt, upcoming closure of the Plaza Hotel is bad news for hotel guests, it could add long-term value to its condo owners. In October, the historic property — where home sales have infamously languished for years — announced that it would shutter in January for around four years to repair its unsafe 119-year-old...",
+      "summary": "While the abrupt, upcoming closure of the Plaza Hotel is bad news for hotel guests, it could add long-term value to its condo owners.",
       "source": "New York Post",
       "url": "https://nypost.com/2026/11/26/real-estate/nycs-famed-plaza-hotel-finally-sees-sales-go-positive/",
       "section": "new_york_post",
       "retail": false,
       "published_at": "2026-11-26T19:00:00.000Z"
-    },
-    {
-      "headline": "Host Hotels pays $202M to Starwood for 1 Hotel Brooklyn Bridge in Brooklyn Heights",
-      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
-      "source": "PincusCo",
-      "url": "https://www.pincusco.com/host-hotels-pays-202m-to-starwood-for-1-hotel-brooklyn-bridge-in-brooklyn-heights/",
-      "section": "pincusco",
-      "retail": false,
-      "published_at": "2026-11-26T14:05:00.000Z"
     },
     {
       "headline": "Joe Jonas sells Brooklyn home for $6.5M after breaking up with his model girlfriend",
@@ -267,22 +249,40 @@
       "published_at": "2026-11-24T20:24:44.000Z"
     },
     {
-      "headline": "Ascenterra Development pays $5.8M for multifamily in Carroll Gardens, plans 2-family conversion",
+      "headline": "Yellowstone Real Estate Investments files plans for 195 units in Midtown East",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/ascenterra-development-pays-5-8m-for-8-unit-walkup-in-carroll-gardens/",
+      "url": "https://www.pincusco.com/yellowstone-real-estate-investments-files-plans-for-195-units-in-midtown-east/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-11-26T14:24:00.000Z"
+      "published_at": "2026-11-27T18:25:00.000Z"
     },
     {
-      "headline": "SilverLining Development NY seeks zoning change to build 118-unit project in West Village",
+      "headline": "Shoaib Sultan files plans for 27 units in Jamaica",
       "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
       "source": "PincusCo",
-      "url": "https://www.pincusco.com/silverlining-development-ny-seeks-zoning-change-to-build-118-unit-project-in-west-village/",
+      "url": "https://www.pincusco.com/shoaib-sultan-files-plans-for-27-units-in-jamaica/",
       "section": "pincusco",
       "retail": false,
-      "published_at": "2026-11-26T10:30:02.000Z"
+      "published_at": "2026-11-27T18:05:00.000Z"
+    },
+    {
+      "headline": "Jacob Freund files plans for 9 units in Harlem",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/jacob-freund-files-plans-for-9-units-in-harlem/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-11-27T17:51:00.000Z"
+    },
+    {
+      "headline": "Joe Schwimmer files plans for 20 units in Canarsie",
+      "summary": "Publisher teaser not in the feed — open the link for the full piece (subscriptions may apply).",
+      "source": "PincusCo",
+      "url": "https://www.pincusco.com/joe-schwimmer-files-plans-for-20-units-in-canarsie/",
+      "section": "pincusco",
+      "retail": false,
+      "published_at": "2026-11-27T17:28:00.000Z"
     },
     {
       "headline": "Adler Development Turns Former Melreese Golf Course Into $240 Million Miami City HQ",
@@ -301,6 +301,15 @@
       "section": "the_wall_street_journal",
       "retail": false,
       "published_at": "2026-11-25T21:52:00.000Z"
+    },
+    {
+      "headline": "No Homes to Rent, No Way to Evict: Inside Spain’s Housing Crisis",
+      "summary": "The dysfunctional market for homes has become a politically explosive issue at the ballot box—and a warning for everyone else.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/world/europe/spain-housing-crisis-d09dc62f?mod=LatestNewsRealEstate",
+      "section": "the_wall_street_journal",
+      "retail": false,
+      "published_at": "2026-11-27T03:00:00.000Z"
     },
     {
       "headline": "Data Center Developer Wanted to Build Up, Not Out. Kansas City Said No.",
@@ -328,15 +337,6 @@
       "section": "traded",
       "retail": false,
       "published_at": "2026-11-25T00:00:00.000Z"
-    },
-    {
-      "headline": "Anthropic’s New Millionaires Turbocharge San Francisco’s Red-Hot Housing Market",
-      "summary": "They can borrow cash against IPO shares to purchase seven-figure San Francisco homes. “They want to buy now,” a broker says.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/real-estate/ai-san-francisco-housing-prices-92a41f7d?mod=LatestNewsRealEstate",
-      "section": "the_wall_street_journal",
-      "retail": false,
-      "published_at": "2026-11-24T10:30:00.000Z"
     },
     {
       "headline": "My Condo’s Management Company Is Inept. Could A.I. Do a Better Job?",
